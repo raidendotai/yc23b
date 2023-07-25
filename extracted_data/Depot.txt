@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+Depot
+36
+⚡ Depot - a faster way to build Docker images
+A remote container build service that is 3-14x faster than CI providers, with emulation-free support for both Intel & Arm architectures
+Kyle Galbraith
+Depot
+8 months ago
+Embed
+https://depot.dev
+#
+b2b
+#
+saas
+#
+devops
+#
+developer_tools
+Hey everyone! We’re Kyle and Jacob, and we’re excited to share
+Depot
+with all of you.
+Depot is a remote container build service that is 3-14x faster than building Docker images inside of generic CI providers. It’s much faster than existing solutions like GitHub Actions because we run BuildKit the right way with a persistent SSD cache. We launch both Intel and Arm VMs for each build, allowing you to build native multi-platform or Arm images without any slow emulation.
+PostHog’s Docker builds
+run around 5x faster with Depot
+, reducing daily time spent on builds from 5+ hours to just an hour. We continuously benchmark several open-source projects, comparing
+docker build
+and
+depot build
+, including:
+Temporal
+(~14.5x faster, saving 7 hours over the last 10 builds)
+Supabase
+(~8.5x faster, saving 2 hours over the last 10 builds)
+Our background
+As software and platform engineers, we absolutely hate slow CI builds. Everyone has their own internal timer for what classifies a slow build, our own is 5 minutes, if it takes longer than that we get annoyed. We have experienced first-hand the pain and challenge of keeping Docker container builds fast, optimizing/re-optimizing pipelines and Dockerfiles, and implementing custom runners for multi-platform builds. It’s all annoying, unnecessary, and a drain on developer happiness.
+Overall, slow builds clog up the delivery pipeline and take time away from iterating on new ideas and fixing problems for users.
+Building Docker images is slow
+Building Docker images in CI providers like GitHub Actions, CircleCI, etc. is slow:
+Saving and loading layer cache is slow.
+Transferring the cache over the network to the ephemeral CI runners eats away at any cache time savings.
+Runner resources are constrained,
+with limited CPUs, RAM, and disk space.
+Multi-platform and Arm builds require emulation.
+Emulation is orders of magnitude slower than native, and Arm is increasingly important with the rise of popularity with devices like MacBook M1, Graviton, etc.
+Our Solution
+Depot provides managed VMs running BuildKit, the backing build engine for Docker. Each VM includes 4 CPUs, 8GB of memory, and a persistent 50GB SSD cache disk. We launch both native Intel and Arm machines on AWS. You can choose to have your builder VMs launch in our AWS account or in your own if you want to maintain total control over your data.
+Our
+depot
+CLI is a drop-in replacement for
+docker build
+as we embed Docker
+buildx
+directly as a library. Anything you can build with Docker today, you can build with Depot on our remote VMs.
+Signing up
+We love having new folks try out Depot and throw new questions & feedback our way. It really is the fuel that keeps a new startup going.
+If you’re annoyed by your slow Docker image builds today, we have a 14-day free trial that you automatically get when you sign up here:
+https://depot.dev/sign-up
+.
+See All Launches ›

@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Convoy
+36
+Convoy: Open Source Webhooks Proxy
+Convoy is an open-source webhooks proxy that enables you to receive and publish webhook events reliably.
+Subomi Oluwalana
+Convoy
+a year ago
+Embed
+https://getconvoy.io
+#
+b2b
+#
+open_source
+#
+developer_tools
+TL;DR: Convoy provides a reliable webhooks proxy that can ingest webhooks from all your providers and replay them to your backend as well as publish webhook events from your systems to your customers.
+Hey YC 👋🏾
+I am Subomi, and I am building
+Convoy
+alongside Emmanuel.
+The Problem
+Today, webhooks power critical business workflows that, if broken, will have a direct impact on customers’ experience. Usually, developers spend time building reliable webhook ingestion services and reliable webhook dispatching services for API providers. This time is wasted effort that can be spent building necessary infrastructure instead of building your product. Secondly, the tooling becomes fragmented for dispatching and receiving webhook events. We are working on Convoy to solve precisely this using a consistent toolchain to receive, publish and debug webhook events.
+Our Solution
+Enter Convoy, a service available as an open-source project and a cloud platform. There are two types of projects in Convoy; an incoming project and an outgoing project. In an incoming project, we provide a unique URL per provider to receive events, and in an outgoing project, we provide a REST API to receive events from your services and publish them to the outside world.
+How it works?
+You can see a demo
+here
+.
+Asks
+If you’re building an API that sends out webhooks and/or a service that relies on webhooks from third-party providers, you can get started for free by either
+self-hosting
+or using our
+cloud platform
+.
+If you have vast experience running webhooks infrastructure (either incoming or outgoing), please join us on
+slack
+. We’d love to learn from you!
+If you have further questions and would love to learn more, you can book a meeting with the
+founders.
+Thank you!
+See All Launches ›

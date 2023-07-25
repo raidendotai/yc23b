@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+SiPhox
+42
+SiPhox Health - Convenient at-home health tracking
+At-home health testing is too expensive and slow. We’re fixing that.
+Michael Dubrovsky
+SiPhox
+10 months ago
+Embed
+http://www.siphox.com
+#
+hard_tech
+#
+biometrics
+#
+nanosensors
+SiPhox is building at-home blood testing hardware using silicon photonic chips. Our hardware product is currently in development and we plan to start beta testing it in users’ homes in 2023. (
+Watch Lab Tour
+).
+The average American lifespan has plateaued over the last 2 decades:
+We believe that every human is unique. Biomarker tracking is required to know whether a particular lifestyle or health intervention is working. At scale, we envision that frequent population biomarker tracking will enable humans to live longer and healthier lives.
+To enable this future, our team is working to decrease the cost of at-home testing by 10x and make results available immediately.
+SiPhox just launched Quantify, an at-home test kit service that enables users to track 17 health tests ($95/test)
+🩸
++ sleep, activity, and heart rate data from your wearable device ⌚ in a single dashboard.
+JOIN QUANTIFY (10% off)
+About Quantify
+Quantify was created to empower individuals to take control of their health journey.
+Quantify is a simple, convenient, low-cost, and comprehensive way to track your health and minimize chronic disease risk.
+We measure inflammation, metabolic fitness, hormonal + nutritional balance, and cardiovascular health. These are shown in a comprehensive, easy-to-understand wellness dashboard (
+sample dashboard
+) with personalized insights so you can track and improve over time.
+For now, all the tests are done via
+mail-in,
+self-collected samples
+at a
+gold standard CLIA-certified lab
+, SiPhox hardware will be phased in next year.
+Over the last 3 months, our alpha users discovered and improved things like low Vit. D, high inflammation (hsCRP), low Testosterone, High ApoB/LDL cholesterol, high fasting Insulin, poor sleep, and more.
+We want this sort of tracking to be broadly accessible to those that can’t afford concierge medicine.
+At $95/kit for the monthly membership (before discount) we set the lowest price on the market (compare to $250 for Insidetracker InnerAge 2.0).
+Use this link for a 10% discount on your first 3 test kits:
+JOIN QUANTIFY
+How it works
+⚙️
+Subscribe to Quantify
+(optional) Connect your wearable devices (8sleep, Fitbit, Whoop, Oura, etc.)
+Receive an at-home collection kit to self-collect a blood sample (see picture above)
+Join our weekly webinar for a guided self-collection if you have never done it before. You will be a pro in 10 minutes 🙂
+Mail in your sample (USPS pickup) and view the results in your intuitive wellness dashboard (
+sample dashboard
+)
+Receive customized insights based on your blood biomarker and wearable data
+Do your own experiments (diet, supplements, exercise, biohacking, etc.)
+Test again and track your results over time
+Compare your scores against Quantify user averages
+Get in touch
+✉️
+Feel free to contact us at
+hello@getquantify.io
+with any questions or suggestions about the service
+If you are interested in integrating Quantify into your product offering, please get in touch via
+info@siphox.com
+Use this link for a 10% discount on your first 3 test kits:
+JOIN QUANTIFY
+See All Launches ›

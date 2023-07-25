@@ -1,0 +1,49 @@
+Home
+›
+Launches
+›
+Rootly
+84
+🚒 Rootly - Manage incidents directly in Slack
+OpenSea, Faire, and the fastest-growing YC companies rely on Rootly to build a consistent incident response process.
+JJ Tang
+Rootly
+10 months ago
+Embed
+https://rootly.com
+#
+b2b
+#
+saas
+#
+developer_tools
+TL;DR
+—
+Rootly
+helps build a consistent incident response process by automating manual admin work like creating incident channels, inviting responders, copy-pasting postmortem timelines, updating statuspage, tracking action items, and all without leaving Slack.
+Trusted by 100’s of the fastest-growing organizations and best ranked on
+G2
+.
+The Problem
+We met at Instacart 🥕 where we worked as the first SRE (
+Quentin
+) and led product management efforts (
+JJ
+). As we grew from a $1B to $40B company, we had to scale our infrastructure, teams, and processes to keep up with millions of orders. Unsurprisingly, this led to our fair share of incidents (e.g. checkout issues, platform outages, etc.). Our manual ways of working in Slack, PagerDuty, Datadog, simply weren’t enough. It was chaotic at scale and lacked consistency. Runbook checklists and trying to remember what to do next wasn’t cutting it.
+Our Solution
+https://youtu.be/wIj7Bc-DRJk
+🧪 Create incident channels, Zoom rooms, Jira tickets
+👊 Invite and notify the right responders to collaborate
+⚙️ Powerful workflows for reminders, task lists, and communications
+📟 Page responders via PagerDuty/Opsgenie directly in Slack
+📝 Generate postmortem timelines in Confluence, Google Docs, Notion, etc.
+✍️ Track action items, update
+statuspage.io
+, assign roles
+📈 Capture metrics and visualize incident trends
+🎛️ Use your existing stack, plug into 50+ integrations, API or Terraform
+Offer & Ask
+Feel free to sign up for a 14-day trial or book a personalized demo with us:
+https://rootly.com/demo
+YC companies get $1,000 off their first year
+See All Launches ›

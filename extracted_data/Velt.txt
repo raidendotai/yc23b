@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Velt
+12
+Superflow: Annotate and collaborate directly on your product!
+Collaborate & comment on live websites just like you do on Figma.
+Rakesh Goyal
+Velt
+9 months ago
+Embed
+https://velt.dev
+#
+api
+#
+saas
+#
+remote_work
+#
+collaboration
+#
+developer_tools
+(
+demo video)
+SuperFlow
+makes it super easy to comment on live websites just like you comment on Figma. You can use is to get Copy or UI feedback right on the website you are building. Feedback can be provided in rich formats like audio and video. The best part is that you and your clients don’t need a browser extension.
+SuperFlow brings collaboration to wherever you are. Everything is just weaved into one cohesive experience. We have curated the best features of top products like Slack, Loom, Figma into one tool.
+👩🏼‍💻Who this is for
+Web agencies, freelancers, product or design teams.
+Key problems
+Scattered feedback across emails, slack etc.
+Endless back and forth, screenshots, unnecessary meetings etc.
+Clients have to install & learn new tools.
+📝 Use cases
+Get copy or UI feedback from clients.
+Assign tasks to internal team members.
+💵 Value
+Reduce website review cycles and ship faster.
+🙏 Our ask
+Try our product
+usesuperflow.com
+before 31st oct and get 40% off for a year.
+Share this post with web agencies or freelancers you know build websites.
+Setup
+Step 1: Install JS tag on client website in 10 secs.
+You can just install a JS tag in the footer of the website.
+Step 2: Turn on review mode by adding ?review=true to the URL.
+You can then turn the review mode on or off on demand by adding
+“?review=true”
+to the URL. The comments will not be visible to a regular website visitor.
+🔥 Top features
+1. Comment on live website, just like Figma:
+2. Record your screen & camera just like Loom (& attach it to a DOM element).
+3. Manage tasks across projects in one place.
+4. Start live audio/video huddle or screensharing just like Slack.
+5. Personalized Slack & email notifications.
+6. Add internal comments for team & external ones for clients.
+See All Launches ›

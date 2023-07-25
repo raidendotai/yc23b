@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Layup
+226
+Layup: Complete your workflows, with just one line 🏀⚡️
+Turn prompts into workflows across all of your company’s software
+Ryan Xue
+Layup
+4 months ago
+Embed
+http://www.layupai.com
+#
+b2b
+#
+saas
+#
+artificial_intelligence
+Hey YC!
+@Mike Lemm
+,
+@Badal Jain
+, and
+I
+are very excited to launch
+Layup
+! ⛹🏾‍♀️⛹🏽⛹🏻‍♂️
+TL;DR
+Layup is every employee’s AI-powered sidekick that builds workflows across all of their company apps.
+With just one prompt, it can do things like create an MSA with data from Salesforce, export it to Google Docs, and instantly share it with the right people.
+The Problem
+Bads, Mike, and I have collectively worked across almost every type of company and have experienced firsthand just how tedious and repetitive it can be to find information and execute workflows across a company's full suite of apps. For example, hiring someone might mean pulling down compensation data from Pave, populating an offer letter in Greenhouse, then setting them up in Rippling when the candidate accepts. Even the most simple daily workflows can involve passing information between 3 and 5 different services.
+Layup turns this into a one-shot prompt. We're on a mission to help individuals and organizations streamline their daily tasks with simple prompts so that they can focus on what matters most. We’re moving fast – we now integrate with over 170 applications (and counting!), providing seamless configuration with any company’s knowledge base.
+How it works
+With one simple prompt – initiate instant, customized workflows to complete your everyday tasks.
+Our Asks
+• Check Layup out! Schedule a chat with us
+here
+.
+• Tell us what you think.
+• If you know of any other companies that you think would be interested in using Layup, we would appreciate any intros.
+If you have any questions, ideas, or just want to touch base, hit us up! We'd love to hear from you –
+founders@layupai.com
+See All Launches ›

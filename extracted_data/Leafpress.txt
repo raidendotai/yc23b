@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+Leafpress
+1319
+🍁 Leafpress - ESG software for Real Estate
+We collect & manage utility data across real estate portfolios in seconds.
+Jianna Liu
+Leafpress
+12 days ago
+Embed
+https://www.leafpress.io
+#
+ai
+#
+b2b
+#
+climate
+#
+proptech
+#
+real_estate
+🏭 The problem
+50+ cities have already set US building emission regulations.
+147 new regulations have been introduced to decarbonize real estate this year alone. Property managers are left scrambling to avoid thousands of dollars in fines per property.
+Current solutions to decarbonize real estate are tedious and expensive.
+After a property manager hunts down thousands of individual utility bills, they have to manually read and analyze the data to determine total property emissions - a process that is laborious, time-consuming, and highly prone to error. Third-party consultants are no better, often charging millions of dollars in upfront costs and taking over 3 months in onboarding time alone.
+Property managers need a solution - that’s where
+Leafpress
+comes in.
+💡 Our solution
+We provide a seamless ESG data management tool for property managers.
+Users onboard their data in seconds
+. Our integration with utility providers and upload portal centralizes and organizes even the
+hardest-to-reach data
+across thousands of different properties.
+Accurate analysis is critical to our users.
+Traditional real estate carbon accounting software falls short here. Users can view analytics across all their uploaded utility bills on our platform. Through the use of OCR software and language models, we help property managers better understand their current costs, usage levels, and carbon emissions across their buildings.
+Leafpress automatically inputs their data into reporting platforms
+, which is typically a 10+ hour manual process per property. We integrate directly with Energy Star, GRESB, CDP, etc.
+Our data centralization, accurate analytics, and quick reporting process make Leafpress a no-brainer solution for property managers.
+👯‍♀️ Who are we?
+We’re Devi and Jianna.
+Devi is a Harvard alum and has experience in carbon accounting at Sephora, Spotify, and P&G. She is also an ESG mentor at Techstars.
+Jianna is a MIT alum and has years of experience building software at Meta, DoorDash, and Nvidia.
+Our Advisors are executives at Boston Properties, Cushman & Wakefield, and CBRE.
+👋 Ask: How you can help
+Please connect us to ESG Real Estate leaders in your network! Are you a property manager looking to manage your utility data?
+Email
+devi@leafpress.io
+to get started.
+See All Launches ›

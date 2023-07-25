@@ -1,0 +1,64 @@
+Home
+›
+Launches
+›
+Jasmine Energy
+33
+☀️ Jasmine:  Decentralized market for climate assets
+Jasmine makes it easy to claim, trade, and redeem renewable energy credits (RECs)
+Matt Mayberry
+Jasmine Energy
+a year ago
+Embed
+http://www.jasmine.energy
+#
+climate
+#
+marketplace
+#
+crypto/web3
+TL;DR:
+Jasmine makes it easy to claim, buy, and sell renewable energy certificates.
+Hi Everyone!
+Nathalie
+,
+Dalton
+, and
+Matt
+here to introduce
+Jasmine
+🔋
+Jasmine
+is a decentralized market for climate assets that makes it easy to claim, trade, and redeem renewable energy certificates (RECs). We are on a mission to accelerate the net-zero transition by building climate asset markets that are accessible and transparent for everyone.
+RECs alone are a $10B market that is stuck in a dot com time capsule. Today's renewable energy credit (REC) market is confusing and time consuming, taking weeks to register and days to trade.
+💢 The Problem
+RECs are a valuable source of revenue for renewable energy generators and are worth up to $500/REC! The problem is the REC market is stuck in a dot com era time capsule. The whole process is confusing and time consuming, taking weeks to register and days to trade. Jasmine reduces the transaction time from days to seconds and facilitates a whole new class of financial derivatives (futures, shorts, options, etc).
+🤝 The Solution
+Jasmine helps users manage their renewable energy assets by bridging RECs onto the blockchain and enabling DeFi transactions that are impossible in the existing markets. When a transaction marks the REC as redeemed, Jasmine then digitally produces and registers the redemption paperwork with the relevant regulators.
+Jasmine provides the infrastructure to make every step of the buy and sell side process more efficient and transparent, allowing generators to make more money, enabling commercial buyers to have a verifiable audit trail of their energy consumption, and giving energy brokers the tools to operate more efficiently.
+♻️ How does this directly help the climate?
+A more liquid REC market would make renewable energy projects cheaper/easier to finance and accelerate the grid’s decarbonization.  We’re bringing those RECs on to the blockchain not just for the transparency and liquidity benefits, but also because DeFi will quickly generate the financial derivatives to accelerate grid scale project financing.
+🙏🏻
+Asks
+Check us out on
+ProductHunt
+today!
+Launch the
+app
+, buy our RECs
+Give us feedback. We LOVE feedback
+Intro us to large generators and/or large buyers
+Crypto Miners
+Utilities, Commercial and Industrial energy consumers
+ESG Offices
+REC Aggregators
+REC Brokers
+We’ll be doing an
+Airdrop
+as part of our Mainnet launch later this year.
+Come join our communities and stay up to date:
+Discord:
+https://discord.gg/Ce7UnW8J
+Twitter:
+https://twitter.com/jasmine_energy
+See All Launches ›

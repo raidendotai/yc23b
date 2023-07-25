@@ -1,0 +1,40 @@
+Home
+›
+Launches
+›
+Arcimus
+34
+🧠 Arcimus - Create, share, and get insights from meeting notes
+A “second brain” for you and your org with AI-generated meeting notes
+Hussein Syed
+Arcimus
+18 days ago
+Embed
+https://www.arcimus.com/
+#
+b2b
+#
+artificial_intelligence
+Tl;dr:
+Arcimus (YC S23) is a free AI bot that joins your meetings and takes notes, letting you focus solely on your meeting.
+Hey y’all! We’re Hussein and Omar from Arcimus
+🗑️ PROBLEM
+Corporate communication has been broken for a long time.
+There is a lot of information that is lost once a meeting ends. Information that would be relevant to you and people across your organization, like relevant POCs, duplicated work, and product feedback.
+✅
+OUR SOLUTION
+Arcimus will attend your meeting, take notes, and let you search through the notes.
+Arcimus lets you choose what you want captured from the meeting via an outline.
+Arcimus runs natively in your favorite note taking application.
+How it works ⚙️
+Create an outline in Arcimus:
+Add it to your meetings
+The bot will join and listen to the meeting. Once the meeting ends, notes will be generated in your google docs
+See and search for your meeting notes
+Click on any tile to view more information
+Our ask 🙏
+Book
+some time with us if your interested
+Connect us with anyone that might be interested! (Esp. leaders/managers in mid-sized to large corporations)
+founders@arcimus.com
+See All Launches ›

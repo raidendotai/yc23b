@@ -1,0 +1,48 @@
+Home
+›
+Launches
+›
+Questa
+29
+Questa – Just ask your data warehouse!
+Questa is an assistant for the data warehouse that makes it easy for teams to query, visualize, and take action on their data without SQL.
+Tejas Sundaresan
+Questa
+5 months ago
+Embed
+https://www.questadata.com
+#
+ai
+#
+saas
+#
+analytics
+#
+generative_ai
+Hey everyone! We’re James, Tony, and Tejas from Questa.
+TL;DR
+Questa is an assistant for the enterprise data warehouse. Our platform makes it easy for business teams to query, visualize, and take action on their data without SQL.
+The problem
+Companies are consolidating their data in warehouses, and want every business function to be data-savvy. But most business stakeholders aren’t fluent with SQL. This leads to two challenges:
+Business teams are bottlenecked on getting the answers they need, sometimes waiting days for a query or report.
+Analytics teams spend too much time fielding data requests from across the company. Responding to each request is highly manual, and there isn’t an easy way to share context behind key business metrics.
+Our solution
+Questa is a natural language interface to the data warehouse. Users can ask questions like “
+how many customers did we bring on in each industry segment last month”
+or “
+remind me when I have more than 30 support tickets outstanding”
+and get a curated answer, visualization, or workflow. Questa learns the context behind how business metrics like churn are defined by integrating with key data assets.
+How does this help? Business teams now have an easy and self-serve way of getting data answers. Every customer call, ops alert, prospect outreach and product decision can now be made with full data context. Data teams free up hours of bandwidth every week to focus on high impact projects that drive the business forward.
+Our story
+We’ve been longtime friends since college and grad school. We came together to build a company around our shared passion for democratizing data and analytics. Before working on Questa, James did a PhD at Stanford on data systems, Tony did a PhD at Stanford in machine learning, and Tejas worked on ML-driven products as an engineer and PM at Google Research.
+Our ask: please try it out!
+Questa integrates natively with your data warehouse, like any other BI tool or warehouse app – no data prep required! Please see our
+sandbox
+, and try out natural language queries on a sample dataset.
+Questa is deployed at several companies today, and we’re actively onboarding more design partners and customers. So if you’re interested in seeing Questa in action
+on your data
+, please reach out! It only takes minutes of your time to connect and configure Questa with your data warehouse.
+To learn more, please sign up for our waitlist
+here
+!
+See All Launches ›

@@ -1,0 +1,70 @@
+Home
+›
+Launches
+›
+Rollstack
+79
+Rollstack - Automatically create and update your slides and documents! 🦾
+Put your slide decks and documents on wheels ⚙️
+Nabil Jallouli
+Rollstack
+6 months ago
+Embed
+https://www.rollstack.io/
+#
+ai
+#
+big_data
+#
+analytics
+#
+productivity
+#
+data_visualization
+TL;DR:
+Rollstack allows teams to automatically create and update their presentations using data sources such as Tableau, Salesforce, or Looker. We eliminate manual data entry, data stitching from multiple sources, and long formatting time, saving teams time and allowing them to build what they could have never imagined!
+Contact us
+if you are an Enterprise or
+Try Rollstack now!
+Storytelling with slides and docs is too cumbersome 😩
+Do you find yourself spending excessive amounts of time formatting data, charts, presentations, and documents to make them presentable? Are you challenged collecting data from various sources to create your presentations and docs? And once you finish, you find yourself repeating the same process for each new client, project, the next week, month, or quarter? You are not alone! It takes teams anywhere from a few hours to multiple days to create a single set of slides or visualizations. 50% of professionals create slides weekly. 75% of them reusing the same deck at least once and 30% over 5 times!
+Rollstack solves this! 🥁
+Rollstack automatically creates and updates presentations and documents using multiple data sources and updates them for you!
+With Rollstack, you can easily connect to your favorite data sources - whether BI tools, CRMs, SQL queries, or sheets and set up a scheduled refresh. Rollstack takes care of refreshing your data where you want to present it. Rollstack also saves your formatting and visualizations choices so that you never do the same task again!
+Rollstack also allows you to create new versions of the same deck programmatically and to version control.
+Here’s a video of
+how it works
+!
+Who we are? 🥇
+🎯
+Nabil
+: keeps us on target and close to our customers. Previously led Analytics and Revenue Strategy at Groupon, Pinterest, and Deel.
+🦾
+Saad
+: half-human, half-computer. Previously a Software & DevOps Engineer at AiFi, Machine Learning Lead at Implicity, and Algorithmic Trading researcher at Qube Research and Technology.
+🧠
+Younes
+: brings product vision and customer empathy. Previously held Engineering & Product positions at Tesla and SlimPay.
+Our Mission 🌟
+Rollstack is on a mission to make professionals around the world more productive and free them some precious time they currently spend on non-added value tasks, they could be spending thinking and driving the business forward. We live by these values:
+Customers first and always! 💚
+Winning by innovating 🥇
+Learn without ego 🏋🏾
+Listen more 👂🏼
+Strength in differences 🌎
+Let’s get in touch! 🚀
+Contact us
+if you are an Enterprise or
+Try Rollstack now!
+Follow us on
+LinkedIn
+,
+Discord
+,
+Twitter
+,
+Facebook
+, and
+Instagram
+for the latest news and updates!
+See All Launches ›

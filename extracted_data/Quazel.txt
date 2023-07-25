@@ -1,0 +1,34 @@
+Home
+›
+Launches
+›
+Quazel
+38
+Quazel - Talk your way to fluency
+An AI language tutor in your pocket
+Philipp Hadjimina
+Quazel
+6 months ago
+Embed
+https://quazel.com
+David, Sam, and I (Philipp) have been hard at work to build
+Quazel
+, a language learning app that enables users to have natural and unscripted conversations with an AI tutor.
+🌐Try it (no account needed)
+| 🍎Get the
+iOS app
+| 🤖 Android app is pending review.
+Problem
+Right now, conversational practice gets neglected, and boring grammar and vocabulary are emphasized too much! Additionally, tailored tutoring is too expensive, cumbersome to schedule and beginners are often self-conscious about the way they talk.
+Background
+I faced the problem of exact issue a while ago when I started to learn Greek and thought to myself there must be a better way! To be honest, I really want Quazel for myself but seeing that other people really like it is the cherry on top 😄.
+Solution
+With Quazel learners are thrown into real-world scenarios where they actually need to talk. Speak into the mic & listen to AI responses. Features include:
+Scene Builder - Create your own scenes & get an AI-generated image of your conversation partner!
+Grammar Analysis
+Built-in translator
+…much more
+Ask:
+Try it
+! Leave us some feedback and report bugs! 🙌
+See All Launches ›

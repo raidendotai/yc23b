@@ -1,0 +1,40 @@
+Home
+›
+Launches
+›
+communion
+21
+🥐 communion - growth analytics dashboards + AI creative suite
+ideate.create.iterate your posts and ad spend across platforms in one place. save $ and increase conversions.
+Gokul Prabhakaran
+communion
+3 months ago
+Embed
+http://www.communion.so
+#
+marketing
+#
+advertising
+#
+ai_assistant
+#
+data_engineering
+#
+artificial_intelligence
+tl:dr - set up beautiful dashboards to track your engagement and spend metrics across platforms (Meta, TikTok, Google…) in one place. create inspired content with an AI powered creative suite.
+Hey homies!
+Excited to share what we’ve been working on at communion.
+the problem
+We’re a team of builders who have worked on mobile, web, and api applications before. we had so many issues scaling growth. The content we created felt like we were shouting into the void and the ad spend felt like lighting buckets of money on fire.
+the solution
+Connect your accounts to see all your ad spend results and organic post performance in one place.
+One of our recent campaigns used TikTok’s suggested audience feature which displayed B2B content to the teenage demographic, quick changes increased our conversion rate 150%.
+It’s 2023 so of course there’s a generative AI part - create more content based on what’s working and dump what isn’t.
+One of our customers found a google keyword that was performing particularly well after weeks of testing and then created several pieces of complementary content instantly.
+If you use social content or paid ads as part of your growth strategy check out the
+dashboards
+. If you or your team want to create AI leveraged content fast checkout the
+text editor
+. If you want to chat about growth, ai, or anything else
+https://calendly.com/gokul-comm/hello
+See All Launches ›

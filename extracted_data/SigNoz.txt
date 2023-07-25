@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+SigNoz
+47
+SigNoz - Open source alternative to DataDog, New Relic
+Open Source Metrics, Traces and Logs in a single pane of glass
+Pranay Prateek
+SigNoz
+6 months ago
+Embed
+https://signoz.io
+#
+b2b
+#
+saas
+#
+open_source
+#
+developer_tools
+Hey folks 👋
+We are thrilled to share SigNoz with the YC community today!
+SigNoz
+is an open source alternative to DataDog, New Relic which helps developers monitor their applications, trouble shoot problems and get proactive alerts
+We have quite an active dev community with
+11,000+
+github stars,
+1800+
+members in our slack community and
+80+
+contributors across our repos.
+😫 Problem
+Engineering teams are frustrated with using different tools for different telemetry signals like metrics, traces and logs. Correlating across different tools is super critical for teams to get value out of their telemetry data and solve issues faster.
+Using proprietary vendor instrumentation code, locks you in to a vendor as it is difficult to change your instrumentation at a later stage.
+Sending all data to vendor cloud may have privacy and security concerns for some users esp. who have customer PII data or have to maintain a tighter security posture
+🚀 Why SigNoz?
+Single pane of glass for metrics, traces and logs in a single application. Ability to correlate across different telemetry signals very easily.
+Natively based on
+OpenTelemetry
+- and emerging open source standard for instrumentation and telemetry collection.
+Uses OLAP datastore (ClickHouse) which makes aggregation queries 10x faster compared to traditional DBs.
+More than 50-60% of observability related queries are aggregation queries like group by, sum, count where users want to aggregate their data
+Can be self hosted easily. Keep all observability data in your own cloud.
+💻
+Demo
+Here’s a quick demo of the product
+Demo Video
+💪
+Logs Performance Benchmark
+We also published a performance benchmark recently on how SigNoz logs product performs compared to other open source logs solutions like Elastic
+https://signoz.io/blog/logs-performance-benchmark/
+🙏 Asks
+Try out SigNoz and share your feedback on how it can be improved. Here’s our github repo -
+https://github.com/signoz/signoz
+Have any questions? Join our
+slack community
+and drop a note
+😎
+What do we do for fun?
+We are a lean team constantly re-imagining the future of observability. Here’s a picture of our team from a recent workation at Goa
+See All Launches ›

@@ -1,0 +1,66 @@
+Home
+›
+Launches
+›
+dili
+62
+🧿 Dili: Accelerating due diligence with AI
+Dili is the newest analyst on your deal team - who lets you complete due diligence in hours, not weeks.
+Anand Chaturvedi
+dili
+7 days ago
+Embed
+https://diliai.com
+#
+ai
+#
+b2b
+#
+fintech
+#
+finance
+#
+ai_assistant
+Tl;dr:
+Dili is an AI platform that accelerates manual tasks involved in the due diligence process for both buy- and sell- side deal teams. We make it easier for the buy-side (PE/VC funds) to invest in and buy companies, and for the sell-side to streamline due diligence processes for capital raises or M&A. Dili helps you make data-driven investment decisions through due diligence - from understanding the deal dataroom, leveraging your firm’s internal knowledge, to crafting investment deal materials.
+Contact us here
+.
+Hi everyone, we are Stephanie, Brian, and Anand - the co-founders of Dili! After working together at Coinbase, we decided to take on the challenge of making the due diligence process for capital markets more efficient for both buy-side and sell-side deal teams.
+🧨 The Problem: Due diligence is a time-consuming, manual process that is required for doing deals
+Stephanie (CEO, Co-founder) spent years working in investment banking, corporate development, and venture capital doing over $500m+ in deal volume. Her job consisted of several hours a day of tedious, manual tasks and workflows while conducting due diligence on deals. Today, due diligence means spending weeks or months carefully reading through company datarooms, digging up data across internal tribal knowledge & external sources, and analyzing or presenting findings in memos to make million dollar investment decisions.
+This time-consuming, manual process means investors see fewer deals per year - and cannot dive deep enough on thorough due diligence for each deal. (i.e., JP Morgan’s recent acquisition of Frank!)
+🧿 The Solution: Dili’s AI platform that helps you make better investment decisions
+Dili is an LLM-powered platform that creates insights and analyses for investors which sits on top of 3 sources of data: 1.) the dataroom from the company you are doing due diligence on, 2.) a custom built structured internal knowledge database for your unstructured data, 3.) data integrations from your favorite external partners. Our solution helps you conduct data-driven due diligence because it improves the quality of due diligence conducted. LLMs run on top of all available internal and external data to provide you with better analyis and insights, making it 5x faster by automating the most manual parts of the process.
+Imagine a new deal comes across your desk - you can use Dili to deeply
+understand the information in a dataroom
+, automatically find anomalies or red flags, and instantly calculate financial metrics/models.
+If you wish to proceed with the deal - Dili structures and searches through your firm’s
+internal knowledge base
+as well as
+external sources
+(Pitchbook, Crunchbase, Tegus, LinkedIn etc.) to provide comprehensive comparables analysis and dashboard metrics for each new deal.
+Finally, as you are coming to a thesis and writing an investment memo - Dili can put together a
+first-cut memo / deal packet in minutes
+, not days.
+Using Dili,
+PE & VC Firms
+:
+✅ Conduct a due diligence deep dive on several more companies per year
+✅ Catch red flags early during due diligence (like Frank’s list of fake usernames) to potentially save millions
+✅ Search through a database of every company your firm has seen, to find comparables across your entire knowledge base
+✅ Get AI-enhanced insights to make better data-driven investment decisions
+👋 Ask: How you can help
+If you’re an
+investor
+looking to improve your due diligence process, we’d love to share how Dili can help you.
+Book a demo here.
+If you are a
+startup
+planning to fundraise soon, we could help make this process easier.
+Contact us here.
+Please share this post, and follow along on
+LinkedIn
+&
+Twitter
+! 🧿
+See All Launches ›

@@ -1,0 +1,92 @@
+Home
+›
+Launches
+›
+SID
+129
+SID.ai – Connect AI apps to your customer's data in an afternoon
+SID takes care of the ingestion, interpretation and storage of the entire customer data infrastructure.
+Maximilian-David Rumpf
+SID
+13 days ago
+Embed
+https://www.sid.ai
+#
+data_science
+#
+generative_ai
+#
+developer_tools
+#
+artificial_intelligence
+tl;dr
+We allow you to connect your LLM apps to your customer's data in an afternoon using a single button and an "AI-friendly" API.
+Ask
+: Please introduce us to companies building AI apps or considering adding AI to their product. We can
+save most teams months in engineering & MLOps.
+❗Test the API with your own data: We have a free live demo at
+demo.sid.ai
+Problem: Data x AI takes months & DIY is the only option
+Today, companies like Jasper spend months building integrations with their customer's salesforce, email, and docs. Previously, we made consumer AI apps (that went viral on Twitter) and found we spent
+70% of our time doing data integrations
+instead of improving our product.
+Why is it taking Jasper months?
+There are two challenges, and developers tend to underestimate both. You must
+ingest
+the data (e.g., call Google's API) and
+interpret
+the data (i.e., go from chunks to insights).
+Ingesting is a lot of grunt work: The APIs change, and a lot of infra is needed to keep information up-to-date – and deprecate the old. This is finicky and maintenance-heavy. And don't get us started on applying for Google Drive API keys: That can take months and costs ~$30k.
+Interpretation is what's tricky. A naive embed + vector DB sounds compellingly easy but rarely works well for production-sized datasets. (If it does work for you, please reach out!) Despite what "
+Big Vector DB
+" is telling you, there is a
+lot of engineering and NLP
+that's needed: Recognize entities, model relationships, give it temporal awareness, filter the fluff, handle multimodal data, augment data with questions and summaries – I could go on. You must choose (& deploy) a language model for each of these tasks. And have you considered that the data distribution for Powerpoints is slightly but perniciously different than PDFs? Go directly to jail; do not pass "go."
+Oh, and have you thought about compliance?
+Solution: Integrate all your customer's data in an afternoon with SID
+SID makes it easy for developers to connect LLM apps to their customer's data. We offer developers a button that lets people link their data and lets devs
+query our API to ask questions about that person or their company.
+That's it.
+We take care of the ingestion, interpretation, and storage of the entire customer data stack – so devs don't need to think about vector DBs, maintaining infrastructure, or Google's API oddities. We self-host all LLMs used for analysis to ensure privacy – critical for customers. We've already served
+over a million API calls
+and average <200ms response times.
+We've lived through the pain and built SID so future devs don't have to. We're starting with the most popular integrations and are
+adding new ones fast
+– at no extra cost to our customers. Please reach out if there's anything specific you need.
+🇨🇭PS: We're
+Swiss
+, so we know how to keep your
+information secret.
+The Team
+We love being the odd ones:
+Lotte
+can
+fly a plane
+but can't drive a car,
+Georgijs
+still swears by Vim and built his own
+compiler at MIT
+,
+Lukas
+goes from idea to product faster than anyone the author knows, and
+Max
+is a researcher at heart who won't stop digging until he finds the truth – or people stop talking to him.
+Asks: Please introduce us to AI teams!
+If you know someone
+building AI apps
+or planning to add AI to their company, please
+refer us
+(
+m@sid.ai
+)! We save most customers months in engineering time.
+Try out our demo with your own Google Drive and Notion at
+demo.sid.ai
+– if you find something cool, email or
+tweet at us
+.
+Support our launches on
+Twitter
+and follow the team (linked above)
+Star our repo on
+Github
+See All Launches ›

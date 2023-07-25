@@ -1,0 +1,64 @@
+Home
+›
+Launches
+›
+Contour
+173
+🔎 Contour - Deploy automated E2E tests with no-code ⚡️
+Generate and execute E2E tests with simple natural language prompts.
+Arvind Subramanian
+Contour
+19 days ago
+Embed
+https://trycontour.com
+#
+b2b
+#
+generative_ai
+#
+developer_tools
+#
+workflow_automation
+#
+enterprise_software
+TL;DR: Contour makes it easy to deploy and maintain E2E tests with simple natural language prompts. Our data-driven agents intelligently execute UI paths to reduce flakiness and save engineers and QA teams time.
+Hey everyone! We’re Arvind Subramanian (left) and Vamsi Saladi (right) from
+Contour
+, and we’re on a mission to make testing as easy as possible.
+❌ The Problem
+Designing and maintaining E2E tests is a massive pain, and changes to the UI often break the testing suite. As your product evolves,
+maintaining your testing suite becomes more expensive than the value it provides.
+⚡️
+Why is Contour different?
+Why do all of this in Cypress:
+When you can do this instead in Contour:
+⚙️ How Contour works
+For the first time, you can:
+write a single command to create a new automated UI test without wrangling hundreds of lines of code or designing custom UI flows by hand.
+Here’s what Contour does for you:
+Input a prompt and generate a new test for your UI
+As your UI updates and tests break, it auto-triages and suggests an updated script
+Monitor the status of your tests
+📌
+Why we built Contour
+Both Vamsi and I know the pain of E2E testing firsthand. We’ve released products without running smoke tests, and everything breaks. Those brave souls that maintain a testing suite have to manually code each test, which often break as soon as the product is updated.
+We strongly believe that testing your product
+should not be this hard
+! Not only should testing be integral to every product and company, it should be quick, painless, and robust.
+💜 Our Ask
+Share this post!
+Connect us to developers, QA teams, or eng leads
+in your network that either
+(1) currently struggle with using Cypress, Katalon (or other testing frameworks) or
+(2) want to build a new testing suite
+Share feedback!
+If you see a feature or use case that isn’t supported yet, we’ll build it!
+🚀 Sign up
+Book a
+15 min demo
+or
+email us at
+founders@trycontour.com
+Cheers,
+Arvind & Vamsi
+See All Launches ›

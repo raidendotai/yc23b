@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+Coldreach
+64
+✍️ Coldreach: Automate sales email personalization for 10x conversions
+We make every email to your prospects personalized auto-magically, so you get more meetings booked and deals closed.
+Xiaohan Shen
+Coldreach
+4 months ago
+Embed
+https://coldreach.ai/
+#
+b2b
+#
+saas
+#
+sales
+#
+generative_ai
+#
+personalization
+Tl;dr
+Sales reps can teach AI how to personalize sales emails
+the way they want
+in 5 minutes, and our AI writes and sends personalized emails for every prospect on autopilot, resulting in both higher conversion and much more emails sent per day.
+Hi! We are Shen and Hankel - the team behind Coldreach.
+👪 Who is it for
+Is your sales team:
+- spending a lot of time writing sales emails?
+- running templated email sequences that few people respond to?
+- struggling to train good SDRs?
+- finding it hard to write follow-up emails after meetings?
+Then Coldreach is for you.
+🧨 The Problem
+Templated emails get no attention and land in spam, because so many people are spamming.
+Personalization pays off, but it takes a lot of training to do it well, and takes >5 mins to research and write every email.
+💡 Our solution
+AI-powered templates
+- instead of only replacing names on emails, Coldreach researches the prospect and fill in personalized information intelligently!
+For example:
+For every template, tweak the email for a few prospects manually, and the AI
+learns from your tweaks to write the way you want
+!
+Import lead list from your favorite engagement platform or CRM easily, and start
+sending personalized emails to everyone automatically
+using your AI-powered templates.
+Coldreach focuses on driving
+scalable outbound sales
+, but can also be applied on other forms of email interactions with prospects, regardless of inbound/outbound or cold/warm.
+💪 Why we built Coldreach!
+We built another startup also around LLMs, during which we wrote over 1,000 personalized sales emails for our outbound, so we know it converts, but hard to do at scale.
+Thus, we decided to apply our expertise in writing sales emails and LLMs to solve this problem for other B2B companies struggling with it!
+🙏🏻 Our Ask
+Want to use the product? Please fill out this
+form
+(takes <1 min) and we will reach out!
+Investor interested in investing? Please reach out to
+shen@coldreach.ai
+to book a call!
+If you know sales leaders or senior sales reps who may be interested, drop us a line at
+founders@coldreach.ai
+. We love intros!
+See All Launches ›

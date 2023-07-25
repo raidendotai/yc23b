@@ -1,0 +1,64 @@
+Home
+›
+Launches
+›
+Waypoint
+22
+Waypoint – a refreshingly simple way to send data-rich transactional emails
+Software teams use Waypoint to build, orchestrate, deliver, and monitor email notifications – with little to no code.
+Jordan Isip
+Waypoint
+2 months ago
+Embed
+https://www.usewaypoint.com
+#
+b2b
+#
+saas
+#
+apis
+#
+email
+#
+design
+Hi 👋
+We’re Jordan and Carlos and we’re excited to share our new product called
+Waypoint
+. Waypoint makes it easy for software teams to design, orchestrate, monitor product-triggered emails. Think of it as an email delivery service that is geared for data-rich transactional emails (like order confirmations, reminders, receipts, alerts, and other system notifications).
+The problem
+Adding data-rich email notifications to software in 2023 is still a pain. Most email tools are repurposed marketing email builders for templates with little to no dynamic data. This means getting data into branded templates and setting up logic around them (eg. delays) still requires significant code within your code base. Additionally, existing tools are lacking from an observability standpoint which makes it difficult for developers to test and debug.
+While it’s easy to hate on emails, the truth is that emails still act as the ‘
+glue of UX
+’ for most platforms and it is often the key to onboarding and engaging users.
+The solution
+Demo video (4.5 min)
+https://www.youtube.com/watch?v=VVz4cupc8gA
+Design
+Create templates that match your brand in minutes.
+Use our block-based template builder that works seamlessly with
+Liquid templating
+and
+Markdown
+.
+Build with confidence knowing templates render well across clients and devices.
+Orchestrate
+Trigger templates and workflows using our simple
+developer friendly API
+.
+Automate workflows with conditionals and delays using a visual builder.
+Deliver emails reliably through world-class infrastructure.
+Monitor
+See a full timeline of events. From initial trigger to clicks.
+Be informed of bounces or any other exceptions.
+Log a receipt of the full email content and data variables for every mail.
+Customer quote
+"Waypoint team and support surpassed our expectations, ensuring a seamless transition from Sendgrid. Their liquid templating simplified the conversion of our existing emails, and since migrating, their service has been flawless. Our emails no longer end up in spam folders, leading to an impressive increase in our onboarding conversion rates. Waypoint's fast and reliable deliverability has taken our account verification success from below 50% to nearly 100%.”
+– Dallin Dyer, CTO of
+Dree.com
+Interested?
+We’d love to help.
+Request access
+on
+Waypoint
+and mention ‘Launch YC’ to get to the front of the waitlist.
+See All Launches ›

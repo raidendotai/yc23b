@@ -1,0 +1,67 @@
+Home
+›
+Launches
+›
+Berry
+259
+🍓 Berry - A Chrome extension that turns any web app multiplayer, like Figma
+Berry is a Chrome Extension that lets you co-browse, collaborate, and annotate in any web app and website with real-time cursors.
+Ann Chan
+Berry
+5 months ago
+Embed
+https://berryapp.io/yc
+#
+saas
+#
+remote_work
+#
+productivity
+#
+collaboration
+#
+customer_success
+tl;dr Instead of taking turns to screen share, you can browse and work together interactively in ANY web app. Engage your customers and team to participate actively in meetings.
+Try Berry today!
+Hey everyone, we're Ann and Yan, and we're on a mission to make remote collaboration feel like working side by side again:
+—
+❌ The Problem
+While screen sharing is good for 1-to-many presentations when you just want the participants to sit and listen, it’s inefficient when you want people to participate actively to get stuff done or learn a workflow remotely:
+😩 Switching presenters require upfront coordination and always wastes a few minutes.
+😩 As an observer, you cannot just jump in and point out details. And verbally directing where the presenter should click on or navigate to can feel frustrating.
+😩 As a presenter, you cannot tell whether people are engaged or what they are engaging with. Sometimes you can feel like you’re speaking into the void.
+✨ Our Solution
+Berry is a chrome extension that allows you to instantly share, co-browse and collaborate with others on any website with real-time shared cursors.
+✅
+Switch presenters
+in 1 click and co-drive a session smoothly
+✅ Know precisely what content everyone is engaging with as if you are sitting side by side
+✅ Command attention instantly by
+summoning
+everyone to where your cursor’s at
+✅ Work in your own browser with 0 latency and crisp text
+🫵 Use Cases
+👩‍💻 Customer Onboarding & Training:
+Show customers how your product works directly in their browser. Observe where they stumble and jump in to help. Scroll and click for them as if you are sitting side by side.
+🎯 Internal Team Collaboration:
+Plan projects and review briefs in Notion. Groom development tasks in Jira. Review Marketing campaigns in Google Analytics. Co-browse through competitor’s website.
+🎓 New Employee Training:
+Ramp up your employees to use work software effectively with a hands-on training session. Easily show them how to do multi-step workflows across tools e.g. Research leads on Linkedin and import it to Salesforce
+⚙️ How it works
+Install
+the Berry Chrome Extension
+Copy the link
+of any website you want to co-browse using Berry
+Share it
+in your meeting or chat tool e.g. Zoom chat, GMeet, Slack
+See each other’s cursors in real-time
+as teammates click through the link and land where you are! (p.s. They will be prompted to install Berry automatically if they haven’t already)
+🙏 Ask
+Try Berry
+and tell us your feedback!
+Tell us about your use cases and top remote collaboration challenges. We’d love to build for your needs 😁 Schedule a 10 min call with us
+here
+.
+Feel free to reach out to us with questions and feedback. Email
+founders@berryapp.io
+See All Launches ›

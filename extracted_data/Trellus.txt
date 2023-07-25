@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+Trellus
+27
+Trellus - real-time sales AI coach for cold calls
+Trellus - the AI copilot to supercharge your cold call outbound (join 400+ reps and counting today!)
+Ajinkya Nene
+Trellus
+6 months ago
+Embed
+https://www.trellus.ai
+#
+b2b
+#
+saas
+#
+sales
+#
+ai-enhanced_learning
+#
+artificial_intelligence
+TLDR
+:
+Trellus
+is an
+AI powered real time sales coach
+for sales development reps in their cold calls. It guides reps to exceed quota by identifying common situations in sales calls and delivering simple action-oriented suggestions at the moment they are needed. Trellus also completes all post-call work for reps including note-taking and call summarization.
+Real-time AI is the future of sales support
+- check out our chrome extension today
+here
+The Problem
+For sales reps
+- it is hard to master all the skills necessary to have consistent and repeatable success in prospecting calls. A few examples of what reps need to stay on top of in each call:
+Who the prospect is and how to build rapport
+What to respond to common cold call objections
+Any qualification questions that need to be worked through - and the prospect's response
+Their own delivery cadence - tempo, talk time, etc.
+When to go for the close and book the next steps
+For managers
+- it is hard to effectively supervise and train a team of reps since a team of reps has far more (combined) hours to make calls than a manager has time to review them. Existing sales intelligence tools like Gong / Chorus are commonly used for recording and review but offer limited help in coaching reps because
+the analytics are less focused on prospecting calls and the feedback is often delayed.
+The Solution
+Trellus solves these issues by giving your sales reps a real-time AI-powered sales coach that is available 24x7 to them. Trellus enables your reps to deliver the right message at the right moment to your prospects.
+We do this by mixing a blend of behavioral and content coaching suggestions to help your sales reps learn best-in-class sales techniques.
+Features
+Seamless integration into your dialer platform of choice (it’s as simple as downloading our chrome extension)
+Behavioral coaching on monologues, cadence with a whole host of features coming soon (filler words, pauses, tone)
+Objection handling for classic cold call objections (e.g., “I’m not interested) with the ability for your sales enablement team to customize suggested responses for your reps
+Battle cards for competitors (e.g., “I use X”) - whenever one of your competitors is mentioned on a call, your rep will get suggested talking points
+Real-time transcription for all your dials
+Real-time localized data on your prospects (e.g., news, weather) to provide additional data sales reps can leverage to build repertoire
+Automatic call summarization and disposition entry
+How you can get started!
+1) Check out a demo
+here
+2) Take it for a spin!
+Trellus is totally free for individuals to try out - they can get started in less than 5 seconds by downloading our chrome extension
+here
+3) Talk to us!
+If you’re interested in trialing Trellus with your sales reps,
+grab a quick time slot
+for a white-glove onboarding or let us know in the comments!
+See All Launches ›

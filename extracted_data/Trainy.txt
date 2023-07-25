@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+Trainy
+20
+🚅 Trainy - Identify bottlenecks, boost training
+Dashboards to help ML engineers training large models isolate performance bottlenecks and boost training speed.
+Andrew Aikawa
+Trainy
+a month ago
+Embed
+https://trainy.ai/
+#
+saas
+#
+open_source
+#
+developer_tools
+#
+machine_learning
+tl;dr
+We help ML engineers training large models isolate performance bottlenecks during training. Trainy summarizes profiling information during large distributed training so that you know exactly what is limiting the speed of your model training.
+Hello everyone, we are Andrew and Roanak, ML engineers from the bay. We’ve experienced firsthand the challenges of distributed training and getting the most out of your compute resources. That’s why we are building tools to help ML engineers training large models optimize training speed and take the guesswork out of estimating the time and cost of training.
+The Problem
+Distributed training has enabled the training of ever-growing generative AI models. However, gains in speed are not simply proportional to the number of GPUs recruited and can quickly have diminishing returns depending on infrastructure and the model being trained. Tools now mainly focus on profiling a few GPUs, but become unwieldy the moment you scale beyond the 10 GPU mark.
+Our Solution
+We created a dashboard to display timing information across many GPUs. It’s a graph interface built on top of Tensorboard and PyTorch Profiler, existing tools familiar to ML engineers.
+How it works
+We summarize profiling information over many GPUs in a few key views that help ML developers identify where in the ensemble of GPUs there are inefficiencies. Statistics about computation, communication, and memory operations across many GPUs isolate straggling GPUs. Distributed training can only proceed as fast as the slowest GPU participating. By isolating slow outliers, an ML developer can zoom in on the operations running on the straggling GPU and make optimizations to their code to balance timings across GPUs and lower resource idling.
+The Ask
+We’d love for you to try out our profiler if you are training your own models.
+https://github.com/Trainy-ai/nodify
+Also join our community if you want to stay up to date with the development of our tools.
+https://discord.com/invite/d67CMuKY5V
+See All Launches ›

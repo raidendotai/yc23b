@@ -1,0 +1,58 @@
+Home
+›
+Launches
+›
+Syncly
+138
+🚀 Syncly — AI customer feedback analytics that drives retention
+Syncly enables Revenue teams to better understand customer insights to drive retention and team productivity.
+Joseph Lee
+Syncly
+5 months ago
+Embed
+https://syncly.app/
+#
+b2b
+#
+saas
+#
+analytics
+#
+generative_ai
+#
+customer_success
+Hey, We are Joseph, Kwan, Jongsoo from
+Syncly
+(YC W23).
+Our team founded and sold an AI startup for $200M, and decided to bring our technology to help Revenue team drive retention by delivering the right value for customers.
+TL;DR
+Syncly uses AI and Chat-GPT to enable Revenue teams to better understand customer insights to drive retention and team productivity.
+The Challenge
+Manual tagging and insights:
+Your revenue team wants to understand the most impactful product or operational feedback, but the team spend a lot of time manually aggregating and analyzing. As a result, you come to learn what had gone wrong
+AFTER
+the damage.
+Measuring team efficiency
+: Hard to track most of what problems your Revenue team is doing, but seems your team is doing a lot. Currently, done by 1-on-1 meetings or manual tagging, which is not scalable.
+Post-action impact:
+Hard to measure how customer feedback has changed after certain actions.
+The Solution
+Automating feedback insight:
+Syncly finds urgent and impactful customer issues. Your team can proactively engage with customers
+BEFORE
+the damage.
+Boosting team efficiency:
+Spread best practices within the organization to help Account managers, Customer success & support managers focus on delivering more value to the customer.
+Post-action visibility:
+By monitoring customer feedback trend, you can measure the impact of each release and action.
+*Syncly’s integrations include
+Intercom, Slack, Salesforce
+, and other customer communication platforms.
+Our Asks
+If you wanted to get as many actional insights from your customers feedback, schedule a call with us here:
+https://www.syncly.app
+(Click “Book a Demo”)
+Feel free to shoot me an email at
+joseph@deepbluedot.io
+if you want to chat more.
+See All Launches ›

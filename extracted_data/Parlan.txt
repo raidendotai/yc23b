@@ -1,0 +1,67 @@
+Home
+›
+Launches
+›
+Parlan
+40
+Parlan - Spreadsheets that talk to your data warehouse
+Parlan eliminates the need for BI tools by giving Excel users the power to work with all of their company’s data in a spreadsheet.
+Leeho Lim
+Parlan
+5 months ago
+Embed
+https://parlan.io
+#
+b2b
+#
+saas
+#
+no-code
+#
+data_engineering
+tldr;
+Parlan
+is building spreadsheets that talk to their data warehouse. Parlan equips users with the power of SQL through the spreadsheet formulas and syntax that they already know and love. Parlan helps users access their data (however large) so that they can answer questions quickly and free up time for data and BI teams.
+Sign up via
+this form
+and check us out at
+our website
+, and we’ll give you early product access.
+Hi everyone,
+Leeho
+and
+Jonathan
+here, the team behind Parlan.
+❌
+The problem
+Today, business teams are blocked from analyzing their data, because they might not know SQL, or because SQL isn’t convenient enough to work with. Users who don’t know SQL might ask business intelligence, data science, or engineering teams to help them pull their data from a database. For users that do know SQL, they still prefer not to write bulky-lined queries for the simplest of analyses.
+🤷
+How did we get here?
+In our previous orgs, Jonathan and I saw our colleagues struggle to get the data that they needed in order to perform any analysis. We found ourselves helping them pull data, and we also really hated the experience of having to use SQL any time that we had to do our own analysis
+🤮
+.
+🛠️
+Our solution
+So we created Parlan. Parlan allows you to embed any database or data warehouse into a spreadsheet through a no-code connection pane. We lift the row limitations of traditional spreadsheets, and equip users with the power of SQL through the formulas that you already know and love. With our spreadsheet, you can first connect your data sources (even ones that contain millions of rows) into our spreadsheet. You can then use our spreadsheet to run any analysis that you’d like on your data with syntax that you’re already familiar with.
+Using our sheet connection pane, you can select your data source(s), check a few boxes, and you’re good to go!
+🔥
+Here are some examples of how our pilots are working with Parlan to save them time and empower their organizations:
+📈
+Growth teams on Parlan are able to measure campaign effectiveness across different user cohorts (e.g. on geography, user tiers, inbound platforms, etc.)
+⚙️
+Product teams on Parlan are able to better assess product usage within their software, including determining what sorts of features their users are having trouble using or testing the popularity of new features amongst different user cohorts.
+… [ insert your use case here
+📝
+]
+🙏
+Our ask
+Try us out! We’d love to hear from you and give you early access to our tool.
+Are you a part of a growth, marketing, or other team that might have a strong need for Parlan?
+Fill out our form, and we’d love to give you access to our demo
+.
+If you prefer to chat, you can
+schedule a meeting with us
+. We’d love to hear from you!
+If you prefer to write to us, feel free to shoot an email to
+leeho@parlan.io
+See All Launches ›

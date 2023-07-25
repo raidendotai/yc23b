@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Buildt
+913
+Buildt: LLM powered codebase search and multi-file code generation
+LLM powered semantic code search, contextual explanations & (soon) cross-file codegen inside your IDE
+Yang Li
+Buildt
+5 months ago
+Embed
+http://www.buildt.ai
+#
+nlp
+#
+generative_ai
+#
+developer_tools
+#
+machine_learning
+#
+artificial_intelligence
+TLDR: Buildt is an AI tool to help developers quickly search and understand large codebases. Engineers at companies like Stripe and Airbnb have to work with million-line codebases; our LLM-powered tool makes this simple
+❌ The Problem
+Current solutions to search codebases are limited to keyword matches and lack the ability to take into account the context of an entire project. This slows down and frustrates every developer as it’s impossible to remember where every snippet of code is and how a function works.
+Even when you search for the right keyword, the results are incomplete as there are many frequent searches that can’t be captured by a single keyword or require deep contextual understanding
+e.g. “where are authentication tokens stored?”
+Even when developers do find the code snippet they had in mind they may also be stuck in understanding how it works. They then have to do more digging or ask a colleague, slowing down productivity.
+✨ Our Solution
+Install our VS Code extension and immediately you can start asking plain English, broad or nuanced questions about your codebase.
+It’s like having a colleague with perfect memory and understanding of your codebase sitting next to you.
+Example queries:
+‘Show me the user hook’
+‘Find where we initialize Stripe in React and add some logging’
+‘Do we use Mixpanel Analytics? If so, where and why?’
+‘How does authentication work on the backend?’
+⚙️ How it works
+Buildt combines large language models with embeddings to gain a better than human and contextual understanding of your codebase that you can then query with natural language.
+We index/map your entire codebase by using our own fine tuned LLM which we’ve trained with proprietary synthetic data. As a result, our tool instantly understands what code snippets do rather than what simply it is. And because we’re project wide, the tool understands the relationship between lines of code across different files.
+All of this means you can ask questions about your codebase conversationally, as if you were asking a friend for help when you’re stuck.
+🚀 What’s next?
+With full contextual understanding of the entire project we can successfully perform super accurate cross-file codegen from a natural language input e.g.
+‘Add firebase analytics to every user interaction’
+🙏 Asks
+Try Buildt and start searching! Install our VS Code extension
+here
+Tweet
+at us and share with us screenshots of your search results use the hashtag
+#buildt
+Join our
+discord
+for product, language support and LLM updates!
+See All Launches ›

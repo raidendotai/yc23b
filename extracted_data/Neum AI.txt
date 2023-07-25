@@ -1,0 +1,93 @@
+Home
+›
+Launches
+›
+Neum AI
+87
+Neum AI - ETL for LLMs
+Improve your AI application's accuracy with up-to-date context.
+David de Matheu
+Neum AI
+7 hours ago
+Embed
+https://neum.ai
+#
+b2b
+#
+developer_tools
+#
+data_engineering
+#
+artificial_intelligence
+TLDR
+: Neum AI Vector Sync (
+https://neum.ai
+) helps companies have accurate and up-to-date context in their LLM prompts. Connect and manage context from diverse data sources from Blob Storage to Notion to SQL and sync it into vector stores for searching.
+Hey,
+David and Kevin
+here 👋, we are the cofounders of
+Neum AI
+!
+From talking to dozens of developers building LLM applications, we know that building a prototype app is quite simple. Productizing that app can be challenging. Specifically, managing context for prompts can be tricky with data having to be synced from several different sources and maintained. With this, we decided to launch our
+managed vector sync
+platform in beta today!
+Problem
+While building Gen AI apps, we found that
+passing context to the prompt is crucial
+. However, the
+context must be accurate and up to date
+. If you are doing search over a vector database and that DB is not updated, then the search results are not good, and the quality of your context will suffer.
+We found that people didn’t want to maintain syncing mechanisms between multiple data stores, especially for those dealing with lots of changing documents and source data. Here were some of the use cases:
+“Our food menus dynamically change, and we need to make sure our order-bot responds appropriately.”
+“Our ‘chat-with-docs’ bot needs to have the latest updated documentation passed as context in order to answer accurately.”
+“Getting throttled by OpenAI when embedding lots of documents, can’t imagine re-embedding them every time.”
+With this, we set to create an
+easy-to-use UX and a set of APIs
+that help you manage and synchronize your data.
+Solution
+With
+Neum AI
+, your context in prompts is always accurate and up to date. It enables you to create a
+pipeline
+that keeps your data synced between a
+source (ex. Document DB)
+and a
+sink (ex. Pinecone).
+Think about FiveTran or Azure Data Factory for LLM data.
+(We have APIs too 🥷💻)
+As part of the synchronization process,
+Neum AI automatically embeds your data into vector form
+. This enables you to leverage common vector search techniques to do fast semantic look ups, ensuring that the context added to your prompt is accurate and helpful.
+Neum AI is extensible to allow for you to connect a variety of data sources, bring your own embedding model and choose from different vector stores.
+Once you created the pipeline, we’ll handle the syncing, manageability and observability of it and alert you if something goes wrong.
+This ensures that your data is always fresh and your context in prompts is always accurate and up to date.
+Once the pipeline is set, you can either run it once or specify a
+schedule
+for how often you want this pipeline to run, with of course, real time support in the works.
+Ok, cool, but.. this is not that hard right?
+Sure! It is not an impossible task for a data engineer or developer who understands the process of extracting, embedding and loading data into a vector store. You would have to:
+Optimize embeddings to make sure you are only re-embedding the right vectors when data changes.
+Build alerting to make sure the pipeline is working, and you can tailor it to your specific source and sinks.
+In addition, if you are using custom embedding models, then you will also need to host them and run them as part of your pipeline.
+Lastly, if you are looking for real time, well, you probably know the work required for it 😛.
+None of this is impossible, we simply take care of the mundane task of building it and making sure it is robust so that you focus on your business logic for your application.
+Why Us?
+Kevin and David, come from Venezuela and Costa Rica respectively. They met 10 years ago in college. You will find both of them building bots to automate tennis court reservations systems or coming up with new recipes.
+David worked for 5+ years at Microsoft starting at Mixer and making his way to Azure. For the past several years, David focused on building developer experience for Azure Communication Services. Combining pro-code, low-code and no-code tools to help democratize adoption for developers.
+Kevin worked at Microsoft for 6+ years building Big Data and AI platforms from the ground up. He worked in numerous hackathons that ended up in the hands of CVPs and EVPs. Additionally, he spent a year at Circle building API services for the core Data Engineering team working with Blockchain data at scale.
+Combined they have a passion for building large-scale systems that are powerful, yet simple for developers to use. They were inspired by working with Azure Data Factory (Kevin being a contributor to the
+Microsoft Graph Data Connect project
+) to build an
+easy-to-configure, scalable, and secure
+data solution for companies using
+vector stores to build generative AI applications
+.
+Try it out today!
+If you are building applications with semantic search or LLMs that leverage vector stores, come talk to us! (
+Book a time
+or
+email us
+) Head over to
+https://neum.ai
+to start using Neum AI today.
+See All Launches ›

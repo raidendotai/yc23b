@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Nango
+54
+🔌 Nango: Get OAuth tokens for APIs. Fast & secure.
+Pre-built OAuth flows & secure token management for 55+ APIs (and counting)
+Robin Guldener
+Nango
+4 months ago
+Embed
+https://nango.dev
+#
+api
+#
+saas
+#
+open_source
+#
+developer_tools
+TL;DR
+Pre-built OAuth flows & secure token management for 55+ APIs (and counting). 100% open source.
+The problem: OAuth sucks.
+OAuth is harder than it seems
+:
+Every API has specific quirks & nuances - forcing you to read endless docs pages
+OAuth libraries don’t solve redirects, adding callback endpoints, token storage, refresh logic etc.
+When something goes wrong debugging is hard: Unspecific errors, non-compliant behaviours, missing details and a million possible root causes
+On top of this, SOC 2 compliance & GDPR make storing plain-text tokens in your DB no longer a viable option.
+The solution: Nango makes OAuth fast & secure.
+Nango is a service that contains everything you need to work with APIs that use OAuth:
+A full OAuth dance for 55+ APIs - no backend work needed
+A tiny frontend SDK, with promises instead of confusing full-page redirects
+Secure token storage, with automatic refresh as needed
+Works with any API, programming language & framework
+In your frontend easily trigger an OAuth flow with 1 line of code (full desktop & mobile support):
+nango.auth('salesforce', '<user-id>'); // Opens a modal for OAuth dance
+Then get always fresh access tokens in your backend:
+let accessToken = nango.getToken('salesforce', '<user-id>'); // Refreshed & ready
+That’s it.
+Trusted in production, by startups and established companies
+Nango is used in production by companies like Typeform, Crowd.dev, AppraisalInbox, Trigger.dev (YC W23), Blocktool (YC W23) and others.
+Try it in 5 minutes
+Nango is easy to try on your local machine (open source) or with our cloud option:
+Try it on your local machine:
+https://github.com/NangoHQ/nango
+Get started with
+Nango Cloud
+See All Launches ›

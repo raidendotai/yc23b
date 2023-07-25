@@ -1,0 +1,82 @@
+Home
+›
+Launches
+›
+Serra
+45
+🔹 Serra - Low-code, modular SQL
+Python-based dbt alternative
+Alan Wang
+Serra
+7 days ago
+Embed
+https://www.serra.io/
+#
+ai
+#
+big_data
+#
+developer_tools
+#
+data_engineering
+tl;dr:
+Serra
+takes a 200-line SQL script and reduces it to a few lines of code. Serra simplifies complex pipeline logic with reusable testable objects, saving hours of development and maintenance time.
+Hi everyone! We’re Alan and Albert, the best friends behind Serra. We want to simplify ETL so that even your dad (👨🏻) can maintain a data pipeline.
+❌ The Problem
+Companies spend
+$520K
+annually building and maintaining data pipelines.
+Data engineers spend
+44% of their time
+fixing pipelines that inevitably crash.
+12 data engineers
+*
+$98K salary
+*
+44% of their time
+=
+$520K
+(
+Fivetran
+)
+So why do data pipelines crash and burn?
+Complex scripts
+Limited alerting, debugging
+Inadequate testing
+All of these make data pipelines a nightmare to fix, especially at 3am.
+✨ Our Solution
+Serra is a python-based DBT alternative that takes a 200-line SQL script and reduces it to just a few lines of code.
+Serra’s framework emphasizes software engineering best practices like
+readability, testability, modularity, and reusability
+.
+Serra
+simplifies
+complex SQL scripts to just a few lines of Python code with modular transformers and in-house connectors.
+Serra provides
+fully-customizable error logging
+for every transformer and connector.
+With a command line tool, developers can easily create pipelines, auto document them,
+run local tests
+, and
+run jobs with their favorite data warehouse.
+🤔 How are we different from DBT?
+Serra is not tied to SQL and therefore handles all parts of ETL. Serra provides intuitive control flow, more complex transforms with Python, full streaming support, and comprehensive debugging/testing capabilities.
+👏 The Team
+Alan
+and
+Albert
+are best friends from middle school Algebra. Alan is an ex-Data Engineer at Disney+ and a Statistics & Data Science alum from UCLA. Albert is an ex-Software Engineer at Amazon Alexa and a UCLA Master’s graduate in Computer Science.
+🙏 Ask
+Try out our live demo
+here
+(fork the Replit)!
+If you like what you see, join our
+waitlist
+and
+Discord
+!
+Intros to any data engineers, data leaders, Databricks users, and anyone from companies that are trying to optimize their ETLs would be amazing. Please reach out at
+founders@serra.io
+!
+See All Launches ›

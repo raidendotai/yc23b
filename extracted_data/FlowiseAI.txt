@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+FlowiseAI
+60
+Flowise - Low-code LLM apps builder
+An open source drag & drop tool to build your customized LLM flow
+Henry Heng
+FlowiseAI
+19 days ago
+Embed
+https://flowiseai.com
+#
+ai
+#
+chatbot
+#
+no-code
+#
+open_source
+#
+artificial_intelligence
+☕️TL;DR
+Flowise
+is an open source drag & drop tool to build your customized LLM flow.
+We provide a visual interface to let you build backends for LLM apps used for QnA, summarization and analysis on your own data.
+👋 This is
+Henry
+and
+Yau
+, co-founders of Flowise. We’re on a mission to make it easy for people with no-code background to learn and build AI apps.
+🤔 Problem
+Recent advancement of large language models like ChatGPT is revolutionizing every industry. But how do people from less tech-savvy background be able to learn it, and use it for their own use cases?
+✨ Solution
+Just like LEGO
+🧩
+, Flowise let you connect different components like PDF loader, OpenAI Embeddings, Pinecone vector database and build your own ChatGPT on your own documents. You learn as you build!
+⚙️ How it works
+Chatflow
+Drag & drop any component to the canvas and interact with it in real-time.
+API/Embed
+Use the flow as an API or embed into your application.
+Tool
+Create your own tool and let agent automatically use it. For instance, get stock prices and add it to Airtable/Gsheets.
+Extensible
+Flowise is built to be extensible. Developers can easily customize their integrations by using libraries/frameworks such as LangChain, LlamaIndex, HuggingFace, etc.
+🙏Ask
+Star Flowise
+Github
+and let us know what you’d like us to build next
+Follow us on
+Twitter
+to keep up with the latest updates
+Hop into our 2k+
+Discord
+community
+We want to offer cloud-hosted solution, let us know your
+thoughts
+!
+🚩
+We just crossed
+10k
+stars on Github!
+See All Launches ›

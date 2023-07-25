@@ -1,0 +1,38 @@
+Home
+›
+Launches
+›
+OneSchema
+20
+OneSchema: Embeddable CSV Importer for SaaS
+Product and engineering teams use OneSchema to save months of development time to build a CSV importer.
+Andrew Luo
+OneSchema
+9 months ago
+Embed
+https://www.oneschema.co
+#
+b2b
+#
+saas
+#
+developer_tools
+#
+data_engineering
+Hi everyone, we’re Christina and Andrew, co-founders of
+OneSchema
+. We’re very excited to share the launch of our new product line with you!
+Founders Backstory
+As a product manager and engineering manager, we both suffered through months of wasted engineering time building CSV importers instead of core product features. Even after launch, the
+maintenance never seemed to end
+- parsing issues, performance improvements, and UX issues always seemed to pop up.
+We decided to build OneSchema so product teams could focus on the features that matter most to their customers.
+What is OneSchema?
+OneSchema is an embeddable CSV importer for SaaS companies. Product and engineering teams use OneSchema to save months of development and maintenance time and provide a best-in-class CSV import process for their customers. OneSchema cleans customer data during import, and offers helpful suggestions for resolving errors.
+Our product team is laser-focused on making data onboarding as fast and seamless as possible for your customers. We are a developer-first platform and have built OneSchema so you can have production-ready CSV import set up in less than a day.
+We'd love to hear from you!
+We’re excited to help companies deliver a delightful onboarding experience for their users. If you’re interested in learning more, feel free to
+book a demo here
+or reach out to us at
+founders@oneschema.co
+See All Launches ›

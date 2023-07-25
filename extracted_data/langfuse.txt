@@ -1,0 +1,92 @@
+Home
+›
+Launches
+›
+langfuse
+19
+🪢 Langfuse - Open-source product analytics for LLM apps
+Track quality, cost and latency of your LLM apps
+Clemens Rawert
+langfuse
+5 days ago
+Embed
+https://langfuse.com
+#
+ai
+#
+b2b
+#
+analytics
+#
+generative_ai
+#
+developer_tools
+⭐ Star us on
+Github
+& follow us on
+Twitter
+TLDR
+:
+Langfuse
+is building open-source product analytics (think ‘Mixpanel’) for LLM apps. We help companies to track and analyze quality, cost and latency across product releases and use cases.
+Hi everyone, we’re Max, Marc and Clemens. We were part of the Winter 23 batch and work on
+Langfuse
+, where we help teams make sense of how their LLM applications perform.
+🤯 Problem
+LLMs represent a new paradigm in software. Single LLM calls are probabilistic and add substantial latency and cost. Applications use LLMs in new ways via advanced prompting, embedding-based retrieval, chains, and agents with tools. Teams building production-grade LLM applications have new
+product analytics
+and
+monitoring
+needs:
+Quality of outputs
+is difficult to measure. Outputs can e.g. be inaccurate, unhelpful, poorly formatted, hallucinated or error.
+Cost of compute
+is a priority again given high inference costs.
+Latency
+of responses matters for synchronous use cases.
+Debugging is challenging
+due to increasingly complex LLM applications (chains, agents, tool usage).
+Understanding user behavior
+is difficult given open-ended user prompts and conversational interactions.
+🧠 Solution
+Langfuse derives actionable insights from production data. Our customers use Langfuse to answer questions such as:
+‘How helpful are my LLM app’s outputs? What is my LLM API spend by customer? What do latencies look like across geographies and steps of LLM chains? Did the quality of the application improve in newer versions? What was the impact of switching from zero-shotting GPT4 to using few-shotted Llama calls?’
+Metrics
+Quality
+is measured through user feedback, model-based scoring and human-in-the-loop scored samples. Quality is assessed over time as well as across prompt versions, LLMs and users.
+Cost and Latency
+are accurately measured and broken down by user, session, geography, feature, model and prompt version.
+Insights
+Monitor quality/cost/latency
+tradeoffs
+by release to facilitate product and engineering decisions.
+Cluster use cases
+by employing a classifier to understand what users are doing.
+Break down
+LLM usage by customer
+for usage-based billing and profitability analysis.
+Integrations
+Python and Typescript SDKs to easily monitor complex LLM apps
+Frontend SDK to directly capture feedback from users as a quality signal
+Langfuse can be self-hosted or used with a generous free tier in our managed cloud version.
+🚧 Debugging UI
+Based on the ingested data, Langfuse helps developers debug complex LLM apps in production:
+Inspect LLM app executions in a nested UI for chains, agents and tool usage.
+Segment by user feedback to find the root cause of quality problems.
+🙏 Asks
+Star us on
+GitHub
++ follow along on
+Twitter
+&
+LinkedIn
+.
+If you run an LLM app, go ahead and
+talk to us
+, we’d love to see how we can be helpful.
+Please forward
+Langfuse
+to
+teams building commercial LLM applications
+.
+See All Launches ›

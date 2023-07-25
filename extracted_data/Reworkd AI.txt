@@ -1,0 +1,70 @@
+Home
+›
+Launches
+›
+Reworkd AI
+50
+🤖 Reworkd AI - The open-source Zapier of AI agents
+We help automate core business workflows with the help of AI Agents
+Srijan Subedi
+Reworkd AI
+7 days ago
+Embed
+https://reworkd.ai
+#
+b2b
+#
+automation
+#
+open_source
+#
+generative_ai
+#
+artificial_intelligence
+tl;dr:
+Reworkd AI connects businesses to AI Agent automation. With an easy-to-use, no-code platform, Reworkd AI allows companies to eliminate tedious, repetitive tasks and accelerate their operations with AI Agents, all while integrating seamlessly with their existing tech stack.
+Hello folks 👋 We’re the team behind Reworkd AI.
+Initially our team developed AgentGPT, a web based platform for AI Agents which quickly attracted
+150K monthly active users
+and
+25K ⭐️ on GitHub
+in the last three months.
+As we built out this platform, we noticed a growing trend: businesses were increasingly seeking automation through AI Agents.
+❌ The Problem
+Today, the core of many business are comprised of
+tasks that require time consuming and manual human intervention
+. With the rise of AI Agents, many companies are turning to them to automate these processes in a way that existing workflow tools cannot. In building AgentGPT however, we realized that AI Agents could not handle business-critical processes due to the following problems:
+Hallucination:
+AI Agents make up information not grounded in any facts.
+Unproductive loops/repetition:
+AI Agents struggle to understand the current context of a task, leading to unproductive loops.
+Probability of failure:
+Each prompt completion has a certain probability of failure which only compounds with long-running agents.
+⭐️
+Our Solution
+Our platform solves these issues by
+coupling AI Agents with a structured workflow system
+. This enables businesses to formalize and codify their core processes in a verifiably correct way while still enabling AI Agents to reason about the nuances of a problem.
+As an example, one B2B customer in our pilot program vends data to over 30,000 different customers. They’ve leveraged Reworkd to create a workflow that runs an AI Agent through each customer’s website, validating that they are compliant against a set of unstructured rules. Based on these results, the platform will automatically follow up with their customer. This process previously took
+an entire department and weeks of manual intervention.
+Leveraging our platform, they’ve automated this process to only take a few hours.
+👥
+The Team
+Asim Shrestha
+(CEO)
+: Former AWS software engineer specializing in internal backend services within RDS. Contributed to ML pipelines and open source ML projects at BC Cancer Research.
+Adam Watkins
+(CTO)
+: Former software engineer at Article specializing in fulfillment logistics optimization. Worked in AI/ML at BC Cancer Research, developing ML deployment infrastructure for clinical nuclear medicine applications.
+Srijan Subedi
+(COO)
+: Former program associate at Stemcell Technologies with the New Product Introduction team. Conducted research at The Centre for Heart Lung Innovation (HLI) focused on biologic therapy for individuals with severe asthma.
+🙌
+Our Ask
+If you or anyone you know is keen on leveraging AI agents to automate business workflows,
+please sign up for our waitlist
+😁
+Have a tedious task you'd want to automate but don’t know if its possible? Email us at
+founders@reworkd.ai
+. We relish challenges and will explore solutions for you!
+See All Launches ›

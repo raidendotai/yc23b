@@ -1,0 +1,38 @@
+Home
+›
+Launches
+›
+Linum
+28
+🎥 Linum - Midjourney for video
+Make animated videos, starting with just a few prompts
+Sahil Chopra
+Linum
+5 months ago
+Embed
+https://www.linum.ai/
+#
+video
+#
+generative_ai
+#
+artificial_intelligence
+🎞️ What is Linum?
+Linum is Midjourney for video, a creative tool that allows anyone to make animated videos starting with just a few prompts.
+For example, Linum generated this video in 5 minutes. (4K Version Here).
+🧑‍🤝‍🧑 Who are we?
+We’re a pair of brothers that love movies and have deep AI experience, across both academic research and product-building.
+Sahil Chopra (left)
+- Sahil (BS ‘18, MS ‘19, Stanford) co-wrote Stanford’s graduate-level course on NLP & Deep Learning. Previously, Sahil worked at McKinsey - helping product managers at Fortune 500 companies take AI-native products from ideation to launch.
+Manu Chopra (right)
+- Manu (BA ‘21, UC Berkeley) pursued research at the intersection of AI, bioengineering, and healthcare at BAIR and UCSF (e.g., training offline reinforcement learning agents to identify optimal strategies for administering anesthesia to patients).
+🔨 Why are we building this?
+When we shuttered our last venture in the fall of 2022, we fell down the AI Art rabbit hole like so many others. We LOVE movies, so we immediately found ourselves trying to make animated videos using diffusion models.
+Turns out it’s really hard to do — so we’re building the models and tools to make it easier.
+❤️ Our Asks
+We’re adding new users to our beta every week, as we ramp up GPU capacity.
+Join the waitlist for our beta
+, if you’re interested in AI art or filmmaking.
+Share with your friends and family,
+if you think they might be interested.
+See All Launches ›

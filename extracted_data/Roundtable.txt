@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Roundtable
+16
+🚀 Roundtable - Automated survey results
+We simulate responses to online surveys in seconds
+Mayank Agrawal
+Roundtable
+a month ago
+Embed
+https://roundtable.ai
+#
+b2b
+#
+market_research
+#
+artificial_intelligence
+Hi everyone! We’re
+Matt
+and
+Mayank
+, the cofounders of
+Roundtable
+.
+tl;dr:
+Roundtable makes user and market research faster and cheaper by instantly simulating responses to online surveys.
+❌ Problem
+Surveys are incredibly valuable tools for customer feedback, but they are very costly. Designing, prototyping, and running high-quality surveys can take months and cost well over $10,000. This means fast-moving teams often forgo valuable data or make decisions based on low-quality results and uninformative questions.
+✅ Solution
+Roundtable automates survey responses in seconds. We train large language models on curated survey datasets and provide an intuitive design interface that lets you receive high-quality data instantaneously. You can ask Roundtable any question targeting any demographic and will get an informed response quickly.
+🧑‍🔬️ Matt & Mayank
+We are graduating PhD students from Princeton University, where we used machine learning to study human behavior and ran lots of online experiments. We were interested in large language models as models of human general intelligence, and we were frustrated with the online experiment pipeline. Roundtable combines these two areas of focus, using LLMs as models of human cognition that can accurately predict survey and experimental outcomes for any scenario.
+🌟 Demo
+❤️ The Ask
+If you are interested, please book a demo
+here
+.
+If you are able to give us an intro to a market research team (either standalone agency or internal at company) or any other group that runs surveys please contact us at
+founders@roundtable.ai
+!
+Follow us on Twitter at
+@roundtabledotai
+See All Launches ›

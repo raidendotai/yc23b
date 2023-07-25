@@ -1,0 +1,37 @@
+Home
+›
+Launches
+›
+Nara
+25
+🔘 Nara: The personalized nutritionist in your pocket
+Ask questions and get personalized suggestions 24/7 from your AI nutrition coach through SMS.
+Felipe Abello
+Nara
+5 months ago
+Embed
+https://trynara.com
+#
+ai_assistant
+TL;DR
+Nara helps people eat healthier and stay on track with their dietary goals by providing personalized nutrition recommendations, recipe suggestions, food tracking, and healthier food options for grocery and restaurant ordering using AI.
+❔ Why we built Nara:
+At Nara, we started with a problem that we had experienced firsthand - the challenge of maintaining a healthy diet with a busy schedule. As founders who were passionate about wellness and health, we knew that many people shared this struggle. We saw an opportunity to use AI to make personalized nutrition recommendations and help people stay on track with their dietary goals.
+Through our previous ventures, we acquired experience in both the wellness and health industry, as well as selling food at a massive scale in companies like Rappi. We knew we had the right team to tackle this problem and build a solution that could truly make a difference in people's lives.
+We searched the market for a solution that could provide personalized nutrition recommendations and food tracking, but couldn't find one that met our needs. So, we started building our own version of an AI nutrition assistant. After months of trial and error, we created a simple and effective solution that we were proud of. We knew we had to share this with others, and that's why we started Nara. Our goal is to help people eat healthier and stay on track with their dietary goals, all with the help of AI.
+❌ The Problem:
+Eating healthily and deliciously can be a challenge, and it's something that we, as the co-founders of Nara, have experienced firsthand while trying to maintain healthy eating habits with our busy schedules.
+✨ Our Solution:
+Nara solves this problem by allowing users to upload their meal plan into SMS, where Nara learns from it and texts a plan for eating according to the user's preferences and dietary goals. Nara is easy to use and provides a personalized experience that's tailored to the individual.
+⚙️ How it works:
+Users can chat with Nara in their messages, just like they would talk to a coach. Nara provides new recipe ideas, food tracking, and answers to questions about the user's meal plan. Nara's AI allows for a scalable, personalized nutritionist experience.
+💙 Community fave features:
+Users love Nara's simplicity, personalized recommendations, and the ability to ask questions 24/7.
+🙏 Asks:
+As a special offer for the YC community, we are offering an exclusive
+7-day free trial
+of Nara. We'd love for you to try it out and see how it can help you achieve your dietary goals. Simply visit
+our website
+and sign up using your phone number to get started. We'd also love to hear your feedback and suggestions on how we can continue to improve Nara.
+Thanks for your support! 😊
+See All Launches ›

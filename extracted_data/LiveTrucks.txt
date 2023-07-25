@@ -1,0 +1,46 @@
+Home
+›
+Launches
+›
+LiveTrucks
+33
+🚚 LiveTrucks: Real-time visibility and alerting for Freight
+Helping shippers and brokers get visibility and alerts on their truck shipments, and fix severe backlogs at ports & warehouses
+Rahul Sonwalkar
+LiveTrucks
+a year ago
+Embed
+http://livetrucks.io
+#
+logistics
+#
+supply_chain
+TLDR:
+LiveTrucks
+is a real-time visibility and alerting platform for Freight. If you are shipper like WholeFoods, you can see all your truck shipments on the map and get alerts for missed ETAs, spoiled cargo and much more.
+Hey folks, we are
+Rahul
+and
+Tanuj
+, and we are excited to launch LiveTrucks.
+Problem:
+Trucks move 72% of the freight in the US, and yet freight shippers and brokers have no easy way of locating their truck shipments.
+Chaos from the lack of visibility into truckloads creates billions of dollars in losses from missed ETAs, severe backlogs, spoiled cargo, detention penalties and hours of back office work per truck load.
+Traditionally, shippers and brokers have located the 3.5 million OTR trucks in the US mainly through “check calls” (manually calling a truck driver every 2 hours to ask for current location and ETA)
+One of our users doing check calls and recording locations manually pre-LiveTrucks:
+My cofounder Tanuj first saw this problem internally at UberFreight (Uber’s freight brokerage) where hours were wasted per load in simply locating the truck. We set out to dig deeper and realized this problem affects
+100,000 shippers
+and
+17,000 brokerages
+in the US.
+Solution:
+Instantly
+see truck shipments on the map and
+get alerts
+when something goes wrong.
+LiveTrucks is bringing rideshare-like visibility to Freight. Under the hood, we use a quilt of 70+ datasources (from flip phones to smartphones and telematics) along with easy permissioning to reach every commercial truck in the US.
+My company ships or moves freight, can I try it?
+Yes! We are currently working through our waitlist. Please feel free to sign up
+here
+.
+See All Launches ›

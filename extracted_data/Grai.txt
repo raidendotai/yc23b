@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+Grai
+51
+✨ Grai - Open-source version control for metadata
+Grai knows how a database migration will impact deployed ML models, APIs, and more because it understands how data relates across systems.
+Ian Eaves
+Grai
+a year ago
+Embed
+https://www.grai.io
+#
+saas
+#
+analytics
+#
+open_source
+#
+developer_tools
+#
+data_engineering
+TL;DR Grai makes developers smarter by bringing metadata from across their stack into their development tools. We make testing data flows between applications painless.
+Go to 👉
+grai.io
+😭
+Problem
+Tracking (let alone testing) data once it leaves a production environment is challenging. Whether in a data engineers transformation pipeline, an ML model, or the CFO’s metrics dashboard, that data
+will
+be used elsewhere. Without visibility on those use cases data changes remain risky and outage prone.
+🚀
+Solution
+Grai is an open-source data management platform designed to help you better use your data.
+Automated data lineage
+- Pre-built connectors to keep metadata fresh.
+Integrated with git
+- Changing a column in your DB? Run data integration tests for all downstream users as part of your standard CI/CD process.
+One-stop-shop
+- A unified model of your entire data stack.
+Your data belongs to you
+- Grai is open-source & self-hosted with a cloud option coming soon.
+🎉
+Closing thoughts (and asks!)
+My ask: give it a shot!
+Browse the
+code
+Check out the
+demo
+Reach out!
+ian@grai.io
+~ Ian
+See All Launches ›

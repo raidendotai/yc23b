@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+Hyperbeam
+451
+👾 Hyperbeam - Embed third-party apps, games, and websites anywhere
+We make third-party embeds easy​​. Multiplayer supported out-of-the-box.
+Declan Goncalves
+Hyperbeam
+a year ago
+Embed
+https://hyperbeam.com?ch=yc
+#
+api
+#
+elearning
+#
+remote_work
+#
+developer_tools
+#
+virtual_reality
+TL;DR: Hyperbeam lets you embed any third-party website or application, synchronize audio and video flawlessly among multiple participants, and add multi-user control with just a few lines of code.
+Hey YC
+👋
+We’re Philip, Amby, and Declan, and we’re building
+Hyperbeam
+👾
+🤔
+The Problem
+Embedding third-party apps and websites can often be a nightmare due to incompatible platforms, security issues, and poor UX. Adding multiplayer functionality to these embeds makes this problem exponentially more difficult. This is an issue that countless remote learning, productivity, online social, and metaverse platforms face when building their products.
+💡
+Our Solution
+Enter Hyperbeam—an API that lets you embed virtual computers anywhere, including web, mobile, VR, and even VSCode. You can then open any third-party website or application, synchronize audio and video flawlessly among multiple participants, and add multi-user control with just a few lines of code.
+⚙️
+How it Works
+Sign up
+on the Hyperbeam Dashboard
+Generate an API key and integrate the Hyperbeam API
+Customize the UX to your use case (e.g. control permissions, FPS, permitted websites, WebGL)
+Launch and track your user engagement!
+On the backend, we’re spinning up a VM and running a resource-optimized fork of Chromium which we then stream to participants via WebRTC. Since we’re hosting the servers running the applications, multiple users can connect and control the virtual computer seamlessly, and their client just needs to handle a video stream.
+🙏 Asks
+If you or someone you know is building a…
+🎓
+Remote learning platform
+🏢
+Virtual office
+💻
+Remote productivity tool
+👾 Metaverse
+🏟️
+Virtual conferencing app
+🥽
+VR app
+…we’d love to talk!
+Join us on
+Discord
+,
+book a meeting
+with the founders, or
+sign up
+for a free API key. Thanks!
+See All Launches ›

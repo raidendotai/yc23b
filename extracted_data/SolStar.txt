@@ -1,0 +1,57 @@
+Home
+›
+Launches
+›
+SolStar
+50
+🌟SolStar - Venmo for Discord - The easiest way to send crypto in a community
+Our tech makes it easy, free, and secure to send crypto to your friends - no wallet required.
+Ryan Endacott
+SolStar
+a year ago
+Embed
+https://solstar.finance
+#
+fintech
+#
+no-code
+#
+consumer
+#
+community
+#
+crypto/web3
+Hey YC community! 👋 We’re Ryan and Drew, and we’re building SolStar 🌟
+SolStar builds easy-to-use crypto tools for Discord communities. Our first product, SolStar Tip Bot, is like Venmo for Discord: send crypto to your friends with just a few clicks.
+The problem with crypto
+Crypto is confusing and intimidating, with no clear entry point for beginners. To purchase crypto from scratch, a new user needs to:
+Know what a crypto wallet is
+Know where to sign up for one
+Understand KYC and buy crypto on an exchange
+Transfer from exchange to wallet
+Manage to not lose their seed phrase
+If these steps confuse you, you’re not alone. It’s even confusing to experts. This is ridiculous, and it leaves out 99.9% of internet users who aren’t heavy technical adopters.
+SolStar makes crypto easy 🌟
+SolStar makes it possible for anyone to use crypto—even your grandpa!
+All you need to get started is a credit card. Skip the confusing steps above and dive in right away with a secure, approachable tool that makes crypto fun. You can add SolStar Tip Bot to your Discord, check your balance, and send a tip to a friend all within a few minutes.
+When you use SolStar, you’ll get a secure custodial wallet and easy access to your balance on our site.
+Another feature we’re excited about - you can now buy tokens directly in Discord! Make it easy to join your community - no crypto experience required.
+As an added bonus, you can interact with our Ask an AI tool, which features various personalities, including Antagonistic Viking, Honorable Julius Caesar, or Confused Isaac Newton.
+How It All Began ✨
+We’re a couple of software engineers who love crypto and gaming. We’ve spent more all-nighters than we can count hanging out in Discord, and we’re big fans of how it’s a user-friendly space to build community.
+We wanted crypto to be more accessible and fun. There’s no better way to onboard people to crypto than to create a simple way for them to start using it in their own communities.
+We wished we had something like SolStar, so we built it ourselves.
+How you can help 💗
+If you have a Discord Community, add SolStar for free:
+https://solstar.finance/tip-bot-invite
+If you belong to a Discord Community, tell your admin or community manager to check out SolStar:
+https://solstar.finance/tip-bot-invite
+Follow us on Twitter to see our dank memes
+@SolStarFinance
+We love feedback! Let us know what you think below or hit us up at
+founders@solstar.finance
+:)
+Join our Discord Community and stay updated on our latest features:
+https://discord.gg/gMyX7wRRUA
+If you care about making crypto more accessible, we’d appreciate the up-vote!
+See All Launches ›

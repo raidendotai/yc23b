@@ -1,0 +1,100 @@
+Home
+›
+Launches
+›
+kapa.ai
+67
+kapa.ai: ChatGPT for developer-facing products
+We help companies improve developer experience and reduce technical support
+Emil Soerensen
+kapa.ai
+13 days ago
+Embed
+https://www.kapa.ai/
+#
+ai
+#
+generative_ai
+#
+developer_tools
+#
+customer_support
+#
+artificial_intelligence
+TL;DR:
+We make it easy for developer-facing companies to
+build AI support bots
+for their community. Teams at
+OpenAI, Airbyte
+and
+NextJS
+use
+kapa.ai
+to help onboard new users and reduce support.
+We’re Finn and Emil, the co-founders of
+kapa.ai
+. 👋
+The challenge:
+Software has a discovery problem
+For users:
+Have you ever struggled to find what you were looking for on a docs site? We have. And so have the
+30 million
+other developers in the world.
+For maintainers
+: Have you ever been pulled out of your work to respond to a customer question that could have been answered by your docs? We have. And so have engineers at the
++15,000
+developer-facing companies in the world.
+The idea to build
+kapa.ai
+initially came from a friend that runs a developer-facing company complain about the amount of
+“read the f’ing manual” questions
+they get and how much of their
+engineers’ time
+that costs.
+How we’re solving it:
+“ChatGPT” for your docs
+We’ve built a full retrieval augmented generation stack that enables developer-facing companies to
+ingest any technical sources into an LLM
+and expose it to their community where they have questions.
+The bread and butter of what we’ve been building is a super scalable and
+state-of-the-art crawling infrastructure
+to ensure high quality data is kept up to date and compatible with LLMs.
+Here are a few examples of how companies are deploying
+kapa.ai
+:
+Langchain:
+Discord
+bot
+in community of 30k devs
+Anyscale
+:
+Docs widget
+on website of project with +25k stars
+Netlify:
+Custom built docs widget on top of
+our API
+available to their +1 million users
+In addition to reducing support, we’re also helping companies
+identify gaps in their documentation and products
+by analyzing the answers of their
+kapa.ai
+bot.
+Who’s building:
+Emil and Finn 👋
+We met +6 years ago in London and ended up doing
+two master’s degrees together
+: (1) Finance at London School of Economics, and (2) Computer Science at Imperial College London.
+While building
+kapa.ai
+, Finn (CTO) leans towards doing most of the engineering, bringing his experience from building low-latency trading systems at Bloomberg, although he also did sales at Goldman Sachs and JPMorgan. Emil (CEO) handles most of the business, bringing his experience as an Engagement Manager at McKinsey & Company, but also ships, which he learnt while building applied AI systems at startups.
+The ask:
+Want to reduce developer support?
+We’d love to help your company deploy a
+kapa.ai
+bot (takes less than 24hrs!). And we’re always looking to connect with folks at developer-facing companies if you’d be up for making an intro.
+Reach us at
+founders@kapa.ai
+or
+sign up for access here
+and mention “YC Launch” Thank you so much.
+See All Launches ›

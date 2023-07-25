@@ -1,0 +1,72 @@
+Home
+›
+Launches
+›
+Castled Data
+24
+Castled - Customer Engagement using Customer 360 in your data warehouse
+Robust and Cost-effective Marketing Automation Platform that sits on top of your Cloud Data Warehouse.
+Arun Thulasidharan
+Castled Data
+10 months ago
+Embed
+https://castled.io/
+#
+saas
+tl;dr
+Marketers often make trade-offs in campaign efficiency due to various limitations in existing marketing automation tools. Castled helps businesses overcome these pain points by providing a Marketing Automation Platform built natively on top of Cloud Data warehouses.
+We're
+Arun
+,
+Abhilash
+, and
+Frank
+, and our vision is to bring the power of Customer 360 in the data warehouses to visionary marketers.
+🎙 Why yet another Marketing Automation Platform
+We started our journey by building an open-source Reverse ETL solution to make quality customer data available to marketers.
+However, after talking to 100s of marketers, we realised that there are other fundamental limitations in the existing tools that prevented the marketers from leveraging this data in its true sense. That's when we changed course and built a solution to address these problems.
+😰 Limitations of existing Marketing Automation tools
+Need for maintaining a leaky pipeline:
+Traditional marketing automation tools needs a pipeline to move the customer data to the tool, which is always at risk of breaking.
+Immoderate dependency on the Data & IT Team:
+Dependency on the data team for the above-mentioned pipeline maintenance and for running campaign-related queries which often results in delays affecting campaign effectiveness.
+Unavailability of quality customer data:
+Unavailability of quality customer 360 with relevant historical behavioural data, which is vital for up-selling, cross-selling and re-engaging existing customers
+Unreasonable data volume-based pricing:
+Traditional marketing automation tools charge in terms of the data points consumed or MAUs, which can get unreasonably expensive for most B2C businesses as the data to move is generally exorbitantly high volumes.
+Customer Data Security concerns:
+Info-sec team have concerns about the regulatory, privacy and data protection requirements and external security audits as the customer data moves out of the system.
+Restrictive data retention:
+The data retention in most tools is limited to a few months, drastically reducing the accuracy of the marketing campaigns.
+Unreasonably high Time to Value
+: It takes months of tech integrations and resource bandwidth before the marketing tools start delivering value.
+💡 Advantages of our Solution
+Reduced dependency on the data & IT team:
+Since the data don’t leave the warehouse, the dependency on the data team is considerably reduced and is limited to the initial setup. No pipelines to maintain.
+Increased data security:
+Since the customer data don’t leave your warehouse, we are secure by design.
+Cost-effective:
+Castled does not store the customers' demographic or event data. This makes Castled 75% more cost-effective than a traditional marketing tool.
+Unlimited data retention:
+Marketers can use all their customer and behavioral data in the warehouse during customer segmentation. It enables the marketer to cross-sell, up-sell or reengage existing customers more efficiently to increase their LTV.
+Low TTV and ease of getting started
+: All the data required to run the campaigns are already sitting in the cloud data warehouse. Get started in hours instead of months.
+Improved data consistency:
+Castled uses Customer 360 in the warehouse directly. No sync is needed to keep data consistent.
+🛠 How Castled works
+Castled is the CEP a modern marketer needs, as it provides the flexibility in creating relevant and dynamic user segments directly on top of the Customer 360 in your data warehouse with
+no dependency on the data team or requiring SQL knowledge to do so.
+Create relevant and timely campaigns or user journeys in Castled to engage the segment of users across different channels.
+https://www.youtube.com/watch?v=bzWVWXr21Ok
+🚀 Get Started
+Signup at
+castled.io
+and give it a spin. Or, if you have a google account, directly log in using
+app.castled.io
+.
+If this resonates with you, we'd love to chat! - Shoot an email to
+founders@castled.io
+, or grab a time
+here
+.
+See All Launches ›

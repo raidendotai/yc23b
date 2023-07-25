@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Inkeep
+160
+inkeep - Conversational search for your developer product 💬🔍
+Help developers do more with your product, faster.
+Robert Tran
+Inkeep
+5 months ago
+Embed
+https://inkeep.com
+#
+saas
+#
+community
+#
+generative_ai
+#
+developer_tools
+#
+customer_support
+tl;dr:
+inkeep
+provides conversational search for developer-focused companies. We use LLMs to understand a company’s docs, GitHub issues, Stack Overflow questions, and more to answer developer questions and increase customer activation.
+Our Team:
+Hi YC, we’re
+Robert Tran
+and
+Nick Gomez
+from inkeep!
+We met eight years ago at MIT as undergrads. After MIT, Nick was a Senior Product Manager working on developer experiences for Microsoft’s identity products. Robert was Head of Engineering at illlumis (acquired), building large-scale data aggregation pipelines for public datasets.
+With years of experience building developer-focused products, we are excited to build inkeep.
+Problem:
+Any blocker or unanswered question is a drop-off point
+Developers evaluate a product by how easy it is to get started and use it for their use case. Optimizing this experience is the #1 goal for many developer-focused companies, but it’s hard to do well because:
+Knowledge about the product is scattered across docs, GitHub issues, Stack Overflow, forums, private communities, and more.
+Answering technical issues and questions at scale is hard.
+Developers often prefer to self-troubleshoot.
+Solution:
+Conversational search powered by all your existing content
+inkeep
+automatically indexes all of a developer tool company’s content with zero effort required. We use fine-tuned LLMs that fully understand your product to power search and chat experiences tailored for developers.
+inkeep is embeddable as a:
+Search bar for your docs
+Chat widget for your app or landing page
+Slack or Discord bot for your community
+Your developers can search or ask anything and get answers immediately. And you’ll be able to get insights on what they're getting stuck on.
+Our asks:
+Interested in adding inkeep to your developer product? We’d love to
+show you a demo
+.
+Connect us with folks who are obsessed with developer experience & activation.
+Get in touch at:
+founders@inkeep.com
+Learn more at:
+inkeep.com
+See All Launches ›

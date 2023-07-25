@@ -1,0 +1,48 @@
+Home
+›
+Launches
+›
+Radical
+35
+Radical ✈️ Wireless connectivity from the stratosphere
+We are building high altitude solar aircraft to deliver broadband connectivity at a fraction of the cost of terrestrial networks.
+James Thomas
+Radical
+7 months ago
+Embed
+https://www.radicalaero.com/
+#
+drones
+#
+hard_tech
+#
+airplanes
+#
+electric_vehicles
+#
+telecommunications
+Hi
+👋
+James
+and
+Cyriel
+here to introduce
+Radical
+!
+Radical makes internet access affordable worldwide. We are building high altitude solar aircraft to deliver broadband connectivity at a fraction of the cost of terrestrial networks.
+The Problem: Universal Connectivity
+More than 3 billion people lack access to reliable broadband internet. Bringing underserved communities online is difficult with existing technologies.
+Terrestrial networks are prohibitively expensive to establish in sparsely populated areas, and signal quality can be impaired in areas with hilly terrain.
+Satellite networks are also costly, they require rocket launches and large constellations to achieve consistent coverage. Additionally, these services are not mobile - requiring the end user to use a dish transceiver.
+High altitude balloons are unable to maintain position in strong winds and can drift away from their target service areas.
+The Solution: Radical’s Stratospheric Aircraft
+The ideal cell tower is positioned near users, but away from the ground to maintain line-of-sight coverage over a large service area. Radical is building the ideal cell tower: a high altitude solar aircraft.
+Unlike terrestrial cell towers, high altitude aircraft maintain line-of-sight coverage over a large area and avoid terrain obstructions.
+High altitude aircraft are 20x closer to the ground than low earth orbit satellites, reducing latency and eliminating the need for dish transceivers.
+Unlike balloons, high altitude aircraft are able to maintain position in strong winds.
+All together, this means we can establish coverage in areas that were previously uneconomical to service.
+How it works
+Radical’s aircraft flies in the lower stratosphere - above weather, clouds, and aviation traffic. Here it collects solar energy from the sun in the day, and deploys battery energy at night - allowing it to fly continuously year-round. The aircraft has the wingspan of a passenger jet, but is ultra-light and ultra-efficient, weighing less than a motorbike and using the same amount of power as a hair dryer.
+Ask
+If you know telecommunications companies that are interested in improving their network coverage, we’d like to be connected!
+See All Launches ›

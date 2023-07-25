@@ -1,0 +1,56 @@
+Home
+›
+Launches
+›
+Magik
+45
+Magik - Global Fiat → Crypto OnRamp Aggregator
+Onramp users from around the world | Seamlessly convert 25+ currencies to crypto in 10 lines of code
+Himanshu Bamoria
+Magik
+6 months ago
+Embed
+https://magiklabs.app
+Hey YC fam! We are
+Mohit
+,
+Himanshu
+,
+Shiv
+and
+Akshat
+building
+Magik
+.
+About Magik
+Magik removes the need for web3 applications to integrate with multiple onramps across different geographies. Our SDK aggregates on-ramp providers to get you better payment method coverage and best rates in more than 60+ countries
+Who can use Magik
+Any web3 app or wallet that requires
+fiat to crypto conversions
+across multiple geographies. Let’s talk:
+hello@magiklabs.io
+How Magik Works
+Embed our widget in your own app in 10 lines of code
+Your users can now pay in local payment methods like Pix, GrabPay, UPI, SEPA
+Get transaction settlements in minutes to your crypto wallet or users’ wallet
+We take care of KYC, AML and other legal compliances
+No chargebacks ever
+Why did we build Magik
+While building our yield farming application, we realised it was frustrating to integrate payment methods for different geographies. Each geography has its own on-ramp providers which specialise in:
+Different payment methods including local payment methods
+Support for different chains & tokens
+Different prices and transaction limits
+Web3 apps are global by nature and their on-ramping needs are also global. So we decided to build a simple way to integrate with the best on-ramps across the globe.
+Through one single integration, web3 apps can
+Accept funds from their users in
+60+ countries
+Remove intermediate steps like buying USDC first
+Get the best onramp rates
+Ask from YC community
+If you are a Web3 application that requires fiat to crypto conversions across multiple geographies, we can help you provide a better experience in onboarding your users.
+If you have someone building a web3 application in your network, we would love to help them reach more users.
+Let’s talk. Email us at
+hello@magiklabs.io
+or book a time at
+calendly.com/hbamoria
+See All Launches ›

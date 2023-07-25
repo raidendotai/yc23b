@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Mercoa
+107
+Mercoa: The accounts payable & BillPay API for B2B fintechs
+Offer B2B BillPay & AP to your customers and monetize payments out.
+Sai Arora
+Mercoa
+5 months ago
+Embed
+http://mercoa.com
+Hi everyone! We’re Sai and Sandeep and we’re building Mercoa.
+TL;DR
+Mercoa
+lets any B2B fintech offer BillPay and Accounts Payable services to their customers. Use our drop-in iframe or API to offer your users one place to manage and pay all of their invoices.
+The Problem:
+B2B fintechs want to be the one-stop-shop for their customers to manage their business finances. Customers want to manage their open bills & invoices on the same platform where they are receiving payments.
+Helping customers get paid is usually one of the first things a B2B fintech builds. Customers are willing to pay a payment processing fee, so monetizing incoming payments is seen as an easy win.
+On the other hand, helping customers make invoice and bill payments is not as simple. Aside from building the complex software needed to manage and process these payments, most fintechs do not see a clear way to monetize payments out.
+Monetizing Payments Out:
+The best way to make money from B2B BillPay is to offer premium payment options that help customers maintain their cash flow while ensuring their vendors are paid on time. These options include:
+Before a business can offer these options to their customers, they first need to build a software experience that lets their customers pay their bills & invoices with confidence. This experience consists of eight different components that must be tightly integrated together:
+Most companies piece together a solution with some but not all of these components in an effort to launch as quickly as possible. They find themselves in an endless cycle of optimizing an experience with no meaningful end in sight to start monetizing. Some companies we spoke with spent three years optimizing their BillPay experience. Others ended up abandoning their BillPay efforts.
+Our Solution: A white-labeled, embedded BillPay experience with pre-built payment monetization
+With Mercoa, offering BillPay and Accounts Payable services to your users is as simple as dropping our iframe into your product.
+Using our drop-in iframe or API, you can offer your users one place to:
+Manage open invoices & bills
+Schedule payments
+Invite vendors to choose how they want to receive their payment
+When you offer AP using Mercoa, your users can:
+Pay any invoice by credit card
+Pay any invoice by ACH
+Pay any invoice with BNPL
+And your user’s vendor can:
+Receive their payment via check
+Receive their payment via ACH
+Receive their payment via Virtual Card
+The best part is whenever a user or a vendor chooses a premium payment option, Mercoa shares revenue generated with you.
+Our payments-focused BillPay experience decouples a bill payment transaction; allowing payers to pay how they want and letting vendors choose how they want to receive their payment. Our goal is to be a payments orchestration engine that can power any BillPay or Accounts Payable process.
+BillPay is so boring! Why are we working on this?
+In a previous life, Sai was a payments lead at
+Bill.com
+. There, he integrated
+Bill.com
+with a neobank and led the Instant Transfer line of business. Both of these experiences exposed him to the challenges B2B neobanks face in offering BillPay to their customers. Sai realized that
+Bill.com
+’s systems were completely unoptimized for an embedded use case which is becoming more common with the rise of B2B vertical SaaS and fintech platforms.
+We believe we’re still in the very early innings of digital B2B BillPay and see a massive opportunity to digitize the $25 trillion in annual business payments in the US and eventually the globe!
+Our Ask:
+Want to offer Accounts Payable services to your customers? Book a
+demo
+or email Sai at
+sai@mercoa.com
+Know a company who is looking to offer Accounts Payable services to their customers? Share this post with them!
+Want to learn more about what it takes to stand up an Accounts Payable experience? Check out our
+Insider’s Guide to Accounts Payable
+See All Launches ›

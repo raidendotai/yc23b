@@ -1,0 +1,96 @@
+Home
+›
+Launches
+›
+Javelin Robotics
+15
+🚛 Javelin Robotics - Autonomous trucks helping drivers flourish
+We are building autonomy software that tag-teams with human drivers
+Addwiteey Chrungoo
+Javelin Robotics
+6 months ago
+Embed
+https://javelinrobotics.com
+#
+ai
+#
+robotics
+#
+hard_tech
+#
+transportation
+#
+autonomous_trucking
+Hi 👋
+Addwiteey
+and
+Sandesh
+here to introduce
+Javelin Robotics
+.
+We help truckers
+cut delivery times in half
+, doubling productivity and adding much needed capacity to the freight industry. We do this by building autonomy software that tag-teams
+with
+human drivers.
+Conventional trucks drive ~120K miles/year. Trucks with our tech can hit more than 190K miles/year. Since truckers make money by the mile, this has a direct impact on earnings. Watch
+video
+.
+Why should you care?
+There is this saying: If its in your home, a truck brought it. Nearly 72% of all freight in America is moved by hard working truckers. 3.5 Million of them. But unfortunately theirs is an ageing pool and not many young folks are joining the workforce. Those who do, frequently quit within a year - a leaky bucket. To add to that, trucks are expected to drive 57% more miles in the coming years to keep up with demand.
+But aren’t we expecting driverless trucks to solve this?
+To some extent yes, but fully driverless long haul solutions has its own constraints, new costs, new risks and require
+major
+operational changes to how freight is moved today (i.e. point to point, direct to destination). Driverless freight needs to be routed via hubs → 2x stops, 2x handoffs and offers limited operational flexibility / geographical reach. Most small and medium carriers need operational flexibility + geographical reach.
+So if we look at driverless trucks as a tool, its clear they are necessary, but we need complementary solutions that seamlessly work for most.
+The solution
+Engineer autonomy such that it makes our existing drivers most productive and happy. So, we are building autonomy software that’s designed from the ground up to tag-team
+with
+human drivers.
+We offer our solution as an end-to-end service: autonomous ready freight search, automated driving in service zones, effortless payments.
+For truck drivers, having access to our software is like having access to a
+second driver that drives on-demand.
+This helps increase:
+⏳
+Productivity
+🚛
+Trucking capacity
+💰
+Driver and fleet revenue
+How we are different?
+We’re
+not
+building human-less trucks for a few large carriers.
+We’re building the
+most practical and driver friendly
+autonomous system to serve 90% of the trucking industry
+Using existing team driving model truckers are familiar with
+Delivering both operational flexibility and geographical reach
+No need for
+new infrastructure, process changes or multiple hand-offs
+In sync with current US
+federal policy
+related to trucker jobs
+Similar monetary
+savings
+for carriers, as driverless.
+Our tech stack’s architecture leverages advances in modern AI, making our dev 10x more capital efficient.
+About the founders:
+Addwiteey
+met
+Sandesh
+at Caterpillar where they helped bring the world’s largest autonomous trucks into production. Together, they’ve built autonomous trucks for mines and public highways, from scratch.
+For them, It's always been about
+robots + people
+.
+How you can help:
+We would love to chat:
+If you or anyone in your network might be interested in learning more or helping out.
+If you are a trucker or run a truck co.
+If you are a shipper looking to ship faster.
+Share this post!
+Please help spread the word.
+(many truckers don’t realize autonomy can actually help).
+We can be reached at
+founders@javelinrobotics.com
+See All Launches ›

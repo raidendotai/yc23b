@@ -1,0 +1,75 @@
+Home
+›
+Launches
+›
+DailyBot
+40
+DailyBot+ AI 🧠 The assistant and toolkit for modern teams
+Meet DailyBot, a ChatGPT assistant and AI workflow builder for your work chat
+Mauricio Morales
+DailyBot
+4 months ago
+Embed
+https://www.dailybot.com/
+#
+saas
+#
+ai_assistant
+#
+collaboration
+#
+developer_tools
+#
+artificial_intelligence
+Hi! We are Mauricio Morales and Sergio Florez, the founders of
+DailyBot
+.
+DailyBot+ AI is a toolkit for modern work: a ChatGPT Assistant and an AI Workflow automation tool that takes asynchronous work and in-chat collaboration to another level. Compatible with Slack, Microsoft Teams, Google Chat, or Discord.
+The Problem
+AI is the future, yes. But many people lack the knowledge and resources to effectively incorporate AI into their daily workflow, resulting in missed opportunities for creating impactful use cases.
+Our Solution
+DailyBot provides a chat assistant and platform that simplifies the integration of AI into daily workflows. With our technology, anyone can access an AI assistant (ChatGPT) in the work chat, and can also implement use cases that leverage the power of AI.
+We provide key building blocks for you to combine and build multiple use cases on top of your chat workspace.
+The building blocks of DailyBot are:
+Check-ins
+for stand-ups or recurring surveys;
+Forms
+for any data collection;
+Chat Commands
+for in-chat customization;
+Workflows
+for setting up triggers/actions; and the
+AI engine
+.
+The DailyBot Workflows provide a Zapier-like interface where users can define triggers and actions (one or multiple) that should run.
+The Actions can be AI content generation, sending messages (DMs or channels), sending emails, or triggering other building blocks of DailyBot.
+A Few Examples
+You run a
+Daily Stand-up
+(built with Check-ins), then,
+when a blocker is reported
+, an
+AI Workflow is run
+. It analyzes the blocker and then suggests the employee ideas for solving the issue/bocker.
+You create a
+Form
+that will be triggered with the in-chat command named “
+product release
+”, when the Form is completed an
+AI Workflow is run
+. It analyzes all the content of the release form
+and generates a press release
+that is posted into the #releases channel.
+You create an
+anonymous survey to monitor team morale
+. The
+AI analyzes all the responses
+and sends a summary to the head of HR (via email or DM).
+We're passionate about making remote work easier and more efficient and our goal is to make DailyBot the best companion for your team’s work.
+Our Ask:
+We’d love to hear your ideas on what type of AI-powered daily workflows (in chat) will add value to your team, feel free to share the feedback at
+support@dailybot.com
+We offer a Free Trial,
+Try DailyBot here
+.
+See All Launches ›

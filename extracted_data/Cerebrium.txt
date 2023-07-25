@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Cerebrium
+21
+Cerebrium: An AWS Sagemaker alternative
+A framework that makes it easier to train, deploy and monitor ML models across serverless GPU's
+Michael Louis
+Cerebrium
+5 months ago
+Embed
+https://www.cerebrium.ai/
+TL;DR
+Cerebrium
+is a machine learning framework that makes it easy to train, deploy and monitor ML models. You can:
+⚙️
+Train
+LLM’s such as FlanT5, GPT-NEOx-20b etc with a few lines of code (beta)
+🚀
+Deploy
+LLM’s or even custom models using just one line of code to serverless CPU’s/GPU’s.
+📈
+Monitor
+your ML models with our built in integrations with Arize and Censius.
+Hi Everyone! We’re Michael and Jonathan and we are so excited to introduce you to Cerebrium!
+❌
+The Problem
+Implementing machine learning based applications in a business remains challenging. You have multiple infrastructure concerns, such as expensive GPU’s, scaling issues, fragmented tooling while additionally also struggle to find machine learning talent and keep up with the latest research and techniques. These barriers to entry prohibit smaller companies from implementing machine learning into their business sooner.
+🚀
+The Solution
+Cerebrium helps teams easily train, deploy and monitor machine learning models in production. Using our framework, you can train and deploy models (custom built or LLM’s) to serverless CPU’s/GPU’s using one line of code. You are only charged for inference time and we automatically handle the scaling and the versioning of models.
+When it comes to training and/or inference, we use the latest research techniques to reduce training and inference times by 20-40%. You just focus on adding value to your use case and we will take care of the rest!
+⚙️
+How it works
+Create a free account
+here
+. You get $10 in free serverless GPU credits.
+Install our Python library:
+pip install cerebrium
+Write one line of code to deploy your custom model or deploy a pre-built template
+Get an endpoint that automatically scales based on traffic
+Check out our
+documentation
+to see a greater list of examples and features.
+🤔
+Why we Built Cerebrium
+At our previous business, machine learning made a huge impact across various teams but it took months of building, testing and experimenting to get it there. We wanted to make the same sort of impact accessible to companies who don’t have the resources or know-how - and of course make it available in a fraction of the time
+🙏
+Our Asks
+Try out our framework! It takes the average user less than 4 minutes to get a model up and running (yes even if its custom) and give us your feedback - its free.
+Share our framework with people you know who are building ML based applications or are struggling to fine-tune/deploy their ML models.
+Join our
+Slack
+and
+Discord
+communities
+Upvote and share this post!
+See All Launches ›

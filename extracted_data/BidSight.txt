@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+BidSight
+74
+BidSight 🏗️ - Modernizing pre-construction for CRE developers
+Eliminate costly errors and meet deadlines during pre-construction, with the first project management platform specifically built for CRE developers
+Alec Dunn
+BidSight
+6 months ago
+Embed
+https://bidsight.io/
+#
+b2b
+#
+saas
+#
+proptech
+#
+real_estate
+#
+construction
+Tl;dr
+:
+BidSight makes it easy for commercial real estate (CRE) development teams to manage and collaborate on complex pre-construction workflows. Today, CRE developers manually track pre-construction workflows across hundreds of project documents, which leads to extremely costly errors. BidSight’s platform acts as a single source of truth for development teams, eliminating errors and saving them millions.
+Learn more today!
+Hi everyone! We’re Alec, Connor, and Josh from
+BidSight
+.
+🚧 The Problem: The Pre-Construction process is broken
+During pre-construction, commercial real estate developers rely on numerous stakeholders (architects, engineers, contractors, etc.) to help design, permit, and plan construction projects within their budget. However, development teams currently have to utilize a patchwork of non-specialized tools (email, excel, PDF editors, etc) to manage stakeholder workflows and output, creating error-prone, non-standardized, and siloed processes.
+The current process forces development teams to recreate the wheel from scratch on every project and causes them to lose millions of dollars on each project due to error driven delays.
+📖
+Background
+Alec (CEO) spent 5+ years working for one of the largest commercial real estate developers in the United States and dealt with this problem on a daily basis. He spent a significant amount of time searching for a software solution that addressed his highly specific needs; however, none of the non-specialized tools in the market worked. After speaking with numerous other developers that faced the same problem, Alec decided to recruit Connor (ex-Square) and Josh (ex-Google), who have spent their careers developing software, to build the product he always wished he had.
+✅ Our Solution: Collaborative workflow and data management
+A pre-construction specific workflow and data management platform that acts as the single source of truth for development teams.
+🧑‍🤝‍🧑Team Management
+: Add your full team (internal and external) to a project, with clear permissions structures based on roles and responsibilities
+📅Schedule Management
+: Create project schedules that update in real-time based on the completion of tasks
+📄Drawing & Document Management
+: Upload all of your project drawings and our OCR engine will automatically categorize them, allowing for clear version control and change tracking
+✔️Task Management
+: Assign, track and prioritize tasks, which are directly tied to project documents and deadlines
+♻️Templated Workflows
+: Create templates and checklists for your specialized workflows to standardize processes
+💰 Opportunity: Value beyond savings
+In 2022, $1.8 trillion was spent on construction in the United States. Recent studies have shown that 75% of construction projects are delayed and less than 1/3 of projects come within 10% of their original budget. This means that there are hundreds of billions of dollars wasted each year due to project delays! Rather than wasting these funds, they should be reallocated to enhance our built world.
+🙏Ask: How you can help
+Connect us
+to US based CRE developers in your network
+Share BidSight
+with your network
+If you are building a company within the real estate & construction space, we would love to connect to learn about your experience (
+founders@BidSight.io
+)
+See All Launches ›

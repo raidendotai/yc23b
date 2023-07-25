@@ -1,0 +1,52 @@
+Home
+›
+Launches
+›
+0pass
+44
+🛡️0pass - Stop phishing attacks
+We replace passwords and weak MFA with phishing-resistant login across your entire company.
+Noah Stanford
+0pass
+6 months ago
+Embed
+https://0pass.com
+Hey, we are Noah and Michael, the founders of
+0pass.com
+. We created 0pass to solve cybersecurity’s biggest threat - phishing and credential theft.
+What’s the problem?
+Passwords and weak two-factor authentication are the leading cause (90%) of security breaches.
+Attackers can
+easily
+steal your passwords, two-factor codes, or even push notifications. Having a fortress of security controls loses its value when
+one bad link
+could change everything.
+How does 0pass help?
+We replace traditional login methods like passwords, two-factor codes, and push notifications with more convenient,
+phishing-resistant
+methods like
+Windows Hello
+,
+TouchID
+,
+FaceID
+, and
+Yubikeys
+.
+Finally, enjoy the same level of security and convenience across Windows, Mac, Linux, and remote, regardless of your employee’s OS or your existing infrastructure / identity providers.
+Can I use 0pass at my company?
+We’re actively working with customers to implement and improve 0pass at their companies - stopping attackers in their tracks.
+If you:
+Want more convenient and secure login at your company
+Want to meet the highest cyber insurance and compliance standards
+Want to stop phishing once and for all
+Schedule a meeting today, or call us directly.
+Mail
+-
+founders@0pass.com
+Meetings
+-
+https://goodbye.pw
+Phone
+- +1-707-400-0989
+See All Launches ›

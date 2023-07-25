@@ -1,0 +1,46 @@
+Home
+›
+Launches
+›
+Outerbase
+83
+👾 Outerbase – Interface for your database
+Outerbase is the easiest way for you and your team to securely access your data.
+Brandon Strittmatter
+Outerbase
+5 months ago
+Embed
+https://www.outerbase.com
+#
+ai
+#
+analytics
+#
+generative_ai
+#
+developer_tools
+#
+data_engineering
+Hi everyone – we are Brandon & Brayden from Outerbase.
+📚 TL;DR
+Current database tooling is poorly designed and historically been targeted solely at developers. Outerbase is a modern platform that allows you and your entire team to view the data you need whether it be in Postgres, MySQL, Snowflake, BigQuery or more.
+🪨 The Problem
+Getting access to your data is hard. Typically there are only a few people who hold the keys to it at any given company and they quickly become a bottleneck on data requests. The tooling around it is outdated and poorly designed, and not intended for the modern collaborative work environments.
+⚒️ Our Solution
+Outerbase provides an intuitive interface with granular access to your data. It has a familiar spreadsheet-like experience that anyone can use. Outerbase’s EZQL provides a sql-less experience through the use of GPT-3. You can take those same queries and create beautiful dashboards all in one experience.
+⚙️ How Outerbase Works
+We sit on top of most relational database types, including Postgres, MySQL, Redshift, BigQuery, and Snowflake. You simply provide your database credentials and Outerbase gives you a spreadsheet-like experience to view, edit, query, and visualize your data. Since access is based on your credentials you can easily control how granularly your team accesses your data. Our EZQL feature is powered by OpenAI and takes your databases schema and structures your questions/queries based on it.
+🙋 Asks
+Try Outerbase, simply
+sign up
+and get started with our demo database, or add your own database credentials in the connections tab. You can also
+download
+our mac app.
+If you know of anyone trying to kick off the process of making data-driven decisions but doesn’t know where to start, please intro them to us!
+Join our Slack
+community
+.
+And, if you have 15 minutes to chat about your pain points accessing your data please book some time
+here
+.
+See All Launches ›

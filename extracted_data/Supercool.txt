@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+Supercool
+29
+Supercool: The easiest way to buy NFTs
+We make digital collectibles accessible to everyone through a NFT checkout that abstracts away web3 complexities with credit card payments and email-based wallets.
+Bruno Jacob
+Supercool
+7 months ago
+Embed
+https://www.supercool.xyz/
+#
+nft
+#
+finance
+#
+crypto/web3
+#
+infrastructure
+TL;DR
+At Supercool, we help NFT sellers set up the simplest NFT checkout experience that enables anyone to seamlessly purchase NFTs using their email and a credit card. No wallet or crypto required!
+The Problem
+Whether you are crypto-native or new to web3, buying NFTs can be nerve-racking.
+Only the steps required to have a crypto wallet are enough to prevent anyone from purchasing NFTs. First time buyers have to setup a crypto wallet, which involves downloading Chrome extensions and storing long pass phrases; then they have to figure out how to buy crypto currency from an exchange and go through several KYC steps in the process; finally, they need to send crypto from the exchange to their wallet, connect their wallet to the mint website, and sign the transactions required for the purchase. These are way too many steps and can take days to complete!
+Because doing simple things in web3 often requires so many steps, web3 has become an exclusive club of decentralization and tech enthusiasts — but it shouldn’t be this way; everyone should be able to participate.
+Simplifying the NFT checkout
+In order to onboard more people into the NFT space and capture larger audiences, we need to offer users a purchasing experience as seamless as what already exists in e-commerce:
+secure
+payments using credit cards
+. Here is where Supercool comes in.
+Supercool is a checkout solution for NFTs (think PayPal for NFTs). In under 5 minutes, NFT projects can increase their sales conversion by integrating Supercool into their checkout flow to allow people to buy their NFTs securely in the ways that are most convenient to their customers. For example, through Supercool a user can buy NFTs with a credit card without having to own a digital wallet or any crypto.
+Supercool is
+free
+for sellers. To use Supercool in your NFT project, go to
+supercool.xyz
+and click
+“Request Access”
+and we’ll reach out to you to start the integration. It’s that simple!
+Why choose Supercool?
+Supercool helps NFTs reach their full potential by helping NFT sellers meet their audience where they are through a user-friendly checkout that is optimized for conversion.
+We make NFTs accessible to the widest audience by offering multiple payment options like debit card, credit cards, Apple Pay, Google Pay, ETH, MATIC, etc…
+We support NFTs on Ethereum and Polygon
+We generate non-custodial NFT wallets for buyers on demand
+We make mobile purchases 10X easier for buyers
+Supercool is free for sellers!
+Supercool is easy to integrate. If you want, we’ll do it for you!
+The Ask:
+Help us onboard the next millions of users into NFTs!
+Reach out!
+If you have any questions or are a creator, marketplace, launchpad, or brand that would like to get in touch, shoot us a message at
+founders@supercool.xyz
+.
+Connect us to projects.
+if you know any brands or projects that might be interested in increasing sales by simplifying the NFT buying experience or that are looking to use NFTs in some way, please connect us.
+You can earn up to 1.12 ETH for every project you connect us with!
+Follow us on
+Twitter
+and join our
+Discord
+to tune into the latest product updates and join the Supercool community.
+See All Launches ›

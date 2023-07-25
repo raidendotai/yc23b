@@ -1,0 +1,42 @@
+Home
+›
+Launches
+›
+Narrative
+45
+Narrative - Bill.com for the logistics industry
+We make it easy for shippers and logistics providers to catch errors in invoices by comparing them with contracts and facilitate faster payments.
+Akshit Khurana
+Narrative
+4 months ago
+Embed
+https://www.trynarrative.com/
+tl;dr: Narrative is an AI-powered invoice audit, analytics and payments tool for logistics. We automatically process contracts and compare them to invoices, create detailed dashboards and reduce payment delays.
+Hi everyone, we are
+Suchit
+and
+Akshit
+and we're on a mission to automate invoice processing and reconciliation in logistics.
+Suchit spent 2.5 years at Uber Freight working on tools for fortune 500 shippers for building & tracking loads, managing payments and verifying surcharges. Before that, he designed enterprise products at Palantir, Crew and Thumbtack.
+Akshit was on the Pytorch Mobile team at Facebook AI. Before that, he led engineering teams at
+Ambient.ai
+and shipped products at LinkedIn, NetApp,
+Ginger.io
+(Headspace Health) and HouseCanary.
+Why is this a problem?
+A logistics invoice is composed of multiple variable costs like fuel prices, delays in picking up, labor costs, foreign exchange rates and shipper specific discounts. Fragmentation of the logistics industry and disconnected systems across vendors make PDFs and email the medium of exchange of information. These cause on average 20% of logistics invoices to have errors that are hard to identify manually.
+Suchit saw the operations team at Uber Freight spend days collecting proofs of variable costs from truck drivers, manually verifying surcharges and creating the invoices. Shippers had to verify these charges manually too. This led to errors and delays in payments.
+Talking to 100s of shippers and brokerages, we have seen that they audit invoices to avoid overpaying and payment delays. Current ways to combat this problem involve outsourcing the audit to a third party that removes visibility or using low accuracy software that requires a lot of time and effort
+What is the solution?
+Narrative is an AI-powered invoice audit, payments and analytics tool. We verify proofs submitted by drivers for brokers, invoices received by shippers highlighting the errors and missing items.
+Audit invoices: Save time in managing contracts and comparing them to the invoices for all modes of logistics.
+Payments: Pay invoices accurately and on time with their preferred method.
+Dashboard: Track logistics spend, error rates, and carrier performance for additional savings.
+Our asks
+If your company is a high volume shipper, we’d love to help improve your audit and spend analysis workflows.
+If you are a logistics broker or a 3PL processing invoices daily, we’d love to chat.
+Schedule a demo
+here
+or email us at
+founders@trynarrative.com
+See All Launches ›

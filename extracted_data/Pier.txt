@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+Pier
+252
+Pier - The fastest way to ship your own loan products 🚀
+Credit-as-a-Service API built for speed & flexibility
+Jessica Zhang
+Pier
+6 months ago
+Embed
+http://www.pier-finance.com
+#
+b2b
+#
+saas
+#
+fintech
+#
+developer_tools
+👋🏻 Hey Alex & Jess here from W23 batch!
+✨ TLDR ✨
+We’re building an
+API for launching credit products
+. We enable any company to offer credit by handling origination, underwriting, compliance and servicing with just a few lines of code. Using Pier, our customers can offer credit to their borrowers/users without ever directing them outside their app, while Pier’s API powers it all under the hood.
+⛔️ The Problem ⛔️
+Launching a credit product in the US is extremely complex, expensive and time consuming — Companies have to build a lending function from scratch, pay millions of dollars for a bank charter, and spend months or years to implement. These combined factors often break the unit economics of a fast-growing company and are usually not part of a company’s core competency.
+✅ Our Solution ✅
+Pier enables companies to go live with their own credit product in weeks, not months!
+🔥
+Speed is our (and your) currency
+- our platform and implementation process is designed to take you live in weeks, not months
+🚀
+Built for developers
+- API driven, flexible modules to support innovative credit products
+📐
+Compliance partner
+- leave the toughest compliance & licensing burdens to us, so you can focus on your customers.
+⚙️ How it works ⚙️
+🙏🏻 Our Asks 🙏🏻
+Reach out via our
+contact us form
+if you’d like to use our solutions
+Share this with folks you know building credit products
+Give us an Upvote & share!
+See All Launches ›

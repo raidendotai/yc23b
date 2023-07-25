@@ -1,0 +1,58 @@
+Home
+›
+Launches
+›
+Structured
+68
+🪵 Structured: Customizable copilot for log analysis
+Harnessing AI to convert high-volume log data into practical insights.
+Amrutha Gujjar
+Structured
+a month ago
+Embed
+https://www.structuredlabs.io/
+#
+ai
+#
+ai_assistant
+#
+developer_tools
+👋 Hello YC! We are
+Amrutha Gujjar
+and
+Shivam Singhal
+the founders of
+Structured
+.
+Structured
+enables the creation of intelligent agents capable of rapidly interpreting and analyzing substantial volumes of complex log data – all without writing a single line of code. With the use of sophisticated language models, it efficiently identifies patterns, cross-correlates from knowledge sources (e.g. logs, metrics, customer support tickets, codebases, documentation), automates workflows, and transforms high-volume, low-density data into actionable business insights.
+Why we built Structured
+As ex-Facebook engineers who designed internal distributed log systems, and built machine learning detection systems for rare content, we saw first-hand how applying machine learning to these 'needle in a haystack' problems could bring about significant impact. We envisioned a solution that is not only effective but also accessible to users without a technical background. With no existing solutions meeting these criteria in the market, we decided to create our own. That's how Structured came into existence - a platform aimed to change the way you interact with, understand, and leverage your log data.
+Who it’s for
+Structured is for any organization handling large volumes of log data and seeking to automate their log analysis to make their operations more efficient and insightful. This could include businesses in IT, cloud services, cybersecurity, data analytics, and any sector dealing with substantial volumes of log data.
+How it works
+📥
+Connect
+: Simply link Structured to your log source and upload your data. Watch as the data is quickly transformed for analysis.
+🔎
+Leverage Knowledge
+: Use your unique, proprietary knowledge, such as device configurations and error codes,  to train a custom log bot tailored specifically to your own system.
+💡
+Customize Learning
+: Structured auto-generates prompts and examples for your log bots' learning, but you're in control and can customize to align with your needs.
+💬
+Communicate
+: Interact with your log bot through a user-friendly chat interface, simplifying communication across all teams.
+📄
+Generate Reports
+: Let Structured build insightful, narrative reports from your data, ready to be edited, saved, and shared with your team.
+Ask
+We'd love for you to try out our product – reach out to us
+founders@structuredlabs.io
+to get onboarded.
+You can gain access to our free tier playground by signing up at this
+link
+. Please don't hesitate to reach out to us with feedback, questions, or any other concerns. You can email me at
+amrutha@structuredlabs.io
+.
+See All Launches ›

@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Cardinal
+17
+☕️ Cardinal - Enabling product teams to build measurable features
+The system of record for product teams enabling them to build the right things and achieve data-driven goals
+Wiz 👋🏻
+Cardinal
+5 months ago
+Embed
+http://cardinalapp.io
+#
+b2b
+#
+saas
+#
+analytics
+#
+productivity
+#
+generative_ai
+☕️
+TL;DR
+Cardinal is the platform for product teams to define strategies, break it down to goals and set specs (features) with live data and KPIs across systems, consistently through teams and projects.
+Hi, we’re
+Wiz
+and
+Mor
+, co-founders of Cardinal.
+🏆 Why Us
+We’ve lead product and engineering at Epic Games (Directors).
+We’ve lead product and engineering at Houseparty (acquired by Epic Games).
+We’ve started and worked at startups (Docady, Onavo [Acquired by META]).
+We’ve lead deep tech teams at 8200 (Israeli NSA).
+We’ve been working together for 15 years and built internal tools to document and communicate strategies, progress, and try and track measurements of those throughout. From startup scale to corporate scale, it was always needed and insufficient.
+We’re excited to fix this!
+😩 Problem
+Managing product teams, building and shipping features is hard. Product discovery, spec-ing, prioritization, alignment, measurements and learnings all take a toll on teams trying to execute and build impactful features.
+🧠 Solution
+Managing strategy: through time, initiatives and stakeholders.
+Methodology: all your teams are aligned and work the same way
+Documentation & Knowledge Management: know your history and use it easily.
+Data & Insights: connect various systems and set real, live goals.
+🙏🏻 Our Asks
+Sign up to the beta at
+cardinalapp.io
+, give us real feedback.
+See All Launches ›

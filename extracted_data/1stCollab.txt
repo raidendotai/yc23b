@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+1stCollab
+24
+1stCollab — Run an influencer marketing campaign in less than 30 minutes 🎉
+1stCollab is an AI-powered influencer marketing platform that automates the process of running an influencer marketing campaign.
+Leon Lin
+1stCollab
+4 months ago
+Embed
+https://1stcollab.com/
+#
+marketing
+#
+marketplace
+#
+social_media
+#
+creator_economy
+#
+machine_learning
+TL;DR
+Influencer marketing is one of the most efficient ways to reach and acquire new customers, but it’s tedious to run campaigns. By leveraging machine learning and our prior campaign data, 1stCollab lets you run a campaign in under 30 minutes. Visit
+1stcollab.com
+to get started with your next influencer marketing campaign!
+Why is influencer marketing hard?
+From our time working at large social media platforms, we know that influencer marketing consistently outperforms organic ads. Unfortunately, launching an influencer campaign is a manual and lengthy process.
+Launching an influencer campaign takes weeks
+, while launching Google ads takes just minutes.
+The first step of every influencer campaign is to find the right creators to work with—which often takes over 50 hours per campaign. Existing solutions cost tens of thousands of dollars and operate off inaccurate data. As a result, the majority of influencer marketers spend hours manually searching on YouTube, TikTok, or Instagram. From there, they have to manually calculate stats, vet a creator’s audience, evaluate past partnerships, and negotiate rates and contract terms, review creatives, report out campaign metrics, and finally submit payments. This whole process often takes 2+ weeks for a single campaign.
+How does it work?
+1stCollab lets you launch an influencer marketing campaign in minutes—not weeks. All you have to do is find a single influencer who's relevant to your brand and target customers. Then:
+Use our
+influencer look-alike discovery tool
+to identify, vet, and save additional influencers you'd like to work with. We do what the best influencer marketers do: identify a single relevant creator, dig through that creator’s community, identify additional relevant creators, and repeat the process—but automatically.
+Send us your list of saved influencers and tell us about your campaign goals and budget.
+We'll take care of everything from there. All you have to do is approve the content that the influencers will post.
+We support campaigns on all platforms. Our self-serve discovery tool currently supports YouTube, and we’re launching for Instagram and TikTok soon.
+Our Team
+Our team has built some of the largest and most-used discovery and ML systems in the world, and has led industry-leading influencer marketing programs.
+Leon
+spent nine years at Pinterest, where he was most recently Head of Discovery Product.
+Varun
+was at Pinterest for five years, where he led product for both the Creator Engagement and Recommendations teams.
+Carina
+led influencer marketing at Whatnot, Robinhood, and Curology.
+Andrew
+was the tech lead for the Recommendations and Search team at Coupang and the Recommendations team at Pinterest.
+Kevin
+was a Founding Engineer and tech lead for the Machine Learning team at Abnormal Security and earlier, an engineer on the Recommendations team at Pinterest.
+Our Ask
+Want to give influencer marketing a try?
+We'd love to help! We're the easiest and fastest way to do it. Our discovery tool is free to try and we’re happy to help you run the rest of your campaign.
+Know someone doing influencer marketing?
+We'd love to be connected. Even if our product isn't the right fit, we’d love to know how we can make their process faster and improve their performance.
+No plans to run an influencer marketing campaign?
+Feel free to use our discovery tool and explore creators you might want to work with in the future! We'd love to get feedback on the discovery experience.
+If you have any questions, shoot us an email at
+hello@1stcollab.com
+!
+See All Launches ›

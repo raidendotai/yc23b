@@ -1,0 +1,58 @@
+Home
+›
+Launches
+›
+Koala Ops
+49
+Koala Ops - Kubernetes the easy way 🚀
+We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes.
+Oded Regev
+Koala Ops
+5 months ago
+Embed
+https://koalaops.com/
+#
+b2b
+#
+saas
+#
+devops
+#
+kubernetes
+#
+developer_tools
+TL;DR; We help you set up production-ready services in minutes instead of days and weeks, with all the tools you need and Kubernetes best practices out of the box, so that you can focus on your code.
+Talk to us
+to learn more!
+Also, if you need help with migrating/working with Kubernetes please
+contact us
+for a free consultation. We’d love to learn and help.
+Hi everyone, we’re Oded Regev and Nadav Erell, the founders of
+KoalaOps
+.
+Nadav, CTO
+formerly a Staff Software Engineer and an experienced team leader and architect at Google. Deep technical experience building scalable, robust systems in cloud native environments.
+Oded, CEO
+founded and led Cherrypick Consulting for 7 years with diverse customers including
+Gong.io
+, Mixtiles, Outbrain, OpenWeb and many more.
+The Problem
+Although
+50-70%
+of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, however, it can take a ton of work and many auxiliary tools to get there.
+As companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3rd party tools via custom internal tools.
+Our Solution
+We give you an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.
+We do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.
+We operate on your code and in your Cloud environment, so you’re never locked in and never restricted, as is common with classic PaaS offerings.
+If you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster whenever you want.
+Our Ask 🙏
+Contact us
+- We have a few last slots left in our beta - we’d love to see if we can help you step up your Kubernetes game or migrate, so that you can focus on building your own product instead of configuring YAML files and tools all day.
+We also offer free Kubernetes consultation!
+Please
+contact us
+or
+book time
+- we’d love to assist, even if you don’t end up using our product. Learning about real-life challenges that you are facing and trying to help you navigate them helps inform our roadmap and focus.
+See All Launches ›

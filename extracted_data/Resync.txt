@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+Resync
+162
+🟪 Resync: Inbox Zero for PMs and Eng Managers who are feeling swamped
+The ProductOps platform that proactively alerts you to trouble in your product development cycle
+Ethan Bond
+Resync
+5 months ago
+Embed
+https://resync.ai
+#
+b2b
+#
+saas
+#
+remote_work
+#
+collaboration
+#
+developer_tools
+TLDR
+‧˚₊
+Resync helps you maintain "inbox zero" on the changes across all your project files, giving you the freedom to think creatively and strategically again!
+₊˚⊹
+The problem
+As a product or eng leader, you’re responsible for both ensuring delivery of current work
+and
+steering future work, but just keeping up with what’s happening across your projects can be its own full-time job. With team conversations and decisions split across dozens of files and several services, there's always more digging you can do. The creative, fun, and long-term valuable part of your job falls to the bottom of the priority list in favor of constantly scouring team comms and files for problems.
+The solution
+Resync is a ProductOps platform that enables individual managers, teams, or entire organizations to detect and resolve problems in their product development lifecycle. It integrates directly with the tools your team is already using to produce a dashboard of "changes since I last looked" across all your project files. Resync also proactively alerts you to potential problems, like a Slack debate that's active for more than 3 days or a PRD getting rewritten after development has started.
+[List of supported services in the FAQ]
+The team
+We're an ex-Palantir duo with years of experience managing product teams, sometimes spanning up to 6 timezones. Jason is an engineer, second-time founder, and Thiel Fellow. He most recently led a product team responsible for expanding Palantir Foundry's data security and data governance capabilities. Ethan is a designer, engineer, and people-organizer. He most recently led a series of strategic product initiatives at Palantir to capture key customers and enter the company into new domains including energy production, cyber defense, and life sciences research.
+The ask
+We're bringing on 10 more teams/managers to our early access program. We’ll work closely with you to refine the views and workflows you need to restore your sanity! Register your interest here:
+https://resync.ai/interest
+and we’ll reach out to you this week.
+══════════════════
+FAQ
+How hard is setup and maintenance?
+Easy.
+You drop our Slackbot into your Slack channel and we'll generate a dashboard from the files your team is talking about (after you confirm they’re project-related resources and not memes!)
+Why now?
+- Remote/hybrid work makes it hard to passively track what the team is struggling with and dramatically increases the cost of "just checking in"-type conversations.
+- The macroeconomic situation means companies are trying to squeeze more output from the same, or even fewer, people. Managers will need systems and tools to meet this demand.
+Which services do you support?
+Communication tools:
+Slack
+Document tools:
+Google Docs, Notion, Quip
+Design tools:
+Figma
+Issue trackers:
+Github, Asana, Jira, Linear
+Version control:
+Github
+We’re always adding more, so let us know what you need!
+See All Launches ›

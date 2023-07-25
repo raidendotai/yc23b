@@ -1,0 +1,60 @@
+Home
+›
+Launches
+›
+Lume
+246
+Lume - No-code tool to create and maintain custom data integrations
+Lume uses AI to automatically transform data between any start and end schema.
+Robert Ross
+Lume
+5 months ago
+Embed
+https://www.lume.ai
+#
+ai
+#
+b2b
+#
+saas
+#
+generative_ai
+#
+data_engineering
+TL;DR
+Lume helps engineering teams build and maintain custom data integrations with no code. If you spend countless hours manually transforming data for custom integrations, we can help! Please go to our
+website
+and sign up for our private beta.
+—-
+Hi everyone! We are Nicolas, Nebyou, and Robert, the founders of Lume. We are on a mission to empower companies to focus on delivering their core value proposition rather than spending time on data integrations and transformations.
+🧨 Problem
+Engineers spend countless hours manually transforming data for custom integrations or pay large amounts to consulting firms to do the same. Dynamic schemas from different clients or apps require engineers to build and maintain custom integration pipelines one by one, and companies spend days, weeks, and even months building integrations. Lume is tackling this problem head-on.
+✨ Solution
+Lume uses AI to automatically transform data between
+any
+start and end schema and pipes the data directly to your desired destination. Lume provides this through a no-code platform where you can build and maintain your custom data integrations. Whether you want to map multiple sources to your internal unified schema or connect to your third-party apps without manual mapping, Lume delivers. With automated transformations and data delivery, backtesting and data quality checks, and version control, engineers can spend more time delivering their core value to customers instead of wrangling and manually mapping data.
+⚙️ How it works
+You connect your custom schemas and authenticate into your desired apps.
+Lume’s AI system creates the transformations between any two schemas, ranging from internal schemas to structured third-party apps.
+Once you validate the transformed data, Lume will pipe the correct data to your specified destination.
+We can connect to your data warehouse and leverage its compute to keep your data in-house.
+Common Use Cases:
+Internal: Transforming separate data sources into one unified internal ontology
+Ex: a unified schema between Salesforce, Hubspot, Quickbooks, and Pipedrive.
+External: Custom syncs between your SaaS apps
+Ex: Enrich CRM data from multiple sources before sending it to your BI tool
+Onboarding: Mapping prospective client data to fit your product’s input schema
+Ex: Consulting firms mapping each new clients’ unique ERP schemas to their internal ontology on Snowflake.
+Migration: Creating custom integration pipelines between competitor products to yours
+Ex: New productivity tool startup creates an “Import from Notion/Evernote” for newly converted users.
+👨‍💻Meet the Team
+My co-founders Nicolas Machado (right), Nebyou Zewde (middle), and I (left) all met during our first year at Stanford, where we received our undergraduate and Master's degrees in computer science with a focus on Artificial Intelligence. With experience working at both unicorn startups and big tech companies, our team has knowledge and experience building and deploying applied machine learning systems.
+🙏 Our ask
+Sign-up for our
+private beta
+if you want to try Lume and see a demo.
+Share this with anyone that works on custom data integrations.
+Upvote and share this post!
+💥 The Deal
+Sign-up before demo day for a 50% discount for the first year!
+See All Launches ›

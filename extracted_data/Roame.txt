@@ -1,0 +1,91 @@
+Home
+›
+Launches
+›
+Roame
+446
+✈️ Roame - Google Flights using points & miles
+Maximize the value of your credit card points and miles with the best-in-class award travel search engine
+Tim Qin
+Roame
+a month ago
+Embed
+https://roame.travel/
+#
+ai
+#
+api
+#
+travel
+#
+airlines
+#
+consumer_finance
+TL;DR:
+At
+Roame
+, our goal is to help you maximize the value of your credit card points and miles while reducing the work needed by 100x.
+Credit card points and miles have become so widespread that it’s essentially an $100+ billion asset class. Yet, the process to redeem those points for outsized-valued flights is quite convoluted. Everyone wants to redeem an international first class ticket for 70K points, but few know how and the process can take up to 30 hours to fully optimize. Experts know the tricks of redeeming points, but most people, including frequent flyers, do not.
+⭐️ Team
+Our First Class Japan Airlines flight from Tokyo to San Francisco, booked for just 70K miles each using
+Roame
+!
+Tim Qin
+(CEO)
+is a points and miles geek. He spent the last 10 years as a successful investor and operator in internet travel, financial services, and ad-tech companies, earning more than a hundred million for clients.
+Zi Liu
+(CTO)
+is a full-stack software engineer. He was most recently in charge of Airbnb’s encryption services, creating and managing billions of cryptographic requests.
+❌ Problem
+Data
+access is limited and fragmented for points redemptions. What you find on the travel portals are oftentimes not the best deals.
+Time-consuming
+to find flights and hotels to book using points. Can take up to 30 hours per trip to search across multiple loyalty programs to take advantage of complicated award redemption rules and that’s just for 1 ticket.
+Underutilization
+of points and miles leading to dissatisfaction and churn. Chase / Amex portals allow customers to book flights using points-to-cents value on a 1:1 to 1:1.5 ratio, whereas the true value of points can only be realized through airline partner transfers where users can find points-to-cents value ratio up to
+1:25
+!
+✨ Solution
+We built
+Roame
+as the best-in-class award flight search engine, supporting 12 airline loyalty programs and delivering results in  seconds. We even one-up Google Flights by allowing you to search from multiple origin and destination airports including entire states, countries, and even continents.
+We currently search for points redemption availability across these 12 airline programs and their partners airlines (180+):
+AeroMexico Club Premier
+Air Canada Aeroplan
+Air France / KLM Flying Blue
+Alaska Mileage Plan
+American Airlines AAdvantage
+Avianca Lifemiles
+Delta SkyMiles
+Emirates Skywards
+Iberia Plus
+Jetblue TrueBlue
+United Airlines MileagePlus
+Virgin Atlantic Flying Club
+🙏 Asks
+Sign up
+for
+Roame
+and search for
+free
+! Would love feedback or suggestions on how we can make Roame better serve your points journey.
+Connect us with
+credit card issuers
+(Chase, American Express, Citi, Capital One, Wells Fargo, etc.),
+networks
+(Visa, Mastercard, etc.),
+personal finance gurus/apps
+(CreditKarma, NerdWallet, CreditSesame, etc.), and
+travel bloggers/content writers
+.
+Maximize the value of your points and miles with
+Roame
+✈️
+You can follow us on
+Instagram
+or
+Twitter
+. You can also reach us at
+founders@roame.travel
+.
+See All Launches ›

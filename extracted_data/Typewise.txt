@@ -1,0 +1,40 @@
+Home
+›
+Launches
+›
+Typewise
+18
+Typewise Text Prediction API
+Supercharge your software with "Gmail smart compose"-like predictions
+David Eberle
+Typewise
+9 months ago
+Embed
+https://typewise.app
+#
+b2b
+#
+api
+#
+productivity
+#
+machine_learning
+#
+artificial_intelligence
+Hi guys, we’re Janis and David on a mission to make daily lives easier by decoding human thoughts. We build text prediction software, which is used in various customer service and sales teams of large enterprises.
+We’re now making the underlying API accessible to other developers, in case you’d like to supercharge your software with text prediction and autocorrect.
+Features
+🔮 Sentence Prediction
+🖋️ Autocorrect & Grammar Check
+🧠 Custom AI Models
+🌎 Language Detection (40+ languages)
+🕵️‍ Emoji Search
+Try for free
+Access the API:
+https://www.typewise.app/api
+👉 The language models are fully customizable to your specific use case,
+get in touch
+to learn more.
+Cheers,
+Janis & David
+See All Launches ›

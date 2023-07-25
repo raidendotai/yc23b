@@ -1,0 +1,32 @@
+Home
+›
+Launches
+›
+Parsagon
+16
+Parsagon: Real-time price indexes
+Real-time price and inflation estimates via API
+Sandy Suh
+Parsagon
+10 months ago
+Embed
+https://parsagon.io
+#
+ai
+#
+no-code
+#
+productivity
+#
+artificial_intelligence
+#
+robotic_process_automation
+tl;dr: Parsagon now offers real-time price indexes by scraping daily prices of retailers.
+Parsagon is an AI that can auto-generate web scrapers and data pipelines. With inflation affecting so many consumers and businesses, we had our AI generate dozens of scrapers to collect prices and track inflation for over 50,000 food products across 38 cities in North America. You can access daily inflation estimates per food category (e.g., bread, seafood) and per region (e.g., Northeast U.S., Western U.S.) via our API. For example, here’s the change in price for various foods in the U.S. over the past week:
+And earlier this month, when a jump in food inflation sent markets tumbling, our index reported that jump in inflation two weeks before the Bureau of Labor Statistics released the inflation numbers.
+Our ask:
+If you want access to the API, please contact us at
+founders@parsagon.io
+for a free trial!
+Want prices for a different sector or industry? Let us know! We generated our scrapers for food in about a week, so we can likely get data for whatever industry you’re interested in.
+See All Launches ›

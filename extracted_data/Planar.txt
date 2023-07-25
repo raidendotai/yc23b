@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Planar
+74
+⚡ Planar - Add 10x features to GitHub code review
+A chrome extension that adds features used internally by big tech, to GitHub
+Eshan Agarwal
+Planar
+5 months ago
+Embed
+https://www.useplanar.com
+#
+ai
+#
+saas
+#
+productivity
+#
+developer_tools
+Planar
+is a chrome extension that adds 10X features to GitHub code review.
+Viraj and I were both engineers at Meta and we realized that GitHub is lacking a lot of the features we used to use to be 10x more productive.
+So we added them to GitHub. The features include:
+A new review page UX that uses AI to group together related changes in a large PR
+A layout that puts comments side by side with code
+An inbox that shows you which PRs need your review across all your repos
+Notifications that trigger whenever an update to a PR requires your attention
+With more features coming soon …
+The ability to easily view and navigate stacked PRs
+Streamlined PR conversations
+A visual dependency graph that shows you how all the files and components in your PR are connected
+We also know that we are inundated with new tools. That’s why we designed these features in a chrome extension so that you don’t have to onboard onto a new tool.
+Problem
+A bit more about the problem. Code review is hard because
+For most developers on a team, there is insufficient context to leave a good review
+Review communication is really noisy. Most teams are relying on noisy slack channels to know which PRs they need to look at.
+Most teams work hard to develop a culture of small PRs because long PRs are miserable to review. But they’re also inevitable.
+The features listed above aim to make this time-consuming workflow way faster and easier, so that you can ship faster with less tech debt.
+Ask YC:
+Try the extension and let us know what you think at
+hello@useplanar.com
+.
+See All Launches ›

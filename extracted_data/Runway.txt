@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+Runway
+18
+📲 📈 Rollouts by Runway
+Automate app rollouts with a full picture of release health
+Gabriel Savit
+Runway
+9 months ago
+Embed
+https://runway.team
+#
+b2b
+#
+saas
+A single source of truth for mobile release health, instantly understandable – and actionable
+As former mobile engineers ourselves, the Runway team and I have experienced the challenge of rollouts firsthand  — and now, we’ve built something that can help. We’re excited to announce
+Rollouts
+, a new part of the Runway platform that helps your team navigate rollouts with less collective stress, and more confidence.
+Rollouts
+allows you to easily keep tabs on release health in just one place instead of many, alerts you whenever configured metrics become unhealthy, and safeguards release health by automatically halting rollouts based on thresholds you define.
+What is
+Rollouts
+?
+Here are some highlights:
+🗺 The only complete picture of release health
+Rollouts integrates with the mix of different tools you use to measure app health – crash reporting, observability & product analytics, the app stores (for per-version user ratings) – to create a single source of truth and unified dashboard that gives your team a holistic and instantly understandable view of release health at a glance. No more context-switching, no more mental overhead.
+🌡 You define exactly what “healthy” means for your team
+Across all tools and every metric, you can configure granular thresholds that together define what “healthy” looks like for your team. Runway will surface a crystal clear view of how each release is tracking relative to that definition. With expectations around health codified this way, there’s no room for ambiguity or hand-waving when it comes to your team’s standards for quality of the product you’re shipping.
+🚨 Avoid blind spots and delays with instant alerting
+The moment any of your configured metrics become unhealthy during a rollout, Runway will alert your team, in specific channels of your choosing and with full context on which metrics are problematic. You can be confident that no bad trends will go unnoticed – and that they can be acted on more quickly.
+🛑 Automatically halt unhealthy rollouts
+Building on the custom thresholds you define, Runway can automatically halt unhealthy releases. With this automation enabled, if certain metrics of your choosing fall afoul of your acceptable thresholds during a rollout, Runway will automatically stop the rollout and alert your team. This prevents delays and human error, saving you from the negative consequences of a bad release making it out to even more users.
+(Available on the Runway Pro plan and above.)
+💨 Automatically accelerate healthy rollouts
+If all of your metrics are looking good and your rollout has reached a minimum number of users you define, Runway can accelerate things and release to all users immediately. Getting a good release out to all users more quickly can be just as impactful as halting a bad release!
+(Available on the Runway Pro plan and above.)
+Who is
+Rollouts
+for?
+Rollouts
+is for mobile teams of all sizes who care about the quality and health of the apps they ship. If you want to ensure you’re not shipping bad product and your users are having the best possible experience, without painstaking babysitting,
+Rollouts
+is for you.
+There are a few folks
+Rollouts
+might resonate with especially:
+Release captains/drivers/pilots who want to de-stress and de-risk the experience of being in the driving seat during a rollout
+Mobile engineers who are tired of poking PMs to check on key events in some analytics dashboard they don’t have access to or don’t understand
+PMs who are tired of said mobile engineers poking them all the time
+Mobile leads or EMs who want to be sure their entire team has the full picture of release health, to foster a healthy sense of ownership and accountability
+Engineering leadership who care about keeping tabs on their mobile org, easily and noise-free
+Anyone and everyone who cares about app health and preventing bad releases from making it out to even more users
+How to give
+Rollouts
+a try
+You can sign up for a free trial via the
+Runway site
+, no credit card required, and we’re available to give folks a guided walkthrough as well – just get in touch!
+For indies, small teams, and YC fam, we’re happy to talk discounting too.
+See All Launches ›

@@ -1,0 +1,67 @@
+Home
+›
+Launches
+›
+Solve Intelligence
+41
+💡 Solve Intelligence - Write patents with AI
+Reduce the cost and time to write patents.
+Chris Parsonson
+Solve Intelligence
+a month ago
+Embed
+https://www.solveintelligence.com/
+#
+b2b
+#
+legal
+#
+ai_assistant
+#
+generative_ai
+#
+artificial_intelligence
+Tl;dr:
+At
+Solve Intelligence
+we use AI to help you write high-quality patents quickly. We do this by providing a simple in-browser document editor that any patent attorney or inventor can start using straight away.
+Connect with us today
+.
+From left to right:
+Solve Intelligence
+co-founders
+Angus
+,
+Sanj
+, and
+Chris
+(Angus’ brother) in San Francisco.
+What are we building?
+We are building an in-browser document editor powered by AI to help inventors and attorneys write patents. Our product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition.
+Product Snapshot
+Given your tech and prior art, use AI to draft a patent:
+Chat with the AI and use it to help edit the patent:
+Why are we building it?
+From drafting to grant, a worldwide patent costs $60K on average and can take years to obtain. If the patent is contentious, then costs can get much higher ($100K-1M+). It's a slow, complicated, and expensive process which can block innovation and delay time-to-market.
+There's a need for software solutions which can make the patenting process more efficient.
+Most existing intellectual property software focuses on
+search
+(finding related technology). However, the
+generative
+steps of drafting a patent and responding to examiners and competitors make up 90%+ of the costs.
+Enter AI, which now has the ability to help with generative patent tasks. At Solve Intelligence, we have assembled a world-class team of AI researchers and software developers. Our goal? To leverage and build on recent AI breakthroughs to transform the patenting process.
+Who are we building for?
+Our product is for any tech company or inventor striving for swift, high-quality patents at below-market rates. It’s also a valuable tool for patent law firms looking to increase their bandwidth, engage more personally with their clients, and ensure that the patents they file are of high quality.
+Our ask
+Contact us
+to:
+book a full demo
+and
+give us your feedback
+connect us to
+patent attorneys
+in your network
+connect us to
+tech inventors
+in your network
+See All Launches ›

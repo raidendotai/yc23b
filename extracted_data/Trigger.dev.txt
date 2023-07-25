@@ -1,0 +1,55 @@
+Home
+›
+Launches
+›
+Trigger.dev
+29
+🦸 API Hero: make every API you use faster and more reliable with one line of code
+An open source API proxy that makes debugging and caching APIs trivial
+James Ritchie
+Trigger.dev
+8 months ago
+Embed
+https://trigger.dev
+#
+b2b
+#
+saas
+#
+open_source
+#
+productivity
+#
+developer_tools
+🔥 TL;DR
+API Hero routes API traffic you select through our edge proxy to provide caching and full visibility of requests and responses, speeding up your APIs and making debugging super easy. Check it out for free
+here
+, or schedule a call with us to help you get started
+here
+.
+Hi everyone 👋
+We’re James, Matt, Eric & Dan and we’re building
+API Hero
+. We’re on a mission to make using and working with APIs
+super easy.
+🤦 The problem
+There are two major headaches we’re tackling:
+Slow APIs dramatically reduce the speed of your site, and adding caching to solve this can be hard
+Debugging API issues is painful. You want full visibility of requests and responses so you can figure out what’s going on, during development and production (although we make production logging optional)
+🦸 With API Hero, you can:
+Monitor all your API traffic (or just the parts you want)
+Speed up every API you use by enabling caching (this can also save you money!)
+Get alerts when issues arise
+Improve reliability with automatic retries
+🛠 How does API Hero work?
+Login to
+API Hero
+(it’s free!)
+Follow the simple onboarding steps – we’ll automatically populate your dashboard as soon as a request is sent
+Configure the settings to proxy only the traffic you want
+Sit back and watch those logs come in!
+💬 We’d love to chat to:
+Anyone suffering from API issues
+Any company working with 3rd-party APIs or building APIs
+Anyone who’s checked out API Hero and has feedback
+See All Launches ›

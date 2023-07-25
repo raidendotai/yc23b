@@ -1,0 +1,41 @@
+Home
+›
+Launches
+›
+Hilos
+53
+Hilos - Zapier for WhatsApp
+Build apps in WhatsApp by connecting it with the tools you already use!
+Florian Raetzer
+Hilos
+a year ago
+Embed
+https://hilos.io
+#
+b2b
+#
+saas
+#
+messaging
+#
+productivity
+TL;DR
+Easily connect WhatsApp to the systems you already use and automate outbound customer journeys, as well as advanced inbound experiences in a day, not weeks.
+The Problem
+You want to send an automated message to your client whenever they reach a certain status in your database / CRM?
+Or your customers are asking you the same repetitive questions like “what is the status of my delivery”?
+If you’ve tried to integrate WhatsApp to the tools you already use, you already know it’s a time sink. Building these integrations takes precious time from your engineering team. Outbound messages don’t show up in your inbox and confuse your team, etc.
+How Hilos simplifies your life
+The short version is we turn this…
+…into this:
+Which lets you connect you customer’s answers with anything with our API step 😉
+Hilos is the full stack for WhatsApp that allows you to:
+Automate outbound campaigns (whether transactional or for marketing) directly via our API, manually or from Hubspot workflows.
+Build intelligent conversations that respond your customer’s questions without spending months building. “What is the status of my package”? That’s a 3 step flow that asks for their tracking number, checks it with your API, and returns the result in chat.
+And it comes with all the things you need to get started. Access to WhatsApp’s API, a multi agent inbox and a broadcast sender for personalised one off campaigns.
+We’d love to get you closer to your clients on WhatsApp, get in touch with us
+here
+, or
+via WhatsApp
+😉
+See All Launches ›

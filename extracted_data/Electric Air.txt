@@ -1,0 +1,40 @@
+Home
+›
+Launches
+›
+Electric Air
+38
+⚡Electric Air - Tesla for heat pumps
+Modern heat pump technology with HEPA, sold direct to homeowners
+Chris Mui
+Electric Air
+5 months ago
+Embed
+https://www.electricair.io/
+#
+climate
+Hi YC! I'm Chris, founder of Electric Air.
+Electric Air is building the Tesla of home heating and cooling, with a complete solution of modern heat pump technology and direct-to-homeowner purchase and install experience.
+I’ve spent my whole career building and designing thermal systems - first in aerospace, then at Tesla working on Model 3 and Semi Truck, and most recently in vertical farming. I got really excited about residential heat pumps when I realized that we’re about to go through a huge transition where the 80M single family homes in the US replace their furnaces with heat pumps.
+Interested? Check out the Electric Air launch site
+electricair.io
+and pre-order a system for your home. I’d also love to hear from homeowners about your pain points around heating, cooling and ventilation. You can email me at
+chris@electricair.io
+.
+What’s a Heat Pump? 🌎
+A heat pump is a really efficient, all electric replacement for your home’s furnace and air conditioner. It uses refrigerant and a compressor to move energy to and from your living spaces. Residential heating makes up 10% of US energy use, and heat pumps are the best option for shifting this segment from fossil fuels. Heat pumps can also save homeowners on their monthly utility bills vs heating with natural gas, propane, fuel oil, and electric resistance. And thanks to the popularity of vapor injection systems, heat pumps now work well even in the cold climates of the Northeast.
+The Problem
+The homeowner experience sucks because the integration of thermostat, heat pump equipment and air quality systems is terrible. (Nothing works together well, the best thermostats are not fully compatible with efficient heat pumps.)
+The process of getting a heat pump is painful, including finding a trustworthy contractor, sorting out financing, and wading through rebates
+Contractors struggle with installs because of the difficulty of properly sizing the system, and understanding if your duct work is compatible with a heat pump
+The Solution 🔥
+Electric Air is a full software and hardware solution:
+Smart thermostat with PM2.5 and CO2 monitoring that triggers whole-home HEPA filtration and fresh air intake
+Thermostat algorithm uses grid, weather and time-of-use rate plan signals to reduce monthly utility bills
+A more powerful air handler and contractor software allows for more ducted installs
+A beautiful outdoor condenser means you don’t have to hide this device in an alley
+Seamless online sales experience - homeowners can order the system from the Electric Air website and get connected with financing, rebates and a trusted contractor
+Questions?
+Shoot me a message at
+chris@electricair.io
+See All Launches ›

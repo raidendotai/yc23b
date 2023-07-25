@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+LaunchFlow
+139
+LaunchFlow - Design, develop, deploy in VSCode
+System design to deployment in seconds
+Caleb Van Dyke
+LaunchFlow
+6 months ago
+Embed
+https://launchflow.com/
+#
+b2b
+#
+developer_tools
+#
+cloud_computing
+#
+machine_learning
+#
+data_engineering
+TL;DR
+LaunchFlow makes it easy for developers to build and deploy cloud infrastructure. We do this by providing a VSCode plugin that bundles all of the developer’s external tooling into a single interface.
+If you’re interested, join our private beta waitlist at
+launchflow.com
+.
+Hi all, we’re Caleb and Josh from
+LaunchFlow
+. Our goal is to increase developer velocity by making deployment as simple as one button click.
+The Problem
+While developing a real-time ML platform at Alphabet, we realized that
+it often takes longer to deploy a model to production than it takes to develop the model itself
+. We found that 90% of the effort was spent on connecting a multitude of frameworks and tools into a reliable system. Each framework has its own process for properly deploying to the cloud, which leads to countless delays related to
+authentication
+,
+configuration
+, and data
+consistency
+at scale. We created LaunchFlow to ensure the last 10% of a project doesn’t take 90% of the time.
+The Solution
+LaunchFlow enables the developer to build and deploy
+directly inside of VSCode
+. Users design their system using our novel drag & drop interface that generates templates with managed connectors included. Developers can then immediately start developing inside a local container that mirrors their system as it would be deployed on the cloud. Once finished developing, they can
+deploy everything with the click of a button
+. All of this is done entirely inside VSCode. We’re currently focused on real-time (streaming) processing, but will support many more workflows in the future.
+With LaunchFlow
+developers
+will:
+Reduce incidents by getting production best practices out of the box
+Catch bugs before you deploy by having a local replica of their entire system
+Increase their velocity by automating IO connections between popular frameworks and storage systems
+Get time back by reducing the burden of their deployment pipeline
+Our Ask
+Join our private beta waitlist
+here
+.
+Share this post with anyone who may be interested!
+Do you have any feedback or would you like a demo? Reach out to us at
+founders@launchflow.com
+See All Launches ›

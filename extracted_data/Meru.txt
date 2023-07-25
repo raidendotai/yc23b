@@ -1,0 +1,31 @@
+Home
+›
+Launches
+›
+Meru
+17
+Meru - Bring generative content to your application
+We help developers create hyper-personalized, user-specific content right in their applications
+Rohan Arora
+Meru
+6 months ago
+Embed
+https://usemeru.com
+The Problem
+Across all industries consumers desire content that is unique and specific to them. Generative models are promising tools to create content quickly, but customizing them at scale is challenging. Developers are slowed down by prompt engineering, fine-tuning, token limits, usage limits, and hallucinations.
+What We Do
+At Meru, we help developers create personalized, in-app content for their users. Our managed cloud brings together many different generative models and model customizations techniques, making them available through a simple set of API calls.
+We connect siloed or personal data to generative tooling, powering results that carry an understanding of this data.
+If you’d like to give generative models more context but struggle with token limits, prompt engineering, or hallucinations, we’re right for you!
+https://www.youtube.com/watch?v=PKyBARzdTCw
+Why We Do It
+We’re working on Meru because it’s a company that will make our lives less mundane. We power use-cases that help professionals escape the drudgery of pouring through long, complex texts searching for a key piece of information. We also power apps that let parents create storybooks where their children are the main character, complete with artwork and illustrations showcasing the child as an astronaut, or superhero — whatever they can dream up.
+Give Us a Hand!
+Tell your favorite developers about us. Chances are, we can help them get a lot more personalization to their applications, which makes the world more fun for everyone
+If you could use a supported feature, reach out!
+We can help you help your users:
+Feel like they are “chatting” with a document or piece of content
+Personalize stable diffusion to generate pictures of themselves
+Train models to write and sound like they do
+We’ll fine tune & host open source-models! They perform better than you think.
+See All Launches ›

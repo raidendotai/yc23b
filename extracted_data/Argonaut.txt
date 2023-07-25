@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+Argonaut
+32
+Argonaut: Deploy apps and infra to your cloud in minutes
+Setup production-ready infra, automated app deployments, and cost visibility on your cloud
+Surya Oruganti
+Argonaut
+8 months ago
+Embed
+https://argonaut.dev
+#
+saas
+#
+devsecops
+#
+developer_tools
+🔥 TL;DR:
+Argonaut is a single pane for engineering teams to automate app and infra deployments to your cloud accounts. Get started in minutes and save months of effort to:
+Provision AWS and GCP managed services like postgres, kafka, redis etc. with cost visibility
+Get Vercel-like app deployments from github or gitlab
+Deploy and manage any 3rd party self hosted app or managed service like grafana, datadog, hasura, ghost, rabbitmq, and more.
+🧐 The problem with AWS, GCP
+They’re a pain to work with.
+Engineering teams spend ~30% of their time managing infrastructure, environments, and CI/CD. This is time spent away from building user features.
+The necessary skills - that DevOps engineers, SREs, and platform engineers add - for setting up and managing infrastructure are expensive and hard to find.
+Cost visibility, and best practices such as observability and security are an afterthought, and not contextual.
+🚀 The Argonaut solution
+Connect AWS / GCP account(s) and Github / Gitlab
+Pick cloud managed services to be deployed - like databases and queues
+Deploy applications: from git, self-host 3p apps (Hasura,Ghost, RabbitMQ), or integrate with managed 3p services (Datadog, Mongo)
+Everything else is automatically configured. No more mucking around with kubernetes, terraform, and github actions. Engineering teams have complete control over these configurations and can collaborate using Argonaut.
+🥳 Try us out
+Sign up for free
+here
+.
+Join the community on
+slack
+. You can also book a time to chat with the founder
+here
+.
+See All Launches ›

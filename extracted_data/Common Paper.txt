@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+Common Paper
+63
+📃 Common Paper - Faster sales with standard contracts & structured data 📃
+Common Paper helps startups close deals with their customers faster and with less risk.
+Jake Stein
+Common Paper
+7 months ago
+Embed
+https://commonpaper.com/
+#
+api
+#
+saas
+#
+sales
+#
+legaltech
+#
+open_source
+TLDR: If you want to close deals faster/shorten your sales cycles with standardized contracts and a platform that helps eliminate back and forth,
+we’d love for you to try us out
+!
+Background
+We (Jake and Ben) met while working together at a BI startup called RJMetrics. Jake was a co-founder, and Ben was an engineering leader. At that job and others, we were incredibly
+frustrated by contract negotiation
+. The process was filled with:
+⏳ Unpredictable delays
+💰 Huge legal bills
+🥽 Extremely limited visibility
+We realized that founders and go-to-market teams have many of the same problems with sales that were widespread in startup fundraising before the introduction of the SAFE. Each company has a unique sales or procurement contract (and NDA, DPA, etc).  People argue over whose template to use, and
+no matter who wins that argument, one side of the deal has to review and negotiate a new contract for the first time
+.
+The same basic ideas show up in all contracts about a given type of transaction, but they are expressed totally differently.  As an example, take governing law, one of the simplest terms in most contracts.  These are real examples from four contracts, showing four different ways describe governing law:
+Standard Contracts & Structured Data
+To solve this, we looked to the SAFE and other widely used contracts for inspiration and created standard, open-source contracts for buying and selling software, including:
+Design Partner Agreement
+Mutual NDA
+Terms of Service
+Cloud Service Agreement
+Data Processing Agreement
+,
+Service Level Agreement
+, and more
+These contracts have been downloaded by thousands of companies, are created by a committee of attorneys, and are free to use under a Creative Commons license.
+Using standard contracts reduces back and forth, accelerates sales cycles, and makes it easier for everyone involved to understand what the contracts actually mean.
+In addition to the contracts themselves, we’ve built a new kind of
+contract management platform
+for startups.  It makes automation, negotiation, and programmatic access to contract data all way faster and easier than ever before. These kinds of tools have traditionally been built for managing unstructured text, and we’ve built Common Paper on top of the
+standards and structured data
+.
+⌚ 63% of the deals on our platform close within 24 hours ⏲️
+We also built the
+SaaS Agreement Toolkit
+, which combines the standard agreements with step by step guides to help founders:
+Choose which contracts to use based on their stage and business model
+Understand the meaning of different terms within the contracts
+The toolkit also includes a benchmark report based on the real contracts of more than 150 companies, with data on what positions are most common and how different terms influence the odds of getting your contract signed.
+If you want to shorten your sales cycle, save money, and reduce risk with standardized contracts and a platform that helps eliminate back and forth,
+we’d love for you to try us out
+!
+See All Launches ›

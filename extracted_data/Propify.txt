@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+Propify
+20
+Propify: Plaid for Real Estate 🏢
+Propify's API enables companies to integrate with the data that powers the world of professionally managed real estate.
+Ben Keller
+Propify
+5 months ago
+Embed
+https://getpropify.com
+#
+b2b
+#
+api
+#
+saas
+#
+proptech
+#
+developer_tools
+📚 TL;DR
+The professionally managed real estate market is massive
+. Unfortunately, it is difficult to sell products or services to this market because the systems of record are legacy software vendors with bad APIs. Propify's API allows companies to integrate with these systems in weeks, not years.
+Hey everyone! We're Remen, Nick, and Ben from
+Propify
+. We entered the proptech world in 2020 and quickly realized the single biggest problem was accessing the data from the major systems of record.
+⚠️
+The Problem: Fragmentation and Legacy Software
+The managed real estate market includes 290k companies, 80M tenants, and $300B in rent payments. This market is not only for "proptechs." Amazon, Lowes, and Progressive Insurance actively sell into the space.
+The most significant headwind to innovation has been the effort to integrate with the systems of record: Property management software.
+It is a fragmented market where SOAP APIs are the norm and documentation is rarely available. In addition, companies like Zuma (S21) have entire teams managing these integrations - they often take years to build the complete list.
+👨‍🔬
+The Solution: A unified API
+Propify's API and unified data model allow a company to integrate with the six most prominent players in weeks.
+Additionally, we provide modern developer tooling like Webhooks, which is largely missing from the native integrations.
+👨‍🔬
+How it works:
+With Propify, you integrate once to access all of our supported integrations. In addition, our REST API is well documented, and we simplify integrating and scaling your company with additional tooling that your engineers will love!
+A company can manage the systems and integrated buildings through its Propify Portal. They can also manage users, export datasets, and set up Webhooks.
+🙋
+Propify is for: Almost Everyone
+This market is significant - tens of millions of renters live in professionally managed housing + hundreds of thousands of property management companies that need services. Examples of tools that do well in the space:
+🏢 Proptech
+🏗 Construction tech
+💸 Payments
+👨‍💼 Insurance
+🖥 Marketing
+🏷 Sales
+🎧 Support
+✅ Productivity
+📈 Reporting
+📞 Communication tooling
+🚗 Transportation
+❓ Unsure? Reach out at
+hello@propifyapp.com
+😇
+Our Ask:
+Reach out to
+sales@propifyapp.com
+and say hi!
+Send any proptech company you know our way.
+See All Launches ›

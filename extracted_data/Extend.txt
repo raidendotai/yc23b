@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+Extend
+73
+Extend - Build internal Chrome extensions that give your team superpowers
+Ship internal tools that reduce context switching, eliminate copy/pasting, and customize any website your team relies on.
+Kushal Byatnal
+Extend
+4 months ago
+Embed
+https://www.extend.app/
+#
+b2b
+#
+saas
+#
+enterprise
+#
+automation
+#
+artificial_intelligence
+TL;DR
+Extend is a low code developer tool that makes it easy to build internal chrome extensions for your company.
+For example,
+support teams
+can solve tickets faster with custom buttons that call internal APIs, draft responses, and bring GPT-4 into the loop.
+Sales teams
+can customize their CRM with real-time database queries and UI overlays.
+Give your company superpowers in 15 minutes.
+Extend gives your developers building blocks so they can build these types of workflows in 15 minutes.
+We provide:
+tons of pre-built modules (e.g. extract info from the page via GPT-4, inject a button in to the DOM)
+beautiful UI components
+secure connections to your database + internal APIs
+one-click instant deployment to your team
+Just write your custom business logic and wire up the flow, we’ll handle the rest.
+Extend is a better way of building internal tools.
+I’ve spent years working in fintech and built a ton of internal tooling for support and operations teams. But using most internal tools today requires a ton of copy/pasting and context switching, which any support or operations team will tell you is the bane of their existence. Chrome Extensions enable your internal tools to live
+inside
+the apps where your teams already spend 90% of their time today.
+And now with GPT-4, your teams can activate supercharged workflows within the context of your existing tools.
+Get Started
+For the first 5 companies that
+sign up
+, we’ll build your internal chrome extension for you with
+no engineering resources needed on your end
+!
+Send a note to
+kushal@extend.app
+if you have feedback / want to chat
+See All Launches ›

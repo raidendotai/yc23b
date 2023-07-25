@@ -1,0 +1,57 @@
+Home
+›
+Launches
+›
+SensorSurf
+32
+🏄 SensorSurf - Data infra for robotics
+We help robotics companies collect and manage petabytes of data
+Alec Bell
+SensorSurf
+8 months ago
+Embed
+https://www.sensorsurf.com
+#
+saas
+#
+aiops
+#
+robotics
+#
+computer_vision
+#
+data_engineering
+tl;dr:
+Robots produce a lot of data, and it’s a challenge to collect and manage all of it. Our infrastructure enables companies to easily collect, offload, and make use of sensor data.
+Howdy, YC! I’m
+Alec Bell
+from SensorSurf. I love robots, and I’m writing software to make it easier to build them.
+❌
+Problem
+Robots generate absurd quantities of data.
+A single self-driving car produces up to 1.5 petabytes/year
+(
+source
+). Developers need access to this data to diagnose issues, train models, and run simulations; but it’s hard to get a hold of since its clunky and sits on an edge device. Robotics companies currently build data infra in-house, which is extremely costly.
+✅ Solution
+SensorSurf offers the infrastructure to collect, offload, and make use of sensor data.
+Users can specify where, when, and what data to collect. From there, they can selectively offload it, run queries on it, visualize it, and put it to work for purposes like debugging, annotation, and analytics.
+👨‍💻 How it works
+Robotics companies install
+a tiny agent on their robots,
+which allows us to establish a connection to our services and
+observe their system.
+We can then collect data across a fleet of robots and help users manage/search it in the cloud, accounting for network constraints that our customers may experience.
+👍 Noteworthy features
+Event-based data collection
+Rolling buffers/windows of data
+Data streaming for visualization
+🙏 Asks
+Robotics developers:
+try out our tool
+!
+Share this post to robotics communities.
+Connect us with robotics companies and researchers (
+founders@woeden.com
+).
+See All Launches ›

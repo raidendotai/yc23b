@@ -1,0 +1,34 @@
+Home
+›
+Launches
+›
+MovingLake
+15
+MovingLake - Vertical-first, realtime, AI-enabled data platform
+LLM-enabled data connectors, transformations and visualizations for e-commerce, hospitality and more
+Andres Paez
+MovingLake
+3 months ago
+Embed
+https://movinglake.com
+#
+b2b
+#
+api
+#
+saas
+#
+analytics
+#
+data_engineering
+Hi!
+We are now launching our LLM-enabled BI tool which allows all of our clients to query their databases by using prompts in plain english.
+Happy to announce that MovingLake user’s can not only get their data centralized in their data warehouse, but we are now enabling an end-to-end business intelligence experience where in a matter of minutes you can get the data flowing AND get the dashboards going.
+This is important because not all of our clients are friendly with SQL or with BI tools. Letting them access their data in a secure way and using plain english questions is a game changer for them.
+Ask
+We are looking to integrate to other data connector tools and companies as well as other data products to be able to give the most value faster to our clients. Please reach out if this would be interesting to your company.
+We are available at
+andres@movinglake.com
+and
+edgar@movinglake.com
+See All Launches ›

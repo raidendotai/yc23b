@@ -1,0 +1,43 @@
+Home
+›
+Launches
+›
+Signadot
+75
+Signadot: Ephemeral Test Environments built for Kubernetes
+Spin up lightweight environments to enable pre-merge testing for microservices. Discover issues before merging code and ship new features faster.
+Arjun Iyer
+Signadot
+a year ago
+Embed
+https://www.signadot.com/
+#
+kubernetes
+#
+developer_tools
+😎
+TL;DR
+We’re building a Kubernetes-based solution that enables environments, called Sandboxes, to test your microservices early in the development lifecycle. Unlike traditional environments, Sandboxes are lightweight and spin up in seconds. This makes it cost-effective to create test environments for every pull request, branch, and commit.
+🤔
+The problem with traditional environments
+Most engineering teams use pre-production environments, called staging environments, to test against real-world conditions. However, testing on staging introduces the following challenges:
+Staging environments are typically shared among engineering teams and regressions introduced here block other developers. This results in frequent roll backs to unblock others.
+Since commits from various teams are co-mingled on staging, breakages take a long time to troubleshoot and fix. As the engineering team grows, this problem only gets worse and development slows down.
+😅 Enter Signadot
+With Signadot, DevOps teams can set up lightweight environments, called Sandboxes, that can be used to test each pull request/commit. Teams run a suite of integration and end-to-end tests for each PR without impacting others. This helps find issues early that would otherwise be found in staging (or worse … in production!).
+Our CLI/YAML integrates with CI pipelines to automate the testing of Pull Requests. As shown in the image below, Sandboxes encapsulate “services-under-test” connected to other dependencies running in Kubernetes. Sandboxes are lightweight to spin up and cost-efficient at scale.
+🤓 How this helps your team:
+Minimize rollbacks on staging and production
+Increase the frequency of production deployments
+Save on infrastructure costs using lightweight Sandboxes
+🤩 Try us out!
+Sign up for free
+to start testing your microservices today
+Join the discussion on testing strategies for microservices in our
+Slack Community
+or
+GitHub Repo
+. You can also book a time to chat with one of our founders
+here
+.
+See All Launches ›

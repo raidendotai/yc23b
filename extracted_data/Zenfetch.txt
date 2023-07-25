@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+Zenfetch
+44
+Zenfetch - Real-time sales copilot for closing more deals, faster
+We use AI to instantly surface the most effective messaging for customer objections and technical questions, right within the call itself.
+Gabe Villasana
+Zenfetch
+3 months ago
+Embed
+https://www.zenfetch.com/
+#
+b2b
+#
+saas
+#
+sales
+#
+generative_ai
+#
+artificial_intelligence
+Tl;dr:
+Automatically generate high conversion talking points for any customer objection or technical question.
+❌ The Problem - It takes 15 months on average for a sales rep to become a top performer
+.
+Why? They have to learn volumes of information about their complex products, competitive landscapes, and infinite integrations/partnerships. While sales training and post-call coaching are valuable, people forget an average of 70% of the information they’ve learned in 24 hours of learning it!
+Today, sales teams manually create material (playbooks, battlecards, modules, etc.) to prepare their reps with the talking points they need. However, it’s a never ending task to keep sales enablement material up-to-date and comprehensive.
+⚡ Our Solution - Increase close rate by up to 30% with automated enablement, delivered in real time
+Identify the best talking points for any customer question by analyzing past calls, internal documentation, CRM, & more.
+Use the real-time copilot to surface instantaneous talking points for customer objections/questions and search across your entire knowledge base.
+Surface questions with no answer in your knowledge base and understand how talking points correlate with deal success.
+🙋Who is it for
+Teams selling complex products with a long technical ramp up (i.e. medtech, hardware, telecom, cybersecurity)
+Hiring or recently hired new SDRs or AEs
+Spending a lot of time creating new training and enablement material
+❤️ Our Ask
+Want to try Zenfetch for your sales team? Schedule a demo
+here
+!
+Know a sales leader who’s growing their sales team? We’d love to hear from you - reach out at
+akash@zenfetch.com
+!
+Why us?
+We met at Johns Hopkins University where we built our first startup together. Before Zenfetch, Gabe was a machine learning engineer at Stripe while Akash was a product manager at Meta. In previous roles at IBM and Cleveland Clinic, Akash tackled sales enablement and saw these problems firsthand. We built this product to augment our own founder-led sales and are now taking it to the enterprise!
+See All Launches ›

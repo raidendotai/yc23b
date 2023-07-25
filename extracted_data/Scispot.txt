@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+Scispot
+47
+Scispot GLUE - Stitch your biotech R&D data
+Say goodbye to data graveyards and hello to faster R&D progress with GLUE!
+Satya Singh
+Scispot
+3 months ago
+Embed
+https://scispot.io
+#
+b2b
+#
+saas
+Tl;dr:
+Scispot GLUE helps Biotech R&D labs extract data from Benchling, Notion, and Airtable, and easily transform it for auditing, visualization, and machine learning.  Scispot started as the world’s most configurable Electronic Lab Notebook (ELN) and Lab Information Management System (LIMS) two years ago for modern biotechs. As we acquired more customers, we learnt that many of them wanted to stitch their data with existing legacy ELN + LIMS, so we decided to launch an extension called Scispot GLUE to sit on top of your existing lab informatics systems and augment them.
+Check out more
+here.
+Hi everyone, we are Scispotters, the team behind
+Scispot GLUE!
+We’re a team of molecular biologists, computational biologists, data engineers, bench scientists, and biomedical engineers working to solve the data swamp challenge.
+In Biotech R&D, 80% of the generated metadata and data never get fully analyzed or used.
+Biotech R&D labs generate vast amounts of metadata and data from various sources, including instruments
+With the current ELN + LIMS landscape, it becomes increasingly difficult to manage, access, and derive insights from data
+As a result, there is a disconnect between wet lab and computational workflows
+Scispot GLUE is built to solve this.
+If this resonates with you,
+Schedule a demo
+of Scispot GLUE
+Our ask 🙏
+Share this post! Many bio companies are facing the data swamp challenge where they struggle to connect their wet lab and computational workflows
+Connect us with any mid-size biotech companies who have their own ELN and LIMS but want to get the most out of their data
+See All Launches ›

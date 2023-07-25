@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+1build
+23
+🏗️ 1build - Plaid for construction cost data
+Track live pricing on 68M datapoints for construction materials, labor, and equipment in the US.
+Dmitry Alexin
+1build
+3 months ago
+Embed
+https://1build.com/
+#
+b2b
+#
+api
+#
+proptech
+#
+construction
+#
+machine_learning
+TL;DR: 1build is launching the API for construction pricing data. Developers can use our API to access up-to-date information on construction costs for workflows like construction estimating, procurement, and loan/insurance underwriting. The API can be either queried with GraphQL or easily integrated into any application with one line of HTML.
+📚
+Backstory
+As wild as it sounds, the construction industry still uses actual books that are published once a year to track construction market pricing. I previously ran the data science team at CloudKitchens where I needed an API for tracking live construction pricing data--but instead of an API I had to deal with these cost books.
+📊
+Problem
+Construction costs have been extremely volatile over the last several years. For example, lumber prices skyrocketed 400% and then crashed in 2021. At the same time, the construction tech space is booming ($5B+ is invested annually), but it still lacks its own "Plaid" for mission-critical market pricing data.
+🛠️
+Our solution
+1build has an easy-to-use API as well as a JavaScript embed widget that gives you access to live pricing data on 68 million construction materials, labor, and equipment anywhere in the US.
+🚀
+How it works
+You can either use our GraphQL API (
+docs
+) or JavaScript embed widget (
+docs
+) to integrate construction pricing data into your application. Sign up
+here
+to get your API key.
+Here are just some of the use cases for our data:
+Your contractor sent you an estimate and you want to validate their quote vs market rates.
+You're serving bank underwriters who need to check whether their client's construction loan application has an accurate budget.
+You're working with insurance brokers who need to approve a quote for home repairs.
+Features
+⚫ Search or browse our catalog of 68 million construction items and assemblies localized to your project. Include labor to get all-in installation costs.
+⚫ Add this line of HTML in your app to embed our construction pricing catalog:
+⚫ Or query our API with GraphQL:
+👷
+Asks
+Try
+1build
+now!
+Get your API keys
+or
+contact us
+to embed live construction data into your application or ML model.
+We are hoping to discover new use cases and applications for our data, so don't hesitate to reach if you want to bounce around a few ideas.
+We are also looking for feedback on the API / JS widget's ease of use, so let us know about your experience with our docs/integration.
+See All Launches ›

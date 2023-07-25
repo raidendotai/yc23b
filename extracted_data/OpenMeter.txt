@@ -1,0 +1,49 @@
+Home
+›
+Launches
+›
+OpenMeter
+98
+Tailfin - Maximize revenue with usage-based pricing
+Tailfin unlocks revenue by identifying and pricing sales opportunities.
+Peter Marton
+OpenMeter
+6 months ago
+Embed
+https://openmeter.io
+#
+b2b
+#
+saas
+#
+sales
+#
+billing
+#
+analytics
+B2B SaaS companies see up to 25% revenue increase by adopting usage-based or hybrid pricing models, but realizing this potential requires the right tools and insights. This is where
+Tailfin
+has you covered.
+This is Andras and Peter - coming from Stripe, Netflix, Banzai Cloud, and Cisco; we understand that unlocking the full revenue potential requires to:
+Identify revenue opportunities and forecast over-usage to start the sales cycle early
+Find customers ready to be converted to enterprise plans
+Forecast usage and revenue to price deals accordingly
+💸 The Challenge
+With the rise of Product-Led-Growth (PLG), pay-as-you-go is becoming the dominant pricing model, but unfortunately, many SaaS companies miss out on revenue opportunities. For example, enterprise customers often underestimate their usage and pre-purchase too little credit, leaving you with the dilemma of offering your service for free or renegotiating the deal. Moreover, self-serve customers may outgrow their plans without you knowing, and customer success and support may not prioritize users according to their spending and future potential.
+🐬 Our Solution
+Tailfin is a monetization platform explicitly designed for usage-based pricing. We help businesses to maximize revenue by providing insights about customers and highlighting opportunities so your sales and customer success teams can be data-driven.
+Tailfin provides:
+Subscription predictions like detecting overage before it happens so you can outreach and start the sales process in time.
+Price simulations to calculate historical and future revenue based on usage and different pricing models.
+Accurate metering with high-frequency event aggregation; can include events such as API calls, disk storage usage, or other product-related actions that could result in charges.
+Real-time dashboard and APIs to extract usage and revenue data
+🐋
+Sign up
+Don’t leave revenue on the table. Ask for a demo today:
+https://calendly.com/tailfin-cloud/founders
+or email me at
+peter@tailfin.cloud
+https://tailfin.cloud
+Best,
+Tailfin Founders, Andras & Peter
+See All Launches ›

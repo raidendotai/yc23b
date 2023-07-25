@@ -1,0 +1,60 @@
+Home
+›
+Launches
+›
+Sweetspot
+37
+Sweetspot | AI-powered search engine for government contracts 🔍
+Sweetspot connects your business to all available and relevant government contracts in just seconds.
+Sachin Subramanian
+Sweetspot
+11 days ago
+Embed
+https://www.sweetspot.so/
+#
+ai
+#
+b2b
+#
+saas
+#
+govtech
+📚 TL;DR
+Sweetspot
+is an AI-powered search engine for businesses that bid on government contracts. Businesses can leverage Sweetspot to find relevant contracts in just seconds, instead of spending hours digging through
+SAM.gov
+.
+👬 The Team
+Hey everyone! We’re Sachin and Philip, the team building Sweetspot. Philip and I have known each other since freshman year of college. Since then, we’ve competed in a number of hackathons and even worked together at
+Coinbase
+prior to embarking on our startup journey! We came to work on this idea after we talked to our friend working at a real estate firm. His job was to find relevant federal real-estate contracts all day and he hated it due to the poor searching experience. Then, a lightbulb went off in our heads.
+😵‍💫 The Problem
+Finding government contracts on
+SAM.gov
+is a nightmare, especially for small businesses. The current system is cluttered, hard to navigate, and relies heavily on keyword search, which often leads to irrelevant results - discouraging small businesses looking for contract opportunities. The clunky UI adds another layer of complexity, creating an overall frustrating experience.
+Imagine you’re part of a landscaping company just getting into contract bidding. Just look at how poor a simple search for “lawn care” contracts on
+SAM.gov
+is:
+💡 The Solution
+Sweetspot utilizes a combination of semantic and lexical search to streamline the process of searching for government contracts. Businesses can now find various relevant opportunities with just
+one query
+, eliminating the need for multiple keyword searches to do hours-long research.
+Imagine you’re part of an upstart landscaping company (again). Look how many more relevant contracts you find in under a second for querying “lawn care”using Sweetspot:
+🔮 The Future
+Automating queries so you get alerts every time a new contract drops
+Expanding our dataset to include state and local contracts
+Adding filters for more granular results
+Adding lists to better manage your contracts you want to bid on
+Business Intelligence and Analytics for contracts
+AI proposal writing to help you draft responses to RFPs
+🙏 Our Asks
+Drop us a follow on
+LinkedIn
+&
+Twitter
+Introductions to anybody with experience bidding on government contracts.
+If you’re in the government contracting space or know any friends who may be interested, check out our
+website
+and book a demo
+here.
+See All Launches ›

@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+Noya Software
+54
+🧑‍💻 Noya - Draw wireframes, get designs & code
+Design products faster by leveraging design systems!
+Devin Abbott
+Noya Software
+5 months ago
+Embed
+https://noya.io
+#
+b2b
+#
+saas
+#
+open_source
+#
+design_tools
+#
+developer_tools
+tldr; Noya turns UI ideas into designs & code in just a few minutes. Built by former Airbnb Design Tools team members, Noya is a new kind of design tool that enables product teams of any size to fully leverage the advantages of design systems. Try it here:
+noya.io
+About us
+Hi everyone! My cofounder David and I were the Design Tools team at Airbnb, after they acquired our previous design tools startup. We pioneered internal tools and processes that the award-winning Airbnb design team used when designing web and mobile apps.
+At Airbnb’s scale, it made sense to have an in-house design tools team. But we realized that companies of all sizes could benefit from a better design process that’s tailored to their product, so we created a new tool that brings the benefits of an in-house design tools team to every company.
+The Problem
+There’s always a tricky tradeoff between working in
+low-fidelity wireframes vs. high-fidelity mockups
+when working on a product idea. Working in low-fidelity allows for quick iteration while hammering out the big picture, but people often have a hard time imagining the final product. Because of this, teams frequently jump to high-fidelity and
+stop using wireframes too early
+, which slows down progress dramatically as they spend an excessive amount of time perfecting unimportant details.
+Personally, there have been many times where I’ve needed to create a high-fidelity mockup or a React prototype to really explain my idea to another engineer. I spent hours designing and coding just to communicate the idea, only for it to be scrapped when we changed direction right after.
+Our solution: Noya
+Noya is a new kind of design tool that provides the advantages of
+both
+low-fidelity and high-fidelity design.
+With Noya, you build your project with wireframes, while the tool automatically generates a high-fidelity output in real time. It works by mapping low-fidelity blocks into high-fidelity design system and React components. We currently support one open-source design system (Chakra UI), but plan to expand with more choices (MUI, etc), including the option to import your company’s existing design system.
+Here’s a quick demo video:
+https://www.youtube.com/watch?v=khGAUUFZ5Fs
+Pricing
+Our Professional plan is $8.40/month (that’s 30% off!) if you subscribe before Demo Day, and includes:
+Unlimited projects & blocks
+3,000 AI-generations/month
+Access to premium templates
+React code export
+Premium support
+We also offer an enterprise plan for companies that want to import their existing design system. If you’re looking to improve your company’s design process and you have a React component library, get in touch:
+founders@noyasoftware.com
+Our ask
+We’d love for you to try using
+noya.io
+to design your next idea!
+Share this post with founders, designers, PMs, and engineers in your network who might be interested!
+Follow us on twitter for updates:
+https://twitter.com/noyasoftware
+Feel free to reach out to us anytime via the
+Noya Discord
+or email:
+founders@noyasoftware.com
+See All Launches ›

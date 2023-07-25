@@ -1,0 +1,33 @@
+Home
+›
+Launches
+›
+Shyp
+192
+Shyp: Marketplace for freight movement in India 🚚 🚚
+We help businesses move freight in India
+Shivam Bharuka
+Shyp
+4 months ago
+Embed
+http://shyp.co.in/
+Hello! We’re Shivam and Sanchit, and we’re building Shyp. Shyp is an online marketplace that helps businesses move freight in India.
+😰
+Problem
+Even though India is at the cusp of a digital transformation with half a billion internet users, the country’s $150 billion road freight industry is still plagued with several inefficiencies such as infrastructure constraints, slow-moving processes, and lack of technology adoption.
+Can you believe that over 90% of India’s road freight operations still rely on phone calls and physical documents for load matching and booking? This leads to higher costs, longer turnaround times, and lower efficiency. We’re building Shyp to address these challenges and rebuild the backbone of India’s expanding economy.
+🚀
+Solution
+Shyp connects shippers and carriers in real-time, which ensures that freight is moved efficiently and quickly. Our platform provides shippers access to a wide range of carriers, resulting in cost savings and increased visibility. At the same time, carriers can find the best freight to transport, which ensures that their trucks are always full, maximizing their efficiency and reducing empty miles.
+Our platform is built on cutting-edge technology, which makes it easy for shippers and carriers to manage their freight. We offer real-time tracking, which enables shippers to track their freight at every stage of transit. Additionally, our document management system makes it easy to manage and share important documents, eliminating the need for physical paperwork.
+Shyp is designed to be scalable, which means that we can add new features and services as needed. This enables us to stay ahead of the curve and meet the evolving needs of the logistics industry in India. By making logistics more efficient, cost-effective, and hassle-free, we are enabling businesses across the country to grow and prosper. We are excited about the potential of our platform and are committed to driving growth in the Indian logistics industry.
+🎯
+Why us?
+Sanchit has over five years of experience in the supply chain and logistics space. He was a lead software engineer at Uber Freight from its early days and played a vital role in representing the team in numerous strategic partnerships and integrations. Prior to that, Sanchit worked in Walmart's supply chain division, where he led several products for their warehousing and fleet-related operations.
+Meanwhile, Shivam knows shipping well - his family owns a manufacturing company in India that does $100M in revenue, spending over $10M a year on shipping and logistics. Additionally, his role as a staff software engineer in the AI Infra team at Meta gives him a valuable skill set to leverage in the development of our platform.
+🙏🏻
+Ask
+Introduce us to people who have built similar B2B marketplaces. Reach out at
+founders@shyp.co.in
+if you would like to connect.
+See All Launches ›

@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+Dittofeed
+55
+Dittofeed - The first open-source customer engagement platform with developer tools
+We’re building the world's first open-source customer engagement platform with a fantastic developer experience.
+Chandler Craig
+Dittofeed
+4 months ago
+Embed
+http://dittofeed.com
+#
+b2b
+#
+open_source
+#
+developer_tools
+Tl;dr
+: Dittofeed is a developer-focused, open-source alternative to platforms like Iterable and
+Customer.io
+. Dittofeed’s streamlined developer experience allows growth engineers to send better-performing marketing messages. Additionally, self-hosting Dittofeed delivers large cost savings to power users who are constrained by existing providers’ volume-based pricing.
+—
+Hi everyone, we’re Max and Chandler, and we're equipping the next generation of technical growth teams with the tools they need to ensure their marketing messages look great and get delivered correctly.
+The Problem
+: Customer engagement platforms are expensive and error-prone.
+If you’ve ever received marketing emails with broken links, or opted out of a company’s texts, only to receive an “exclusive offer” text the next day, there’s a reason. And it’s not (for the most part) because growth teams are bad at their job.
+Current customer engagement platforms give growth teams the low-code tools they need to automate marketing messages at scale, but none of the technical tools they need to make sure they’re sending the right messages, to the right customers, at the right time. This results in reduced customer conversion and retention rates, as well as frustrated growth engineers.
+The Solution
+: An open-source customer engagement platform that empowers growth engineers.
+Growth teams are becoming increasingly technical, and with that, comes a huge potential for fixing buggy marketing messages. We’re building a future where growth engineers can finally version control email templates and test messaging automations in CI, and where, simultaneously, non-technical growth team members still have access to the low-code tools they’re comfortable with.
+Using Dittofeed, you get industry-standard features like a drag-and-drop customer journey builder, a segmentation interface, and a web-based template editor, helpful for non-technical marketers. You ALSO get technical features like:
+git-based workflows
+😎
+a first-in-class testing SDK
+🤯
+an OpenTelemetry integration
+🥳
+a self-hostable platform
+🥹
+Set your growth engineers up for success. Retain more customers. Save money. Everyone wins!
+Jest Test Example
+Journey Builder Example Workflow
+Companies using Dittofeed can:
+Save up to thousands of dollars a month by self-hosting, avoiding volume-based pricing.
+Reliably build high conversion, high-retention marketing campaigns.
+Make their growth engineers happier.
+Our ask
+:
+🤩 Star us on
+Github
+🫱🏽‍🫲🏾 Connect us (Max & Chandler) with growth and marketing teams
+via email
+🗓️ Schedule a
+demo
+💬 Contact us with any feedback!
+max@dittofeed.com
+/
+chandler@dittofeed.com
+See All Launches ›

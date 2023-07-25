@@ -1,0 +1,41 @@
+Home
+›
+Launches
+›
+Meticulous
+29
+Meticulous: AI to catch UI bugs without writing or maintaining tests
+Meticulous: Automated e2e screenshot testing powered by user sessions
+Gabriel Spencer-Harper
+Meticulous
+5 months ago
+Embed
+https://www.meticulous.ai
+#
+saas
+#
+hard_tech
+#
+developer_tools
+Meticulous
+is a tool to catch UI bugs automatically, eliminating the need to write or maintain any frontend tests. It does this by recording user traffic and simulating it on new versions of code, before that code is released. It takes 15 minutes to setup and has zero maintenance burden.
+How does this work?
+Install the Meticulous recorder onto your web application onto an environment of your choice (dev, qa, staging, prod). This records user sessions.
+Integrate into your CI, five lines with GitHub Actions
+Submit a pull request.
+Meticulous identifies relevant recorded sessions and simulates them on the base commit and head commit.
+It does without ever hitting your backend or causing any side-effects
+. It takes a sequence of screenshots at key points and generates screenshot diffs. You can either build your frontend app within CI or give Meticulous a preview URL to simulate against. No backend needed.
+Meticulous comments on the PR showing any visual diffs it detected
+Click to review the diffs.
+If the changes are expected, hit ‘approve all visual differences’, merge your PR and the baseline images will automatically update. If there are unexpected differences (i.e. bugs), submit a new commit with fixes and Meticulous will re-post with an updated set of diffs for you to review.
+Why should I use this?
+You get broader test coverage using Meticulous than by writing a test suite with Cypress, Playwright or a recorder tool. This is because real users explore every configuration of your application. Customers often find that internal sessions (staging, dev) achieves coverage exceeding what they had in-place previously.
+Less flakes. We’ve employed novel techniques to radically reduce the number of flakes in UI tests. Chat with us to learn more.
+You don’t have to write or maintain any UI tests. Meticulous automatically updates your pool of tests as you merge new code changes and as users use the new version of your application.
+Sign up
+here
+or book a demo
+here
+.
+See All Launches ›

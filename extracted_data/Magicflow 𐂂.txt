@@ -1,0 +1,57 @@
+Home
+›
+Launches
+›
+Magicflow 𐂂
+71
+Magicflow - Webflow for AI development
+A no-code tool to design and run AI workflows, optimized for cost and speed
+Yarden Shem Tov
+Magicflow 𐂂
+4 months ago
+Embed
+https://magicflow.ai
+#
+ai
+#
+no-code
+#
+developer_tools
+#
+workflow_automation
+#
+artificial_intelligence
+Hey! We are
+Yotam Hamiel
+and
+Yarden Shem Tov
+, the founders of
+Magicflow
+!
+Magicflow is a no-code drag-and-drop tool to design and run AI workflows that easily integrate into your app.
+Complex workflows tend to be expensive and slow. We can optimize them for cost and speed so you don’t have to deal with the painful infrastructure work.
+The Problem:
+AI capabilities such as ChatGPT and Stable Diffusion are more accessible than ever. However, they still require a fair amount of technical know-how to deploy and orchestrate, particularly when combining multiple models to create optimized and cost-efficient workflows.
+Our Solution:
+Magicflow — a no-code AI model orchestration solution.
+We provide a user-friendly playground that integrates models from top services like
+HuggingFace
+,
+OpenAI
+, and
+Replicate
+.
+With Magicflow anyone can easily stitch together various models without requiring any DevOps or code.
+Once ready to deploy, workflows are cost/speed optimized and made ready for production.
+An example of a workflow built with
+Magicflow
+.
+We came up with Magicflow by talking to our pre-pivot customers (who were mostly using us as a proxy for AI services). They told us that they needed a way to quickly iterate on their workflows, debug them and deploy them to production in a scalable and cost-efficient way.
+Our goal is to provide an accessible solution, for both engineers and non-engineers, to utilize the vast AI capabilities available to enhance their own products.
+Suhail (Mixpanel founder)
+described it best
+:
+How you can help:
+We’re looking to work with companies who rely on AI workflows, and are looking to make them cheaper and faster. If you know someone please contact us at
+founders@magicflow.ai
+See All Launches ›

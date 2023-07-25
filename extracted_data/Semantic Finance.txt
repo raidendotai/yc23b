@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+Semantic Finance
+30
+Semantic Finance: Real-time AI-powered financial news data
+We help firms understand the markets faster and better
+Akhil Murthy
+Semantic Finance
+4 months ago
+Embed
+https://semanticfinance.com
+#
+b2b
+#
+api
+#
+saas
+#
+fintech
+#
+finance
+TL;DR: Semantic provides financial institutions a real-time news insights API for events that affect the financial markets. We use trade data, articles, social media engagement data, and breakthroughs in language models to filter the 99% of noise faster than the markets can react.
+—
+Hey YC, we’re Josh and Akhil, and we’re building Semantic.
+Josh (CEO) met Akhil (CTO) in high school and share a similar interest in how underutilized qualitative data is in financial markets.
+We reconnected after a combined 7 years of experience in Software Engineering at companies such as Google, IBM, Squarespace, and Charles Schwab.
+We’ve been studying how news impacts markets from a quantitative standpoint independently for years. Joshua developed an event-based trading algorithm that Ematiq proposed to implement during his time at Google.
+The Problem
+As trading firms spend tens of millions on microwave networks, racing for the fastest market data and order execution, GPT-4 has introduced a new race for relevant financial information retrieval and processing. Existing news feeds are too slow, unactionable, and noisy. They provide no additional information or filtering on the context, urgency, and market impact.
+The Solution
+We provide a novel insights layer on top of aggregated news and social media feeds, leveraging breakthroughs in LLMs’ (large language models) incredible semantic understanding of text to structure and automatically find the news that matters.
+We monitor clustered mentions across multiple sources, engagement metrics over time, and anomalous price/volume changes to determine the market impact of events in real-time.
+Our primary offering is the
+Semantic API
+, which is article and tweet data that has been cleaned, filtered, and structured using LLMs.
+You can also receive alerts ahead of the market on events that matter with
+Semantic Alerts
+. Configure which priority levels activate Discord, Telegram, SMS, email, and phone calls.
+Asks
+Do you know people at any trading platforms or institutions (hedge funds, prop shops, trading firms) that might benefit from low-latency financial news insights and alerting system?
+Are you a trading platform or financial institution looking for configurable real-time financial news insights to surface to your customers?
+Sign up for early access
+!
+Semantic Team (Josh, Akhil)
+See All Launches ›

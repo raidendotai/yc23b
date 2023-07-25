@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Mantys
+113
+Mantys - Modern day business planning & analytics tool for SaaS startups! 🚀
+Helps companies take real-time data-backed decisions and plan growth scenarios.
+Kriti Arora
+Mantys
+6 months ago
+Embed
+https://www.mantys.io/
+#
+b2b
+#
+saas
+#
+india
+#
+finance
+👋🏼 Hello! We are Mantys and we are a Business Planning & Analytics tool with a focus on helping SaaS startups get
+real-time visibility of their ARR Cycle
+. If you struggle to know what your contracted, live and realised ARR are at given point of time or need to go through a lot of manual effort to reach there, we can help you.
+The Problem
+As companies grow, It becomes increasingly difficult to track and forecast their Contracted ARR, Live ARR, Realised ARR, Churn, expansion, etc. due to:
+Data sitting in disparate locations:
+Contracted ARR sits in CRM(Salesforce/Hubspot), Billed ARR sits in a billing software(Stripe, Chargebee), Churn sits in CS software(Gainsight) or Excel sheets, so on and so forth.
+Most of the tracking ends up happening in Google/Excel sheets
+which leads to dependency on individuals, high chance of errors and inability to handle multi-dimensional data
+As a result, founders/CFOs are not able to answer fundamental questions like what their ARR is, how much is actually realised, what is the onboarding cycle, how will it impact cash flow etc. at any given point of time leading to governance issues and lack of actionable insights.
+The Solution
+Thus, we are building Mantys, a SaaS platform that helps companies:
+Get and track all their real-time data
+– including financial and business metrics – in one place, simulate different scenarios, get insights faster, and be empowered to plan for the future.
+Integrate with varying sources of data (like CRM, Accounting tools, etc.) and
+automate the manual processes
+/grunt work (reduce the time taken to generate reports and metrics by atleast 60%):
+Get access to best-in-class planning and analysis templates
+to reduce the onboarding time to hours than months
+We know every business is complex and has it nuances. We have however, solved this problem for multiple Series A+ SaaS companies like MoEngage, Locus, etc. and have identified patterns for data cleaning and transformation across businesses. And we know how to handle them.
+Who we are
+Kriti worked with a growth-stage VC fund in the past and helped a lot of portfolio companies build their MIS and plans and Mudit worked on creating data pipelines and parsers at DE Shaw.
+We have the required domain expertise and skills to be able to solve this problem.
+Ask:
+If you are interested or know any Series A+, $6-7Mn ARR+ SaaS companies who are facing a similar challenge, we would love to talk. You can email us at
+kriti@mantys.io
+and
+mudit@mantys.io
+See All Launches ›

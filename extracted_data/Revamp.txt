@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Revamp
+35
+📈 Revamp: Smarter customer segmentation for eCommerce
+Get to know your customers, for real.
+Amin Akhtar
+Revamp
+3 days ago
+Embed
+https://www.getrevamp.ai
+#
+ai
+#
+ml
+#
+b2b
+#
+e-commerce
+⏳ TL;DR:
+Revamp helps eCommerce brands and agencies understand customer behavior by creating smarter segments for targeted email and paid acquisition campaigns.
+😣 What’s the problem?
+Email marketers and paid media buyers struggle to understand customer behavior because:
+eCommerce data is fragmented across many platforms
+Most brands and agencies are non-technical and struggle to stitch data together
+Even if they stitch the data, analyzing it and acting on it is a struggle
+As a result, email marketers default to generic customer segments and media buyers resort to using the bare minimum in their acquisition campaigns.
+This translates to millions of unpersonalized emails sent every day and millions of dollars in wasted ad spend on mediocre customer segments.
+👕 Why are we solving this?
+We’re
+Amin Akhtar
+and
+Stephen Campbell.
+We’ve been friends for years and will be co-founders for many more to come!
+Let me (Amin) tell you the story of how we got here 🙂
+As Chief Revenue Officer of a bootstrapped D2C brand, I found myself spending time I didn’t have wrangling customer data across an ever-expanding tech stack.
+As a result, I, like most D2C marketers, resorted to using basic customer segments like “purchased in the last 30 days” in campaigns – that too without really knowing anything about their behavior besides the obvious.
+The outcome? Declining revenue from over email and dropping conversion across paid acquisition campaigns that kept me up at night.
+To solve my problem I built a prototype (read: series of massive spreadsheets) to create better segments which drove a near-instant 5% increase in revenue from email campaigns + improved performance on the acquisition side.
+After hearing my pain points for (at least) the hundredth time, Stephen decided to partner up with me and we got to building. Now we’re actively realizing our vision of a better future for eCommerce retention.
+🔎 How are we solving it?
+Revamp intelligently stitches data across Klaviyo and Shopify, automatically creates valuable customer segments and calculates metrics and insights specific to that segment.
+We then give users the ability to flexibly analyze data and observe differences in behavior in seconds - a task that would’ve taken them days if not weeks to do without it!
+Finally, users can push our segments to Klaviyo with one click and Revamp does the heavy lifting of making sure everything’s synced up!
+🙏 How can you help us?
+Drop us a follow on
+LinkedIn
+and follow our journey!
+We’d greatly appreciate any intros to D2C brands, eCommerce agencies or anyone looking to improve their email marketing!
+If you know anyone in the space feel free to reach out at
+founders@getrevamp.ai
+See All Launches ›

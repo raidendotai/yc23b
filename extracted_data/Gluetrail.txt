@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+Gluetrail
+43
+✨ Gluetrail - Smart tables that trigger automated workflows
+No code automation platform for data preparation & activation
+Anne-Charlotte Chauvet
+Gluetrail
+6 months ago
+Embed
+https://www.gluetrail.com
+#
+sales
+#
+finance
+#
+analytics
+#
+operations
+TL;DR
+Gluetrail
+is a no code automation platform that allows you to easily reconcile/transform/aggregate data from one or multiple sources, and use it to create actions, such as field updates in business systems, slack/email alerts, push to data warehouses or Google sheet...
+Signup
+here
+for early access, or
+book a time
+to meet & discuss your use case!
+🛠️ Daily operations rely too much on painful spreadsheet-based workflows
+We (
+Baptiste
+and
+AC
+👋) experienced it ourselves when building account scoring with demographic and intent data, creating sales alerts on upsell potential, fixing or filling out data in CRM…
+We had to constantly build, re-build and rely on spreadsheets because we had no system helping us prepare and action the data in an easy, repetitive and flexible way.
+🤖 Gluetrail consolidates data preparation and activation into one platform
+Gluetrail acts as a middleware between your systems,
+it doesn’t store data
+but only data transformation configurations and actions.
+Connect to your business apps, gsheet or data warehouses
+. Today, we have direct connectors to most data warehouses, Google Sheet and Analytics, Hubspot, Salesforce…
+Use
+our intuitive interface to reconcile and transform data without code
+- lookups, aggregation, built-in formula (growth rates, % of total, forecasts…) or manual inputs…
+Activate the results
+: push field or record updates to business apps, slack/email alerts, Google sheet / data warehouse… triggered on demand or with a schedule.
+Use cases:
+We have a
+template library
+showing some of our use cases and allowing you to start within minutes, but you can also start from scratch.
+A couple of examples our users are able to quickly build without assistance from dev/data teams:
+Slack alert to BizDev & populate flag in CRM when a prospect’s web traffic grows more than X% month/month (using Similarweb + Salesforce data)
+Populate an account propensity to buy score in CRM based on historical win rates by many demographic data points (using Salesforce or Hubspot data)
+🚀 Give it a try!
+Signup
+here
+for early access and we’ll get back to you asap to get started.
+Or directly
+book a time
+with us to meet and discuss your use case!
+See All Launches ›

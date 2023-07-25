@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+KURUKURU
+383
+KURUKURU: 3D engine in the browser for comics creation
+One destination for anyone to create, publish and monetize comics stories.
+Fengjiao Peng
+KURUKURU
+5 months ago
+Embed
+https://kurukuru.xyz/
+TL; DR:
+Webcomics platforms like webtoon generate $1.2B+ in ARR, engaging 90M monthly active readers. KURUKURU is a 3D engine in the browser to allow every storyteller to create, publish and monetize comics.
+This is a page of a comics story (aka webtoon, manga, manhwa)
+Created with KURUKURU
+Reality:
+Webcomic platforms like Webtoon generate $1.2B+ in ARR from comics sales, engaging 90M+ monthly active readers. Tapas, a webcomics platform, was sold for $550M. Over 2B people watch anime globally, and the total market cap of anime, webtoon and comics is $47.3B in 2022.
+Currently, creators make comics by drawing, which requires art skills and is incredibly labor intensive and time consuming.
+Solution:
+Demo:
+https://www.youtube.com/watch?v=tie8VSk3iPY
+KURUKURU is an all-in-one 3D engine and platform that enables every storyteller to create, publish and monetize comics. By uploading or generating characters, posing panels, and applying stylized filters, anyone can make comics in minutes, not hours.
+👧🏻 Optimized for comics storytelling.
+Characters take up >90% of panel areas. KURUKURU offers easy and detailed control of characters to express those ~feelings~.
+🖼️ Making art in clicks.
+Creators want panels that look like hand-drawn art, not photorealism as in traditional 3D engines. KURUKURU has proprietary filters to render webtoon, manga, and comics styles (w/ provisional patent pending), in addition to continuous integration with generative AI.
+🔮
+User generated content + oceans of assets.
+Comics creation is art asset heavy: character poses, props, backgrounds. KURUKURU offers massive amounts of native assets, and encourages creators to upload, share and trade.
+🧙‍♀️Character generation.
+Working with the 3D art teams behind games like Genshin Impact and Onmyoji, we’re building powerful character generation tools with a variety of aesthetics that Gen Z and Gen Alpha love.
+🚀
+Share everything through a link
+. Collaborate in realtime.
+💰
+Helping creators from distribution to monetization.
+Comics creation is a whole journey, and creators need so much more help and support than a great tool!
+Who are we?
+Two frens who like to draw and write ٩(●˙▿˙●)۶…⋆ฺ
+Fengjiao has had a fascination with visual storytelling her whole life. In college she wrote and created several animated films, some of which went viral. A veteran from MIT Media Lab, Adobe and Vimeo, she made algorithms on generative animation and AI.
+In 2019, she co-created a webcomics series, 少女，香草，及其他易燃物 (Girl, Herbs and Other Inflammable Objects), which was accepted to Dongman, a Chinese webcomics platform. Trying everything out there to get her comics done, Fengjiao developed deep insights in the comics creation process, from story to art, and saw the total vacancy of advanced technology in this space.
+In 2022, she teamed up with Yiping, a fellow creative, and financial engineering guru, who developed large-scale trading systems for SMBC Capital Markets, & former analyst at Alliance Bernstein since graduating from Columbia University. In their bedrooms, the two concocted the first prototype of KURUKURU. In 6 months, KURUKURU landed in the hands of the first cohort of creators that the founders befriended on Reddit.
+We are fortunate to be backed by supportive investors and experts in the field, including YC, Joi Ito and Louis Kang @ GMJP, Ben Casnocha, Amrit Rao and Anne Dwane @ Village Global, Habib Haddad and Calvin Chin @ E14. Our founding advisor
+Peter Dolch
+orchestrated content systems & warehouses for HP, Merriam Webster and AT&T, and has been a strategic advisor to numerous startups including WOMP and Gentle Beast.
+Ask
+Tell your friends/cousins who love comics, manga, animation, anime, visual storytelling … about us. Say “yc fren“ in the sign up form. We’ll help them skip the waitlist and turn their stories into comics.
+See All Launches ›

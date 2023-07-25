@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+ShortLoop
+164
+🚀 ShortLoop - Automated API platform for fast-moving teams
+We create up-to-date API collections, identify dependencies, breaking changes and API behavior without manual effort.
+Vishnu Vinjam
+ShortLoop
+4 months ago
+Embed
+https://shortloop.dev/
+#
+b2b
+#
+api
+#
+saas
+#
+developer_tools
+TL;DR:
+ShortLoop uses API traffic to automatically create a centralized API hub with up-to-date collections and dependency maps with request-response payloads. Say goodbye to juggling between Swagger, Postman, and Confluence and making manual updates.
+🤕 The Problem:
+Developers working with APIs deal with complicated JSON payloads, out-of-sync documentation, and unexpected contract changes. Existing tools rely on manual changes and do not scale when working across teams and microservices.
+🎯 The Solution: Traffic Data 🤝 API Platform
+ShortLoop intelligently samples network traffic and creates API collections and payload visibility out of the box and this stays up-to-date. Add a light-weight SDK in your backend and you get:
+Up-to-date API collections
+API usage and dependencies
+Logs without deployment
+Change Alerts
+💪 Why we built ShortLoop!
+We saw this problem firsthand in our previous companies as the product breadth and team size grew rapidly. In that fast-paced environment, we couldn’t maintain collections and documentation manually in existing tools. Teams slowed down and developer productivity suffered as people relied on meetings and slack discussions to get their work done.
+😃 Stories from our users
+“We try to dedicate 10% of our sprint to document APIs properly so that testing, debugging, and integrations become smooth. But there was still no single source of truth across our current tools. ShortLoop makes this very easy.”
+- Anurag Chutani (Intellect S21)
+“Shortloop has quickly become a critical part of the onboarding process for new engineers on the Shyp team, saving us critical dev time.”
+- Shivam Bharuka (Shyp W23, ex-FB)
+🙏🏻 Our Ask
+Signup
+here
+to try ShortLoop.
+Email
+founders@shortloop.dev
+for any queries
+Connect us to fast-growing engineering teams
+See All Launches ›

@@ -1,0 +1,72 @@
+Home
+›
+Launches
+›
+Map3
+13
+💸 Map3 — Supercharge crypto deposits
+Map3 connects crypto services to Wallets, Exchanges & Bridges to enable cross-chain deposits.
+Amadeo Pellicce
+Map3
+6 months ago
+Embed
+https://map3.xyz
+#
+b2b
+#
+saas
+#
+payments
+#
+open_source
+#
+crypto/web3
+Hello! We are Mark, Phil and Amadeo. We are excited to launch
+Map3
+(W23)!
+tl;dr: Map3’s Supercharge SDK helps Neobanks, Crypto Exchanges and Offramp Providers scale cross-chain asset support. We enable deposits on >20 Crypto Networks without changing a single line of backend code.
+—
+🤕
+Crypto is Scaling, and Scaling Hurts
+Crypto assets now live on hundreds of interoperable networks. As developers, adding new coins is time-consuming and expensive. At the same time, as users, we often get frustrated by poor on-chain depositing experiences that haven’t changed in the last 10 years!
+My co-founder Mark and I led the Assets and Networks team at
+Blockchain.com
+. Our biggest headache was simply trying to keep up with the ever-growing list of protocols and assets our users wanted to deposit. However, adding a new chain to our system took 2-4 weeks of engineering time. Also, we found that as an end-user, unless you know what you’re doing, it’s extremely easy to send money via the wrong network by mistake.
+💆‍♂️
+There Should be a Better Way
+Map3 flips the problem on its head. Instead of asking our customers to manage hot wallets and the complexity in their backend, we do the hard work for them by allowing users to bridge into networks already supported by our customers.
+We Have Three Features
+🌉
+Native Bridging
+: Users can pay in their preferred network. Assets are bridged to your enabled chains seamlessly. No backend changes are required.
+🎯
+Transaction Detection
+: Supercharge surfaces in-flight transactions, delivering a real-time account funding experience. Reduce anxiety for your users.
+📱
+Wallet and Exchange Integrations
+: Connect to top Wallets and Exchanges with a delightful Plaid-like checkout flow. Eliminate unidentified payments.
+Use Cases
+💸
+Money Collection
+: Offramp, swap, and crypto invoices providers need to collect specific amounts of Crypto. We help them do that with less room for error across networks.
+🛣️
+Take Deposits across Networks
+: Your App or Dapp can accept deposits across networks. We monitor liquidity on bridges in real time and only offer routes to users if it's affordable.
+📈
+Improve conversion and funding rates
+: by pulling money directly from the sender’s account with a great UX. Whether it’s
+Binance.com
+or Metamask, Map3 meets users where they are.
+The Team
+Our team has been building in Crypto since 2013. Mark Pfluger (CTO) used to lead Crypto Engineering at
+Blockchain.com
+. Philip London (ENG) was a Staff Engineer leading the Web Wallet. I (Amadeo, CEO) co-founded the UK’s first Crypto Exchange in 2013 before joining the
+Blockchain.com
+Product Team, where I met Mark and Phil. I worked with them for several years in this problem space. We’re excited to be bring our solution to market!
+The Ask
+We’re looking for feedback 💌. I
+f you’re in the Web3 space, grab some time with me to talk about use cases ➡️
+https://cal.com/amadeo-map3/discovery
+Please also star our Supercharge SDK on Github ➡️
+https://github.com/map3xyz/supercharge
+See All Launches ›

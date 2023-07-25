@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+coil
+53
+coil - cut fees & kill churn with seamless bank payments 🚫💳
+We help businesses replace credit cards with bank payments to cut processing fees up to 80% and eliminate churn from card declines
+Eleazar Vega-Gonzalez
+coil
+5 months ago
+Embed
+http://www.trycoil.com
+#
+b2b
+#
+fintech
+#
+payments
+#
+e-commerce
+#
+subscriptions
+TL;DR: Credit card processing fees are outrageous, and credit card declines account for nearly half of all subscription churn — we're solving these problems once and for all. coil allows you to seamlessly accept bank payments from customers with a simple experience they'll actually use — no account, routing, or microdeposits needed.
+The Problems
+📉 Delinquent Churn
+If you rely on credit cards for your subscription payments, you’re probably familiar with churn from credit card declines. Recurring credit card charges are declined
+15% of the time
+and account for
+48% of churn
+, making them the single largest source of churn for most subscription businesses.
+💸 Processing Fees
+American businesses spent over
+$138B on credit card processing fees
+last year, which is only growing. With Visa and Mastercard controlling more than 70% of the market, they have no incentive to reduce these fees themselves. This is especially painful for businesses that sell high-ticket items or operate on low margins, where every single percentage point can move the needle.
+Our Solution
+coil tackles both of these problems by getting to the root of the issue: credit cards. We’re building a new, seamless experience to help you collect payments via bank transfer (ACH/RTP) instead of credit cards and handling all of the complexity behind the scenes.
+Our first product is a “Pay with coil” button that can be added directly to your pre-existing checkout flow for one-off or subscription payments. When a customer uses coil for the very first time, they’ll securely link their bank through Plaid. Afterward, they can verify their identity through an SMS or Email verification code, allowing authenticated payments in seconds. You can checkout the returning flow here:
+This is already a huge improvement over today’s ACH experience, and we’re just getting started. Over the coming months and years, we’ll continue to flesh out the scenarios and integrations necessary to become the default payment method for a post-credit card world.
+Asks
+Reach out if you're looking to reduce your processing fees or eradicate churn from credit card declines — all YC companies will receive priority onboarding.
+Share with anyone you think might be interested in moving past cards to reduce fees & churn.
+You can reach us at
+founders@trycoil.com
+See All Launches ›

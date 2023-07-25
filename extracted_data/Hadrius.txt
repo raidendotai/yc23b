@@ -1,0 +1,48 @@
+Home
+›
+Launches
+›
+Hadrius
+22
+Hadrius - SEC regulatory compliance powered by AI
+Hadrius is your SEC compliance copilot, saving compliance teams hours daily.
+Thomas Stewart
+Hadrius
+5 months ago
+Embed
+https://www.hadrius.com
+#
+saas
+#
+fintech
+#
+regtech
+#
+investing
+#
+artificial_intelligence
+Hey everyone - we’re
+Thomas
+,
+Allen
+, and
+Som
+from
+Hadrius
+. Hadrius automates the entire ongoing SEC compliance process for investment managers, saving compliance teams hours daily on manual reviews, filings, and audit prep while giving full control over tasks and flagged items from an intuitive dashboard.
+The Problem ❌
+30,000+ financial firms spend a combined total of $16b+ a year on ongoing SEC compliance, and with new regulations every year, these costs are continuing to rise. At the same time, the existing solutions can hardly keep up, with most firms paying for third-party consultants, law firms, and 2-decade-old software - while still relying on endless manual work to make up the gap.
+The result: upwards of $10k/year per employee spent on regulatory compliance and thousands of hours of tedious tasks at each financial firm.
+The Solution ✨
+Hadrius scans emails, slack and SMS with GPT3, flagging non-compliant language to speed up correspondence review and does similar work for marketing review and regular filings. We’ve also automated billing reviews, allocation reviews, and rollovers by integrating into investment managers’ existing compliance stack (like client CRMs and trading systems).
+All this is presented to the CCO and their compliance team as a dashboard where they can manage the automated tasks and review flagged items that require human input - overall savings hours daily.
+Why Us 🤝
+We ran an SEC-registered RIA ourselves, we've faced these challenges firsthand and developed Hadrius for our own fully-automated compliance program. We aim for a world where compliance is the effortless state of financial firms, rather than constant worry requiring expensive vigilance to maintain.
+Across the team, we’ve had 1 previous exit and worked at Google, hedge funds, and Chime.
+Launch Deal 🙏
+If you’re an asset manager, we’ll begin automating your entire compliance stack with 20% off our annual contract as an early bird discount. Send us an email at
+hello@hadrius.com
+or
+book a demo
+!
+See All Launches ›

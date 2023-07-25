@@ -1,0 +1,39 @@
+Home
+›
+Launches
+›
+Codeparrot
+29
+CodeParrot 🦜 - Automate API Testing using production traffic
+Take back hours spent in testing, let CodeParrot generate and maintain intelligent test cases.
+Royal Jain
+Codeparrot
+5 months ago
+Embed
+https://www.codeparrot.ai/
+#
+developer_tools
+TL;DR
+CodeParrot
+uses production traffic to generate intelligent test cases. What’s more? It can mock downstream dependencies like databases, external APIs, so you don’t need to set up a test environment to run these tests. If this sounds useful,
+book a demo
+here
+to learn more
+📅
+About Us
+Hello everyone! We’re Royal and Vedant and we couldn’t be more thrilled to introduce CodeParrot to our fellow devs!
+Problem
+Nobody likes writing tests. Why? Additional work, needs maintenance, requires setting up test environments, mocking 😩. What's there to like?
+Solution
+Codeparrot captures API calls from the production environment - both requests made to your backend service and downstream calls which the service makes (like database calls, third party APIs etc). This data is used to generate test cases.
+Whenever the service is updated, we run the service in an isolated container. We replay the test cases and compare the responses with the responses captured in production. All the downstream services are mocked and regressions are highlighted to the developers. Sounds Interesting? Checkout our
+Demo Video
+.
+Codeparrot is a auto-updating test suite for your backend services.
+Our Ask - Give us a chance 🚀
+We want you! Interested in CodeParrot’s solution? Contact us at
+royal@codeparrot.ai
+or book a
+demo
+here
+See All Launches ›

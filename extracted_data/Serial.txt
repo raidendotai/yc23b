@@ -1,0 +1,37 @@
+Home
+›
+Launches
+›
+Serial
+25
+Serial - Unify your manufacturing data
+Helping engineers root cause manufacturing issues in minutes
+Tak Alguire
+Serial
+5 months ago
+Embed
+https://www.serial.io/
+#
+saas
+#
+analytics
+#
+manufacturing
+TL;DR
+Serial
+unifies data from your manufacturing process, enabling engineers to save time and root cause issues immediately.
+The Problem
+Root-causing manufacturing issues is a painful and time-consuming process that requires collecting and aligning all forms of data - log files, dimensional measurements, supplier reports, images, etc.
+These costly problems result in millions of dollars in lost production capacity, scrapped parts or product recalls.
+The Solution
+A pipeline to collect, parse, clean and structure data from any source on a production line
+Models to identify local trends or deviations in data to escalate quality risks in realtime
+Single platform to ask any question about your data and immediately get an answer
+The Team
+We are Waterloo grads with 10+ years of experience in product design and manufacturing quality from Apple, Tesla, and North. We have suffered this problem firsthand and are building the tool we wish we had.
+The Ask - Intros to Manufacturers
+If you are manufacturing products and share this pain, then reach out to
+founders@serial.io
+or sign up directly at
+serial.io
+See All Launches ›

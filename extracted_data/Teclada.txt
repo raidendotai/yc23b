@@ -1,0 +1,72 @@
+Home
+›
+Launches
+›
+Teclada
+28
+⌨️ Teclada: The modern terminal for modern developers
+Teclada replaces SSH for the modern age, letting you connect to and share access to computers entirely in your browser
+David Fiala
+Teclada
+4 months ago
+Embed
+https://www.teclada.com/
+#
+security
+#
+compliance
+#
+enterprise
+#
+productivity
+#
+developer_tools
+✨ TL;DR
+Teclada
+replaces SSH and your local Terminal app, giving you a powerful, efficient terminal experience from any browser. Out of the box, Teclada provides what terminals should have always had: from persistent connections and panes, to autocomplete that pops up like an IDE. We’ve added AI command writing as well, to make it easy to pipe together advanced terminal commands from plain English.
+🙌 Who is Teclada for?
+Developers, admins, or anyone that spends time in the terminal.
+Teclada is useful if you spend 8 hours a day in the terminal due to its powerful features, and it’s also useful if you only spend 5 minutes a quarter. It’s simple to get in, run commands, and get out.
+🤯 The Problem
+The terminal can be frustrating and unintuitive. Over the last three decades, it hasn’t kept up with the features developers generally expect. For example:
+There’s no built-in session persistence, meaning your commands die if your connection dies.
+There’s no way to collaborate. (eg, debugging with others is reduced to copy-paste.)
+There’s no automatic panels or tiling, leaving you to deal with tens of tabs or windows.
+A lack of convenience features like an autocomplete that gives you visual feedback or AI assistance.
+Although workarounds exist for some of these difficulties, the workarounds are cumbersome and require deep technical knowledge to pull off.
+The terminal isn’t the only pain —
+SSH
+hasn’t aged well either: Disconnected connections, ssh key management, IP addresses, firewalls, and account sharing are painful. Lost command history and bashrc files that don’t carry over just make it all the worse.
+💡 Solution
+Teclada allows you to see your computers and share access to them entirely from a browser. You open individual terminal sessions from our website, then run commands just like you normally would. You can even use it as a local terminal. Once you start typing, useful hints pop up to help. By writing
+ai:
+followed by an English request, Teclada will generate a command that does what you asked for. If you need to step away, you can later pick up your terminal session exactly as you left off. Your commands keep running in the background. Finally, you can share your live terminal with other users in real-time, just like sharing and typing in a Google Doc.
+Efficiency Features
+✔️
+Persistent, panel-based sessions
+: Your commands keep running, even when you disconnect. Terminal sessions stay organized in groups.
+✔️
+AI assistance
+: Write what you want in plain English, and get it converted to useful shell commands, no matter how gnarly your request is.
+✔️
+Real-time collaboration & Simple ACLs
+: Share your terminal sessions just like a Google Doc across multiple tabs or computers. Share live terminals and computer access via email addresses— and give others view-only or execute access on your computers.
+✔️
+Any computer, anywhere
+: All you need is a browser and a login to connect to your computers. No IP addresses, firewalls, or ssh keys to get in the way.
+👓 The co-founders
+We’re David and Ian 👋 We’re both engineers in security, and have been building security products for the last 7 years at Google. David most recently built out Google Health’s security team, and Ian led Google’s internal security research team. We know that making it easy for people to accomplish their work is a big part of a successful security product, which is why we are so excited to be bringing Teclada to you.
+Ian is the author of the world’s most popular and advanced python fuzzer,
+Atheris
+. David received his PhD in supercomputing & reliability from NC State.
+👋 Ask: How you can help
+Try Teclada by signing up at
+teclada.com
+.
+For all the terminal warriors you know, share Teclada with them.
+Please report bugs to us or ask for help. More than anything, we’d love to hear about your use cases and challenges. We are here to help! You can find us at
+founders@teclada.com
+or
+our discord
+.
+See All Launches ›

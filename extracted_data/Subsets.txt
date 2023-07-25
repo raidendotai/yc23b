@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+Subsets
+29
+Subsets – The AI retention co-pilot for subscription businesses
+We help consumer subscription businesses improve retention and make subscribers stay longer.
+Martin Johnsen
+Subsets
+8 days ago
+Embed
+https://www.subsets.com
+#
+ai
+#
+b2b
+#
+crm
+#
+machine_learning
+⌛️
+TL;DR
+: Subsets makes it simple to understand, engage, and retain subscribers by enabling personalized and proven retention initiatives based on AI. Our solution helps leading subscription businesses increase CLV by +20% and extend subscriber lifetime up to 6 months.
+Hi everyone! We are Oliver, Martin, Matias, and Nikolai - the co-founders of
+Subsets
+.
+from left to right.
+Oliver
+leads machine learning and AI development; graduate in machine learning, previously worked as an ML engineer.
+Martin
+heads the company; graduate in machine Learning, worked in management consulting for two years helping companies scale AI applications.
+Matias
+carries engineering at Subsets; CS graduate, software engineer in both venture scale-up and big tech (Amazon and Microsoft).
+Nikolai
+drives growth and operations; experience with growth (ABM & marketing automation) and revenue operations at a fast growing SaaS scale-up.
+🫠 The Problem
+Healthy consumer subscription businesses lose 20-40% of their subscribers annually
+Think about a subscription you have personally - subscribers are flooded with impersonal and irrelevant information which does not encourage active engagement
+CRM teams do not have solutions available to figure out what the subscriber needs right now to make the most out of their subscription
+Current AI retention solutions are built for engineers, not commercial people
+💡 The Solution
+Subsets is The AI retention co-pilot for subscription businesses
+We enable CRM teams to understand, engage, and retain subscribers by enabling personalized and proven retention initiatives based on AI. Initiatives that work get automated and run continuously on dynamic subscriber audiences. By knowing what initiatives work across different subscription businesses, Subsets can recommend initiatives that give ROI fast.
+Understand, engage, retain by learning from experimentation
+Our solution helps leading subscription businesses increase CLV by +20% and extend subscriber lifetime up to 6 months.
+🙌 Our Ask:
+Intros to consumer subscription businesses
+Users:
+If you know anyone who works in consumer-focused subscription businesses, we would like to talk to them and share what we are building! You can introduce us at
+martin.johnsen@subsets.ai
+Pilots:
+If you are interested in using Subsets, feel free to sign up on
+www.subsets.com
+or reach out directly to the founders at
+founders@subsets.com
+Follow
+Subsets on LinkedIn
+if you find it interesting
+Thanks a lot for reading!
+See All Launches ›

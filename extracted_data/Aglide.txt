@@ -1,0 +1,68 @@
+Home
+›
+Launches
+›
+Aglide
+37
+Aglide - Control your team's SaaS accounts, access, & bills
+A password manager that shows what apps employees have, how much they cost, and whether they’re actually used.
+Patrick D. McGuckian
+Aglide
+11 days ago
+Embed
+https://aglide.com
+#
+b2b
+#
+saas
+TL;DR:
+Aglide is a password manager for startups - showing what apps employees have, how much they cost, and whether they’re actually used.
+Firms switch from 1Password to simplify cost tracking, cut unnecessary bills, and easily control who has what access.
+Do you
+really
+know what apps and access your employees (and ex-employees) have?
+What
+SaaS subscriptions are you paying for?
+“
+Everyone has the same 5 core apps… Other than sales who has Pipedrive… Oh, and design uses Figma and Canva… Wait didn’t marketing get that social media tool…”
+Do you know if services are actually used?
+“
+I want everyone to start using our new AI meeting notes tool. Even you, intern that will never host a video call!”
+Do ex-employees have access to things they shouldn’t?
+“
+Just found out we never removed Yasmin from Github after she left. Now she’s working for our competitor!”
+Enterprise products solve this for enterprises, but not startups and scale-ups.
+They require expensive “Enterprise Plans”:
+Each managed app needs upgrading to expensive SSO plans:
+Figma goes from $12/month to $45/month (Ouch!)
+GitHub goes from $4/month to $21/month (5x higher!)
+Netlify won’t even tell you (but
+these people
+say it goes from $19/month to $99/month)
+You need to “Contact Sales”
+Enterprise services make you sit in a series of sales calls before you can even get started.
+Founders are busy. They need the problem solved in minutes, not weeks.
+Oh, and they are spectacularly complicated, so you better hire an IT guy to manage it all.
+Our Solution: Aglide
+Aglide gives you the power of expensive enterprise tools, in a product that’s as easy to use as a password manager.
+Benefits for you:
+Set up and roll out to every employee in
+less than 5 minutes.
+Monitor the apps each employee has and how much they cost.
+Find and unsubscribe from expensive services no one is using.
+Someone leaving? Get a list of all their apps to see what needs deactivated.
+Benefits for your employees:
+Securely store any account, credit card, API key and more!
+Create vaults to easily share accounts and items between teams.
+Install the extension, and sign in once per day to seamlessly access all your apps.
+Setting up Aglide and deploying it to your entire team takes less than 5 minutes.
+Our Ask
+Tell us the IT problems you want fixed:
+We want to hear ALL about your IT pains. Email me at
+p@aglide.com
+or (if you’re a hero) book a call →
+link
+Sign up today:
+Sign up and migrate from 1Password in less than 5 minutes →
+link
+See All Launches ›

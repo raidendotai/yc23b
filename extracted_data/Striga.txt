@@ -1,0 +1,35 @@
+Home
+›
+Launches
+›
+Striga
+20
+Striga - Crypto-backed card issuing APIs
+Flexible APIs to issue Virtual/Physical Visa Cards backed by Bitcoin, USDT etc.
+Prashanth Balasubramanian
+Striga
+3 months ago
+Embed
+https://striga.com/
+#
+compliance
+#
+crypto/web3
+Striga offers powerful (and compliant!) APIs to issue and manage a crypto card program, enabling builders to embed compliant real-time spending workflows for authorizing card transactions against a crypto balance.
+Why Striga?
+In today’s climate, setting up a simple custody or exchange business, let alone a card program either costs several millions + years of your time in jumping through regulatory hoops and approvals, or is simply denied by financial institutions.
+Striga is the first company licensed
+under a regime very similar to the proposed
+MiCA
+legislation, taking care of all the heavy lifting under the hood (banking connectors, liquidity, custodian connectors, issuing, processing, compliance, monitoring, reporting) and
+exposing simple yet powerful APIs to manage crypto, card issuing and banking in Europe.
+https://youtu.be/XK3p-gO1sCM
+Who we are
+Prashanth founded Striga in 2018 to build a better payments network utilizing Bitcoin, having experienced first hand the pains of gaining access to banking as an immigrant in Europe for moving funds across borders. As he got the company got off the ground with it’s initial consumer facing Bitcoin Lightning powered neo-bank in Europe (Lastbit) and shipping the world’s first ever non-custodial instant payments device, building Striga was inevitable, with growing friction between financial institutions and crypto first companies.
+Today, Striga powers the core infrastructure for numerous European crypto companies which would have otherwise simply not existed with the barrier to entry being raised year over year.
+Through the recession of 2022 and the downfall of large names in crypto, Striga’s small but mighty team successfully weathered the storm, secured a VASP license, built banking relationships, issuing relationships and mainly the core platform
+that is public today
+.
+The deal
+Embed card issuing into your product using Striga and your first 500 physical cards are on us, free of charge!
+See All Launches ›

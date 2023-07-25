@@ -1,0 +1,42 @@
+Home
+›
+Launches
+›
+Bend
+30
+Bend - A corporate card built for climate-friendly businesses ($100 to try it)
+Earn 4% yield on deposits and carbon removal rewards on your everyday card purchases. Free carbon accounting included.
+Ted Power
+Bend
+3 months ago
+Embed
+https://usebend.com/
+#
+fintech
+#
+climate
+#
+sustainability
+TL;DR - Just by shifting some of your company spending to Bend, you’ll be helping to reduce climate-changing emissions, thanks to the carbon removal rewards you’ll automatically earn, and our embedded climate analytics.
+How it works:
+Bend is a modern card and cash account, combined with free carbon accounting and climate rewards
+Bend works similarly to how you’d use a business bank account. Send and receive ACH and wires, earn 4% yield on deposits, issue physical and virtual cards with budgets, etc.
+Carbon accounting typically runs companies $40k/year and up. We make money off the card interchange (same as any bank), enabling us to offer the carbon accounting for free, and pass through carbon removal rewards.
+The way we actually do the carbon accounting is laid out here — we always return a confidence score with every CO2e assessment:
+https://usebend.com/how-it-works
+We have awesome customers like Harmonic AI (
+https://bend.green/harmonic
+) and Fathom (
+https://bend.green/fathom
+). If you choose, you can create a report of your climate action through Bend like these ones, which you can share with customers, employees, investors, etc.
+Why tracking and reducing climate-changing emissions is worthwhile:
+It’s good for the planet (and free!)
+It will help you sell your products to B2C customers who care about the climate, and B2B customers who have set net zero goals (64% of global market cap companies now report on climate data, and are increasingly asking their suppliers to do the same)
+How we got here:
+We
+launched Bend
+last summer as an API. We’re now launching cards directly, because we’re able to offer the functionality for free, and it’s easier for startups to try it out. Prior to Bend, Thomas and I worked at
+Abacus
+, where I was one of the co-founders — our background is in fintech, and our goal is to layer in climate insights on top of your financial stack.
+We’d love it if you tried Bend out!
+See All Launches ›

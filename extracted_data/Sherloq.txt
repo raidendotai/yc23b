@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+Sherloq
+134
+⚡🔍 Sherloq: Collaborate and manage your SQL data with the power of Gen AI
+One place for all your data team's SQL queries on top of your existing data stack
+Noy Twerski
+Sherloq
+5 months ago
+Embed
+http://sherloqdata.io/
+#
+b2b
+#
+saas
+#
+analytics
+#
+collaboration
+TL;DR
+Sherloq is a collaborative SQL repository, like Github for data teams, that creates one source of truth for all company queries using Gen AI. With Sherloq, different data analysts are asked the same question and they always give the same answer.
+—
+Hey everyone 👋 We’re
+Alon (CTO)
+,
+Noy (CEO)
+and
+Nadav (COO).
+We’re happy to introduce Sherloq - the first collaborative SQL repository for data users.
+🔍
+Inconsistencies in data analysis destroy business value, and costs orgs more than $15M per year
+With the adoption of the modern data stack and while companies store endless amounts of data, data teams (analysts, scientists and engineers) spend 60% of their time trying to find, understand and manage their data.
+Data analysis is still very subjective and dependent on the user creating it:
+Company business metrics are interpreted differently by each data user, and have various definitions
+Structured data consist of hundreds of out-of-date fields with similar names, making it almost impossible to determine the most relevant fields for a particular analysis
+Since SQL code is stored locally on each data user’s computer and isn’t reused, every data user writes code their own way regardless of company best practices
+The rise of Gen AI changes the rules of the game, as now it enables us to take data explainability to a new level of clarity, a capability we only wish we had a few months back.
+As we ourselves were data users in companies such as Microsoft, Walkme and 8200 the Cyber Intelligence Unit at the IDF, we’ve experienced this problem firsthand and waited for a proper solution for too long.
+🔍
+Enter Sherloq
+Sherloq is a collaborative SQL repository that creates one source of truth for all company queries.
+We change the paradigm of how queries are stored and analyzed, with our new product capabilities and technology:
+Zero integration and hassle free
+- our add-on to any query editor, and our own SQL parser algorithm, extract the relevant queries automatically, so we know the data scheme, queries, users and usage in a click
+Tailor-made data knowledge base per organization
+- based on our fine tuned LLMs and by analyzing each company’s own data usage and costs, we automatically create a knowledge base within hours of download
+Using Sherloq, organizations increase their data teams’ productivity by 2x and save 60% of their direct data management costs.
+🔍
+Try
+our Google Chrome Extension
+If you’re tired of adding more and more tools to your data stack (like we were), our add-on sits on top of your
+existing
+query editor, so you don’t need to change anything in your current workflow.
+After downloading, you’ll be able to:
+🛫 Use auto-complete and co-pilot features on your own query editor
+🪄 Automatically generate descriptions and names for each query and table
+📁 Create SQL version control and shared folders
+⏱️ Based on our metadata analysis, you’ll get to know best practices for optimizing your queries and database
+🔍
+Don't waste another minute on unreliable data analysis
+Download
+Sherloq! We’re offering a 50% discount until Demo Day.
+We’d love to hear your thoughts and feedback, so feel free to schedule
+here
+or reach out to us -
+noy@sherloqdata.io
+See All Launches ›

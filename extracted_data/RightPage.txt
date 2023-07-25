@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+RightPage
+10
+RightPage – Context-aware automations to give your support team superpowers
+Empower your support team to crush their KPIs and delight customers
+Arjun Murthy
+RightPage
+13 days ago
+Embed
+https://www.rightpage.com/
+#
+analytics
+#
+generative_ai
+#
+customer_success
+#
+customer_service
+#
+customer_support
+TLDR:
+RightPage helps support teams serve their customers faster and better and surpass their KPIs by empowering support agents with an array of workflow automations that surface the right context, automations, and drafts in real-time.
+Today, RightPage partners with businesses that use Zendesk as their support ticket management system. RightPage is compatible with enterprise requirements (e.g., multi-brand, custom templates, advanced automations, analysis of prior user/org interactions and knowledge-centered service workflows). Security has been built in from the start (PII automatically redacted before processing, end-to-end encryption, SOC II compliance posture established).
+The Problem:
+The customer support process is broken – both for customers, and for support agents. 60% of customers say that speed of response is the most important aspect of good customer service, but support teams are struggling to keep up.
+30-45% annual agent turnover:
+Constant loss of experienced support agents paired with complex workflows results in inefficient support operations that leave customers and managers frustrated.
+25-80% of customer requests are repeats:
+For support agents, searching for the right information and context are the biggest workflow bottlenecks
+Chatbots ≠ Customer Happiness:
+Self-serve chatbots do not provide delightful experiences (ask your customers). This experience gap only grows with the complexity of the products…
+Support experiences impact 77% of customers buying decisions:
+Poor support responsiveness and helpfulness translates into lost business
+How we are solving it:
+RightPage seamlessly integrates into support agent’s existing ticket management systems (e.g., Zendesk). RightPage delivers:
+Actionable contextual insights:
+With RightPage, agents receive customizable summaries of the current ticket, past requester/org interactions, and suggested reference materials
+One-click automations:
+Trigger suggested workflow automations and surfacing of relevant resources (e.g., articles, tickets)
+Assisted Writing:
+Agents can utilize RightPage to draft ticket responses, expand existing responses, or check drafts for grammatical correctness and meaning. RightPage has extensive guardrails in place to ensure writing is accurate and context specific.
+Low Maintenance:
+An intuitive admin console, but one that we hope you rarely have to use! RightPage can be fully configured in a few hours (data connections, brands, templates, rules, etc.) and automatically syncs with data sources
+Support teams are enhancing first-touch resolution rates, boosting custom satisfaction scores (CSAT), and decreasing time-to-close rates with RightPage.
+How you can help:
+Try RightPage
+– if delivering delightful and efficient support to your customers is a priority, give RightPage a try! Our team will provide white-glove onboarding during a free evaluation period to ensure we are delivering ROI. You can schedule a brief intro call
+here
+.
+Refer us
+– if you know people in customer experience/support roles in small to mid-size companies (~100-1,000 employees), let us know
+here
+. We will send you
+AirPods for any qualified warm referrals
+that result in a demo opportunity.
+Follow us
+on
+LinkedIn
+to get early updates on upcoming releases
+See All Launches ›

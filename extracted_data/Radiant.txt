@@ -1,0 +1,52 @@
+Home
+›
+Launches
+›
+Radiant
+53
+Dev Tools AI 🤖 CoPilot for UI Testing
+We make writing UI automation tests as easy so you can solve bigger problems
+Chris Navrides
+Radiant
+a year ago
+Embed
+https://useradiant.com
+#
+ai
+#
+b2b
+#
+enterprise
+#
+productivity
+TL;DR
+Dev Tools
+is a library that makes it easy to write web tests in your existing framework by drawing a box over a screenshot instead of building a locator.
+🤕Problem
+Writing end to end tests is difficult and time consuming. It takes forever to dig into the page code to build the right XPath or locator. And even when these are found, they are likely to change over time as the product continues development.
+⚡️Our solution
+We use computer vision to look at the screen, like an end user, and find the element you want to interact with. Then, in real-time, we find the element and return it so all your existing automation can keep working with it. We make this easy to use by extending Selenium with a
+findByAI()
+method where you just put a human readable name and let the AI do the hard work.
+We even let you see the elements from within your IDE!
+🎉 Bonus Features
+Work on Games
+Traditional automation has trouble working with games as most games render within a canvas element. Because we only use the screenshot, and not page source, we can play games like LooneyToons!
+Crawl for Errors
+Monkey Testing for errors comes standard with Android, but there isn’t a default one for Web. We added that functionality to our SDK so that you simply call
+scan_domain()
+and it will crawl your page and look for errors like broken links, 404s, console errors, etc. Learn more in our
+blog
+about the feature.
+Our Ask - Try it out and give us feedback
+If you write or have written Selenium or UI tests, we would love your feedback on the tool.
+Join us on
+Discord
+, or follow us on
+Linkedin
+!
+If you have any questions or automation challenges, reach out to us anytime!
+chris@dev-tools.ai
+&
+etienne@dev-tools.ai
+See All Launches ›

@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Santiago Labs, Inc.
+36
+Santiago – Never let your documentation go out of date
+Bring your knowledge base to all your critical tools, and ensure it never goes out of date
+Ethan Blackburn
+Santiago Labs, Inc.
+13 days ago
+Embed
+https://santiago.app
+#
+ai
+#
+productivity
+#
+developer_tools
+Tl;dr:
+Santiago integrates your company’s knowledge base with all your critical tools – Slack, Zendesk, Github, and more – and keeps it up to date automatically. For new teams with no documentation, you can drop in our slack bot and generate docs from the last 30 days of your Slack history. For larger teams, you can keep your documentation current and capture new information incrementally from Slack conversations.
+—
+Hi everyone! we’re Ethan and Danny, and we’re building
+Santiago
+. We’ve felt the pain of out-of-date documentation when we worked at Uber, Google, Samsara, and Modern Treasury, and we’re on a mission solve it.
+⚠️
+The Problem: Writing documentation is a continuous, high-effort task
+Documentation is not one-and-done. Companies and their products are always evolving and growing in complexity.
+Documentation decay
+leads to unnecessary work and conversations to get things done internally, as well as more support load to help your end-users be successful.
+Do any of these sound familiar?
+You just started at a company and they want you to onboard quickly… but there’s little-to-no documentation on how to do your job.
+Your customer is frustrated because the public docs reference a workflow that is no longer supported.
+Your developer infrastructure team is releasing new tools frequently. As a product engineer, you are having trouble staying on top of the latest workflows.
+We feel you. Outdated documentation sucks.
+🧠
+The Observation: You already have up-to-date information, it’s just lost in Slack
+Your team is interacting all day in Slack.
+Someone
+on your team has the latest information, and they’ve likely posted it somewhere (e.g. in thread reply, #changes, #won-deals, etc.) Slack’s low overhead makes it easy to post the latest updates on customers, projects, and anything else happening in your team.
+🪄
+The Solution: Capture context from your team’s interactions
+Santiago can capture any information from Slack and automatically add it to your documentation.
+Using Santiago, your team can:
+✅ Build a knowledge base from scratch, using valuable context from Slack channels.
+✅ Keep your internal and customer-facing documentation up-to-date.
+✅ Surface answers from your documentation in any of your tools – Zendesk, Slack, etc.
+👉Sign up
+We’d love to get your feedback and in exchange, we’re offering a two week free trial to our first twenty signups.
+Sign up here
+for access and reach out to
+ethan@santiago.app
+if you have any questions!
+See All Launches ›

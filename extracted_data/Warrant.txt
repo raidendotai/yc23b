@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+Warrant
+25
+Warrant - Open source application authorization and access control
+Build compliant, auditable, production-ready permissions, role based access control, and more in minutes instead of months.
+Karan Kajla
+Warrant
+4 months ago
+Embed
+https://warrant.dev/
+#
+b2b
+#
+api
+#
+open_source
+#
+developer_tools
+Hey everyone! We’re Aditya and Karan! 👋
+Warrant is an open source
+authorization service
+that
+helps developers implement and enforce secure, compliant access control in their applications.
+It abstracts away the complexity of building application authorization and access control so developers can instead focus on building core product features.
+Our cloud-first, API-first approach has enabled us to build a highly-scalable and performant service that now processes millions of customer API calls per month. Today, we’re excited to announce that Warrant is officially
+open source
+! ⭐️
+The Problem
+Developers, we’ve all been there. What started as a simple
+isAdmin
+flag to distinguish between internal and external users — just so you could release that
+one
+internal-only feature — has grown into a nightmare to maintain. It’s now a hodgepodge of booleans, database flags, and a halfway built role based access control system that not only slows down your team’s day-to-day development velocity, but also opens up your company to a slew of
+costly security vulnerabilities waiting to be exploited
+.
+What’s more? Your customers are now requesting the ability to self-manage their team’s roles and permissions, so you’ll be spending another 1-2 months building the APIs, UIs, etc. for this risky, non-differentiating feature.
+In short, application authorization and access control is difficult to build and even trickier to maintain as a company’s product evolves and its needs change.
+The Solution
+To help developers quickly build world-class access control, Warrant provides three things:
+(1)
+A centralized datastore for storing your application’s authorization policies and related data.
+Warrant’s management dashboard and APIs make it dead-simple to safely modify authorization policies globally or for a single user or tenant in real-time. With Warrant, updating policies for all users as your product changes becomes a breeze.
+(2)
+A real-time, low latency access control service for enforcing authorization policies in your application at runtime.
+With official Warrant SDKs available for the most popular server-side languages and frontend frameworks, checking if a user has access becomes as easy as a call to Warrant’s
+check
+method.
+(3)
+A library of thoughtfully designed, authorization-specific UI components
+that help with building self-service permission management flows, granting/denying access to privileged pages/UIs, displaying audit logs to users, and more. These components are
+customizable and
+permission-aware
+, so developers can drop them into any application.
+What’s Next?
+Join us on our journey to solve authorization and access control for all developers:
+Give us a 🌟
+on GitHub
+and tell us what you’d like us to build next
+Give us a follow
+on Twitter
+to keep up with the latest Warrant features
+Come discuss everything authz/access control in our
+Slack community
+Try out our managed cloud service,
+Warrant Cloud
+See All Launches ›

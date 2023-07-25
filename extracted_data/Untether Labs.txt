@@ -1,0 +1,49 @@
+Home
+›
+Launches
+›
+Untether Labs
+167
+Untether Labs  ·  Smart scheduling for digital clinics
+We help clinics schedule their doctors and patients, to improve margins and access to care.
+Aditya Sharma
+Untether Labs
+4 months ago
+Embed
+https://untetherlabs.com
+Hey YC, this is
+@Lucas
+and
+@Aditya
+from
+@UntetherLabs
+launching!
+TL;DR
+Clinics are facing an existential problem - fix margins to survive. We’ve built a digital clinic, and seen the tech they need to improve margins. Now we’re bringing this tech back to other clinics. For our first customer, we’re projected to generate $2.5M in revenue.
+🤯 PROBLEM · MARGIN
+Doctors (MDs, nurses, therapists) spend less than 50% of their day seeing patients.
+Yet you, as a patient, can’t get an appointment 4+ weeks out. Why? … archaic software.
+Care models for digital clinics have evolved
+. Care happens over calls, texts, at-home, in-person and over state lines covering insurance requirements. Scheduling the supply of doctors with the fluctuating patient demand is too complex for billion-dollar clinics to be coordinating out of spreadsheets. So while demand for healthcare has grown rapidly,
+margins are poor
+.
+💡 SOLUTION · SAAS
+We help clinics improve margins through an all-in-one tool that offers better scheduling, reporting, and forecasting.
+Scheduling
+to optimize doctors and appointments across specialties, regions, and insurance regulations:
+Reporting
+. One dashboard to track margin, patient demand, and doctor utilization.
+Forecasting
+to help Clinics prepare for fluctuating demand, and scenarios.
+👥 TEAM · FOUNDER-MARKET FIT
+@Aditya
+is ex-Uber, ex-Headspace Health, Waterloo eng, and repeat founder.
+Aditya started a clinic at Ginger and scaled it from 0 to 100 therapists. Ginger merged with Headspace for $3B to become Headspace Health.
+@Lucas
+is ex-Apple and ex-Yelp, Georgia Tech eng.
+Lucas grew up around his dad’s mental health practice, watching him provide care for kids with autism, and those struggling with depression, anxiety, and schizophrenia.
+🫶 ASK
+Know someone in healthcare? Please tell them about us.
+founders@untetherlabs.com
+UntetherLabs
+See All Launches ›

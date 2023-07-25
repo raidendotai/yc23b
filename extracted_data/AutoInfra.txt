@@ -1,0 +1,71 @@
+Home
+›
+Launches
+›
+AutoInfra
+37
+☁️💬 AutoInfra - Infrastructure as Language
+LLM powered chat to control AWS
+Tejas Bhakta
+AutoInfra
+18 days ago
+Embed
+https://autoinfra.ai/
+#
+aiops
+#
+infrastructure
+#
+developer_tools
+#
+cloud_computing
+#
+artificial_intelligence
+TL;DR
+AutoInfra
+is an LLM powered chat interface to control, modify, and observe your Cloud Infrastructure. Book a Demo
+here
+Tejas
+, was previously a
+Computer Vision Engineer at Tesla
+, and before that, he worked on
+AI Infra for Tesla’s
+Autopilot team. As an early member of both of these teams, he felt the frustration of an ultra-fast-paced environment being slowed down by Infrastructure as well as the mountain of costs that come with increasingly complex setups.
+The Problem
+Maintaining and configuring AWS Infrastructure is
+time-consuming, frustrating, and complex
+. AWS alone has over 250 offerings. Everyone's experienced the frustration and helplessness of dealing with the AWS console. From security groups, to ETLs, to Snowball, no one is truly a master of the entire AWS console (or wants to be)
+Alarms and logs that could be hurting your business often go ignored, or have resolution times that range between 6 hours - multiple days.
+The Solution
+AutoInfra
+is a chat interface that lets you do anything in AWS with natural language. For example, ask specific things like open up port 22 on the “second-x86”EC2 instance, or broad things like “why is lambda-test-11 not working” and get an answer right away, right in Slack.
+AutoInfra deploys in your own cloud and you control 100% of its permissions through IAM
+. What we have right now:
+A Slack interface to control all of your AWS account with natural language.
+Create, modify, and observe anything in AWS all just by asking
+AI Log Analysis and Resolution
+for all your AWS logs/services.
+We interpret alarms/logs to suggest resolution steps so your on-call team can fix things 10x faster
+Long Term I envision building a shift from the current Infrastructure as Code → Infrastructure as Language as LLM capabilities scale and get specialized.
+We want to make managing DevOps/Infrastructure as easy as chatting with a coworker.
+Isn’t this giving a 3rd party access to my AWS account?
+Everything runs in your own AWS account
+You control the IAM permissions as well and can modify them anytime.
+💜 My Ask
+Share this post!
+Connect us to lead developers, engineering, DevOps, Infrastructure teams
+in your network that
+Are at a small-medium sized startup (under 750 people)
+Don’t like dealing with AWS
+overloaded with work
+Share feedback!
+If you have any ideas feel free to reach out anytime!
+🚀 Sign up
+Book a
+20 min demo
+, email us at
+founders@autoinfra.ai
+, or visit
+www.autoinfra.ai
+Tejas
+See All Launches ›

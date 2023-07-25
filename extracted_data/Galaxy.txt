@@ -1,0 +1,43 @@
+Home
+›
+Launches
+›
+Galaxy
+49
+Galaxy 🕹️ - Social multiplayer for games
+Add clans & community to any game in under an hour.
+Adam Barr-Neuwirth
+Galaxy
+4 months ago
+Embed
+https://galaxysdk.com
+#
+gaming
+#
+social
+The Problem:
+Mobile games are fun for a while, but players get bored quickly (especially when it’s singleplayer)
+The Solution:
+Competing with friends makes games way more interesting
+Galaxy is a free SDK that adds
+community
+to any single or multiplayer game (in less than an hour).
+Clans
+: Players can create, join, and recruit teams. They compete against other teams and can chat with the group.
+Real Friends
+: Players can sync their contacts and easily see/interact with their friends on leaderboards.
+Avatars
+: Demonstrating the authenticity of opponents amplifies the feeling of winning. It also provides an optional revenue stream to games who want to sell cosmetics.
+Powerful Leaderboards:
+Configure & manage leaderboards from a dashboard. Set up automatic prizes, repeating tournaments, ban users, customize UI, and more.
+Players love it. Session length increases by ~1m55s and D7 retention rises by as much as 37%. Additionally, teams encourage players to invite their friends who don’t already play the game - leading to free user growth as well. Here’s a graph from one of our customers after they added Clan leaderboards:
+But what about implementation? We’ve worked hard to make it as simple as possible to implement. Here’s the steps:
+Call ReportScore()
+Call ShowLeaderboard()
+That’s it! The UI is customizable, localized and works on mobile or web.
+We’re already working with 115 games and serving over 250,000 end users. You can
+sign up
+for free or
+book a call
+if you’re interested.
+See All Launches ›

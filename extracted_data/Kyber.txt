@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+Kyber
+32
+Kyber - ChatGPT for enterprise support
+Kyber embeds AI intelligence into enterprise support workflows to accelerate customer success teams.
+Arvind Sontha
+Kyber
+5 months ago
+Embed
+https://askkyber.com
+#
+b2b
+#
+saas
+#
+insurance
+#
+generative_ai
+#
+customer_success
+TL;DR Instead of digging across resources to find the right answer, Kyber provides highly specific and accurate answers right at your fingertips.
+Who Is It For?
+Any company/enterprise that gets repeat questions about the same thing over and over again that they’ve already documented or answered.
+How It Works
+⚡ Install our
+Slack/Discord/Front/Intercom
+Apps each in
+two clicks
+⚙️
+We’ll ingest your knowledge base (typically public documentation) and configure them into your preferred access channels
+❓
+Go to town asking Kyber for help on questions about your knowledge base
+🔍 Gain important insights into user questions and team questions, which you can then use to further refine your knowledge base
+🚀 Accelerate support, onboarding, and more at speed of AI
+Direct Response Flow:
+Hidden Response Flow:
+Why We Built Kyber
+🤔 We started Kyber because we were frustrated with the tradeoffs that different resources and support channels provide today. At the end of the day, we realized that end users just want factually correct answers and they want them NOW.
+Existing resources each make tradeoffs between speed, relevance, and trust:
+Documentation (Immediately available, but not easy to search or always up to date):
+Speed ✅
+Relevance ❌
+Trust ✅
+Community (Friendly, but not sure if answers are trustworthy):
+Speed ✅
+Relevance ✅
+Trust ❌
+Support Staff (Relevant and trustworthy answers, but usually very slow):
+Speed ❌
+Relevance ✅
+Trust  ✅
+We help bridge these gaps by either providing your users a direct interface for help or by enabling your CX teams to quickly search and generate answers using our flows.
+How Can I Try It?
+Email us at
+founders@askkyber.com
+We’ll set up a custom demo where you’ll be able to try it out firsthand on top of your chosen knowledge base. Once you’re happy, we’ll give you and your team a white-glove onboarding experience.
+Have any additional flows, knowledge base sources, or integrations in mind? Let us know! We’re more than happy to support it and already have a few more exciting features planned for the future (stay tuned 😉).
+See All Launches ›

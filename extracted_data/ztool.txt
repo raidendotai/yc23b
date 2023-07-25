@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+ztool
+24
+ZTool - Create scrapers & scripts with just a few words
+ZTool.co is the personal developer for entrepreneurs, analysts, and marketers
+Karl Oskar Schulz
+ztool
+5 days ago
+Embed
+https://ztool.co/
+#
+automation
+#
+artificial_intelligence
+tl;dr
+Describe
+the tool you need
+in
+one sentence
+and ZTool will create the code, run it, and present the output. Anything from scraping to merging files is possible. Over time, users can edit, build out and share their library of tools.
+Problem
+Python scripts for tools like scrapers or workflow automations have been written thousands of times before. Reusing that code — and saving time — should be easy but it’s not: finding the relevant scripts is hard, and adapting it to your specific case requires a certain level of skill at which one can just write the code from scratch. ZTool solves both the search problem and the skill problem; it will give you the exact script you need, specific to your use case, and regardless of your technical ability.
+Solution
+All the user has to do is describe the script they want, for example: merge two CSV files. ZTool, powered by LLMs, will ask specifying questions, ask for the input files, and then create an output file. That’s it!
+How we came up with this
+While working as an analyst at a VC firm many years ago, Jonas hacked together a script to process csv data for a deal analysis. It was a simple script but it
+saved him days worth of manual work
+. Over time the initial script proved useful for more and more deals and grew into an entire library of Python scripts for automating different tasks, from data analysis to web scraping. It took Jonas a week to create that initial script and he had to learn Python, regex, SQL, Docker, cloud, and more—with ZTool anyone could have done it in 5 minutes.
+Concrete ask
+ZTool has a blessing and a curse, and they turn out to be the same thing: it is super powerful and can be used to generate all sorts of scripts. Help us figure out what we should focus on
+by trying it out
+and showing us what tools are most useful to you!
+See All Launches ›

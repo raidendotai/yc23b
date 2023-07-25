@@ -1,0 +1,70 @@
+Home
+›
+Launches
+›
+Versori
+129
+Versori - System & data integration platform
+We help enterprises connect any internal system to any external system without hiring expensive consultants.
+Sean Brown
+Versori
+5 months ago
+Embed
+https://www.versori.com/
+#
+b2b
+#
+api
+#
+saas
+#
+no-code
+#
+data_engineering
+Hello YC!
+👋
+Awesome to be here and proud to be part of this fantastic community.
+We’re Sean and Dan, the Founders of
+Versori.
+The Problem 😫
+The enterprise integration market is controlled by traditional system integrators (Accenture, Cognizant, Capgemini etc), who charge for professional services and manual development.
+Time, money and resource is wasted on manual system and data integrations. Complex iPaaS solutions aren’t easy, and easy iPaaS solutions aren’t complex.
+The Solution 😊
+Versori “Switchboard” is a no-code system and data integration platform, primarily for major retailers that lets them connect any internal system to any external system without hiring expensive consultants.
+For example, Sephora used Versori to build an integration that imports 3rd party brand products into its own ecommerce site in a few clicks. Reducing integration time from 9 weeks to 2 hours.
+Here’s an intro video
+Create data sources (connectors) in seconds, not weeks.
+Drag and drop or paste the URL to your API specs
+Switchboard strips and stores the auth and server types, end points, operations and schemas.
+Build complex and advanced integrations with no-code tools
+Transformer
+provides functionality to take data from multiple sources into a format suited for your target, with all the features you’d expect such as filtering, converting and mapping.
+Selectors
+gives you access to any data from all previous steps in your board, allowing you to perform complex tasks such as merging or flow-control.
+Data Mapping
+allows you to define mappings where some value in one system is equivalent to another value in another system. These can be defined up front in our dashboard, or interactively updated within your board.
+Filter
+allows you to stop or continue execution of a workflow based on a set of conditions. These conditions can be as simple or as complex as your data requires, and can be combined with Selectors to compare data from multiple workflow steps.
+Delay
+halts execution of the current message until a predefined duration has elapsed.
+Batch
+aggregates all data received over a specified batch period before releasing the result to subsequent steps and is useful when integrating real-time APIs with bulk import/export APIs.
+Trigger
+allows a board to be triggered manually or via a schedule instead of via an external API call
+CSV Processing
+allows you to truncate, join and deduplicate CSV files
+Splitter
+takes in an array and outputs multiple new messages for each element in that array
+Deploy integrations and workflows your way
+Public Cloud
+Private Cloud
+On Prem
+SDK
+We can integrate your systems, that Zapier can’t.. ⚡️
+You need the break free from the static guard rails of existing integration platforms!
+If your company has bespoke system or data integration requirements, that can’t be done with an existing IPaaS provider, please reach out to us at
+sales@versori.io
+. We would love to give you a demo!
+The Deal 🤑
+For all YC Alum, the first 10,000 data messages are on the house!
+See All Launches ›

@@ -1,0 +1,99 @@
+Home
+›
+Launches
+›
+Truewind
+230
+⛵️ Truewind: AI-powered bookkeeping and finance software for startups
+Fast growing companies use our AI-bot to automate transaction labeling so they see fewer errors and faster monthly closes.
+Alex Lee
+Truewind
+5 months ago
+Embed
+https://www.truewind.ai/
+#
+ai
+#
+b2b
+#
+saas
+#
+fintech
+#
+generative_ai
+Let's get down to brass tacks. You need
+bookkeeping to stay compliant
+with Uncle Sam 🇺🇸 and you need a
+financial model for fundraising
+. That's what you need. And that's what we do for you.
+On a lighter note, hey everyone! 👋
+What we do for you
+I’m super excited to launch
+Truewind
+to all of you!
+⛵️ Truewind is AI-powered Bookkeeping and Financial Modeling for Startups
+Through a combination of generative AI and concierge service, we deliver a delightful financial back office experience.
+Reliable bookkeeping
+Detailed financial models
+Built exclusively for startups
+Fast, responsive expertise
+Because you need investor-ready financials. Your dedicated Truewind team prepares your monthly financial statements reliably and accurately, so you have investor-ready financials when you fundraise.
+We use Generative AI to capture the business context that only you have
+We are
+delivering a 10x better experience to you, the operator
+, by making it easier to provide business context.
+We connect to your bank account and then auto-categorize the transactions that we recognize.
+For the ones we don’t, we’ll send you a message notifying you that we do not recognize this transaction. You reply in
+plain simple English
+and we’ll handle the rest.
+For accrual accounting, upload contracts and invoices on Truewind and our software will read those pdf files.
+If we’re missing information, say we don’t know the duration, we’ll send you a message that we need more information. You reply in
+plain simple English
+that the duration is 12 months.
+Finance and accounting isn’t simply numbers,
+it requires business context that only the operators have.
+This is where Generative AI shines. We use GPT-3 to digest your natural language inputs, translate it into accounting journal entries, and learn from it so future journal entries can be automated.
+Most accounting & finance companies are service providers, prone to manual errors
+There are many vendors that help startups with bookkeeping and financial models. These services companies are easy to start because, in the background, they aren’t building
+reliable
+accounting and finance software.
+These service providers have armies of operations staff who
+manually
+enter your data into an accounting system. Then, they
+manually
+download reports and ship it to you for review.
+When they don’t recognize a transaction, they ask
+you
+to
+manually
+categorize the data. Then, next month, they’ll ask you to
+manually recategorize
+the same transaction. Without native accounting and finance software, they do not remember and learn from previous inputs.
+Why is this service provider approach problematic for your company?
+Service providers are error prone.
+Let’s say a wire of $16K comes into your bank account but the memo says
+[Online 13875836747 To Jayson (_########62846)]
+We don’t know what it is, nor do other accounting companies. So you,
+the operator
+, has to go thru a drop down of 50 items with words you barely understand and you’re expected to figure out what it should be categorized as. Half the time, you just pick something and move on 👎
+Our ask
+If you haven’t picked up a bookkeeping solution yet, give us a chance at winning your business! And even if you already did, give us a chance to change your mind 😆
+Help us become the #1 recommended financial back-office provider for startups 🔥
+Truewind Customer Form:
+https://form.typeform.com/to/SrleFO1U
+Fill out this Typeform to get started with me, Alex. I’ll answer any questions you have on the call, get you onboarded, and even start on the financial model!
+Our Customers
+Your finances are a delicate thing, I know. Many other fast-growing startups already work with us (listed below). Hopefully this gives you some confidence 🙂 Many of them YC, many of them not, and many of them current batchmates!
+A little bit about us and Mochi
+It feels weird introducing ourselves in a product launch but given we’ll be working with your financial data, I thought you should know about us.
+I’m a second-time YC founder, ex-Boeing engineer, and ex-VC. As an ex-VC, I worked very closely with startup financial statements and I could build a financial model in my sleep.
+My co-founder Tennison took a whirlwind of a journey: studying business in school → self taught developer → worked at Flexport Pinterest Alibaba → and now building a fintech startup
+Mochi is our 2-year old Samoyed pup and the chief motivating officer. Kiddo doesn’t understand fiscal responsibility, all he wants is the best organic food.
+Hit us up if we can help you!
+We published a
+Y Combinator W23 Generative AI Landscape
+on LinkedIn that has over 800K views -
+check it out here
+.
+We love working with founders, accountants, and finance leaders, so pls don’t be shy. Mochi would love to meet you 😁
+See All Launches ›

@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+MantleBio
+36
+🔬 MantleBio: Scaling data driven discovery for biotech
+Our data platform helps scientists and computational biologists manage and analyze high-throughput experiments
+Madeline Schade
+MantleBio
+13 days ago
+Embed
+https://www.mantlebio.com
+#
+b2b
+#
+saas
+#
+biotech
+#
+enterprise_software
+Hi everyone, we’re
+Emily
+and
+Madeline
+from
+MantleBio
+!
+MantleBio is a modern data engineering platform for life science research and computational biology. While software like Benchling helps organize research in the wet lab, MantleBio powers research in the dry lab. Our platform helps biotech companies leverage advances in computational science and machine learning with tools built for biotech.
+If you’re a computational biologist or work with biological data we would love to chat. Contact us at
+mantlebio.com
+or
+info@mantlebio.com
+.
+The Problem
+Biotech generates a tremendous amount of data. High-throughput sequencing and screening have become the norm, R&D groups can generate terabytes of data per day, and biotech is estimated to have the largest volume of data of any industry by
+2025
+.
+Recent breakthroughs in computer science and machine learning have the opportunity to profoundly impact scientific research. However, the majority of biotech companies lack the tools or software team necessary to fully utilize these advances and the data they have.
+Without implementing the best data practices, biotech companies are often unable to find past results, reproduce analyses, or integrate multiomic datasets. This can be a bottleneck for future experiments and jeopardize regulatory filings. Meanwhile, generic data management software fails to address the complexities specific to life science. MantleBio bridges this gap, accelerating data driven discovery with tools built for biotech.
+Our Solution
+Simplify multiomics with centralized data management.
+Other systems require scientists to design their own schemas. We collaborate with experts to create domain-aware data models available off the shelf.
+Our API, CLI, and UI make datasets easily accessible to no-code users and computational scientists.
+Automate the analysis of routine workflows. Start a DNA sequencing run, grab coffee, and receive the results in your inbox.
+We connect to Benchling, Notion, BaseSpace and other systems to read experimental data from the source. Our API and data transformation pipelines allow custom integrations with even the most difficult laboratory instruments.
+Create bioinformatics pipelines in minutes, not days.
+Computational biologists can create production pipelines directly in MantleBio without managing cloud infrastructure or writing Docker files.
+Prepare for the next IND filing or FDA audit with reproducible datasets and analyses.
+MantleBio automatically records a version history for all datasets. The platform captures inputs, processing, and outputs of all analyses, creating a connected and auditable graph of everything in the computational lab.
+About Us
+Madeline is a software engineer with experience as a full-stack engineer at multiple biotech companies and at Google working on large data pipelines. At GRAIL she developed an EDC that supported one of the largest clinical trials ever performed (over 200k patients), and at Google worked on a system supporting 10 billion queries per day. She studied computer science and computer engineering at UC Santa Cruz, where she did research in large distributed systems.
+Emily is a “full-stack computational biologist”. Her software experience includes back-end, full-stack, and machine learning. She has done biology research at MIT in both the wet lab and dry lab, and in industry has worked in drug discovery, cell therapy, diagnostics, molecular dynamics simulations, and patient health records.
+Emily and Madeline met while working as software engineers at GRAIL, a cancer diagnostic company. From there they both went to Arsenal Bio, a cell therapy company. They realized these biotech companies had common data management needs, but there was no common tool available. They started MantleBio to make the best data engineering practices accessible to all life science research.
+Want to learn more?
+Contact us at
+mantlebio.com
+or
+info@mantlebio.com
+.
+We love helping scientists. If you have questions about your current data practices (e.g.“will this scale?”) we also do free data infrastructure reviews.
+See All Launches ›

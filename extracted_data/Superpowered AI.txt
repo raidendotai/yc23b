@@ -1,0 +1,66 @@
+Home
+›
+Launches
+›
+Superpowered AI
+13
+Superpowered AI - Knowledge Base as a Service for LLM applications
+Superpowered AI is an end-to-end knowledge retrieval solution that makes it easy to add external knowledge and long-term memory to your LLM application.
+Dillon Martin
+Superpowered AI
+3 months ago
+Embed
+https://superpowered.ai
+#
+ai
+#
+b2b
+#
+saas
+#
+generative_ai
+#
+developer_tools
+Hey everyone! We are Zach McCormick, Dillon Martin, Justin Clark, and Nick McCormick from
+Superpowered AI
+.
+TLDR
+Superpowered AI is an end-to-end knowledge retrieval solution designed specifically for LLM applications (i.e. retrieval-augmented generation). We turn complex infrastructure into a few simple API calls, making it easy to retrieve the right information and deliver highly relevant responses to your users.
+🦉 Who is it for?
+Whether you’re using LLMs to improve your customer experience, increase efficiency within your company, or launch an LLM-based application for end-users,
+Superpowered AI can provide your app with external knowledge and long-term memory without requiring you to be an AI expert
+– all at a low cost. How low? We’ve set our pricing at half the cost of popular alternatives like OpenAI embeddings + Pinecone. Please note, our product is completely free for now, so feel free to query your heart out!
+💡 How does it work?
+Simply upload files (including audio) to a Knowledge Base, and then you can begin querying! We handle the text splitting, embeddings calculation, vector database uploading, etc. for you.
+When you query your Superpowered AI Knowledge Bases, we return a list of the most relevant snippets of text from your Knowledge Bases, along with an LLM-generated summary of the results (with citations).
+This output can then be added to the prompt of your LLM-based application to dramatically improve your LLM responses. Accepted file types: .pdf, .docx, .txt, .md, .mp3, .m4a, .wav
+You can check this out in our web app right now
+!
+Or, you can use our
+SDK
+🤓 :
+Step 1
+: Install Superpowered SDK
+Step 2
+: Create a Knowledge Base
+Step 3
+: Query from Knowledge Base
+👊 Why we built Superpowered AI
+LLMs have emerged as a groundbreaking new technology and we are thrilled to be part of this revolution! But when LLMs are used on their own they have major shortcomings. For real-world use cases, we could see the importance of integrating additional functionality into them to overcome these issues.
+Access to external knowledge
+. LLMs lack reliable knowledge and have none of your files to work with, but providing them access to knowledge will change your LLM app from a “neat toy” to a powerful tool for real-world use.
+Long-term memory
+. Want to build a chatbot that remembers users’ preferences over long periods of time? You’ll need to store conversations and retrieve them later on.
+🙏 Our Ask
+Check out
+Superpowered AI
+and join our
+Discord
+!
+Talk to us about your use case. If you’re building any kind of LLM application, there’s a very good chance we can help!
+🚀 Sign up & chat with us:
+Create your account and/or book a demo at
+superpowered.ai
+, or email me at
+dillon@superpowered.ai
+See All Launches ›

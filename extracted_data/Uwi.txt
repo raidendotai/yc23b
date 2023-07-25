@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+Uwi
+9
+🏡 Uwi [oo-Wee]: Southeast Asia's first Home-Lending-as-a-Service
+Enabling any bank or NFBI to launch a home lending platform in a few clicks
+Joseph Tan
+Uwi
+9 months ago
+Embed
+http://www.uwi.com.ph
+#
+fintech
+#
+proptech
+#
+real_estate
+Uwi
+(Filipino for “to go home”) has relaunched as Southeast Asia’s first
+Home-Lending-as-a-Service
+providing a turnkey platform for any bank or NBFI to launch their own home lending platform instantly.
+We’re focusing initially in the Philippines
+where there is little competition. For example in the US there are 4,000+ active home lenders (2021). In the Philippines, the top 10 banks control the majority of the home loan market (US$20B in 2020) while the remaining ~400+ smaller banks and the 5,000+ NBFIs do not offer home loans. Additionally, insurance companies and pension funds do not offer home loans which is the opposite of the US market.
+Why don’t more lenders offer home loans?
+When we spoke to lenders who did not offer home lending, they told us two common issues: (1) trouble originating quality leads since the big banks have the brand (2) investing the $ and building a lending infrastructure (they didn’t want to or know how). So we built uwi to be a seamless experience for lenders without any upfront fees! We only charge our origination fees + revenue share when the loan has closed.
+Uwi provides a turnkey platform to become a home lender.
+Uwi Solutions:
+(1)
+Embedding a widget
+directly on developer & broker websites to capture all their leads and match them to the right lenders.
+(2) Building the
+full lender tech stack
+to enable a seamless lender experience & loan servicing post close.
+Uwi’s go to market strategy
+is unlocking a historically illiquid position for residential developers who typically have to shoulder 1 out of 2 home sales under their balance sheet. For the first time, developers can sell 100% of their homes with financing rather than amortize their profits over 5 - 10 years thus spurring more residential development (Philippines has an ~6.5M home backlog).
+How is uwi executing this?
+We built innovative financial products which help developers both sell their units quicker (uwi < 30 days vs. banks ~120 days) and clean up developer balance sheets (BS). Our lenders opt into capitalizing these financial products based on their lender criteria.
+Which type of lenders are we onboarding?
+We work with banks and non-banks like fintechs, digital banks, smaller banks (think rural), insurance companies, pension funds, private equity funds, real estate funds, hedge funds, family offices, and high net worth individuals.
+In the future, we can help increase our portfolio of lender’s balance sheets to make them more competitive with local banks.
+Uwi provides the full value cycle for any lender who wants to get into home lending.
+See All Launches ›

@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+Nebula
+127
+Nebula 🌌 - Understand & debug enterprise-scale codebases
+Simplifying microservice development
+Shanelle Roman
+Nebula
+5 months ago
+Embed
+https://www.trynebula.com/
+#
+b2b
+#
+saas
+#
+enterprise
+#
+developer_tools
+TL;DR
+Nebula
+is a code navigation tool that helps developers quickly understand & debug distributed systems. We make it easy to follow service dependencies & the flow of data across your microservice architecture, saving developers tens of hours per week. Request early access
+here
+Hey everyone, we're the founders of Nebula!
+Shanelle
+was previously a PM at Google, where she saw firsthand the productivity loss that came with complex microservice architectures.
+Vishnu
+is a second-time founder who has previously built developer platforms & ML-based document retrieval systems.
+We've experienced the frustration of seemingly simple features taking months to launch because of the complexity of unwieldy microservice architectures. Building on open-source tooling designed to handle Google-scale codebases, Nebula aims to make it simple and painless to develop microservices.
+Problem 😔
+85% of enterprise companies
+use a microservice architecture. However, as these codebases scale in size & complexity, developer velocity often slows drastically:
+1.
+trivial changes take weeks to implement
+because they impact multiple services or teams across the org
+2. it takes
+longer to debug
+issues because it's hard to track the flow of data across your system
+3.
+onboarding
+a new developer onto your codebase can take weeks, if not months
+Companies that switch to microservice architecture often see a dramatic increase in the cognitive overhead required for their engineers to be productive.
+We've done deep dives with best-in-class companies like Netflix and Linkedin to learn how they dealt with the growing complexity of their codebases. We're combining their most effective strategies with insights from Shanelle's experience at Google to build Nebula.
+How it works
+🥳
+Nebula deploys in your cloud & continuously analyzes your codebase to generate an index of inter-service communication, then exposes this info in three ways:
+1. An
+IDE extension
+that shows how a line of code fits into the overall system (e.g. service dependencies, cross-references, recent traces, etc.)
+2. An
+auto-generated service catalog
+that includes service interfaces, usage examples, and service contributors (no maintenance required)
+3. A
+GraphQL endpoint
+that exposes all this data for integration with your existing DevTools
+Our Ask
+🙏
+1. If you're a company with >100 microservices or engineers that is looking to boost its development velocity, you can
+email me
+or schedule a
+quick chat
+.
+2. Know any teams that are struggling to wrangle their microservice architecture?
+Intro us
+!
+If your referral becomes a paying customer, we'll send you a $500 Amazon gift card
+See All Launches ›

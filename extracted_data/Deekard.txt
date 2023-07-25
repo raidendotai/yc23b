@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+Deekard
+12
+🤖 Deekard - Your autonomous assistant for data science and analytics
+We use generative AI to make all data tasks effortless and accessible: extract, transform, analyze, and visualize data using only natural language.
+Dustin Lange
+Deekard
+3 months ago
+Embed
+https://www.deekard.com
+#
+ai
+#
+b2b
+#
+analytics
+#
+generative_ai
+#
+machine_learning
+Hey everyone! We’re Tammo and Dustin from
+Deekard
+.
+TL;DR:
+Deekard is an all-in-one data science and analytics assistant. Connect your data source and get any question answered and any task executed, using only natural language. Powered by GPT-4, our AI model understands your intent, plans workflows, and executes them step-by-step.
+The Problem
+Data science involves a wide range of skills, tools, and formats, which can be challenging to learn and manage. Tasks like extracting data with SQL, training machine learning pipelines with Python, and visualizing data using frameworks such as Vega are time-consuming, iterative, and error-prone.
+Our Solution
+Deekard simplifies data science by offering a chat interface where you simply state what you want to do and watch the AI select the right tools in the right order. Like in a data science notebook, you can refer to previously created datasets and refine or combine them later in the conversation. Data science has never been easier or more approachable.
+Features
+📚 Database: Write queries in natural language and let Deekard translate them into SQL for you! Simply state your query, and you'll receive the result table.
+🐍 Python: Transform data or apply machine learning models with ease. Just write your request, and Deekard translates it into Python code and executes it. You'll get the results in no time.
+📊 Visualization: Generate charts with natural language. Deekard translates your request into Vega-Lite specifications and creates beautiful visualizations. Apply changes to charts just by writing them down.
+🧠 Wikipedia: Enrich your datasets by retrieving tables from Wikipedia. Just write your request, and Deekard will access the world's greatest knowledge base for you.
+🎯 Task Organization: Write complex requests, and Deekard will split them into multiple tasks that are executed in the right order.
+Start Today
+You can start using Deekard today at
+deekard.com
+.
+Thank you for your support, and we look forward to hearing your thoughts on Deekard! 🎉
+See All Launches ›

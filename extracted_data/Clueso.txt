@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+Clueso
+178
+🚀 Clueso : Create in-app tours that never go out-of-date
+One screen recording → Help guides in three formats!
+Akash Anand
+Clueso
+5 months ago
+Embed
+https://clueso.io
+#
+ai
+#
+b2b
+#
+saas
+#
+analytics
+#
+generative_ai
+Hey there! We’re
+Prajwal
+,
+Neel
+, and
+Akash
+, and we are very excited to launch
+Clueso
+to all of you!
+TL;DR:
+Clueso helps customer success teams save time creating and maintaining help content for SaaS apps. Our product converts simple screen recordings of product features into interactive product tours and how-to guides that stay up-to-date with every product release.
+🔴
+The Problem
+Users of SaaS apps have a hard time discovering new features and finding what they’re looking for, even on products with a well-designed UX.
+Creating help guides on tools like Intercom is time-consuming – you have to put together screenshots, write out instructions, and make everything look presentable. Making interactive tours is even more work.
+And what happens when you deploy new UI updates? All your hard work goes down the drain, and you have to start from scratch.
+🟢
+Our Solution
+Clueso lets you create help guides for product features in seconds rather than hours. Here’s how it works:
+Step 1:
+Use our chrome extension to capture a simple screen recording of some feature on your app.
+Step 2:
+That’s it; you’re done!
+Clueso automatically generates help guides in three formats: a document with screenshots, a video, and an interactive tour that points users to the exact buttons they need to click on your app.
+Wanna see it in action?
+Check out this 2-min demo:
+Clueso Demo
+To serve all these guides to your users,
+insert a single line of code
+to add our help widget to your app. Your users’ experience looks something like this:
+🤯
+But wait, there’s more!
+No more waiting for angry customers to come tell you your docs are out of date!
+With every new update on your app, all guides are automatically tested. Outdated guides are flagged so that you know exactly which ones need to be reworked.
+Meet the team
+We’re a team of recent grads from IIT Madras. Before Clueso, our team built and scaled
+Desklamp
+– a note-taking tool for students and researchers – to 2k MAU from around the world. We experienced this problem first-hand with Desklamp, where our users would repeatedly email us similar questions about how to use the product. Prajwal (middle) has a bachelor’s in Computer Science, while Neel (left) and Akash (right) have a bachelor’s in Engineering Design and a master’s in Data Science.
+Our Ask
+If you’d like to give your users an interactive way to learn your app or discover new features, reach out to us at
+founders@clueso.io
+or schedule a chat with us here:
+calendly link
+.
+If you know of someone else who may be interested, especially customer success managers at seed-stage+ start-ups, we’d love an intro!
+See All Launches ›

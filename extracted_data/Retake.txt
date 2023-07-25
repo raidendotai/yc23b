@@ -1,0 +1,52 @@
+Home
+›
+Launches
+›
+Retake
+50
+Retake - Open-source infrastructure for vector data streams
+Retake provides open-source data pipelines that sync vector stores with their sources of truth.
+Philippe Noël
+Retake
+6 days ago
+Embed
+https://getretake.com
+#
+b2b
+#
+saas
+#
+developer_tools
+#
+data_engineering
+Tl;dr:
+Retake’s extensible SDK drops into any Python application and keeps vector stores (Pinecone, ElasticSearch, etc.) up to date with their sources of truth (Postgres, MySQL, etc.) without the overhead and complexity of maintaining your own pipelines.
+Retake is a good fit for you if:
+⁃ You store inputs/documents and vectors separately and frequently need to update large volumes of vectors
+⁃ Low-latency semantic search is a critical use case for your application
+You can
+star our GitHub repo
+or
+create your first pipeline here
+.
+🤕 The Problem
+Existing vector stores are siloes that require developers to build complex and sometimes brittle mechanisms for data synchronization. We’ve seen from both firsthand experience and conversations with SaaS developers building semantic search that these data connectors are built in-house and consume tons of developer hours at scale.
+💊 The Solution
+Retake provides the missing connectors that unlock seamless data synchronization between vector stores and “source-of-truth” databases without the maintenance overhead. Our SDK enables developers to deploy scalable vector data streams from any source, sink, transformation, and embedding model with only a few lines of code.
+👬 The Team
+Ming and I are second-time founders. At our first company, Whist, we spent 3 years building containerized GPU infrastructure and state-of-the-art AV streaming protocols. We’re excited to apply our extensive knowledge of low-latency data streaming to vector data streams.
+👋 How you can help
+If you’re an engineer working with vector stores or looking to supercharge your application with better search, we’d love to chat.
+Book some time here
+, or email us at
+hello@getretake.com
+.
+Send us some ❤️ and support by starring
+our GitHub repo
+and or following us on
+Twitter
+!
+If we’re missing a connector that you need, please let us know by
+creating a GitHub Issue
+.
+See All Launches ›

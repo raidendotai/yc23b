@@ -1,0 +1,79 @@
+Home
+›
+Launches
+›
+Defer
+153
+Defer: A zero-infrastructure platform for Node.js background jobs
+Quickly move slow code outside your user’s journey and scale with confidence using Defer’s real-time dashboard and autoscaled infrastructure.
+Charly POLY
+Defer
+5 months ago
+Embed
+https://www.defer.run
+#
+saas
+#
+developer_tools
+Hi everyone! We are Charly and Bryan, and we’re happy to present you
+Defer
+:
+Defer allows developers to quickly create and run background jobs without infrastructure.
+Background jobs are vital in building responsive and resilient web apps by moving slow code outside the users’ journey (ex: pulling and sending data to external APIs, sending emails).
+Why are we building Defer?
+Bryan and I have been working for 10 years in startups of many stages (pre-seed to Algolia or Dashlane stages).
+In all those experiences, part of our work included crafting similar background jobs solutions and their internal dashboards, as Charly did at Algolia for the Shopify Integration Pipeline.
+We identified a gap between current solutions and actual product needs that leads to
+a repeated waste of engineering time
+(initial cost, support, and maintenance) and
+bad user experiences
+across all companies.
+As consultants, we also faced companies that
+preferred to keep degraded user experiences
+to not invest in R&D in background jobs.
+All those combined experiences led us to create Defer to help companies match
+modern product criteria
+(great user-perceived performance and an increasing number of integration with external APIs) with
+minimum effort
+while keeping the
+developer experience at heart
+.
+Our solution
+Defer enables developers to use a background jobs solution that matches their product needs without reinventing the wheel or building fragile layers.
+Defer brings a
+unique developer experience
+that makes it easy to create or transform existing functions into background functions (function version of a background job)
+without the usual distracting boilerplate code
+that current OSS solutions bring:
+Defer’s infrastructure then
+handles background function executions
+with the configured parallelism and retries,
+without infrastructure work or DevOps knowledge
+.
+The Defer Dashboard allows developers to manage applications with multiple environments and
+get a sense of their product’s health
+with
+analytics and filters-rich executions list
+view:
+Finally, developers get
+notified on Slack upon failure
+and can quickly access the execution’s logs and business metadata to
+narrow down the issue and keep users in the loop
+.
+Focus on your product.
+Get started with Defer in a few minutes without refactoring or configuration, and start building delightful user experiences:
+Defer comes with a
+free Hobby plan for developers
+and small projects
+🚀
+As a YC company
+(current batch and alumni)
+benefit from a generous YC Deal
+💰
+Defer is full-featured: you will find many examples
+in our documentation
+📖
+Want to talk about your use case?
+Let’s brainstorm together!
+🧠
+See All Launches ›

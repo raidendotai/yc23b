@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+UpTrain AI
+166
+UpTrain - Open-source tool to observe your ML models ⚙️ 🔧
+Open-source Datadog for machine learning models
+Sourabh Agrawal
+UpTrain AI
+6 months ago
+Embed
+https://uptrain.ai/
+#
+open_source
+#
+generative_ai
+#
+developer_tools
+#
+machine_learning
+#
+artificial_intelligence
+TL;DR:
+UpTrain is an open-source ML observability and refinement tool. It helps data scientists observe how their ML models are performing in production and continuously improve them over time by automatically retraining them on cases where the model accuracy was low.
+Hi everyone!
+Sourabh, Vipul, and Shikha here, and we’re the team behind UpTrain.
+Sourabh (CEO), previously founder at fitness tech, where he spent most of his time improving their AI models rather than, well, working out 🏋️
+Vipul (CTO), previously worked at Meta and Bytedance, where he was busy applying his doctorate knowledge (yes, the Ph.D. kind) to improve their ML models 🔭
+Shikha (CMO), an ex-VC, where she witnessed the magnanimity of AI problems from the inside of her portfolio companies and this is where she got her eureka moment 🔔
+Problem (The Origin Story 📖)
+During the last 7+ years of building and deploying ML models, we have been constantly frustrated due to a lack of good tools that could answer one simple question - “Are our models working as expected in production?“
+Sourabh first experienced this issue while working on self-driving cars at a Fortune 500 company. Then again he faced similar issues at his startup. The only way the model issues were highlighted was through reading loads of customer complaints, and it was excruciating to see their (hard-earned) revenue churn due to model degradation
+😩.
+Coincidentally, Vipul was solving the same problem at the big techs, where he built internal observability tools and optimized model retraining processes. The three founders spoke to 100+ ML practitioners to validate their hypothesis and got a unanimous yes! In fact, during one of the user interviews, we learned that an innocuous bug in the model deployment code led to 3+ weeks of wasted debugging efforts and losses of millions of revenue dollars 🤯
+We are building UpTrain to prevent you from experiencing the same agony!
+The Solution 💡
+UpTrain is built specifically for Machine Learning. We natively support all the things an ML practitioner requires to observe and improve their models.
+✅ Complete visibility into your model’s online health via real-time dashboards
+✅ Automatically collects outliers and edge cases
+✅ Identifies data distribution shifts
+✅ Monitors quality of object embeddings
+✅ Model explainability
+✅ Continuously retrains and improves your model
+Cherry on the cake, we are Open-source! Some of the biggest AI-first startups are adopting UpTrain to fulfill their ML observability needs.
+How to use UpTrain 🤔
+Install UpTrain from pip, just tell it what all you want to observe, and UpTrain handles all the complexities in the background. Something as simple as below:
+We DO NOT require you to change any part of your production pipelines and readily integrate with all major ML libraries and tools. In fact, we are running a limited beta program where we provide a no-strings-attached pilot and do all the heavy lifting to ensure seamless integration of UpTrain in your systems. Ping us to know more!
+Our Ask 🙌
+Interested? Try us
+out
+or book a demo
+here
+🔥
+To follow our progress, do star our
+project
+on Github (show us some love - it’s free ❤️)
+Know someone who needs ML observability, connect us 🔗
+Feel free to reach out to any of us with questions, bugs, requests, etc. at
+sourabh@uptrain.ai
+See All Launches ›

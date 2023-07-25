@@ -1,0 +1,76 @@
+Home
+›
+Launches
+›
+Diffuse Bio
+60
+🧪 ⚛️ Diffuse Bio: Generative AI for protein design
+At Diffuse, we build new therapeutics, vaccines, and enzymes with AI!
+Namrata Anand
+Diffuse Bio
+5 months ago
+Embed
+http://diffuse.bio
+#
+biotech
+#
+deep_learning
+#
+generative_ai
+#
+machine_learning
+#
+ai-powered_drug_discovery
+Hi 👋🏾 I’m Namrata, founder of ⚛️⚛️⚛️
+Diffuse Bio!
+⚛️⚛️⚛️
+At Diffuse, we computationally design therapeutics, vaccines, and enzymes better, faster, and cheaper — but most importantly, we generate
+molecules that simply can’t be designed with existing methods today
+.
+The Problem:
+Proteins are macromolecules that mediate a significant fraction of the cellular processes that underlie life. An important task in bioengineering is designing proteins with specific 3D structures and chemical properties which enable targeted functions.
+So far, computational protein design methods have had some success — but have enormous limitations, the primary one being
+low success in downstream validation experiments
+. These methods are also painfully slow and scale poorly.
+What we do:
+For the past several years, I’ve been working on
+re-envisioning the computational protein design toolkit with AI
+in my PhD and beyond, with the goal of overcoming these challenges. Some highlights are the first crystal structures of
+AI-designed proteins
+(i.e. experimental validation) and the
+first diffusion models
+for
+protein structure and sequence generation
+. Below you can see one of our early models producing structures unconditionally from noise!
+Now, we’re
+scaling up these methods
+and
+applying them to grand challenge problems in molecular design
+. We’re able to handle a whole array of protein engineering tasks at the
+push of a button
+— from loop redesign and sequence engineering, all the way to binder design and
+de novo
+structure generation.
+Curious to learn more?
+Check out our coverage in the
+New York Times
+and
+NBC news
+, and get in touch at
+info@diffuse.bio
+!
+We’d love your help!
+If you’re working on any protein or molecular engineering problem, we’d love to hear from you!
+We’d love
+intros to pharma and biotech companies
+working on problems in protein therapeutics, antigen design, and enzyme design.
+We’d also love intros to any companies (preferably early stage) doing
+high-throughput protein characterization
+assays
+(yeast display, phage display, etc).
+Sign up
+here
+to
+beta test
+our first-gen protein design software!
+See All Launches ›

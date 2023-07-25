@@ -1,0 +1,96 @@
+Home
+›
+Launches
+›
+refine
+97
+refine - Open-source platform for rapidly building enterprise web applications
+Dev-friendly alternative to low-code/no-code. Familiar stack, 100% control over project!
+Civan Ozseyhan
+refine
+a month ago
+Embed
+https://refine.dev
+#
+open_source
+#
+developer_tools
+#
+web_development
+refine
+is an
+open-source
+,
+headless
+React framework for developers building enterprise web applications. It eliminates many repetitive tasks such as
+➡️ CRUD operations ➡️ State management ➡️ Routing ➡️ Authentication ➡️ Access Control & ➡️ i18n
+and saves days of development time.
+As a developer-focused alternative to existing
+low-code/no-code
+enterprise tools,
+refine
+allows developers to
+work with the stack they are already familiar
+with
+and have
+100% control over their projects.
+For a quick start, you can visit
+👉 https://refine.dev
+- Docs, tutorials and 100+ sample projects
+👉
+https://github.com/refinedev/refine
+-
+12K
+⭐️
+Solution
+Thanks to its unique “
+Headless UI
+” approach, refine works with any custom design. It has ready-made integrations with the 4 most popular UI frameworks:
+Ant Design
+,
+Material UI
+,
+Chakra UI
+and
+Mantine
+. refine is totally backend agnostic and can connect to
+15+ backend services
+out-of-the-box, incl.
+custom REST & GraphQL API’s.
+You can give it a try on
+refine.new
+to see how easily you can create tailor-made projects in seconds, by combining your preferred tools and technologies.
+The Framework
+Instead of being a limited set of pre-styled components,
+refine core
+is a lean collection of
+helper hooks
+,
+components
+, and
+providers
+. They are all decoupled from UI components and business logic, so that they
+never keep you from customizing your UI or coding your own flow.
+Community
+refine
+is backed by a robust community that showcases the following metrics:
+⭐️ 12K GitHub stars
+👩‍💻 150+ Contributors
+💻 5,000+ Commits
+💬 2,500 Discord members
+Use Cases
+So far,
+thousands
+of great projects have been built by
+15,000+ monthly active refine developers
+. Use cases include but are not limited to
+Admin Panels
+Forms
+Dashboards
+Storefronts
+Internal tools
+B2B Solutions
+SaaS Interfaces
+What’s Next?
+In addition to our endless contributions to the open-core framework, we are also developing cloud-based products to make refine a comprehensive platform for developers to build enterprise-grade web applications.
+See All Launches ›

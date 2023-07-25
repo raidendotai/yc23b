@@ -1,0 +1,46 @@
+Home
+›
+Launches
+›
+Byterat
+43
+Byterat: Data infra for battery R&D and production
+Unlocking the full potential of battery testing data
+Penelope Jones
+Byterat
+5 months ago
+Embed
+https://www.byterat.io
+#
+climate
+#
+databases
+#
+energy_storage
+#
+machine_learning
+Tl;dr:
+Byterat
+is a data platform for battery engineers that lets them manage all their battery testing data in one place. We directly integrate with lab hardware, pull data into one dashboard and have built in predictive analyses including degradation forecasting.
+Problem:
+Testing is the rate-limiting step in producing batteries for smartphones and electric vehicles, taking months per iteration cycle
+Right now R&D teams and production lines use Excel spreadsheets to analyze their battery testing data, which is laborious, non-traceable, and error-prone
+Troves of battery data are collected but not analyzed because they are in a non-user friendly format, meaning missed insights on battery degradation that could accelerate time to market
+Solution:
+Byterat is the single source of truth for your battery data:
+We eliminate manual data processing for battery engineers so they can focus on driving innovation instead!
+We detect anomalies in real time, automatically generate reports and predict how each battery will degrade
+Our ask to YC alumni:
+We would be really grateful for introductions to
+Battery scientists or engineers
+Electric vehicle manufacturers
+Please reach out to
+Penelope
+,
+Jin
+and
+Alpha
+at
+founders@byterat.io
+. Thank you!
+See All Launches ›

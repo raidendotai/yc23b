@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+Psychic
+48
+Psychic: Universal API for unstructured data
+Connect to dozens of knowledge base apps, ticketing systems, and CRMs by building just one integration
+Jason Fan
+Psychic
+5 months ago
+Embed
+https://www.psychic.dev
+#
+b2b
+#
+aiops
+#
+open_source
+#
+generative_ai
+#
+data_engineering
+tl;dr: Psychic is the fastest way to connect data sources when building AI applications. Create an account and start using Psychic
+here.
+Hey there, it's Jason and Ayan - a PM and engineer who joined forces while solving gnarly problems across identity and authN/authZ at Robinhood. Our mission is to help AI developers add new data sources to their applications as easily as signing into their email account.
+🙅‍♀️
+The Problem
+Startups need to connect their LLMs to third party data in order to deliver value to the end user. In some cases, this data is used to fine-tune a model, and in other cases it’s stored as vector embeddings to be retrieved when relevant questions are asked.
+However…
+Building data integrations is time consuming and expensive to maintain
+Building new data integrations sucks for several reasons:
+It takes engineering time that’s better spent building features that move KPIs
+SaaS apps are highly fragmented, and long-tail integrations are just as hard to integrate with as more common ones.
+The approval process for adding a new OAuth app varies wildly across data sources. For example, Google takes 6+ weeks and requires access to your product’s codebase!
+New integrations are not typically a priority until a prospect asks for it, at which point it becomes priority #1. Since the time it takes to build a new integration is unpredictable, startups often scramble last minute to add new integrations, putting the rest of their roadmap in jeopardy.
+💎
+Our Solution
+Psychic is a universal API for extracting, cleaning, and transforming unstructured data from SaaS apps. It’s designed from the ground up with startups in mind, and is the fastest way for an AI startup to add new data integrations.
+Specifically, there are 3 parts to the Psychic platform
+Psychic Link:
+A Javascript SDK that can be loaded into any React application in 4 lines of code. It opens a modal that lets the end user connect to their SaaS apps through OAuth 2.0. Also available as a no-code magic link.
+Psychic API:
+A universal API that allows developers to interact with data across all their data sources by building a single integration on top of Psychic’s Document and Conversation data models.
+Psychic Dashboard:
+A dashboard where customers can configure the appearance of the Link modal and manage their connections
+🙏 Our Ask
+Star us on
+Github
+. If you are building an AI project and need data integrations, give us a shout at
+founders@psychic.dev
+.
+See All Launches ›

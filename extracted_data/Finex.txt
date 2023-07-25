@@ -1,0 +1,51 @@
+Home
+›
+Launches
+›
+Finex
+23
+Finex - All-in-one financial platform for e-commerce
+We use data from storefronts and payment processors to power our analytics, banking services, and credit cards.
+Uladzislau Radkevich
+Finex
+4 months ago
+Embed
+https://getfinex.com
+#
+saas
+#
+fintech
+#
+neobank
+#
+analytics
+#
+e-commerce
+⭐
+Team with an unfair advantage in fintech, analytics, and product development
+We met during an online hackathon a year ago and won three out of three hackathons together.
+Ulad
+has a computer security background and spent the last three years as a Lead Software Engineer at Revolut. During his time there, he scaled the payments infrastructure from 1 million to over 20 million users. Prior to that, he worked for UBS, a bank with $3 trillion in assets under management, where he built a system that provides clients with insights about their portfolios.
+Andrew
+has an analytics background and has consulted for major technology firms such as Google, Accenture, and Cisco. He helped build out the mobile application and analytics for two e-commerce companies, Levi Strauss and FastAF. He also built global teams while running his own software agency.
+👀
+E-commerce finances distributed across multiple platforms
+Traditional banks and general-purpose neo-banks often use a "one-size-fits-all" approach in their offerings, which means they don't understand or care about the specific needs of individual customers. This is why many e-commerce businesses have to use multiple platforms to satisfy their financial needs.
+A typical financial stack for a regular e-commerce business includes:
+Banking: Mercury, Brex, Chase
+Credit Cards: Parker, Ramp, AmEx
+International Transfers: Wise, Remitly, Payoneer
+Analytics: Google Sheets, Lifetime, Tydo
+Payment Gateway: Stripe, PayPal
+At Revolut, we noticed that there are many benefits in managing all your finances in one place, it provides a better understanding of your cash flow and helps make smarter decisions.
+🚀
+Finex is a single platform for all e-commerce finances
+Together, we are launching our all-in-one financial platform for e-commerce, Finex. Our platform offers:
+FDIC-insured bank account with up to 4% APY
+domestic and international payments with market-leading FX rates
+connection to your favorite e-commerce services to have real-time visibility of all your finances on our dashboard
+unlimited virtual credit cards for all your business expenses
+We would love to hear from you if you know any e-commerce business owners or are interested in partnering with us! Please don't hesitate to reach out to us at
+ulad@getfinex.com
+.
+See All Launches ›

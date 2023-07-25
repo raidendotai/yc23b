@@ -1,0 +1,38 @@
+Home
+›
+Launches
+›
+Lightski
+90
+🏔️ Lightski: ChatGPT for sales teams
+Spend 10x less time updating your CRM by messaging updates in natural language
+Richard Hwang
+Lightski
+4 months ago
+Embed
+https://www.lightski.com
+#
+b2b
+#
+saas
+#
+sales
+#
+ai_assistant
+#
+generative_ai
+tl;dr: If you want to spend more time selling and less time updating your CRM, Lightski can help! Chat with our Slackbot to quickly update fields, move opportunities through your funnel, get pre-call meeting prep, and analyze your pipeline health - no clunky UI needed.
+We’re Richard and Hansen, former DoorDash and Affinity engineering managers, and we’re excited to launch Lightski!
+🗂️ The Problem: Updating your CRM sucks
+Today, sales teams spend hours every week inputting data into Salesforce after calls. Each webpage takes seconds to load and requires multiple clicks to add a note or update a field. Current Slack data entry tools can’t parse natural language, also require many clicks in a Slack UI, and don’t identify the opportunity to update.
+Up-to-date CRM data is crucial for running a successful sales team, and managers don’t want to hound reps to input data. We want to speed up data entry so reps can get back to doing what they do best: selling.
+💡 The Solution: Send a message to update your CRM
+Lightski is a faster way for sales teams to update their CRM without clicking through layers of Salesforce UIs: just tell our Slackbot what to update. We interpret your message, handle as many updates as needed, and make the corresponding changes in your CRM.
+Teams can also set triggers to receive pre-call meeting prep in Slack, quickly analyze their funnel, and build custom integrations. Over time, we’ll build smart alerts when data is stale, answer analytics questions such as quota attainment, directly suggest updates from a call, and use GPT-4 to help reps build sales decks (and other tedious work).
+▶️ Interested?
+We’d love to show you a quick demo and save time for your sales team!
+Visit our website
+and sign up for a demo, or email us at
+founders@lightski.com
+.
+See All Launches ›

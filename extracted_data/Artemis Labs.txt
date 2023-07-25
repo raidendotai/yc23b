@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+Artemis Labs
+12
+Artemis: Data Science Project Management
+Document, track and visualize every aspect of your workflow in one place
+Kyle Hooten
+Artemis Labs
+9 months ago
+Embed
+https://www.umbriacms.com/
+#
+b2b
+#
+saas
+#
+developer_tools
+tl;dr
+Artemis is the best platform to document, track, and visualize complex data science projects. We help teams log when and how they use resources (scripts, models, databases, etc.) to create the through yet compensable documentation for their projects.
+❌ The Problem:
+Data science teams employ a variety of resources often spread across platforms. The way these resources interact in a project is often poorly documented. Documentation systems that do exist rely on direct peer-to-peer collaboration and produce results that are difficult to understand.
+✅ The Solution:
+Artemis is a platform for organizations to document and map every time a resource is used and how it works so projects can be understood at a glance.
+🏆
+Two Steps To Success:
+First,
+Artemis teams create archives to document every time they use a resource. The Archive helps users document their resource’s location(s), relationships to other resources, and functions in addition to recording how they’re employed in a specific project.
+Second
+, resource deployments archived with Artemis are automagically mapped out to create interactive visual networks. These networks offer a comprehensive, one of a kind perspective that informs leadership decisions and helps individuals understand their work and their peers’ work in context.
+▶️  Price and Contact
+Artemis free to try for 30 days and free to academic institutions forever. Enterprise seats cost $20/month.
+If you’d like to try Artemis or are interested to learn more, please reach out:
+austinmccoy@artemisar.com
+See All Launches ›

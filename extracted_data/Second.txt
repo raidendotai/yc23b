@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+Second
+48
+👥 Second – The second developer bot you've always wanted
+Bots that set up web applications, add features, and keep projects up to date
+Eric Rowell
+Second
+5 months ago
+Embed
+https://www.second.dev
+#
+ai
+#
+saas
+#
+enterprise
+#
+developer_tools
+TL;DR: Instead of hiring a second developer, use a bot to handle developer grunt work and common features so that your human developers can work on more important things.
+Hi there! My name is Eric Rowell. I’m the founder and CEO of Second, which provides bots that can set up web applications, add common features, and keep projects up to date.
+👉
+Click here to see the product demo video
+The Problem
+Let’s face it. No developer wakes up in the morning and thinks to themselves “Gosh, I can’t wait to build yet another login and user registration flow!”. Or “You know what, I’m really excited to migrate MUI from version 4 to 5!”.
+Boilerplates? They suck. You spend hours searching for something that’s close to what you want, and then days hacking at it to get it into shape. After the dust settles, you’ll eventually wonder if it was even worth it.
+The overarching theme here is that developers are spending way too much time building commodity features and doing grunt work. This reduces their overall happiness (no, really!) and it slows down product delivery. What if bots could handle the common stuff?
+The Solution
+Second provides bots that specialize in commodity feature development, like authentication, login screens, user registration, subscription billing, dashboards, navigation, forgot password flows, CRUD forms, etc., and also provides bots that can do more sophisticated things like upgrade libraries or frameworks. Best of all, this value is delivered as well written source code in the form of Git pull requests! No abstractions, DSLs, or other weird stuff to learn.
+How is this possible? Users install Second Bot on their GitHub account. These bots operate in the cloud, and use a custom built codegen engine which writes out code files line by line, and will also utilize GPT-3 for special scenarios like code injection and merge conflict resolution.
+Backstory
+I’ve been building for the web for over a decade, including developing the Yahoo video player, architecting the LinkedIn homepage, and leading data visualization efforts at Workday. I’ve created several popular open source projects like KineticJS, BigOCheatSheet, and El Grapho. Most recently I was the co-founder and CTO of Uiflow (W21) which is a no-code platform for enterprise.
+While at Uiflow, I built a high-fidelity web authoring experience like Webflow and a custom-built visual language called Flowlang. Among many reasons, including the realization that modern approaches to no-code and low-code platforms for web application construction are still not viable, I made the difficult decision to leave Uiflow and start over.
+In all of this time, I have seen how web application development has actually become more complex over time. I’ve seen all kinds of approaches to simplify the process, including an explosion of new libraries, frameworks, languages, DSLs, no-code tools, and low-code tools. After departing Uiflow and spending two months on discovery, the idea of Second began to emerge. What if bots could just write code and raise pull requests for the common stuff? Is that crazy? Well, yea. Let’s do it!
+To my amazement, I was accepted back into YC for a second chance, based on nothing more than some insights and an idea!
+My Ask
+My ask is really simple! Sign up and try Second for free! (
+www.second.dev
+). I would love to hear your thoughts. You can use the Quick Start to set up a Next.js + MUI web application fast!
+If you want access to the Pro modules, please contact me and I can set that up for you!
+👉 You can find me on Twitter at
+https://twitter.com/ericdrowell
+👉 Or you can join the conversation on the Second Community Discord –
+https://www.discord.gg/ZhYUEjsW3Z
+See All Launches ›

@@ -1,0 +1,55 @@
+Home
+›
+Launches
+›
+Pump
+151
+Pump: The fastest way to save 60% on AWS
+Use AI to optimize your cloud savings on autopilot. Meet Pump, FinOps fully automated with AI.
+Spandana Nakka
+Pump
+2 months ago
+Embed
+https://www.pump.co/
+#
+b2b
+#
+saas
+#
+finops
+#
+fintech
+#
+artificial_intelligence
+Pump
+is the FASTEST to save up to 60% on your AWS bills with zero engineering effort and financial risk.
+👊
+Who we are & why we are doing this:
+We are
+Spandana Nakka
+&
+Josh Xie,
+at our previous startup, we got a whopping $800k bill one month and what was more shocking was how long it took us to figure out where things went wrong (it’d be another post on how we resolved it). Having worked at AWS previously and with the recent advancement in AI - we decided to plunge into cloud cost savings with AI!
+🤖 How Pump saves so much:
+Pump’s AI to continuously optimizes AWS discount commitments, our customers get the best price without needing to constantly monitor and adjust their AWS usage. Our optimization algorithms identify which hourly commitments are most cost-effective for your specific usage patterns, so you never pay for more than you need. Additionally, we offer a group volume tier discount, similar to Groupon, based on combined usage across all our customers.
+List of all the AWS services we support is
+here
+. We are the
+ONLY
+company that has this breadth on market.
+😎 Our Happy Customers:
+Since we launched last month on Product Hunt as #1 of the day, we have had signups reaching up to over 100+ customers, saving them hundreds of thousands of dollars. Check out what they have to
+say!
+⚙️ How to get started:
+Just 3 clicks to start saving and a fully self serve experience that doesn’t force you to talk to a human (unless you want to?)
+😎 Why we are a
+no-brainer
+:
+Pump monetizes through a small percentage from the volume discounts of the collective large spend achieved. 100% of our revenue comes from AWS. We believe saving costs should not be a cost in itself for our customers.
+🙏 Our ask:
+Sign up today at
+www.pump.co
+to see your estimated savings even if you are already cost optimized, no obligation to use us if you don’t like that additional savings $ that Pump can save you! - if you have any questions please contact me at
+sn@pump.co
+:)
+See All Launches ›

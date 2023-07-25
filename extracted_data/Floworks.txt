@@ -1,0 +1,73 @@
+Home
+›
+Launches
+›
+Floworks
+525
+Floworks: Close more deals with CRM on Slack
+Update CRM, take meeting notes, get reminded of important follow-ups, send customer emails - all from Slack channels.
+Sudipta Biswas
+Floworks
+5 months ago
+Embed
+https://floworks.ai/
+#
+nlp
+#
+saas
+#
+sales
+#
+generative_ai
+TLDR: Floworks helps sales teams close more deals and stay on top of leads by bringing their CRMs over Slack. For example, after an important sales meeting, a rep can post the summary via slack instead of waiting to get back to their desk to log into Salesforce or HubSpot.
+🤔
+The Problem:
+20% of every salesperson's time is spent doing CRM updates, follow-ups, and administrative tasks.
+This time could have been spent doing actual sales.
+Even after investing such time and effort in CRM, have you ever wondered
+how many crucial follow-ups did your team miss last week?
+how many valuable contacts never converted into opportunities?
+how many lucrative deals slipped through the cracks because of neglected logs and updates?
+👤Who is it for:
+Every B2B companies starting with 2 person sales team (like founder led sales)  to 100 and beyond.
+😊
+The Solution:
+Sales teams today live and breathe on Slack. Floworks brings your entire CRM on top of Slack.
+It does so by integrating your existing CRMs like Salesforce, HubSpot and Pipedrive with your Slack workspace.
+Benefits for Sales teams:
+With Floworks, sales teams can set up customized flows that
+Notify about critical tasks like customer follow-ups, stuck deals, escalations etc.
+Keeps the team and leaders on top of high value deals in slack based dealrooms.
+Alerts the team in timely manners for leads going cold.
+Enable you to send customer emails, set up meetings, follow-up tasks- all from Slack.
+and much more.
+All our slack alerts are bi-directional in nature. What it means is that you don’t just get notified but
+are also able to update, or take follow-up actions (such as moving the deal stage, sending customer emails, updating close date etc.) right from Slack.
+And because it’s Slack, the whole team can instantly collaborate on the deal simplifying activities like coaching BDRs and AEs, highlighting key issues, collaborating to solve them etc.
+Benefits for Salespersons:
+With Floworks, sales folks reclaim
+45 minutes to 1 hour everyday
+, earlier spent in manual CRM updates, by:
+Quickly adding contacts, accounts and deals.
+Searching and updating deal status and information.
+Logging meeting notes.
+Seeking approval or escalate issues.
+and more- all by giving natural language commands directly from Slack.
+With Floworks there are no more Hubspot or Salesforce related delays. No more manager intervention and follow ups for updating CRMs.
+Our customers have told us that they they are closing
+15-25%
+more deals every month with Floworks.
+Fave features of our customers:
+Getting setup in minutes with pre-built automations off the block:
+Get reminded of pending tasks every morning for each deals.
+Get reminded of stuck deals in custom slack channels
+Add contacts and accounts into CRM on the go- directly from Slack.
+Asks:
+Start using Floworks immediately, and in return, we promise improved sales.
+Sign up at
+https://floworks.ai
+.
+Book a meeting with us
+here
+.
+See All Launches ›

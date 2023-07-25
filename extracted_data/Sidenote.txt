@@ -1,0 +1,67 @@
+Home
+›
+Launches
+›
+Sidenote
+62
+✍️ Sidenote: Meeting follow-up, automated
+Sidenote is a Chrome extension that turns meeting notes into drafted emails, calendar invites, tickets, and reminders.
+Jason Lin
+Sidenote
+4 days ago
+Embed
+https://www.sidenote.ai
+#
+ai
+#
+automation
+#
+productivity
+📝
+TLDR
+: After a meeting, Sidenote’s AI copilot analyzes your notes, finishes your tedious action items, and keeps track of the rest, so that you never miss a todo.
+Try here
+!
+❌
+The Problem
+Ever forget to follow up on something you promised during a meeting? We can do it automatically for you, freeing up your mind and time.
+✨
+Our Solution
+Sidenote
+takes the burden of remembering todos off your shoulders by analyzing your notes, detecting your action items, and completing them. Currently, we can:
+📅 Create a follow-up meeting for next week
+🗒️ Assign a task to design team in project management software
+✉️ Draft an email to the project team with the new deadlines
+🔔 Add a todo to finish my proposal
+We support
+Notion
+,
+Google Docs
+,
+Google Calendar
+,
+Linear
+, and more.
+🚀
+What’s Next?
+Starting with meetings, we envision Sidenote becoming your work copilot, automating all repetitive parts of your personal work. This means integrating with more platforms and allowing users to create custom automated actions for unique workflows. Request a specific automation
+here
+.
+💜
+The Team
+We're
+Jason
+,
+Scott
+, and
+Schwinn
+. We met at our dorm at Stanford and have been hacking together ever since!
+🙏
+We Want Your Input
+Overwhelmed by meetings and todos (especially in CX)? Let's chat on
+cal.com/jasonlin
+!
+Take Sidenote for a spin at
+sidenote.ai/chrome
+.
+See All Launches ›

@@ -1,0 +1,42 @@
+Home
+›
+Launches
+›
+Terra
+11
+OdinAI by Terra
+Generate health recommendations for any app
+Kyriakos Eleftheriou
+Terra
+2 months ago
+Embed
+http://tryterra.co
+#
+b2b
+#
+saas
+TLDR
+:
+To date, it has been super difficult to generate health insights and recommendations for your application.
+With
+OdinAI
+, we make it super easy for you to add health recommendations to your app! We built all the necessary software tools and help you deliver these recommendations through ChatGPT!
+Get started
+here
+What is
+Terra
+An API that makes it super easy for apps to connect to wearables and sensors.
+Many of our customers have been asking for an easy way to generate recommendations, so we connected with ChatGPT and made it possible.
+The way it works:
+1. You upload your recommendations
+2. We prompt ML models and optimize them for your app
+3. You receive the recommendations through our API
+This can be for your sleep, mental health, nutrition, training, and overall health app!
+OdinGPT Private Alpha Release - Watch Video
+What's coming in the upcoming updates:
+- Granular level responses
+- Chatbot to install for your app
+- Optimised recommendations for specific categories,
+- and many more!
+Would love to hear your thoughts, and feel free to ask for features you'd like to see!
+See All Launches ›

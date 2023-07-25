@@ -1,0 +1,71 @@
+Home
+›
+Launches
+›
+PromptLoop
+80
+PromptLoop: AI with a simple spreadsheet formula
+AI tools for market research and web browsing in Excel
+Peter Mangan
+PromptLoop
+5 months ago
+Embed
+https://www.promptloop.com/
+#
+ai
+#
+api
+#
+saas
+#
+generative_ai
+Hey everyone, we are PromptLoop, and we make it easy to leverage powerful AI language models inside Excel and Google Sheets!
+TLDR
+:
+PromptLoop
+provides on-demand access to AI language models for analyzing, formatting, and generating text in spreadsheets. Customize and chain together models to analyze text data, automate accurate and up to date web research without scraping, and power company research that goes beyond common datasets like Pitchbook and Crunchbase.
+🤔 The Problem:
+Data-driven teams know that research takes time and great research takes even longer. Whether working with text or gathering accurately sourced insights on companies or new markets. They also know that exporting a CSV and sorting rows is the fastest way to accomplish goals quickly and build reports.
+Spreadsheets work well because every business is different, but they
+weren’t designed for unstructured text
+data that is the lifeblood of effective Sales and Marketing teams.
+💡 The Solution:
+⚡ Powerful
+AI Language Models
+inside
+Excel and Google Sheets
+⚡
+PromptLoop
+provides a set of easy to use AI functions that power common tasks and allow customization for every use case.
+PromptLoop provides dependable and scalable access to dozens of AI language models with a simple formula. Teams use our platform to build spreadsheet models that streamline workflows for more output with fewer people, all in a customizable and accessible interface.
+With
+dozens of templates
+and
+video guides
+to get you started and resources for Research Analysts, Consultants, and Investing due dilligence teams, it's never been easier to stay ahead of the field and future-proof your operations with the best technology available. PromptLoop provides immense value
+across any vertical
+that uses spreadsheets.
+Examples of what teams are building with PromptLoop:
+🏷️ 95% time saved on web research and data categorization
+📈 Label and segment existing datasets with labeling AI models for better insights
+⬆️ Augment existing data sources for a fraction of the cost like Crunchbase, Pitchbook and Zoominfo
+👍 Reducing outsourcing and staffing needs on data gathering without reducing quality
+Whether you are a small business or a global consulting firm with ambitious growth goals this year amid cost cuts - PromptLoop is the perfect solution.
+Since we launched last year, we have emphasized reliability and performance at scale for hundreds of companies and thousands of users that need dependable and measurable results.
+Organizations can start with
+Google
+or
+Microsoft 365
+single-sign-on inside Excel and Google Sheets and deploy custom AI models organization-wide with a simple web interface.
+💪 Why Us?
+Before PromptLoop, our founder, Peter, taught the Excel course at EY and got his start programming while developing algorithm-backed spreadsheet models for a quantitative trading fund.
+We take pride in dependability and top-tier support. This includes a wealth of video and written tutorials, a community support group, and a team that is constantly updating and improving our models dozens of times a week.
+We want to empower teams to build on their industry advantage using their data and allow them to customize how they use AI in this fast-evolving landscape.
+🙏 Our Ask
+Try PromptLoop today and start using AI models in Excel or Google Sheets by
+signing up here!
+Want a custom spreadsheet that your team can start using?
+Book a demo
+Want to learn more or interested in joining us? Book a time
+here
+See All Launches ›

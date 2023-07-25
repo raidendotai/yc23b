@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Kobalt Labs
+37
+Kobalt Labs: Use LLMs securely on your most sensitive data
+Compliantly anonymize PII/PHI, continuously check for sensitive data leakage, and protect against prompt injection with one API.
+Kalyani Ramadurgam
+Kobalt Labs
+8 days ago
+Embed
+https://www.kobaltlabs.com/
+#
+compliance
+#
+health_tech
+#
+generative_ai
+#
+cybersecurity
+#
+artificial_intelligence
+TL;DR:
+It's risky to let GPT access private data or take action (DB write, API calls, chat with users, etc). Kobalt Labs enables companies to securely use GPT or other LLMs without being blocked by data privacy issues.
+Hi! We’re Ashi Agrawal and Kalyani Ramadurgam, the founders of Kobalt Labs.
+❌ What’s the problem?
+Data privacy is one of the most significant blockers to deep LLM adoption. We’ve worked at companies that struggle to use LLMs due to security concerns -- healthcare companies are especially
+vulnerable
+.
+Companies need a way to use cloud-based models without putting their PII, PHI, MNPI, or any other private information at risk of exposure. BAAs don’t actually enforce security at the API layer.
+Companies that have sensitive data are
+acutely at risk
+when using an LLM. Prompt injection, malicious subversive inputs, and data leakage are just the tip of the iceberg when it comes to everything that will go wrong as LLM usage becomes more sophisticated.
+✨ What do we do?
+Our model-agnostic API:
+Anonymizes and replaces PII and other sensitive data – including custom entity types – from structured and unstructured input
+Can also replace PII with synthetic “twin” data that ensures consistent behavior with the original content
+Continuously monitors model output for potential sensitive data leakage
+Flags user inputs for prompt injection or malicious activity
+Aligns model usage with compliance frameworks and data privacy standards
+👉 Why are we different?
+Our sole focus is optimizing security and data privacy while minimizing latency. All traffic is encrypted, we don’t hold any user inputs, and we score highly on prompt protection and PII detection benchmarks.
+On the backend, we’re using multiple models of varying performance and speeds, and filtering inputs through a model cascade to make everything as fast as possible.
+We’re compatible with OpenAI, Anthropic, and more, including self-hosted models.
+🙏 Our ask:
+Do you work with lots of sensitive data or know someone who does? Ping us at
+hi@kobaltlabs.com
+:)
+See All Launches ›

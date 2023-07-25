@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Keep
+43
+Keep - Open source alerting CLI
+Open source alerting CLI for all observability tools, with a simple and intuitive (GitHub actions-like) syntax.
+Tal Borenstein
+Keep
+5 months ago
+Embed
+https://www.keephq.dev
+#
+b2b
+#
+saas
+#
+monitoring
+#
+open_source
+Hey YC 👋, Shahar and Tal here 🚨
+We are thrilled to share Keep with the YC community today!
+Keep
+is an open-source alerting CLI alternative to Prometheus Alertmanager or Grafana Alerts, but for all observability tools, with a simple and intuitive (GitHub actions-like) syntax.
+😫 Problem
+Engineering teams are frustrated with the explosion of tools that trigger alerts. On average, engineering teams have more than five tools that generate alerts.
+Using proprietary vendor alerting/monitoring products locks you into the vendor, making it extremely challenging and time-consuming to migrate at a later stage.
+Vendors today require you to send/integrate all your data, which is a big overhead when all you want to do is simple alerting.
+🚨 Why Keep?
+Simple and intuitive (GitHub actions-like) syntax.
+Declarative alerting that easily be managed and versioned in your source control and service repository.
+Alerts from multiple data sources for added context and insights.
+Freedom from vendor lock-in, making it easier to switch to a different observability tool if and when needed.
+💻
+Demo
+Play with Keep using our
+Playground
+🙏 Asks
+Try out Keep and share your feedback on how it can be improved. Here’s our GitHub repo -
+https://github.com/keephq/keep
+Have any questions? Join our
+Slack community
+and drop us a message
+See All Launches ›

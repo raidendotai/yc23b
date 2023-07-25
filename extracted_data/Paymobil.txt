@@ -1,0 +1,40 @@
+Home
+›
+Launches
+›
+Paymobil
+13
+Paymobil 💸 Send money anywhere in the world in seconds
+The super simple stablecoin wallet with free transactions
+Daniel Nordh
+Paymobil
+8 months ago
+Embed
+https://www.paymobil.co
+#
+fintech
+#
+crypto/web3
+Happy to publicly launch the massively upgraded Paymobil 2.0 today! We've been quietly battle-testing it for the last couple of months and unlike most other things in crypto it is ... stable ;)
+What is Paymobil?
+Paymobil is a super simple stablecoin wallet with free transactions. Buy, save, receive and send USDC for free on Polygon. Self custody with automatic cloud backups, send to any email, phone number or crypto address in the world in seconds. Great UX, no fuss.
+The goal of Paymobil remains the same, to be the best stablecoin wallet, and make cross-border transactions as quick and easy as Venmo. Giving you a safe and simple option to buy, send, receive and send dollars in the form of USDC for free, regardless of where in the world you may live.
+What's new?
+- Free and instant USDC transactions on Polygon
+- New onramp options including Coinbase, cards and bank accounts in most countries
+- Add or withdraw in pesos or USD in Argentina
+- Automatic backup to your personal iCloud or Google Drive
+- Biometric protection
+- Support for ENS addresses and recent contacts
+What's the same?
+- Super simple to use, no crypto experience required
+- Self-custodial, but no complicated mnemonics in sight
+- USDC is the most trustworthy stablecoin
+- Send money to anyone, even those without a wallet
+- Still yellow!
+Give it a go on iOS or Android today and let us know what you would like to see us build next!
+Paymobil for iOS
+Paymobil for Android
+Paymobil on Twitter
+Website
+See All Launches ›

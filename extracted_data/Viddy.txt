@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+Viddy
+23
+🛒 Viddy - Shoppable video experiences for e-commerce
+We let e-commerce brands add interactive and shoppable video experiences (think Instagram Stories and TikTok feeds) to their websites to increase personalization and conversion rate.
+Harris Gani
+Viddy
+6 months ago
+Embed
+https://www.viddyapp.io/
+#
+b2b
+#
+saas
+#
+video
+#
+e-commerce
+#
+creator_economy
+🚀 TL;DR Short-form video is the new default medium of content consumption, but e-commerce hasn't adapted and has been static text & images for +10 years. Viddy bridges this gap by bringing familiar and interactive video UIs that are shoppable to e-commerce.
+Hi everyone👋 Harris and Nihar here from Viddy! We’re on a mission to change the future of online shopping.
+🚨 The Problem
+Consumer behavior is shifting towards consuming more short-form vertical video (thanks to TikTok, Instagram, SnapChat, YouTube Shorts, etc.), yet e-commerce has been static text and images for over 10 years.
+E-commerce brands and their storefronts have struggled to adapt to this video-first trend, leading to their conversion rate and engagement consistently dropping year over year. Lower conversion rate and engagement leads to lower revenue, retention, and LTV.
+🎯 Our Solution
+We've built familiar video UIs (such as Instagram Stories, animated carousels, swipeable TikTok feeds, among others) that can be easily embedded on an e-commerce website. See examples below:
+Brands can feature custom call-to-actions within videos (for example: taking a quiz, booking a demo, viewing a product page, etc.). See our mobile optimized video player in expanded view below:
+Everything is configurable and customizable in terms of what videos a brand wants to use to the look & feel of our video player. See our CMS below:
+You
+try a live demo here
+here
+to play around with our video experiences firsthand!
+🧐
+How it works
+Upload your video assets to the Viddy CMS
+Add any call-to-actions you want within your videos
+Select which video UI you want to use (Stories, Carousel, Floating Player)
+Copy code embed and place on your site and voila!
+It usually takes 1-2 days to get live and all our customers have seen a +10x ROI.
+💬 Backstory: we come from e-commerce
+We come from the e-commerce industry and have led growth and experimentation of large DTC brands. We led a men's skincare brand that struggled to educate men on how to use skincare products (what does each product do, how much, how often, which order, etc.). Explaining this with video always performed better than static text, but getting people to engage with YouTube or Vimeo embeds wasn't great.
+We noticed that video UIs that are on par with mobile social apps are not readily available to non-technical website managers (a growing segment with the advent of Shopify, Webflow, Wix, etc.) and we're here to fix that.
+⚡️ Our ask
+If you know any folks at e-commerce brands and can make a warm intro, please email us at
+founders@viddyapp.io
+Want to join the platform? You can join our waitlist
+here
+.
+See All Launches ›

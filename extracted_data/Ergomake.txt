@@ -1,0 +1,66 @@
+Home
+›
+Launches
+›
+Ergomake
+78
+🧚 Ergomake - Deploy a staging environment for every pull request
+Whenever engineers push changes, we deploy their entire application and send them a link.
+Lucas da Costa
+Ergomake
+6 days ago
+Embed
+https://ergomake.dev
+#
+b2b
+#
+devops
+#
+developer_tools
+TL;DR Ergomake creates a staging environment for each pull request. Every time an engineer pushes changes, we deploy their entire application and send them a link to see it. Our customers use Ergomake for QA, product, and design reviews before any code gets merged.
+Hey everyone! We're Lucas and Lucas (yes, Lucas²), the founders of
+Ergomake
+.
+Ergomake creates a new staging environment every time engineers push changes
+, making reviews much quicker and easier and helping teams avoid shipping broken changes.
+❌ The problem: staging is a bottleneck.
+Engineers must ship code to a staging environment whenever they need feedback from QAs, designers, and product managers.
+The problem with this approach is that
+teams usually have only one staging environment
+. Therefore,
+engineers scramble to see who will use staging or end up merging changes before anyone else sees them
+.
+Consequently, teams slow down, applications break, or undesirable code gets shipped
+.
+When that happens, engineers rush to fix the broken code already merged. For that, they must go through the whole review process again, which is a massive waste of time and money.
+💡 The solution: everyone gets their own staging.
+With Ergomake, every change gets deployed to a new staging environment.
+That way, engineers can get input from the rest of their team without queueing to use staging.
+Additionally, by getting reviews
+before
+deploying code, teams avoid merging all sorts of undesirable changes. Consequently, they avoid bugs and reduce rework by keeping
+main
+always working.
+With Ergomake, teams can merge straight into
+main
+because they do all their manual testing and validations within their pull requests. Therefore, these teams avoid complicated branching strategies and painful integration cycles.
+⚙️ How does it work?
+Ergomake integrates with GitHub and gets notified whenever someone opens a pull request.
+When that happens, Ergomake uses the
+docker-compose.yaml
+file within the repository to deploy your application on our infrastructure.
+Once Ergomake has spun everything up, it adds a comment to the pull request containing the link to test your application.
+Our previews can include databases, and they support all types of projects, including those spread across multiple repos.
+➡️ The ask: sign-up now (there's a free tier)
+You can sign-up for Ergomake at
+app.ergomake.dev
+.
+There, you'll be able to configure previews for any repositories you want for free.
+If you prefer, we're happy to do all the integration for you or hop on a call and guide you through the process
+. If you think that could be helpful,
+book an intro call here
+.
+For anything else,
+we're also on Discord
+.
+See All Launches ›

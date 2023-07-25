@@ -1,0 +1,71 @@
+Home
+›
+Launches
+›
+Mano AI
+144
+👋🏽 Mano - Your LLM-powered helping hand
+The only AI tool you need to work in the new age
+Nicolas Raga
+Mano AI
+14 days ago
+Embed
+https://www.usemano.com/
+#
+saas
+#
+consumer
+#
+hard_tech
+#
+ai_assistant
+#
+generative_ai
+Mano
+makes it easy to
+use LLMs across all your web-based tools
+. You can start handing off low-leverage tasks like responding to your emails, summarizing articles, answering simple questions, and much more!
+Team
+Hey YC, we’re Omar and Nico 👋🏽 We’ve been long-time best friends and met as engineers at Amazon. Together we started a profitable government consulting agency that worked with the FBI and CMS.
+Omar
+built most of the internal tools for both Prime Video and Last Mile Delivery. He had one of the fastest promotions to Senior and was also the #1 swimmer in Egypt for multiple years.
+Nicolas
+helped build Kinesis Data Streams at AWS and then Amazon’s distributed training infrastructure for LLMs. He left Venezuela after winning Math Olympics medals and loves to practice muay thai.
+The Problem
+LLMs are incredibly powerful but are you using them at your job? Odds are you are not. This is because there are no thoughtful interfaces built by superusers that make them delightfully easy to use. To use them you have to:
+Copy and paste entire pages of text,
+Track and update prompts in a text editor,
+Test a prompt one conversation at a time,
+Switch between tabs many times,
+And the list goes on.
+Our Solution
+😌 Easy -
+Mano opens straight in your tab by pressing “Option + M”. Or simply select any text on your screen and we pop up!
+⚙️ Useful -
+We built custom workflows like
+Email Summarizer
+that extract your Gmail threads and write full responses in your tone.
+⛳️ Powerful -
+Build Agents directly in our playground where we auto-generate prompts, run on test inputs, and let you define variables for different scenarios.
+🥰 Collaborative -
+We leverage the community and share Agents so you don’t have to create them all from scratch.
+💪🏼 Strong -
+We’re built on LangChain, LlamaIndex, and Pinecone. So we’re incredibly fast and robust! No more GPT-4 throttling.
+🙏🏼 Expansive -
+We are the first tool with access to beta OpenAI, Anthropic, and Google models.
+Now some GIFs
+Don’t write emails anymore
+Don’t read articles
+Don’t even read your screen
+Ask
+Add Mano to Chrome
+! It’s completely
+free
+, we front your LLM costs, and you can start using it in less than 2 seconds.
+Let us know what
+work you hate doing and would like us to automate
+for you. We’re looking for new use cases!
+Use our YC-exclusive discount for 30% off a yearly membership with
+YC30
+!
+See All Launches ›

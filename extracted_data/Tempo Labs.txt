@@ -1,0 +1,48 @@
+Home
+›
+Launches
+›
+Tempo Labs
+49
+Tempo Labs - Build UIs 10X faster with AI
+AI design & prototyping tool which contributes react code directly to your codebase
+Kevin Michael
+Tempo Labs
+6 hours ago
+Embed
+https://www.tempolabs.ai/
+#
+ai
+#
+b2b
+#
+design_tools
+#
+developer_tools
+#
+artificial_intelligence
+TL;DR:
+Tempo
+is an AI design & prototyping tool which contributes high-quality react code directly to your codebase. You can use tempo to generate complete views using simple AI prompts, polish & control design details visually, and build a high quality design system using your existing components. Sign up here to give it a try:
+https://www.tempolabs.ai/
+.
+Here’s a 2-min demo:
+https://www.youtube.com/watch?v=2qQJKQJq7Jk
+Hey Everyone,
+Kevin
+&
+Peter
+here, we’re the founders of
+Tempo Labs
+.
+The Problem
+While building our last startup (Perpetua), we spent a lot of time looking for ways to speed up the pace of our development and prototyping. We tried every low-code tool on the market and were constantly disappointed by how poorly they integrated with our existing codebase. Figma ended up being our de facto tool for testing concepts but Figma prototypes always felt low-fidelity and took way too long to ship to production.
+The Solution
+Tempo is the design and prototyping tool we wish existed. Tempo integrates with any react project and empowers designers to collaborate with engineers directly on the codebase. Powered by AI, tempo generates 60%-80% of the front-end code required for any feature so engineers are free to focus on writing business logic rather than css. By eliminating the design->code translation process we help teams ship their ideas to production 10X faster.
+The Ask
+If you’re building a react app and are interested in testing us out please email me at
+kevin@tempolabs.ai
+. If you already have a design system we’ll give you a visual playground to build new views, if you don’t, we’ll help you implement one! If your app looks like crap, or your codebase feels hard to maintain, get in touch - we’ll help you level up your front-end using AI :)
+The Deal
+Sign-up before demo day and get 70% off for the first 6 months!
+See All Launches ›

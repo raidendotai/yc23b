@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+Sphere
+103
+🔮 Sphere - Building a new monetization engine for content owners
+We help content owners secure, structure and monetize their content in the LLM era
+Nicholas Rudder
+Sphere
+2 months ago
+Embed
+https://www.getsphere.com/
+#
+ai
+#
+b2b
+Hey everyone, we are Nick Rudder and Adrian Sarstedt from
+Sphere
+.
+TL;DR
+Sphere's platform allows content owners to secure, structure and monetize their content in the LLM era. We want to ensure that there is a clear incentive for creators, publishers and media companies to continue producing high-quality content as language interfaces become the norm.
+Connect with the Sphere team today
+.
+💣 The Problem
+Language interfaces are fast becoming a new way to consume content online. They are turning the SEO model on its head and threatening the ad revenue streams that many content owners rely upon. After all, why click through to a content owner’s site when you can get a summary via your chat interface.
+This means that soon there will be a much lower incentive for owners and producers of high quality content to share their work online. We’ve already seen companies like O'Reilly refuse OpenAI access to their corpus of books (
+link
+), Newscorp demanding compensation from model providers for scraping their publications (
+link
+), and Reddit looking to cash in on their user generated content (
+link
+).
+We need a solution that provides a new revenue stream for content owners, while continuing to enhance the quality of content available through LLMs.
+💡 Our Solution
+We've built an infrastructure that helps content owners and creators to:
+Secure their content
+- many LLMs (both third party providers and private LLMs) scrape content and data without proper authorization. For online publishers, we provide a wrapper around publicly available content that stops unauthorized bots from extracting information without impacting SEO (think Robots.txt 2.0).
+Structure their content
+- content owners have various content formats, including text, video, image, audio and more. We structure and host content in a vector database so that it can be called at any time by LLMs via an API.
+Monetize their content
+- we provide a licensing infrastructure that allows content owners and creators to charge a monthly fee to model end users for access to their content repository (like how substack allows authors to charge for access to newsletters). We can support access across all major LLM providers via plugins (e.g. OpenAI, Cohere, Anthropic) as well as open source models via an SDK.
+🏢 Who it's for
+Sphere's platform is relevant to any owner of authoritative, high value content.
+We are initially targeting online and offline publishers - these companies have already seen significant ad revenue declines from social media platforms and are now hyper-aware of their content being used by LLM providers.
+In addition, this platform could be much broader and applicable to other institutions with valuable data assets that could be monetized through LLMs (e.g. universities, enterprise).
+🙏 Asks
+Connect us with leaders at content-focused businesses (publishers, media outlets, universities) who would be interested in Sphere's platform - introduce them to our CEO, Nick Rudder (
+nicholas@getsphere.com
+)*
+Share this post! Please help spread the word 😀
+Provide feedback via email to Nick
+* quick blurb to copy & paste: A YC company called Sphere is building a platform for content owners to secure, structure and monetize their content / data in the LLM era.
+Check them out
+and contact
+nicholas@getsphere.com
+for more.
+*******************************************************************************
+💥Bonus Material: Why are we building this?
+Sphere was originally an edtech platform that allowed experts to run live courses with employees around the world. However, we found the live course model limiting and saw the potential for AI/LLMs to become a new, scalable content distribution channel for creators, publishers and media businesses.
+We have first hand experience working with creators and have seen just how important it is to invest in high quality content (to create courses that people love!). The value of this content will only grow in a world of AI generated material and we strongly believe the correct incentive mechanisms need to be put in place.
+See All Launches ›

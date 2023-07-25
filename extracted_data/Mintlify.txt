@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+Mintlify
+67
+Mintlify 🌿 Beautiful documentation that converts users
+Beautiful out of the box, easy to maintain, and optimized for user engagement.
+Han Wang
+Mintlify
+8 months ago
+Embed
+https://mintlify.com
+#
+developer_tools
+TL;DR
+:
+Mintlify
+makes building world-class documentation easy. Check out some of the awesome YC companies that we work with at our
+showcase
+.
+The problem
+Writing documentation is hard. Building and maintaining the platform to host it is even harder.
+How Mintlify can help
+We want to help you build the documentation you've always wanted.
+💻 Developer-first
+- content is written in markdown and lightning fast to set up. We believe in being opinionated when you’re lazy but infinitely flexible when you need it to be.
+🚀
+Built for results
+- our users see an average of 40% higher conversion, better SEO, and performance than other documentation alternatives
+🔎 Understand readers
+- we built insights into the platform to help you understand your users and other metrics tracked by world-class documentation providers like Stripe.
+Our ask
+Sign up
+and get instant access
+See All Launches ›

@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+Flasho
+29
+Flasho: Open source customer notifications for developers
+Open source tool for developers to set up customer notifications in minutes with little to no code ⚡
+Jhansi Elango
+Flasho
+5 months ago
+Embed
+https://flasho.io/
+#
+b2b
+#
+open_source
+#
+notifications
+#
+developer_tools
+#
+workflow_automation
+TL;DR
+: Building customer notifications from scratch can take atleast a couple of weeks. With Flasho, you can do it in less than 5 minutes. Just self-host the Flasho dashboard on the cloud (instructions on
+Github
+) , connect your PostgreSQL DB , set up event triggers and connect to the service providers of your choice in minutes with little to no code.
+⭐
+Star the repo
+here
+Our Problem
+😟
+While building our previous product, an avatar-based social app, we realised that building notifications took up significant time and development effort. We had to establish microservices, integrate with a bunch of different service providers etc. And every time we wanted to set up new notifications or make changes to existing ones, we had to make multiple changes across the codebase which was a time-consuming process. We realised we needed a better way to manage this. Existing solutions were either too expensive or required us to share customer data with third parties. And that is when we decided to build an in-house tool.
+Our Solution
+💡
+This tool turned out to be a game-changer for us. It was a single dashboard to create and manage all our customer notifications across channels. It saved us weeks of developer bandwidth and we could now create and manage notifications without writing any code. We decided to open source it and call it Flasho.
+How does it work?
+⚒️
+Deploy Flasho on the cloud in less than 5 minutes (docker or  build from source)
+Connect your PostgreSQL and instantly set up notification triggers from the dashboard.
+Use manual triggers to trigger notifications directly from your codebase.
+How do I get access?
+🎉
+You can check out and
+⭐
+the repo
+here
+. It has instructions for deployment on different cloud providers / docker deploy.
+Note
+: We currently have SMS and email notifications. Push and in-app coming soon. At the moment, we support Twilio,  Sendgrid, Pinpoint , AWS SNS and SES. More providers coming soon.
+Our Ask
+🙏
+⭐
+Please star the repo
+⭐
+https://github.com/flashohq/flasho
+. Will really help us 🙂
+If you or someone you know is building a new product and are looking to set up transactional Emails/ SMSes, do give us a try. It takes just 5 minutes to
+set up and get started
+. ✌️
+For any feedback or help, write to us at
+hello@flasho.io
+See All Launches ›

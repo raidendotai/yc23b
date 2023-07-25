@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Elyos Energy
+71
+Elyos Energy - The platform for energy flexibility and demand response ⚡
+We help businesses save money on their energy bills by avoiding peak electricity prices 💸
+Philippa Brown
+Elyos Energy
+4 days ago
+Embed
+https://www.elyosenergy.com
+#
+b2b
+#
+energy
+#
+climate
+#
+climatetech
+#
+renewable_energy
+Hi! We’re
+Adrian
+,
+Pip
+and
+Panos
+- a team of specialists in the energy sector.
+Our mission is to accelerate the transition to net zero by building a flexible and robust energy system. 🌍
+TL;DR:
+We connect to smart thermostats, EVs, HVAC systems, solar, and batteries in large commercial properties to optimise consumption and automate participation in demand response energy markets.
+Our platform allows customers to manage real-time energy use across all their commercial sites, by leveraging APIs from a range of connected devices. We optimise these devices to reduce energy consumption and have an opt-in to national grid demand response (DR) events where customers can earn money for energy reduction.
+Problem:
+Electrification is at the core of the UK’s net zero strategy. However, with the growth of renewable energy being pumped into the grid comes an intermittent and more volatile balance between supply and demand. This is causing big problems. Some new solar and wind sites are
+waiting up to 10 to 15 years
+to be connected because of a lack of capacity in the grid.
+With the mass adoption of EVs, the increasingly urgent demand for air conditioning and the electrification of heat, overall electricity demand is outpacing the transformation of the grid
+Upgrading the grid could take 20 years, and this is time we just don’t have. ⏱️
+Solution:
+We leverage energy flexibility, at mass-market scale ⚡
+Energy flexibility matches consumption patterns with supply of renewables on the grid, enabling the full electrification we need.
+With c.1.6m commercial buildings in the UK and a combined energy use of 141TwH, about a third of all UK’s total annual electricity consumption, businesses are the obvious place for us to start
+We integrate all DERs (distributed energy resources) across all sites into one place through a range of APIs
+DERs are local, small-scale connected devices that either generate, consume or store electricity. They include solar panels, batteries, HVACs, EV chargers etc. These resources provide localized energy flexibility
+Our platform allows our customers to take control of their energy consumption and automates schedules to optimise these devices, reducing consumptions at times of peak strain on the grid
+Customers can choose to engage in demand response markets, where rather than just saving money on cheaper electricity prices, they can proactively opt-in to events to get paid to reduce consumption
+The Team:
+From left to right:
+⛳ Adrian, our CEO and second time founder.  Ex Goldman Sachs, ex BCG and ex Una Brands, Adrian keeps us on track. Adrian wants a revolution in green energy.
+🦸 Pip, our COO.  Pip is focused on all things customer and operations, making sure what we’re building is what our customers want.  OVO Energy, ex Rolls-Royce, she’s passionate about equity in the energy sector.
+⚡ Panos, our CTO and energy wizz. VP Engineering at Zoa, ex Bulb, ex Funding Circle, Panos is all about using tech to disrupt archaic industries.
+Ask:
+We appreciate any warm introductions specifically to those with contacts in commercial sites in the UK! 🙏
+Please let us know at
+founders@elyosenergy.com
+.
+See All Launches ›

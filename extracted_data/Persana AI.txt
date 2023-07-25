@@ -1,0 +1,49 @@
+Home
+›
+Launches
+›
+Persana AI
+50
+🎯📈 Persana AI - Sales copilot to boost productivity
+Persana AI is a sales copilot that easily surfaces unique lead insights and generates personalized outbound in your company's voice.
+Sriya Maram
+Persana AI
+5 months ago
+Embed
+https://www.persana.ai/
+#
+sales
+#
+generative_ai
+#
+artificial_intelligence
+TL;DR: Sales teams spend hours researching prospects and writing emails.
+Persana AI boosts sales productivity by building a fine-tuned model for your sales team
+which combines CRM data with real-time web signals and uses this to easily write hyperpersonalized outbound.
+👋 Hey YC we're Sriya and Rush and we're building
+Persana AI
+!
+❌ The Problem
+In this macro-environment, it is now more important than ever for
+sales teams to concentrate their efforts on the most promising prospects
+and close more deals efficiently. However data is distributed across hundreds of different touch-points like CRMs and Outreach, causing
+teams to lose out on ripe opportunities.
+On top of this, writing hundreds of personalized emails across different lead stages is a cumbersome task that takes time away from actually selling to qualified leads.
+✨ Our Solution
+Persana AI is an AI copilot for sales teams to easily identify promising leads by combining CRM data with real-time signals. The AI can then quickly generates personalized outbound in your company's voice so sales teams can make the most of ripe opportunities. For instance, when a lead visits the company website or gets funding, Persana AI can notify the sales team and generate an email to send out right away.
+⚙️ How it works
+Persana AI's proprietary engine brings together historical email campaign data, CRM and internal data, and publicly available data points to build a fine-tuned model for the team. Additionally, leveraging Persana's proprietary engine, we are able to identify the leads with the highest likelihood of conversion, allowing sales teams to focus their efforts on these leads and achieve a higher ROI in less time.
+🎯
+Our Products
+👉 Personalized email combining different sources of insights
+👉 Chrome Extension to get insights and generate anywhere!
+👉 Quickly get answers and notified about high intent leads.
+🤝 Meet The Team
+Sriya and Rush met while working at Linkedin where they worked on customer data platform and search teams respectively. Rush has been working in the NLP/gen-AI space for over 4 years and Sriya has been working in the CDP/AI space to help businesses make the most of their data. They’ve launched a successful AI product before and one of the key insights they uncovered was generic AI models don’t perform well for business use-cases - leading them to build Persana AI.
+🙏 Asks
+If you’re a sales team that would like to try us out - please book a time with me
+here
+!
+If you have any intros to sales leaders - I’d love to chat. My email is
+sriyamaram@gmail.com
+See All Launches ›

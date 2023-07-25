@@ -1,0 +1,42 @@
+Home
+›
+Launches
+›
+Kraftful
+32
+Kraftful – ChatGPT for product research
+Helping product builders to listen to users at scale
+Yana Welinder
+Kraftful
+5 months ago
+Embed
+http://www.kraftful.com/
+#
+b2b
+#
+saas
+#
+artificial_intelligence
+TLDR
+Having led product teams at companies big and teensy, I’m excited to share a solution to involve masses of users directly in the development process to build products people love 🥰
+Would love for you to try it out (
+free trial
+) and provide feedback.
+Problem
+Being a product lead before starting Kraftful, one of my teams’ biggest challenges was to manually gather insights from user interviews, app store reviews, support tickets, sales calls, and really anywhere else our millions of users wanted to give us an earful 😅
+Even with thousands of users, it can take hundreds of hours to try to parse through everything. It’s impossible to quickly act on all this data. Just like *NSYNC, users who don't feel heard end up saying "bye bye bye” 💔💔
+Solution
+Now imagine if you had the tools to effectively listen to users and make them feel heard – that would advance product development AND user satisfaction because they’d be actively engaged in the development process.
+With Kraftful, you can:
+✅ Connect a source (e.g. iOS/Android app store reviews, Zendesk, Intercom, Front) or paste user interview notes, call transcripts, or other relevant text
+👀 Check out the instant summaries of frequent feature requests, common complaints, most loved app features, and lists of mentioned competitors
+💡 Ask follow-up questions with our ChatGPT-like assistant to uncover insights like “what do users say about X feature” or “how do users currently complete this task”
+💪 Use these insights to build or refine your product roadmap
+This is not your mother’s AI summarization tool 😅 We’re building a solution for product teams to help them connect with users in new ways. Today’s launch is the first step toward that vision.
+Sign up for a free trial
+Give it a try!
+User feedback is our jam, so let us know what you think at
+feedback@kraftful.com
+✨
+While we’re launching in Beta, we’ve seen incredible demand for our solution. The product in Alpha has already been used by thousands of product builders from companies like Google, Microsoft, Meta, Netflix, Canva, Dropbox, Atlassian, LinkedIn, Oracle, Kayak, Volvo, Johnson & Johnson, the National Art Gallery, London Underground, 7-Eleven, and many others 🔥🔥🔥
+See All Launches ›

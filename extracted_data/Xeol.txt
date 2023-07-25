@@ -1,0 +1,87 @@
+Home
+›
+Launches
+›
+Xeol
+34
+🌌 Xeol - Modern platform for software supply chain security
+Cut through the noise, identify and remediate risks, then enforce security policies
+ShiHan Wan
+Xeol
+a day ago
+Embed
+https://www.xeol.io/
+#
+security
+#
+devsecops
+#
+cybersecurity
+#
+infrastructure
+TLDR
+Fortune 500 companies use Xeol to connect all their software dependencies into a contextual graph to ask questions like “am I affected by vulnerability X?” and enforce policies like “ensure all my docker images were signed by me?”
+We first met 6 years ago as early engineers at
+Ada
+leading backend, cloud infrastructure, and security. Right before founding Xeol:
+Benji
+was a Sr DevOps Engineer at
+Datadog
+leading its service catalog project with a near decade career in DevOps
+ShiHan
+was the Director of Engineering helping build 2 startups from early stage to 🦄
+We have been in the startup world for many years and are now on our own journey to help AppSec engineers quickly identify, remediate, and enforce security risks.
+Problem. A New Attack Vector
+Ask anyone on the street to plug in a random USB drive and they will scoff. They know it’s unsafe! But developers do this every day when they use open-source packages as part of their software supply chain. The typical npm package has
+86 dependencies
+and with supply chain attacks up
+600%
+over the past year alone, this attack vector is widening.
+What’s not working?
+Too much noise:
+tools that show all possible CVEs without contextual runtime information make prioritization near impossible leading to alert fatigue
+Attacks are more common:
+generative AI enables malicious actors to easily launch attacks
+Huge attack surface:
+many actors involved including OSS maintainers and their code, CI/CD systems, container orchestrators, and in-house developers
+Solution. Complete Ontological Visibility
+Xeol is an
+agentless
+solution that scans your software artifacts at
+build
+and
+runtime
+then creates a
+contextual graph
+of your software supply chain. This contextual graph allows AppSec engineers to:
+answer
+questions like
+Where am I using package X?
+Which software are end-of-life?
+Which packages are missing SLSA attestations?
+Which software artifacts are produced from repo X?
+enforce
+policies like
+Ensure all Docker images were built by my org from our CI pipeline
+Prevent software X, which is end-of-life, from being packaged in our Docker images
+Ensure sure all packages meet a minimum
+OSSF
+score
+Prevent any dependencies using a GPL license
+Our Ask
+See
+Xeol’s graph capabilities in action
+here
+Try
+our open-source CLI
+tool
+to scan for end-of-life software
+Follow
+us on
+LinkedIn
+,
+GitHub
+, or
+Twitter
+to get the latest updates
+See All Launches ›

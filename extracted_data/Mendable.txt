@@ -1,0 +1,49 @@
+Home
+›
+Launches
+›
+Mendable
+215
+🚀 SideGuide - Let developers test-drive your API with an online editor
+Embeddable code editors designed to show developers why your product rocks
+Eric Ciarla
+Mendable
+a year ago
+Embed
+https://www.mendable.ai
+#
+b2b
+#
+developer_tools
+#
+customer_support
+Hi YC!
+It’s Eric, Caleb, Nick, and Garrett from SideGuide - We are building a lightweight, embeddable, online code environment that lets developers play with your API use cases and tutorials with zero setup. Interested? Check out our
+live example with Hyperbeam here
+and shoot us a note at
+founders@sideguide.dev
+to chat :)
+Problem:
+During college, we started SideGuide as a B2C coding education platform, where we watched hundreds of developers struggle to learn from API documentation, then waste hours re-inventing the wheel instead of using an off-the-shelf solution. We found that API and SDK documentation is often, to be frank, not engaging. This leads to an incomplete understanding of the implementation process and product value, resulting in lost sales. Basically, developers forget your product instead of falling in love with it.
+It’s 2022, developers and technical PMs should be able to quickly play with the real code before investing time and money in a product. That is why we built SideGuide.
+Solution:
+We are building SideGuide: a lightweight, embeddable, online code editor that lets developers play with your API without
+setup.
+Our format integrates guides directly into the editor, giving users the context they need to understand your use-cases while experimenting immediately. We give developers and technical PMs an easy way to test, understand and evaluate your products. As a bonus, we also provide analytics and insights from sessions so you can improve the implementation process and understand your customers.
+What does it look like?
+Fully interactive
+- Our web-based sandbox makes it quick and easy for developers to try your examples out with minimal friction.
+Integrated tutorial - Step-by-step instructions for different sections of the code.
+Trackable - See how users are interacting with your use-cases so you can identify avenues for improvement
+Embed anywhere - Embed in your docs or send via link.
+Check out our updated website at
+https://sideguide.dev
+and the live example using Hyperbeam’s amazing API here:
+https://app.sideguide.dev/hyperbeam/threejs/
+The Ask:
+Interested? Shoot us a note at
+founders@sideguide.dev
+or schedule a meeting with us
+here
+! We are looking for launch partners for demo day :)
+See All Launches ›

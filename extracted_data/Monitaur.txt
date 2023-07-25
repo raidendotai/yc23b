@@ -1,0 +1,85 @@
+Home
+›
+Launches
+›
+Monitaur
+102
+Monitaur - Datadog for Web3
+Monitaur is end-to-end observability for your Web3 applications and services at scale.
+Carlos Feliciano
+Monitaur
+a month ago
+Embed
+https://monitaur.xyz
+#
+operations
+#
+monitoring
+#
+crypto/web3
+#
+infrastructure
+Hey everyone! We’re Casey and Carlos from
+Monitaur
+!
+TLDR:
+Monitaur
+is the easiest way to monitor your decentralized applications at scale. Consider us the Datadog for Web3 apps. We pretty much keep your Web3 application stacks from exploding!
+👥 The Team
+Carlos Feliciano
+(CEO) is an AWS Cloud Solutions Architect and former director of customer success and solutions architect with over a decade of experience at fast-growing infrastructure and monitoring startups and enterprise companies in the Bay Area. In his downtime, he enjoys the beach, fitness, spending time with family, PC gaming, and spreading good vibes!
+Casey Wilcox
+(CTO) is a Full Stack Engineer with over a decade of experience building amazing Web2 and Web3 applications at several Bay Area startups. Casey started his career building Runescape bots and fell in love with coding, eventually joining forces with Carlos to develop their products like Hatchfi and more. Casey loves PC gaming, spending time with his wife and kids, and hacking away!
+🗑️
+The
+Problem
+Building, maintaining, and running decentralized applications at scale is still a black box for most companies and institutions.
+Current observability and monitoring tooling is built with sole developers in mind and does not account for x-team or x-organizational functionality, I.E., support, product, DevOps.
+The lack of transparency within Web3 applications, including traditional Web2 components, leaves blind spots that can turn into potential problems and unwarranted downtime.
+Most Web3 observability tooling has a steep learning curve and is built with subject matter experts in mind.
+A lack of change management tooling for decentralized applications, resulting in poor operational rigor and efficiency.
+Most monitoring for Web3 applications does not consider behavioral changes or anomalies, which frequently results in only capturing what went wrong after the fact.
+Current monitoring services and other stand-alone observability tooling are insufficient because they are not designed for scaling startups, enterprises, and managed services providers seeking to adopt decentralized applications into their architectures. These companies resort to building in-house tooling or adopting several tools across the observability stack, increasing operational complexity and overhead.
+⚡
+The
+Solution
+Monitaur's
+is an all-in-one observability platform for Web3 powered by machine learning. Our platform helps companies building Web3 applications and services manage, monitor, remediate and optimize the performance of their entire Web3 stack, saving them time and money by reducing operational overhead, improving security, and helping deliver a consistent, seamless user experience.
+ML-powered monitoring:
+threat, anomaly detection, event correlation and automated retrospectives
+Team management/multi-tenancy:
+invite teams and users to manage and organize their decentralized application assets within their own workspaces
+App marketplace:
+Integrate your favorite tools to expand functionality and customize their observability experience
+Seamless resource management:
+quickly discover, onboard, and manage your stack in minutes
+Dashboard analytics + insights:
+visual overview of your entire Web3 application stack and services for all teams
+Natural language querying + event management:
+search through important events across your decentralized stack and get end-2-end insights
+Observability API
+: our API allows clients to automate their entire observability pipeline alongside their application deployments
+Automated operations and processes
+: automate tasks across your decentralized application in response to alerts and user specified conditions to promote sound operations
+🙏
+Our Ask
+If you are a developer, DevOps engineer, support engineer, or product person who directly and indirectly involved in building decentralized applications or architectures for your company, we’d love to chat!
+If you are a Web2 company that is integrating Web3 applications or components into your current Web2 stack, we’d love to hear from you as well!
+If you are interested in becoming a technology partner and launching your app on our integration marketplace, we’d love to chat.
+🔙 Backed by the best
+Some of our early investors include:
+Y Combinator
+Delta Blockchain Fund
+Alchemy
+Orange DAO
+Jude Gomila, CEO @Golden.com
+Interested in a discussion and/or demo of Monitaur? Please book a time with me
+here
+or email me at
+carlos@monitaur.xyz
+!
+#️⃣
+Socials
+Twitter
+Linkedin
+See All Launches ›

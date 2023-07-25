@@ -1,0 +1,74 @@
+Home
+›
+Launches
+›
+Drivingforce
+132
+Drivingforce - Rippling for trucking
+All-in-one workforce management. Built for trucking.
+Kevin Huang
+Drivingforce
+a month ago
+Embed
+https://www.drivingforce.co/
+#
+saas
+#
+fintech
+#
+hr_tech
+#
+logistics
+TLDR
+Drivingforce helps trucking fleets simplify workforce management by providing a unified platform for recruiting, DOT compliance, asset management, payroll, and HR benefits. With Drivingforce, fleets can seamlessly manage their people and assets in one place, without juggling multiple systems.
+Interesting stats about trucking
+The US trucking industry moves about 71% of the nation's freight by weight, and generates over
+$700 billion in revenue
+annually.
+There are over 7.95 million people working in the US trucking industry, accounting for
+5.8% of the US workforce
+. Of these, 3.6 million are professional truck drivers, making it one of the largest occupations in the country.
+The average
+turnover rate for US truck drivers is 90%,
+meaning that 90 out of 100 drivers hired will leave the company within a year.
+Despite being a vital part of the US economy, the trucking industry has lagged in technological innovation. Many companies still rely on legacy back-office software or manual pen-and-paper processes to manage their operations.
+Problem
+Workforce management is uniquely challenging for trucking fleets because:
+The majority of their workforce consists of truck drivers who are regulated by the Department of Transportation (DOT).
+Due to the nature of the labor market, there is a high volume of truck driver turnover within fleets, resulting in a substantial amount of administrative overhead.
+In addition to personnel, they also need to manage a number of expensive assets, such as trucks, trailers, etc.
+Generic HR solutions are insufficient for trucking fleets because they are not designed to address these distinctive needs. Consequently, fleets resort to adopting various point solutions alongside their HR providers, resulting in increased operational complexity of managing multiple systems.
+Solution
+Drivingforce is an all-in-one workforce management solution designed for trucking fleets. It consolidates multiple point solutions into a single platform, simplifying recruiting, compliance, asset management, and other HR operations. Key modules include:
+Recruiting:
+DOT-compliant digital application portal and applicant tracking system (ATS) optimized for driver recruiting.
+DOT Compliance:
+Automated monitoring and alerts ensure regulatory compliance.
+Asset Management:
+Easily track vehicles and stay on top of inspections and maintenance schedules.
+Payroll & HR Benefits:
+Run payroll, track time, and manage benefits.
+With Drivingforce, trucking fleets can effectively manage their back office all within a single platform.
+Backstory
+My path to Drivingforce was not linear, and I had no prior experience in trucking. Previously, I worked on another supply chain idea related to manufacturing, but decided to pivot. While exploring other supply chain sectors, I became intrigued by the trucking industry due to its immense size and potential opportunities.
+As I got started, I reached out to several other trucking founders in the YC community for guidance. Interestingly, a few of them independently shared a similar piece of advice:
+"If you want to learn about trucking, go to truck stops and talk to truckers.”
+Taking their advice to heart, I embarked on a series of visits to truck stops. Along the way, I decided to document my experiences and learnings through
+TikTok, under the name “Trucking Newbie”
+. Some of these videos gained traction within the trucking community. As the TikTok account grew, content creation became a unique way for me to engage with users and conduct market research.
+During my exploration, I consistently heard trucking company owners express their challenges in managing a dynamic workforce. As I delved deeper, I observed how they pieced together various tools and processes to manage their personnel and equipment while trying to comply with DOT regulations.
+Witnessing their frustrations with juggling multiple systems in their daily operations, the idea for Drivingforce took shape.
+Asks
+📣 Share:
+Share this post with your network.
+🔔 Follow:
+Follow us on
+LinkedIn
+and
+Twitter
+.
+🤝 Refer:
+If you know of any trucking companies that could benefit from Drivingforce, please connect us (
+kevin@drivingforce.co
+).
+See All Launches ›

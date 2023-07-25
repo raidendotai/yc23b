@@ -1,0 +1,78 @@
+Home
+›
+Launches
+›
+Empirical Health
+39
+🩺 Empirical Health: Proactive primary care
+We use AI to scale great primary care for everyone.
+Brandon Ballinger
+Empirical Health
+6 days ago
+Embed
+https://empirical.health
+#
+telehealth
+#
+healthcare
+#
+health_tech
+#
+generative_ai
+#
+artificial_intelligence
+TL;DR:
+Empirical Health
+is proactive primary care. You can get medical care for heart health, POTS / long covid, sleep apnea, and other primary care needs directly through our app, starting today.
+Download
+Empirical Health on the App Store
+.
+The Problem
+Healthcare is expensive and wasteful
+. We spend $1.1T per year reacting to the complications of chronic illness and a fraction of that on prevention. While the best boutique primary care models
+reduce hospitalizations by 51%
+and overall medical spend by
+15-30%
+, they're labor intensive, expensive, and don’t scale.
+Terrible patient experience.
+Did you know the average doctor has a net promoter score of -1.2, and that it takes 26 days on average to get an appointment?
+Not enough doctors
+. It would take a primary care physician
+27 hours
+per day
+just to deliver the currently-recommended set of preventive screenings, and things are about to get worse:
+1 in 4
+doctors plan to leave primary care in the next 3 years.
+Our Solution
+Empirical Health is
+proactive primary care that scales. Using AI, we triage healthcare resources to efficiently manage chronic illness
+and succeed in value-based care payment models.
+We've built a
+fully licensed, registered, insured virtual medical practice
+. Within the Empirical Health app, we can help you with annual preventive visits, sick virtual visits, chronic disease management, labs, prescriptions, referrals, and more. Medical care is initially available in California, Texas, Florida, and Hawaii and the app is available globally.
+No wait times
+. Just start chatting with a doctor immediately.
+Behind the scenes, our
+AI-enabled EMR
+software helps our in-house physicians turn raw patient data (e.g, symptoms, past medical records, sensor data from Apple Watch and similar devices) into clinically-useful insights.
+Affordable and transparent pricing:
+$9/month subscription, with video visits covered by major health insurance.
+We think this is the first step toward building the primary care of the future, making use of both new technologies (AI, consumer health sensors, virtual modalities) and new business models (value-based care).
+Who are we?
+The stars aligned to bring our team together — we're a doctor and an engineer who share a deep passion for improving healthcare by bridging a data-driven approach with emerging technologies. We first met at Cardiogram (deep learning for heart health), Brandon’s prior company, where Raquel was a visiting scholar.
+Raquel Rodriguez Martinez
+was previously a Clinical Assistant Professor at UC San Francisco and a physician at Kaiser.
+Brandon Ballinger
+co-founded Cardiogram and also Sift (machine learning for fraud detection, top 50 YC company), and worked on Risk Engineering at Brex, the
+HealthCare.gov
+rescue team, and machine learning at Google.
+You can help us make healthcare better!
+Do you use an Apple Watch or need a primary care doctor? Download
+Empirical Health on the App Store
+or check us out on
+Product Hunt
+.
+Do you or someone you know work for a health insurer on value-based payment models? Email
+founders@empirical.health
+.
+See All Launches ›

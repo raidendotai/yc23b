@@ -1,0 +1,46 @@
+Home
+›
+Launches
+›
+RoverX
+25
+RoverX : Deep NFT Analytics for pro-traders
+RoverX analyses the blockchain to find out deep actionable NFT insights for pro-traders.
+Bhagaban Behera
+RoverX
+8 months ago
+Embed
+https://roverX.io
+#
+nft
+#
+fintech
+#
+analytics
+#
+crypto/web3
+#
+data_engineering
+NFTs are going mainstream with a lot of promising applications being built around them. Reddit, Starbucks, Instagram, Twitter, Nike, and more brands have joined the bandwagon. Even in a bear market, new collections keep coming and have been attracting significant trading volumes every day.
+RoverX helps you cut the noise and use on-chain data to take better bets in the NFT world.
+Key features -
+Advanced Filters
+When it comes to NFTs, investing based on FOMO can be a disaster. It is important to DYOR based on on-chain data and filter out the collections that meet your investment criteria.
+RoverX
+provides a wide variety of filters like
+Floor Price, Floor Price % Change, Sales, Sales % Change, Volume, Volume % Change, Unique Holders %,
+etc so that you can figure out the gem that you are looking for.
+Follow the actions of the masterminds
+When it comes to investing in NFTs, it is wise to keep a watch on what other smart people are doing. RoverX indexes and labels millions of wallets so that you can follow the strategies of the most profitable NFT traders ( we call them the “
+masterminds
+” ).
+Mobile app to track your portfolio and receive alerts and notifications
+RoverX
+comes with a mobile app. Now go off to your late-night Friday party without the anxiety of not knowing the latest in the markets. We'll track them for you and send you actionable insights and alerts.
+Video Demo Link
+If you are deep into NFTs, join our community and help us build the most advanced NFT tool ever built.
+Discord -
+https://discord.gg/4sceaGxwpU
+Twitter -
+https://twitter.com/roverx_io
+See All Launches ›

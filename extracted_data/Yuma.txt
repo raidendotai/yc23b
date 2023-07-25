@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Yuma
+73
+Yuma - ChatGPT for customer support
+Yuma is using LLMs to automate support for Shopify merchants
+Guillaume Luccisano
+Yuma
+5 months ago
+Embed
+https://yuma.ai
+TL;DR:
+Thousands of large Shopify stores all share the same pain: a costly and inefficient customer support. Yuma leverages LLMs and integrates directly with help desks to automate away their high volume of support requests.
+The Yuma Story
+Hi everyone,
+I'm G and I'm very pleased to be launching
+Yuma
+, my third company!
+I did YC twice before
+already, with Socialcam (W12) and Triplebyte (S15). It seems like I just can't help myself, and I had to do it all over again.
+This time around, however, it's a little bit special as Yuma was launched by accident 🤷‍♂️. I released a prototype in December 2022, and my inbox was inundated with installation requests from Shopify merchants. That's when I knew I was onto something, and I decided to take the plunge. Having experienced that roller coaster ride before, I know exactly what I am signing up for again and I am thrilled about the long and eventful journey that lies ahead.
+Why do Shopify merchants need Yuma?
+There are thousands of Shopify merchants around the world generating $10M+ a year, and they all have one thing in common:
+they all hate customer support
+. It's a burden for them and a huge source of cost as
+they receive hundreds of requests per day
+. Some of them have dozens of support agents on staff, usually offshore, and the overall quality is still often pretty poor, while staff turnover remains high.
+Those merchants have been promised automation for years, but the technology has always fallen short, leaving them disappointed. As customers, we have all had to live through a terrible support automation experience before, so it's no secret that
+the available current solutions are pretty bad
+.
+This has to change
+, and we believe that the technology is finally there to fix this problem once and for all. Of course, our goal is for Yuma to do it :)
+The main things Yuma can do for merchants today:
+One-click install
+into
+help desks
+:
+no configuration required
+, zero adoption cost, and no change in workflows for the support agents.
+By
+combining LLMs with custom knowledge bases
+, Yuma suggests drafts to support agents.
+By analyzing historical tickets, Yuma can
+copy the writing style of any brand
+, but also understand and
+replicate their current workflows
+autonomously.
+By bringing the power of LLMs to rules and templates, Yuma delivers a new type of dynamic workflow that wasn't possible before.
+Yuma is already live on Gorgias at the moment, and our Zendesk app will be live in a few weeks.
+Our ask 🙏
+Do a good deed today and
+save a Shopify merchant in your network by telling them about Yuma
+. They will be forever grateful! Not only that, they will receive a white-glove onboarding experience along with a 7-day free trial. :)
+— —
+Thank you for reading!
+🔥
+See All Launches ›

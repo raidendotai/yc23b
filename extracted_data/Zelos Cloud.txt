@@ -1,0 +1,66 @@
+Home
+›
+Launches
+›
+Zelos Cloud
+23
+Zelos Cloud – The first cloud platform for firmware development and testing
+Accelerating electronics development with cloud-based development tools for firmware engineers.
+John Ott
+Zelos Cloud
+11 days ago
+Embed
+https://zeloscloud.io
+TL;DR:
+Today, engineers have to use complicated on-premise hardware setups when writing software for things like microwaves or electric cars. Zelos Cloud now allows them to develop and test their code in the cloud.
+Hey there! We’re excited to bring you
+Zelos Cloud
+– the first cloud platform for firmware development and testing.
+Meet the Team
+We’re
+Taylor
+,
+John
+, and
+Michael
+(pictured left to right). We met 6 years ago as interns at Tesla, where we worked side-by-side writing code for everything from industrial batteries to manufacturing lines. Our paths soon split ways – Michael and Taylor joined Tesla full time, while John went to Neuralink – but we kept thinking about how the tools we used to develop firmware could be improved.
+Hey wait a minute, what’s “firmware”? 🤔
+Let’s start by talking about some products that we interact with every day. Take a moment to think about your microwave, fancy coffee machine, or printer that never works.
+Seemingly simple, these devices are actually quite complicated at their core. Each has one or more little computers (“
+microcontrollers
+”) inside of them running some code (“
+firmware
+”) that controls all the inputs and outputs of the system. Upon the push of a button, thousands of lines of code run to turn on the microwave’s lights, fans, and heater until your leftover pizza is ready to burn the roof of your mouth.
+Today,
+firmware is everywhere
+. Our microwaves, phones, cars, and medical devices all run firmware, often controlling safety-critical functions like a car’s acceleration or a pacemaker’s rhythm. In an increasingly connected world, more and more products are being created with smart features that require firmware. However, the way we develop these products hasn’t changed much at all.
+What does building an electronic device look like today?
+Writing the code that runs inside an electronic device is the job of firmware engineers. This code is quite different from normal software, since it is very specialized and expects to run in a very particular environment: on a specific processor, with specific hardware attached to it, and specific sensors reporting on the physical world around it.
+In most cases, the only way to verify this code works as expected is to run it on the real device. As a simple example, a firmware engineer might load their new firmware onto the smartwatch on their desk, then click the buttons to ensure the new menu item they added works correctly. However, this quickly gets complicated: If their product uses GPS, do they run around the block to make sure it’s working correctly every time? How do they safely test that the robot arm will detect the human standing next to it and stop before colliding? How do they run these tests automatically on every release? Dealing with a world full of atoms is hard!
+We spent years dealing with these problems at Tesla and Neuralink, where we worked on products that we couldn’t exactly put on our desks: cars, 40-ton industrial batteries, and brain-implanted medical devices. While building these products, we spent a long time running tests – often extremely trivial ones – on complicated hardware setups that recreated the environment these products were designed to operate in. Setting up, maintaining, and operating these setups was by far the most painful part of the development process, consuming days worth of time each week, but was essential for us to build confidence that our code worked correctly.
+In our experience, these internal tools built for developing and testing firmware are janky and poorly maintained at best. More often than not, we see that
+firmware developers still just rely on complicated and expensive hardware to be in front of them when developing and manually testing their code.
+Firmware developers need something better – that’s where Zelos Cloud comes in
+Zelos Cloud
+is the first cloud platform for firmware development and testing. We’re giving firmware engineers the workflow of a software engineer working on a web app – we replace their complex hardware setup with remotely accessible hardware in our data center, controlled via our API. Our platform enables us to offer powerful tools that accelerate product development, including real-time hardware emulation, full-system tracing, and automated testing.
+We tightly integrate with VSCode and GitHub Actions to allow developers to easily use Zelos Cloud in their development process. By moving their firmware development and testing environment to the cloud,
+our customers can focus entirely on developing the best product and accelerating their time to market.
+Do you make electronics or know someone who does? Get in touch!
+If you know anyone making electronic devices that might want to chat, let us know! We’d love to show them what we’re working on.
+We’re especially excited to talk to people working on:
+IoT
+Consumer Electronics
+Robotics
+Energy Products
+Electric Vehicles
+Medical Devices
+Check out our website at
+zeloscloud.io
+, email us at
+hello@zeloscloud.io
+,
+contact us
+via our website, or
+book a demo
+directly.
+See All Launches ›

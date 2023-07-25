@@ -1,0 +1,48 @@
+Home
+›
+Launches
+›
+Elto
+19
+Elto - AI-powered parallel dialer
+10x your cold-call volume with AI
+Jagath Vytheeswaran
+Elto
+21 days ago
+Embed
+https://elto.ai
+#
+b2b
+#
+saas
+#
+sales
+#
+sales_enablement
+#
+artificial_intelligence
+TLDR: Elto dials up to 6 prospects at once, detects when a human picks up, and immediately drops the user into the call. Spend less time waiting on dial tones and voicemail, and more time on the phone with engaged prospects.
+Hey everyone,
+We’re Jagath and Vignesh, and we’re building Elto. Elto is an AI-powered parallel dialer that makes cold-calling
+way
+less painful and more productive.
+The Problem
+Cold-calling
+sucks
+. Sitting through dozens of dial-tones and voicemail inboxes can be exhausting and demoralizing, and while getting on the phone with an engaged prospect can be magical, it’s easy to go through multiple
+days
+without a productive conversation. With a 3% pickup rate, for example, it can take
+2 hours
+of dialing to get a prospect on the phone (let alone a prospect who converts!).
+The solution
+: Elto
+dials 6+ contacts in parallel, detects when someone answers, and connects the pickup to the user.
+The rest of the calls disconnect immediately, so they can be re-dialed later.
+Using Elto increases the number of engaged leads on the phone in a single calling session by an
+order of magnitude
+. It also integrates seamlessly with your CRM (HubSpot, Salesforce, etc.) and/or SEP (
+Apollo.io
+, Salesloft, Outreach, etc.), so you can import contact lists/sequences/due call tasks and write call recordings, transcriptions, and dispositions back to your platform of choice.
+Want to get started?
+Schedule a time to get set up.
+See All Launches ›

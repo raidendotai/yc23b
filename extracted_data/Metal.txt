@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+Metal
+178
+Metal: Helping developers easily implement machine learning embeddings
+Embeddings as a service 🤘
+Taylor Lowe
+Metal
+5 months ago
+Embed
+https://getmetal.io/
+#
+ai
+#
+ml
+#
+b2b
+#
+machine_learning
+#
+artificial_intelligence
+tl;dr
+Metal makes it easy for developers to implement machine learning embeddings. With embeddings, we help businesses create value from unstructured data like images, text documents, videos and more.
+Hey everyone! We’re Taylor, James, and Sergio and we’re building
+Metal.
+What’s the problem?
+Embeddings are super powerful but they’re too hard to use. We learned this the hard way while building machine learning products at companies like Spotify and Meta. Getting to production for simple features (or so we thought) was incredibly painful.
+The team would put weeks into offline training only for the data to be stale in production. It was difficult to iterate on models without versioning. Fine-tuning was highly inefficient. When we finally did get a model deployed there were immediate scaling concerns. It once took us 6 frustrating months to ship a simple embedding classification feature 🤦
+Companies shouldn’t need to reinvent the wheel to use embeddings.
+What’s the solution?
+Metal gives you all the tools you need to quickly and easily implement embeddings against your data in production.
+We integrate with your data sources
+We generate and store your embeddings
+We provide real time indexing and search APIs
+We provide versioning
+And we make it easier to fine tune embeddings via Metal’s API or SDKs
+You can get started in as little as five minutes.
+Ok so it’s easy to use, but what about some real world use cases?
+Better personalization for your users through behavioral clustering
+Search and compare similarities between data types, such as images or videos
+Understand how your customers feel by classifying their free text reviews
+Make the most of internal resources by supporting semantic search of text documents, PDFs, call notes and more
+Our ask:
+Sign up for early access
+and we will get in touch!
+You can also book a time here to learn more
+.
+Introduce us to companies
+who could use Metal. We mostly work with small to medium size companies (10-200 people) who have raised a series A. These companies have an embeddings use case but don’t want to spend the time/resources to build it from scratch.
+Help us build the future
+:) If you’re experienced with embeddings and want them to be simpler, then we’d love to hear from you. Please get in touch:
+founders@getmetal.io
+You can also follow us on
+Twitter
+or
+Linkedin
+:) 🤘
+Thank you!
+See All Launches ›

@@ -1,0 +1,55 @@
+Home
+›
+Launches
+›
+WalletKit
+20
+WalletKit — Developer platform for building consumer-friendly web3 apps
+Build web3 apps with wallets, tokens, and NFTs using simple HTTP APIs
+Tushar Soni
+WalletKit
+5 days ago
+Embed
+https://usewalletkit.com
+#
+b2b
+#
+api
+#
+crypto/web3
+#
+infrastructure
+#
+developer_tools
+⏳ TLDR;
+WalletKit is a developer platform, that helps you build decentralized apps without any crypto knowledge. It is best used for building user-friendly consumer apps aimed at mass adoption. Come talk to us if you’re building in this space or if you’re curious about adding decentralized features to your product.
+Hey everyone! This is
+@Tushar Soni
+and
+@Qinyu Tong
+from
+@WalletKit
+, and we are super excited to tell you what we’ve been working on.
+🤔 Problem
+Crypto has gone through several ups and downs in its decade-long history. However, we have yet to build meaningful use cases outside of trading. There are a few reasons that are slowing us down:
+Low Adoption
+: People find crypto products hard to use, confusing, risky, or scammy. We believe this is because it is incredibly difficult to build trusted brands and high-quality user experiences that everyone has come to expect from the products they use.
+High Complexity
+: Blockchain is a collection of really complicated technology and building consumer products directly on top of it will take a lot of expertise and a long time.
+Imagine trying to build a Rewards & Loyalty Program - you have to pick a chain, work with smart contracts, figure out how users will manage their wallets, handle transactions, reorgs, gas management, and so much more. You have to do this while making sure everything is done securely so you and your users don’t lose their digital assets.
+Developer Tooling
+: The popular developer platforms are too low-level. They are usually a mirror of Blockchain Node APIs aimed at node operations, not building consumer apps.
+Our goal is to elevate the developer experience for building decentralized consumer apps and enable builders to focus on their use case, not blockchain infrastructure.
+🔧 Solution
+We are rethinking how to build decentralized apps by providing engineers with simple high-level abstractions to create amazing products.
+WalletKit wraps popular blockchain building blocks into easy-to-use HTTP APIs. Today, we support building with wallets, tokens, and NFTs.
+We took it a step further with WalletKit Dashboard - a digital asset management tool for your app-related digital assets. Use WalletKit Dashboard to create wallets, tokens, mint NFTs, make transfers, and interact with user wallets.
+👽 Founders
+Qinyu and I met at Robinhood, where we led the Web3 team responsible for building Robinhood Wallet. We experienced firsthand the lack of tools and infrastructure needed to build a consumer-friendly product.
+It became clear to us that this gap in infrastructure is holding back the entire community from creating amazing products that have a chance at mass adoption. It acts as a barrier for founders to build decentralized products. WalletKit aims to remove this barrier entirely.
+🤝 Ask & Deal
+Connect us with founders/builders who are building decentralized apps or want to add decentralized features! Feel free to send an intro email to
+tushar@usewalletkit.com
+. We would love to help out.
+For all YC companies and connections that come through the YC network, we offer a white-glove service and discounted rates :)
+See All Launches ›

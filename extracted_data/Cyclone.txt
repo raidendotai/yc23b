@@ -1,0 +1,64 @@
+Home
+›
+Launches
+›
+Cyclone
+31
+Cyclone 🌀 Instant coding playground for your docs
+Take 10 minutes to make your docs interactive, and let AI handle the rest.
+Haoyang Yu
+Cyclone
+12 days ago
+Embed
+https://www.usecyclone.dev/
+#
+b2b
+#
+saas
+#
+productivity
+#
+developer_tools
+#
+artificial_intelligence
+Cyclone is an instant coding playground for documentation sites.
+🤘
+Try it out! No code change needed.
+See a preview of Cyclone
+embedded on your docs site.
+Just provide two links:
+your documentation site
+an example code repository that showcases your product
+If you don’t have an example repo, you can still preview! Just click “Generate example code for me” and we will help you write an amazing sample project 🙂
+❤️
+Our
+Ask
+If you’re building a developer-centric product, please reach out at
+haoyang@usecyclone.dev
+. We would love to help you make your docs interactive, and fun!
+If you’re a developer, try using Cyclone for prototyping! Generate a preview for your favorite library (the example project can be the one you’re working on), and let us know your experience :)
+🤯
+Problem - everyone wants interactive docs but it’s too much work
+If you are building a product for developers, you know your docs are critical marketing materials. The best documentation sites (e.g. Stripe) are interactive and let developers quickly try out a product. Why don’t you have a docs site as interactive as Stripe’s? These are two common reasons.
+Significant efforts to set up
+: Custom interactive features need to be designed and built for your docs site, and you don’t have the time to do it.
+Hard to keep the docs up to date with the product
+: Startups evolve their product quickly. Maintaining interactive features requires more work than one-time setup.
+🖥️
+Solution - a coding playground that goes live on docs in 10 minutes
+Here is how Cyclone works:
+Provide your docs site URL and a GitHub repo of example project.
+Cyclone uses LLM to understand your docs and link each section to code snippets in the example project.
+Cyclone gives you a preview of your docs site that has Cyclone coding playground embedded. When viewing each doc section, Cyclone shows you the most relevant code from the example project.
+If you like what you see, point your docs site’s DNS record to Cyclone. You are live!
+You can continue updating your docs and GitHub repo. Cyclone will automatically keep things up-to-date.
+🤔
+How is Cyclone different from Replit / CodeSandbox …?
+Cyclone is built to be embedded on docs sites. This means:
+Developers don’t need to switch between your docs and another tool, so they can stay in the flow and are less likely to drop off.
+Cyclone is context-aware: it knows what developers are looking at, so it can display relevant code pieces as developers scroll.
+Cyclone also makes maintaining the interactive experience hassle-free! It automatically keeps the mapping between docs and code examples up to date. No more dealing with outdated code snippets and sandboxes.
+🙌
+Meet the Team
+Haoyang (left) and Tony (right) met at Stripe, building internal tools for developers. Amazed by Stripe Docs, we are bringing that “wow factor” to every documentation site in the world!
+See All Launches ›

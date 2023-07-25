@@ -1,0 +1,29 @@
+Home
+›
+Launches
+›
+Maindrop
+15
+Launchcaster.xyz
+Product Hunt of Web3. Built on Farcaster.
+Jayme Hoffman
+Maindrop
+9 months ago
+Embed
+https://www.maindrop.xyz/
+#
+marketplace
+#
+crypto/web3
+Launchcaster is a place for discovering and launching new web3 projects. Think “Product Hunt or Launch YC of Web3.” We struggled to find a good channel for launching our Web3 products … so we built one!
+How it works
+Anyone can see or vote on launches (after connecting wallet)
+Submit a launch by replying to or starting a
+Farcaster
+post with “@launch”
+The launch bot creates the post and replies with a link
+Links
+Launchcaster on …
+Launchcaster launch
+Product Hunt (Friday 10/21/22)
+See All Launches ›

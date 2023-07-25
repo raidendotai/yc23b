@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+Decoda Health
+82
+Decoda Health: Autonomous Medical Coding & Billing
+The Medical Coding & Billing solution that's genuinely reliable.
+Daniyal Afzal
+Decoda Health
+3 days ago
+Embed
+https://decoda.health/
+#
+fintech
+#
+healthcare_it
+#
+digital_health
+#
+artificial_intelligence
+Tl;dr:
+Decoda Health leverages AI to read electronic health record systems to automatically assign billing codes to clinician notes. The result? Clinics save 30% in coding costs, see 20% fewer claim denials, and cut claim processing time from days to seconds.
+Connect with us today
+.
+Hey there! We're Daniyal and Kevin, two mathematicians passionate about creating impactful software. Our experiences through high-growth medical imaging and fintech industries worldwide have equipped us with unique insights into the intersection of AI, healthcare, and finance.
+🛤️ How we got here…
+Our story starts with Daniyal's father, a general surgeon. He was scammed out of many months’ wages as his employer consistently claimed their cash flows were stuck with an insurer. Consequently, healthcare's lack of financial transparency frustrated him and his colleagues. While Daniyal worked in fintech then, Kevin developed machine learning software at a high-growth radiology-tech startup. We thought there must be something we could do.
+Upon taking a closer look, we realized that the fundamental language through which money flows in healthcare is designed to be error-prone. This drew us to the problem of medical coding.
+(that’s us!)
+👨‍💻 Medical coding? Doctors are learning JavaScript?
+What is medical coding?
+Medical coding is the language connecting the world of healthcare providers with that of insurance companies. At its core, medical coding is a vital process that translates healthcare diagnoses, procedures, medical services, and equipment into universal medical alphanumeric codes.
+Why it’s important
+Insurers base their payments on the accuracy of how these medical codes are assigned. The guidelines governing what is considered accurate evolve all the time & doctors don't have the time to keep up with all of this. Doctors attend medical school to treat patients, not to navigate complex coding rulesets for insurers. But this is what they ought to do to get paid.
+How it’s handled today
+This process is predominantly handled by human coders manually reviewing medical documentation and assigning appropriate codes by checking payer guidelines and coding rulesets. Given the manual approach and constantly evolving requirements, care providers must deal with coding backlogs, coding errors, delayed reimbursements, and increased administrative costs.
+🧨 The Problem: There are 30% fewer medical coders than needed, and most of them are over 50 years old
+Annually, a colossal $20B is spent on this complex coding process today. Practices often recover as little as 60% of what they bill, with some even spending up to 15% of their claims volume on third-party processing fees. This resource drain significantly elevates the cost of care, causing a domino effect on the entire healthcare system.
+With a lack of certified talent & an aging workforce, there is a growing need for good software to fill this gap.
+🎉 The Solution: Autonomous medical coding & billing
+Decoda Health can serve the market's accuracy and talent supply gap with fully autonomous medical coding & billing software that is designed to be -
+🎯
+Accurate:
+Get coding accuracy exceeding 95% with 20% fewer claim denials.
+💰
+Affordable:
+Reduce operational coding costs by 30%.
+💨 Faster:
+Code clinical documentation in seconds, not days, significantly reducing A/R time.
+🚨
+Auditable:
+Review the exact clinical text contributing to a code assignment.
+🎓
+Compliant:
+Automatically ingest the latest guidelines & comply accordingly.
+👋 Ask: How you can help
+From the common cold to a broken bone, we rely on our doctors to give us their full attention. We can help care providers dedicate more time to their patients and not have to worry whether they'll get paid. We would love an introduction to healthcare professionals like…
+your family doctor
+any friends or family who practice medicine
+clinic owners or PE firms operating medical practices
+Thank you!
+Please feel free to reach out to us at
+✉️
+founders@decoda.health
+📞 +1 519-588-9603
+🌐
+decoda.health
+See All Launches ›

@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+BabylonAI
+19
+Babylog: A lightweight open-source logging library for computer vision
+Easily log image and prediction data from edge devices
+Rangel Milushev
+BabylonAI
+6 months ago
+Embed
+https://babylonai.dev
+#
+b2b
+#
+developer_tools
+#
+computer_vision
+#
+machine_learning
+#
+artificial_intelligence
+Hi everyone,
+We’re excited to launch our new
+open-source logging library for ML and computer vision teams
+. With Babylog, we aim to empower engineers to
+easily log raw image and prediction data from edge devices to the cloud (or on-prem servers).
+Problem
+You need to know what your models are running on in the real world. Setting up that infrastructure takes away precious time and money. You need a standard for logging your data so that you know how your models perform.
+Babylog (bah-bee-log) provides a standard where all device, model, and prediction information are coupled.
+If you don’t have a data stream from production, you have no idea what your models are seeing and no way to evaluate their performance.
+If something suddenly changes in the real world and with it the distribution of your inputs, things could go very wrong so you’d likely want to know (i.e. stop signs suddenly turning blue = Tesla becoming a murder machine)
+Our asks
+Go check us out on GitHub and don’t forget to star us ⭐.
+Check out our
+website
+, and play with our library and mock dashboard.
+If you’re interested, have feedback or criticism, or think we should talk to someone, please either:
+schedule a chat with us:
+https://superpowered.me/rangel
+shoot us an email at
+founders@babylonai.dev
+See All Launches ›

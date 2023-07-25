@@ -1,0 +1,52 @@
+Home
+›
+Launches
+›
+Wayfind
+56
+🏝️ Wayfind - Your personal AI travel agent
+Plan your dream vacation in minutes.
+Jonathan Yin
+Wayfind
+25 days ago
+Embed
+https://www.wayfind.live/
+#
+travel
+#
+consumer
+#
+generative_ai
+TLDR:
+The traditional travel planning process is slow and painful.
+Wayfind
+accelerates this process by allowing you to create, edit, and book your dream vacation in minutes.
+Hey everyone,
+We’re Jonathan and Alec, and we’re building Wayfind. Wayfind is a personalized AI trip planner to help you plan your next trip faster.
+🫠
+The Problem
+Travel planning can be a slow and painful process. It often involves scouring the web to find the best activities, organizing bookings and itineraries into a messy spreadsheet, and checking logistics so that nothing will go wrong. As avid travelers who spend dozens of hours researching and booking trips, we know how tedious this process can be.
+💡
+Our Solution
+Wayfind is a
+fast and personalized AI trip planner
+that allows you to create, edit, and book your next trip in minutes.
+Here’s
+a trip to Iceland I planned and went on a month ago.
+🪄
+How it works
+Choose the type of day you're looking for, and we’ll automatically generate a preliminary itinerary for you based on your preferences.
+You can then easily polish your itinerary using our AI-powered chat, personalized activity recommendations, and drag-and-drop editing.
+Since we automatically estimate activity lengths and transportation times, you'll never have to worry about logistics again. Once you’re happy with your trip, you can easily find and book hotels and buy tickets for your activities.
+🙏
+How you can help
+If you’re currently planning a trip, please reach out to us at
+founders@wayfind.live
+! We’d love to know how we help! The first 25 people will get
+3 months of premium access
+for free.
+If you know anyone currently planning a trip, please share Wayfind with them!
+If you know travel agents or other professionals in the travel industry, please connect us with them!
+Happy travels!
+Jonathan and Alec
+See All Launches ›

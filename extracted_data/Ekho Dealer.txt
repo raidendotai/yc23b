@@ -1,0 +1,61 @@
+Home
+›
+Launches
+›
+Ekho Dealer
+211
+Ekho Dealer: Enabling manufacturers to sell their vehicles online
+A licensed dealership that manufacturers can integrate into their own website.
+Rowan Mockler
+Ekho Dealer
+5 months ago
+Embed
+https://www.ekhodealer.com
+#
+b2b
+#
+saas
+#
+auto_commerce
+TL;DR We’re a licensed dealership that vehicle manufacturers can integrate into their websites, enabling them to compliantly sell new vehicles online.
+Hi everyone, we’re
+Rowan
+and
+Chris
+- the team behind Ekho Dealer!
+The problem ❌
+It's legally and logistically complex for vehicle manufacturers to sell their vehicles online:
+Franchise laws
+mandate that new vehicle sales must be made through a licensed dealer
+Traditional dealers
+lack online sales support and take 20%+ commission
+It is illegal
+for manufacturers to sell vehicles directly to consumers in most states
+In states allowing direct sales
+, it’s expensive and difficult to operate compliantly
+Our solution 🏁
+Ekho Dealer enables manufacturers to
+compliantly sell their vehicles online
+by making it
+easy to integrate
+our
+licensed dealership
+into their websites.
+With Ekho Dealer enabled, vehicle buyers are able to select a vehicle on a manufacturer’s website and complete the entire purchase process online in minutes. This includes financing, titling, registering, and scheduling the delivery of their new vehicle (all without visiting a physical dealership).
+How it works 🛠️
+On the backend, we take care of all the complicated regulatory requirements that come with being a licensed dealer. This includes calculating and collecting sales tax, filing registration/titling forms and fees with the DMV, and complying with lending regulations when providing financing. On the front end, our website integrations leverage our dealer infrastructure to compliantly process vehicle sales.
+Our backstory 🪞
+Rowan and Chris met at Stanford where they both studied computer science
+They built a bunch of fun stuff together while in college including
+SoundNuggets
+Rowan is from South Africa, is a world champion public speaker, and previously worked on the product team at Duolingo
+Chris is from Atlanta, is a published researcher, and previously worked as a Machine Learning Engineer at Meta
+Our ask 🙏
+If you know someone in vehicle manufacturing
+(motorcycles, cars, RVs, trailers, ATVs, UTVs, LEVs, NEVs, golf carts, snowmobiles, etc.), ping us at
+founders@ekhodealer.com
+or direct them to our
+inbound form
+if you think they’ll find this interesting
+If you like what we are building, share and upvote!
+See All Launches ›

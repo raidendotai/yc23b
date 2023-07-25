@@ -1,0 +1,56 @@
+Home
+›
+Launches
+›
+QuestDB
+30
+QuestDB Cloud - Fast SQL time-series database
+Fast ingest and SQL queries for time-series data and real-time analytics
+Nicolas Hourcard
+QuestDB
+20 days ago
+Embed
+https://questdb.io/
+#
+analytics
+#
+open_source
+#
+time_series
+#
+developer_tools
+TL;DR
+QuestDB Cloud
+, a fully hosted time-series database, is now Generally Available. We offer $200 free credits for new signups.
+Try the QuestDB Live Demo
+with billions of rows that you can query with SQL.
+The Problem
+Existing time-series databases such as InfluxDB lack performance (especially for high cardinality datasets) and are hard to use (proprietary languages like Flux).
+Do you use Postgres, MySQL or MongoDB and outgrow the database for time-series and analytics? Databases not purposely built for time-series data can struggle with ingestion and query performance.
+The Solution
+How does it work?
+QuestDB has been built from scratch for time-series data workloads. The data is natively indexed by timestamp and partitioned by time. Queries can be done via SQL, and there are several time-series SQL extensions for time interval searches, downsampling, latest record etc.
+QuestDB ingestion speed can reach up to 4M rows/sec per instance, and queries over a billion-row dataset can be executed in milliseconds. This performance translates in:
+-       Lower hardware requirements + cost savings.
+-       Capability to handle high throughput ingest from multiple sources
+-       Reactive applications and real-time dashboards
+QuestDB Cloud
+brings new features such as:
+-       Security: TLS, Auth, SSO
+-       Data Compression: 3x - 5x lower storage costs
+-       RBAC: Create roles and permissions at a column level (imminent release)
+-       High Availability (Coming soon!)
+-       Cold Storage integration (Coming soon!)
+Our ingestion protocol is the InfluxDB Line Protocol: easy switch from InfluxDB.
+It also supports the Postgres Wire Protocol and is compatible with Grafana, Superset, Telegraf, Kafka, Flink, Spark, Cube, MindsDB.
+Use cases and
+customers
+QuestDB is a good fit for the following use cases:
+•          Financial Tick data (crypto, fintech)
+•          Sensor data, IoT (energy, batteries, space exploration, shipping)
+•          Application monitoring (API calls, database latency, user events)
+•          Cybersecurity (network traffic monitoring)
+•          E-commerce analytics
+Large companies using QuestDB include OKx, Airbus, NetApp, Central Group, Yahoo, FalconX, Airtel Digital, Copenhagen Atomics, Cloudera, Norlys Energy Trading, Brightcom, Origin Media, Weidmann Group, CVTE, Hazelcast, Schibsted Media
+Startups using QuestDB include Motion (YC), Invezo (YC), Beacons (YC), Syndica, Prediko, Electric Era, Aargo Trade, Artisthub, Northshore, Haruko
+See All Launches ›

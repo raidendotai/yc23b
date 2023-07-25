@@ -1,0 +1,57 @@
+Home
+›
+Launches
+›
+Pledge Health
+296
+Pledge Health - Automated patient billing for healthcare clinics
+We automate cost estimation and billing so clinics get paid by their patients faster
+Shreya Jagarlamudi
+Pledge Health
+5 months ago
+Embed
+https://www.pledge.health/
+#
+b2b
+#
+saas
+#
+fintech
+#
+health_tech
+#
+workflow_automation
+Hi! We’re Shreya and Andrew, the team behind
+Pledge Health
+.
+TL;DR
+Pledge automates patient billing for independent healthcare clinics. We estimate how much insurance will cover for each visit, so clinics can charge patients at the time of service, rather than waiting weeks for insurance to process.
+🤯
+The Problem
+A larger share of healthcare clinics’ revenue is coming from patients instead of insurance companies, so clinics are trying to charge patients upfront for care. However, the manual process of estimating how much a patient will pay after insurance is error-prone, expensive, and time-consuming.
+Take Dr. Emily for example; she
+spends more than 20 cents to collect every $1 from a patient
+. Despite the high cost and effort, her office is only able to collect 50% of the patient's responsibility at the time of the visit.
+There are over 200k clinic owners like Dr. Emily in the US,
+struggling to collect $47 billion in patient payments
+every year.
+💡
+Our Solution
+Automatically verifies patient insurance benefits ahead of their appointment.
+Creates personalized out-of-pocket cost estimates by combining the patient’s insurance benefits, the predicted services for the visit, and contracted prices.
+Communicates the estimated cost and final bills clearly with patients via email and text and allows patients to schedule payments.
+📈 Results with Pledge
+Reduce time spent on collecting patient responsibility by 75%
+Increase collections by 17%
+See > 90% patient satisfaction
+🤠
+Team
+Andrew was a founding engineer at CancerIQ, where he built integrations with electronic health record systems that are crucial to automating billing workflows at Pledge.
+Shreya was a software engineer at Microsoft, where she worked on healthcare and ML applications.
+🫶
+Our Ask
+Are you a digital health company or know someone who owns/works at a private healthcare practice that accepts insurance?
+Please connect with us at
+engage@pledge.health
+!
+See All Launches ›

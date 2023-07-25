@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Tennr
+175
+Tennr – Custom Large Language models without engineering.
+Bring custom large language models into your business, without a technology background, while keeping your business secrets secure
+Diego Baugh
+Tennr
+5 months ago
+Embed
+https://www.tennr.com
+Hi everyone, we’re Tyler, Diego and Trey — the team behind
+Tennr
+!
+TL;DR
+We’re making it easy for non-technical businesses to bring custom, fine-tuned LLMs into their business.
+🧐 The problem
+Today, teams choose between using simple, ChatGPT-based AI use-cases or investing heavily in their own ML teams to build their own models.
+If you’re building an LLM from scratch, you have to:
+Find clean, expansive data
+Generate thousands of prompt-response pairs
+Use RLHF to improve outputs
+Host your own GPUs
+Build your own analytics
+Engineers and IT teams need to stay focused on their core functionality and can’t risk 6 month long dev projects that might not even result in a well-performing LLM.
+💡
+Our solution
+Tennr is a platform that makes it easy to train, tune, and deploy custom Large Language models without needing support from engineering.
+💥
+How it works
+We use proprietary techniques to turn a company’s document set into clean data that can train an LLM. Then, leveraging open source foundational models, Tennr automatically fine-tunes to support your ideal use-case. Finally, through Tennr, non-technical teammates can improve responses, make corrections, and monitor how their LLM is being used.
+📚
+Our backstory
+Trey, Diego, and Tyler all met at Stanford.
+Diego and Trey competed together for 4 years on the varsity crew team.
+Tyler and Trey met as freshman roommates where they started an iOS consulting firm to get better at building apps
+All 3 studied Computer Science and focused on AI, design, and systems.
+❤️
+Our ask
+If you lead a business looking for a more custom AI solution
+and want to see Tennr in action, grab time on our site!
+If you like what we are building, share and upvote!
+See All Launches ›

@@ -1,0 +1,55 @@
+Home
+›
+Launches
+›
+Spinach.io
+17
+🥬 Spinach.io for Google Meet
+Better daily standups in Google Meet
+Matan Talmi
+Spinach.io
+9 months ago
+Embed
+https://spinach.io
+#
+saas
+#
+remote_work
+#
+productivity
+#
+developer_tools
+#
+artificial_intelligence
+TL;DR
+Use
+Spinach.io for Google Meet
+to align as a team in one visual space. No screen sharing or context switching. A faster, more-focused daily standup with instant notes. Free forever for one team.
+What’s
+Spinach.io
+?
+A great standup can save teams hours of confusion and misalignment. The problem is that most standups aren’t that great. People aren’t always prepared so they think out loud. It’s not engaging so people tune out. It’s easy to lose focus and stray off topic. If any of this sounds familiar - please give
+Spinach.io
+a try and tell us what you think!
+How it works
+🥬
+Before standup
+- each team member prepares their check-in. You can choose from default Yesterday, Today, Blockers categories or create your own. Organizing your thoughts and planning your day helps you share meaningful context instead of trying to recall what you did yesterday.
+🥬
+During standup
+- running a great standup takes work, and we do it for you. Spinach rotates through each persons’ check-in so there’s no deciding “who goes next”. If you have additional topics to discuss with the team add them to Team Topics and they’ll get added to the agenda.
+🥬
+After standup
+- instant notes automatically posted to Slack and saved in app for future reference. Easily share status with stakeholders or catch up if you missed standup.
+🥬
+Async friendly
+- we support async standups for days where you just want to share status updates but don’t have any blockers or other important topics to discuss.
+How to try it
+1.
+Add our Chrome Extension
+and sign up
+2. On your next standup - join Google Meet and click the “S” icon on the bottom right to open Spinach in Meet
+Spinach.io
+is free forever for one team and most teams who try it never go back.
+Give us a try!
+See All Launches ›

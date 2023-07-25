@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Laudspeaker
+23
+Laudspeaker: an opensource customer io / braze / iterable alternative
+Open Source Cross-Channel Messaging. Email, Slack + more, automated
+Abheek Basu
+Laudspeaker
+8 months ago
+Embed
+https://laudspeaker.com/?ref=bf
+#
+b2b
+#
+saas
+#
+automation
+#
+open_source
+Tl;dr: You can self-host or use our hosted offering of a customer io / braze / iterable alternative, so you can send product/ event-triggered cross-channel messages while keeping control of your customer data.
+Star the repo
+here
+.
+Laudspeaker is the open source customer io and braze alternative
+that powers event-triggered cross-channel messages. Have emails, slack, and more automatically reach your users when, where and how you want.
+Use our easy to use no-code builder to create cross channel ‘customer journeys’ like this:
+Why build another cross-channel automation product?
+In the past when we used "customer engagment" products or "cross channel marketing" products like braze we were both uneasy about having to send customer data to various 3rd party tools, and frustrated by how expensive and hard to use many of the offerings were.
+We wanted to build something that:
+Allows you to stay in control of your customer data (self host, export/import data)
+Is affordable
+Has a rapidly increasing number of messaging channels (email, slack, sms (beta) and soon more!)
+Integrates well with product analytics software (we have a posthog plugin)
+Is performant
+Plays well with the modern data stack
+We think Laudspeaker is differentiated by being open source and hitting the above points.
+How can I get started?
+- If you want to self host, download our repo and follow the instructions on
+github
+:
+- If you want to try our hosted offering sign up
+here
+.
+-
+twitter
+-
+product hunt
+See All Launches ›

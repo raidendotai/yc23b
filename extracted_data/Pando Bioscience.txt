@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+Pando Bioscience
+45
+Pando Bioscience: Innovating drug discovery
+Decipher complex disease using protein networks
+Will (Yangxiaolu) Cao
+Pando Bioscience
+6 months ago
+Embed
+#
+biotech
+#
+diagnostics
+#
+drug_discovery
+#
+synthetic_biology
+Who we are?
+The pharma industry is struggling with drug development as they mostly focus on single proteins. However, proteins are functional through a vast number of interactions, which have proven to be highly correlated with diseases.
+Pando is a drug discovery company. Using synthetic biology, we reproduce networks of human proteins and study how they interact, innovating cancer drug discovery.
+Our science
+We study protein interaction in a high-volume and high-resolution manner, so that information previously hidden from studying single proteins can be revealed to discover new drugs.
+Our research published in
+Cell
+reported a strong correlation between mutation-induced protein-protein interaction perturbation and various diseases. For example, we have found that protein interactions involving TP53 (a well-known tumor suppressor protein) have a much better prediction power in patients’ survival than TP53 alone.
+We are starting with cancer, but our platform can be applied to a wide range of disorders like heart, respiratory, and neurological diseases.
+Why now, why us?
+There is a lot of advanced research in academia (many papers contributed by our CTO @Yang), but few applications in the industry. Now is the time!
+We are experts in the field. @Will joined the synthetic biology unicorn Ginkgo Bioworks as an early employee and spent 5+ years designing DNA. @Yang spent 6 years at Harvard Medical School before joining Ginkgo. His postdoctoral research at Harvard lays the foundation for what we do. Our science has been published in
+Nature
+,
+Cell
+, and
+Nature Genetics
+.
+Dr. Marc Vidal serves as our Scientific Advisor. He is a world-leading professor studying protein networks at Dana-Farber Cancer Institute and Harvard Medical School.
+Want to be part of it?
+If you are interested in bringing drug discovery to the next level, don’t hesitate to reach out at
+founders@pando.bio
+Thank you!
+See All Launches ›

@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+Kino AI
+157
+📸 Kino AI - Silicon Valley meets Hollywood
+Kino automatically organizes footage so filmmakers can edit faster.
+Wesley Block
+Kino AI
+12 days ago
+Embed
+https://trykino.com
+#
+ai
+#
+b2b
+#
+video
+#
+media
+#
+computer_vision
+Hey!
+Wes
+and
+Luke
+here! We’re building software for filmmakers at
+Kino AI
+.
+Luke Igel and I actually started our entrepreneurial journey as amateur documentary filmmakers. We met as freshman at MIT in 2018 and have been friends ever since. In November 2020, we began working together on a
+feature-length documentary film
+about the history of MIT and technology in the United States. It’s called MIT:Regressions.
+Making Regressions inspired us to build tools that help professional storytellers.
+Cool…but what’s the problem?
+Imagine watching this footage and transcribing all of the slated information by hand.
+People have to do this - and much more - to organize the troths of footage that go into a movie, or a commercial, or a trailer, or a YouTube video, or a…you get the point.
+The process of manually logging this
+metadata
+is expensive and time consuming, and mistakes can be catastrophic.
+What does Kino do?
+Kino automatically infers metadata and uses it to label and organize footage, saving hours every day for assistant editors. We transcribe audio and “describe” the video and turn an unstructured mountain of footage into a useful index. And it all happens locally on the editor’s machine.
+Our first feature lets users use natural language to find specific moments within their entire footage library. Check out this
+demo video
+!
+Want to use Kino at your company?
+We’re running pilots with production companies, creative agencies, and corporate video teams. Please contact sales:
+sales@trykino.com
+Connect with us!
+Sign up for our mailing list! (
+trykino.com
+)
+Follow us on Twitter! (
+twitter.com/trykino
+)
+Follow us on Instagram! (
+instagram.com/try.kino
+)
+Or reach out directly. We appreciate introductions to media professionals, and always welcome words of encouragement. Drop us a note at
+hello@trykino.com
+-Wes and Luke
+See All Launches ›

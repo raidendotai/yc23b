@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+Cakework
+55
+Cakework - Custom user code in any developer product
+Build your own serverless platform in days instead of months
+Eric Chen
+Cakework
+4 months ago
+Embed
+https://www.cakework.com
+#
+b2b
+#
+infrastructure
+#
+developer_tools
+#
+cloud_computing
+tldr
+We make it easy to run custom user code using APIs instead of infrastructure. Build extensibility directly into your developer product, or launch your own serverless cloud solution.
+Hi friends, we're Jessie and Eric from
+Cakework
+. We're ex-AWS engineers that got tired of managing infra and wanted our tools to do it for us. We started Cakework to bake serverless into every developer product and never have to host our own code again.
+Jessie
+- Senior Engineer that led development of AWS call center AI analytics and NLP services.
+Eric
+- Engineering Manager that led a team of engineers, scientists, and clinicians in building AWS services for healthcare.
+Problem
+Modern developer experiences let users run custom code natively, so users can build extensions and applications without any devops. This can be anything from in-browser scripting to webhook handlers or web services that deploy from Github.
+Building a platform to do this is hard because cloud services like AWS are designed by default to run your code, not your users'. You need to package your users code, handling dependencies and multiple languages. You need to provide logging, metrics, and metering. Serverless options like Lambda help with security and cost, but have restrictions on timeout and prevent you from using protocols like gRPC.
+You’re basically building your own Heroku.
+One of our early customers had given up on building their own serverless cloud solution. With us, they were able to launch in a week.
+How did we do it?
+Cakework is a set of simple APIs for building serverless directly into your developer product. You describe how you want to package and run your users' code, and use Cakework to build images from Github, CLI, or even a browser. You use our APIs to run that code securely, and show logs and metrics back to your users.
+Here's a gif of Cakework in action with a developer SaaS tool that wanted their users to be able to run custom code on webhooks in their system.
+You can build your own in-browser scripting with multiple languages!
+Asks
+We're onboarding customers in early access now. If you or someone you know is working on a developer product and want to run your user's code, reach out at
+eric@cakework.com
+!
+See All Launches ›

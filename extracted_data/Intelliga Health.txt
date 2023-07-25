@@ -1,0 +1,43 @@
+Home
+›
+Launches
+›
+Intelliga Health
+18
+Intelliga Health - Automating insurance workflows for medical practices
+Helping patients get the treatments they need.
+Sobhan Nejad
+Intelliga Health
+a month ago
+Embed
+https://intelligahealth.com
+#
+healthcare
+#
+health_tech
+#
+healthcare_it
+#
+health_insurance
+TLDR
+; At Intelliga Health, we use AI to streamline insurance workflows for medical practices. We integrate seamlessly with fax machines, digitize and organize inbound insurance communication, and write appeals back to insurance.
+Problem
+Manual workflows associated with running medical practices - like organizing faxes, scanning files, and dealing with insurance - distract doctors from the most important part of their days, caring for their patients.
+Prior Authorization, for example, costs an estimated 16 hours each week, while causing delays and sometimes denials to patients’ treatments.
+Solution
+We’re developing an AI-powered system to automate back-office operations for medical practices. Our first product, Appeal Suite, helps practices organize inbound faxes and win more prior authorization appeals. Try our public demo
+here
+!
+Product Snapshot
+After receiving a fax from insurance, our system can:
+Categorize the fax by type, patient, and authorization case within an electronic inbox
+Generate a persuasive and evidence-based appeal letter to inbound denials
+Why are we building it?
+One month ago my aunt passed away from pancreatic cancer. During her hospitalization insurance repeatedly denied treatment, preventing her from accessing chemotherapy because it wasn’t “medically necessary”.
+We’re fighting every day to help other patients like my aunt get the life-saving treatments they need.
+Asks
+Share our
+Appeal Portal
+with the healthcare providers you know!
+If you have experience selling to medical practices and/or hospitals, we’d love to meet with you.
+See All Launches ›

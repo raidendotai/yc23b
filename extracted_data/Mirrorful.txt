@@ -1,0 +1,93 @@
+Home
+›
+Launches
+›
+Mirrorful
+41
+🚀 Mirrorful - Create the building blocks for fast frontend development
+We are an open-source platform for software engineers to manage their UI's theme directly in code.
+Alex Danilowicz
+Mirrorful
+5 months ago
+Embed
+https://www.mirrorful.com/
+#
+saas
+#
+design
+#
+open_source
+#
+design_tools
+#
+developer_tools
+tl;dr Mirrorful is an open-source platform
+for developers to create and manage a
+simple design system
+. Check us out on
+Github
+and install our
+NPM package
+into your project.
+Hello everyone, we are Alex and Teddy, and we love making beautiful websites!
+Alex
+(left) was as a UI engineer at Liveramp and
+Teddy
+(right) worked on the web team at Robinhood 📈. We then worked together as the first product engineers at a YC startup. At each of these companies, we consumed, contributed, and documented design systems.
+🎨 Why are we building Mirrorful?
+The key to consistently beautiful user experiences is design systems: a collection of reusable components and styling standards.
+Design systems also speed up development — even at startups! One
+test
+suggests it’s
+47% faster
+to build a simple form using a design system. It's useful for engineers, designers, and
+especially your customers
+if there isn't a random color for each button in your app.
+But design systems are hard to get right. Picking an out-of-the-box solution is easy to start with, but sooner than later, you run into limitations and need to do a months-long migration. On the other hand, starting from scratch is technically difficult and time-consuming.
+They're also hard to maintain. Product development often moves faster than the design system itself.
+Design system solutions today are bloated and introduce unnecessary friction into the product development lifecycle.
+Exhibit A:
+Twitter thread
+on Linear's simple but efficient design system.
+🎯 Our Solution
+As UI engineers, we wanted a tool that:
+lives in code, but is visual
+easy to set up, but prepares you for scale
+speeds up development, but has simple guidelines
+Today, you can use install Mirrorful as a development dependency of your project to run a visual editor of your theme and then directly export your design tokens to
+.js
+,
+.ts
+,
+.css
+,
+.scss
+,
+.json
+. It's lightweight, with
+no design system lock-in
+.
+Example: using CSS Variables
+Example using Javascript Constants
+🍿 Video Demo
+Link to Mirrorful Demo - Loom
+👉 Let us help you make your app look consistently beautiful!
+Book time with us
+— no commitment, no pressure.
+Try our product by installing our
+NPM package
+:
+https://www.npmjs.com/package/mirrorful
+Join our
+Slack
+— we have memes.
+Check out our website:
+www.mirrorful.com
+Star us on
+Github
+:
+https://github.com/Mirrorful/mirrorful
+Most importantly, give us feedback:
+founders@mirrorful.io
+Thanks!
+See All Launches ›

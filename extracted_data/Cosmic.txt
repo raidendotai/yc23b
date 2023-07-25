@@ -1,0 +1,62 @@
+Home
+›
+Launches
+›
+Cosmic
+10
+🚀 Cosmic - Headless CMS and API toolkit v2.0
+Cosmic is an API-first content management system (CMS). We provide a web dashboard to create content, and API tools to deliver content to any website or app.
+Tony Spiro
+Cosmic
+2 months ago
+Embed
+https://www.cosmicjs.com
+#
+api
+#
+developer_tools
+tl;dr:
+We just launched Cosmic 2.0 which includes a whole new Cosmic headless CMS dashboard, API, documentation, and website.
+👥
+Sign up for a Cosmic account
+to begin creating content in the dashboard and get your API access keys.
+🌐
+Check out the new website
+and
+documentation
+to learn how to integrate Cosmic content into your website or app.
+Hello everyone! We are excited to announce Cosmic 2.0. This release is the result of two years of dedicated work by our team which we are proud to share with you.
+What is Cosmic?
+Cosmic is a headless CMS and API toolkit. We provide a web dashboard to create content, and API tools to deliver content to any website or app. Customers use Cosmic as their CMS to avoid the pain of building and maintaining their own CMS.
+🛠️ What can you build with Cosmic?
+Use Cosmic to manage and deliver content to a number of applications such as company websites, mobile apps, ecommerce sites, blogs, and more.
+What’s in Cosmic 2.0?
+New dashboard:
+Cosmic 2.0 includes a completely rebuilt web dashboard. We’ve redesigned the experience to be as enjoyable as possible. A view from
+the dashboard
+:
+New API and API docs:
+We’ve updated our API to v3 which includes a completely new
+JavaScript SDK
+which makes fetching, adding, editing, and deleting content easier than ever. A view from
+the API
+docs
+:
+Develop:
+flexible and powerful content modeling. Build your content model with various field types such as text, rich text, markdown, image, video, audio, relationships, and more.
+Use Cosmic to store and deliver media for your applications including images, video, audio, documents and more. Image processing and optimization is included with all plans.
+Collaborate
+with your team with flexible user access controls and permissions.
+Deliver
+your content to the world with our built-in API and global CDN with points of presence all over the globe.
+Our customers
+We are proud to serve teams around the world. Content is universal, it is crucial for businesses to reach their customers, and they trust Cosmic to store and deliver their mission-critical content.
+Our team
+We are proud of our Cosmic 2.0 release and can’t wait to see what you build with it. We are just getting started!
+🚀 Sign up
+Sign up for Cosmic 2.0 at
+https://app.cosmicjs.com/signup
+. If you have any questions, or would like to talk to sales about custom plans and options, go to
+https://www.cosmicjs.com/contact
+.
+See All Launches ›

@@ -1,0 +1,58 @@
+Home
+›
+Launches
+›
+Orangewood Labs
+58
+Orangewood - Democratizing Robots!
+We are building AI powered robotic arms
+Aditya Bhatia
+Orangewood Labs
+7 months ago
+Embed
+http://www.orangewood.co
+#
+hardware
+#
+robotics
+#
+generative_ai
+#
+artificial_intelligence
+Hi YC!
+We're
+Abhinav Das,
+Aditya Bhatia,
+and
+Akash Bansal,
+the founders of
+Orangewood Labs.
+Orangewood Labs
+is building robotic arms for small businesses. Our mission is to democratize robots.
+Orangewood’s
+robots are safe, easy to operate, affordable, and capable of handling modern-day manufacturing challenges.
+The Problem
+Small businesses don’t have access to automation and are suffering because of it. The cost of the industry standard robotic arm is $35,000 without integration - and assuming that you need multiple robotic arms for any given function - this adds up very quickly. Companies are going out of business due to high wages and cost of living.
+Our Solution
+By building our own robots, we found ways to create a cheaper, more affordable robot. Our robotic arms aren’t nearly as accurate as the industry leader, but that’s okay! Not every task requires 100% accuracy. We’re currently focusing on industrial applications like pick-and-place, spray painting, and welding.
+https://www.youtube.com/watch?v=WzzBFkdv2PE
+With
+Orangewood Labs
+, customers have:
+🏆 Access to automating their business with 3x - 4x productivity gains
+💰 Lower costs through a monthly subscription
+🚀 Ease of use - simplicity in programming for tasks and integration included for free
+⚠️ Safety from highly dangerous tasks
+How you can help
+Introductions to VCs who invest in hard tech
+Introductions to talented engineers looking to work in robotics
+Introductions to system integrators
+Introductions to customers (small business owners: food, manufacturing, photographers, etc.)
+Industrial applications are just our first use case. We have more updates coming in the next few weeks! Feel free to reach out to us with thoughts, questions and feedback.
+We’re at
+founders@orangewood.co
+and (310) 658-2456.
+We’d love to invite you to our office in San Francisco for lunch and a demo!
+Book a live demo
+We’ll be shipping our first robots in the summer of 2023!
+See All Launches ›

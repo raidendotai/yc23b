@@ -1,0 +1,64 @@
+Home
+›
+Launches
+›
+Bunting Labs
+62
+Bunting Labs 🐦 No-code geospatial data pipelines
+Meet Bunting, the easiest way to work with geospatial data
+Michael Egan
+Bunting Labs
+a year ago
+Embed
+https://buntinglabs.com
+#
+b2b
+#
+saas
+#
+govtech
+#
+data_visualization
+#
+geographic_information_system
+TL;DR Bunting helps developers import, store, and analyze geospatial data. We replace months of writing Python scripts with our drag-and-drop data importer.
+Hi everyone!
+Brendan
+and
+Michael
+here to introduce
+Bunting Labs
+.
+🗺
+Problem
+If you want to implement spatial data into your software, you need to use a spatial database. But, because spatial data is heterogenous, creating the ETL scripts, cloud infrastructure, and analysis pipelines to use it takes months—something we saw ourselves.
+We spent a year trying to analyze real estate with AI, and the first three months were dedicated to building these data pipelines. We realized every company that wants to use spatial databases suffers from the same problems.
+🔧 Solution
+We handle the pipeline and the database for you. Behind the scenes we do all the leg work to work with spatial data so you can focus on building your product. For example, we automatically
+convert addresses in CSVs into a PostGIS table via geocoding
+. Here’s how managing spatial data on bunting would look like for you:
+Upload any data file, and we’ll automatically recognize how it relates to the Earth. We currently support
+KML
+,
+CSV
+,
+GeoJSON
+,
+GeoPackage
+, and
+Excel
+.
+We’ll save it to a managed PostGIS instance (on Amazon RDS) and give you SELECT permissions to your tables.
+Coming soon: low-code spatial analysis tool and purpose-built spatial data labeling. Everything you need to build an app with spatial data.
+👉 Ask
+Do you work with spatial data and are willing to share your experiences? Shoot us an email at
+founders@buntinglabs.com
+, we would love to talk.
+Do you work at a company that is working on implementing or wants to implement any spatial features? Email us at
+founders@buntinglabs.com
+, we would love to work with you to do whatever it takes to make your vision a reality!
+💻 Open Source
+Bunting is built on open source and sponsors development of
+mundipy, a Python framework for geospatial data
+.
+See All Launches ›

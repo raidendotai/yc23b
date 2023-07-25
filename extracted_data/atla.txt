@@ -1,0 +1,39 @@
+Home
+›
+Launches
+›
+atla
+23
+atla - honest AI assistants for legal teams
+atla helps in-house lawyers get reliable answers without billable hours
+Maurice Burger
+atla
+3 days ago
+Embed
+https://www.atla-ai.com/
+#
+b2b
+#
+legal
+#
+legaltech
+#
+ai_assistant
+#
+artificial_intelligence
+TL;DR: Our AI assistant summarizes legal documents, lets users ask follow-up questions, and generates reliable answers. For example, legal teams at Volkswagen and N26 use our AI assistant to summarize thousands of documents, and get legal insights.
+Hello world, we are Roman and Maurice, two AI safety nerds committed to building helpful and honest AI assistants for high-stakes decisions.
+💬 The Problem
+LLMs lie; your legal team should not. To avoid errors, corporate counsel have become excessively dependent on external law firms, which eat up half their budget. Water-tight legal research is tedious; on average, legal professionals spend 5 hours reviewing 45 documents to answer a single question.
+⏩ The Solution
+We enable legal departments to reliably answer questions for their business. Submit a legal query to Atla for concise insights from credible sources, tailored to your context. Atla’s AI research assistant sifts through thousands of pages of legalese to empower in-house lawyers to conduct research in seconds.
+🎥 Our Product
+1. Enter a legal question, e.g. What are the legal requirements for implementing a remote work policy for employees?
+2. Investigate relevant sources
+3. Receive reliable answers
+⭐ Our Ask
+We're seeking to add partners to include in our private beta alongside N26 and Volkswagen. If you know in-house legal professionals working at large enterprises in Europe, please drop us a note at
+founders@atla-ai.com
+Many thanks for your support!
+Roman & Maurice
+See All Launches ›

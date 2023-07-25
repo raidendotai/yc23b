@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+CandorIQ
+11
+CandorIQ - Headcount & compensation planning
+Manage all people spend in 1 platform, integrated with payroll & HR stack
+Haris Ikram
+CandorIQ
+19 days ago
+Embed
+https://www.candoriq.com/
+#
+b2b
+#
+saas
+#
+fintech
+#
+hr_tech
+TLDR;
+CandorIQ helps manage headcount spend & employee compensation (including providing benchmarking data). We connect to your HR / Finance stack and provide insights, automate workflows, and allow collaboration across Finance, HR, and Management in 1 single platform.
+We provide white-glove onboarding, and go live within a week.
+We’re offering 50% off for 1 year for (1) software, (2) comp data & (3) FP&A/Comp Advisory.
+❌ The Problem
+People are the most important asset for companies and are
+70-80% of the spend
+. Employee turnover is
+24% in 2023.
+It is hard to optimize people spend balancing both, because:
+Various data required from budget info to compensation benchmarking. Fragmented across spreadsheets, payroll, Captabl, slack & FP&A tools
+All decisions require collaboration across multiple personas and departments including HR, Finance, Managers and Execs
+Lot’s if repetitive, error prone, manual work. Companies on average spend
+10 hours every month updating spend
+,
+1 month twice a year running merit cycles
+,
+4 hours generating every candidate offer
+⚡ Our Solution
+The CandorIQ is the people spend management platform for HR, Finance & Managers to:
+Control & Manage People Spend
+Headcount planning and budget management
+Headcount, backfill, riff approval workflows
+Retain & Reward top Talent
+Compensation Design & Merit cycles
+Employee & Candidate Total Comp Portal
+Unify Systems & Automate Work
+Integrated into all Payroll and HR systems
+Analytics, reporting, automation of merit letters, candidate offers
+Here is a video of the product in production today:
+video link
+See screenshot of select parts of the product:
+Headcount Planning
+Employee Analytics
+Employee Total Compensation
+In addition to the software, we also provide a global compensation data set and advisory services for FP&A planning & compensation management.
+Backstory
+As former leaders at companies like Checkr (YC S’14) and serial founders, we faced the challenge of understanding budget, pay of our existing teams so that we could optimally hire, reward, retain people. Every decision required spreadsheets, slack, email and a lot of back and forth with HR, Finance and management. This is a problem that plagued us across our experiences from Seed round to IPO. We wanted to flip the script and build a solution that is proactive, continuously updating and automated most of the work for us and other stakeholders.
+Asks
+Want to see a demo?
+https://calendly.com/d/2nt-btw-syw/candoriq-product-demo
+Have questions or curious to learn more:
+founders@candoriq.com
+See All Launches ›

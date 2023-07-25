@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Frigade
+35
+💻 Frigade - The easiest way for developers to build product onboarding.
+Frigade helps developers build better native onboarding and product education, faster.
+Eric Brownrout
+Frigade
+7 months ago
+Embed
+https://frigade.com
+#
+b2b
+#
+api
+#
+saas
+#
+open_source
+#
+developer_tools
+TL;DR
+Frigade helps developers build best-in-class product onboarding and education
+faster.
+Check us out at
+frigade.com
+!
+Hello everyone! We’re
+Christian
+and
+Eric
+. We’ve been working together since 2015 when we first met as interns at LinkedIn, and we’re excited to be building Frigade. Our goal at Frigade is to make it easy to build great product onboarding so developers can spend more time building their core product experiences.
+🔴 Problem: Product Onboarding is Hard
+Product onboarding is essential to customer activation and retention, but building great onboarding is difficult and time consuming. We know because we experienced this problem firsthand at our previous startup where we spent enormous amounts of time building onboarding and education for our app through trial and error. Time that could’ve been spent developing our core product offering.
+ㅤ
+🟢 Solution: Powerful API and Open Source SDK
+Frigade’s API and open source SDK take the hard work out of building and scaling great product onboarding. With Frigade, developers can:
+🛠️ Quickly build beautiful onboarding within their own app UI
+🔄 Ingest onboarding data from our API into their backend
+⚡ Make instant changes to copy, assets, and logic via API
+🎯 Easily build user targeting (powered by Segment, MixPanel, etc.)
+📚 Automatically leverage built-in industry best-practices
+As a result, developers can spend less time building features for product adoption and more time building the product roadmap.
+Frigade SDKs
+provides beautiful, extensible boilerplate for critical flows.ㅤ
+💻 Try it yourself
+Check out our
+GitHub page
+and
+website
+. We’re here to help! Feel free to contact us at
+founders@frigade.com
+with any questions regarding implementation, feature requests, or to chat generally about your product onboarding needs. And if you’re in San Francisco, come say hey!
+ㅤ
+Thanks!
+Eric and Christian
+See All Launches ›

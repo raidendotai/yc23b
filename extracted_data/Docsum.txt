@@ -1,0 +1,70 @@
+Home
+›
+Launches
+›
+Docsum
+29
+🔍 Docsum - AI contract reviewer for sales teams
+Supercharge your sales contracting workflows from review to negotiation by 3x
+Shaunak Turaga
+Docsum
+10 days ago
+Embed
+https://www.docsum.ai/
+#
+ai
+#
+b2b
+#
+sales
+#
+legaltech
+#
+enterprise_software
+TL;DR:
+Docsum
+is an AI contract reviewer for sales teams. With Docsum, sales teams don't have to wait for their lawyer to respond to redlines on a contract, they can do it themselves.
+Start reviewing your contracts now.
+Problem
+Sales teams often own the contracting process from reviewing NDAs to sending out MSAs.
+Sales teams are motivated to respond to clients quickly and reduce their time to close
+but their ability to review and respond to contract redlines is contingent on collaboration with their legal counsel.
+This process can be expensive, time consuming, and hard to manage.
+For smaller teams, basic contract review and contract negotiation services with external counsel can be incredibly expensive and time consuming.
+For larger organizations, in-house counsels are burdened by high matter volumes that often position them as bottlenecks within sales cycles.
+Docsum — an AI legal copilot for sales teams
+Review
+: Use Docsum to upload a legal contract and get a comprehensive
+summary and ask to our AI attorney questions.
+Analyze
+: Get a list of potential red flags and proposed redlines to negotiate with.
+Playbook
+: Upload your redlined contract to get advice on how to respond with
+suggested resolutions
+sourced from your organization’s configured playbook or from our pre-configured playbook trained by our human attorneys.
+How is Docsum different?
+Extensible
+: Currently, we are focused on being the best-in-class legal analysis and contract negotiation tool. We believe we can integrate into your existing contract life cycle processes.
+🔌 Interoperable
+: We believe the best solutions are integrated where people work so we plan to build an eco-system of tooling which includes our
+web application, native Word + Google plugins
+, where legal and sales teams work.
+💪🏽 Collaborative
+: We believe that legal teams are essential for creating and preserving value for organizations. Our hope is to enable organizations to engage their legal counsel in a more strategic and efficient manner. We aren’t trying to replace lawyers with AI.
+The Team
+We’re
+Shaunak
+and
+Alex
+. We’ve been best friends since college and the picture above is us bartending in a horse trailer bar that we built called
+Barbox
+— a premium event bartending business which we sold last year.
+Shaunak has experience as a developer and product manager at Pacaso, OpenTrack, Capital One. Alex has experience as a developer and architect at Pacaso and Fidelity. We worked on growth and global expansion while at Pacaso.
+Our Ask
+Sign up today:
+Do you deal with sales contracts?
+Sign up to try Docsum today
+Connect with us:
+Do you know of any founders, CROs, sales leaders, deal desk teams, general counsels, or transactional attorneys that might be interested in reducing their time to close and achieve more efficient contracting workflows? We would be most grateful if you can connect us! Email us at
+founders@docsum.ai
+See All Launches ›

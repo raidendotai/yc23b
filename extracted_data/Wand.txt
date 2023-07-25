@@ -1,0 +1,64 @@
+Home
+›
+Launches
+›
+Wand
+17
+🛡 Allero - Open source project that protects your production CI/CD pipelines
+We scanned many OSS project and found tons of CI/CD pipelines which are not protected. Allero is here to protect them all.
+Idan Shahar
+Wand
+a year ago
+Embed
+#
+climate
+#
+solar_power
+#
+real_estate
+#
+climatetech
+Hey Fam! 👋
+I am
+@Idan Shahar
+and together with
+@Itai Peri
+we founded
+Allero
+.
+📣 TL;DR
+We scanned public repositories of FreeCodeCamp, Medium, Supabase, Posthog, and many more. Guess what we found out?!
+Allero
+is an open source (
+https://github.com/allero-io/allero
+) CLI policy enforcement tool that protects your production CI/CD pipeline. CI/CD pipelines tend to be messy, and there are so many variations of pipeline manifests spread across different repositories. This makes it difficult to ensure security, code quality, and compliance standards are in place in every pipeline.
+By running Allero, you can easily reveal and prevent problematic pipelines across multiple organizations and repositories.🏁
+👩🏽‍💻Who is it for
+You are a DevOps engineer or a platform engineer responsible for CI/CD pipelines in your company. You have at least a few dozen pipelines, and they are complex as hell! You obviously spend so much time managing and maintaining them, which is a total nightmare. Why? because you need to ensure that the code they deliver is bug-free, not vulnerable, scalable, and ready for production.
+We already found many problematic pipelines in open-source projects, and we are 100% sure there are many of them out there!
+Medium
+- When using npm in CI, in order to avoid surprises in dependencies’ versions, you should always use
+npm ci
+instead of
+npm install
+Supabase
+- When using
+npm ci
+/
+npm install
+without
+--ignore-scripts
+- you risk running unknown scripts injected by your dependencies - which may be malicious.
+Are you sure you don’t have them as well? Go ahead and see for yourself
+with
+our
+CLI
+!
+Wanna help us out?
+Would love for you to run our tool, and to hear your thoughts! If you’re missing any rules, please reach out to us at
+founders@allero.io
+or just create a
+new issue
+in our repo!
+If you found this helpful, would love you to share it with your friends. Also, a GitHub Star goes a long way in helping our journey. 🌟
+See All Launches ›

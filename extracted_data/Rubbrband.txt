@@ -1,0 +1,37 @@
+Home
+›
+Launches
+›
+Rubbrband
+77
+Rubbrband: Train open-source ML models in a line of code
+Meet Rubbrband: The tool that enables users to rapidly train the latest ML models
+Jeremy Lee
+Rubbrband
+5 months ago
+Embed
+https://rubbrband.com
+What is Rubbrband?
+Rubbrband is a CLI tool that enables developers to rapidly experiment with and train the latest open-source ML models. For example, Rubbrband allows you to fine-tune your own version of Dreambooth’s Stable Diffusion in just 1 line of code:
+Who are we?
+We’re college roommates who met at orientation at UC Berkeley. Together we grappled with open-source ML projects that were very difficult to set up (due to CUDA and python dependency conflicts), and even more difficult to apply on our specific research problem. While the state-of-the-art looked magical, it always seemed to be out of reach.
+Jeremy
+(Left) - Former ML researcher at CNMAT at UC Berkeley.
+Darren
+(Middle) - Former ML researcher at UC Berkeley focused on MRI.
+Abhinav
+(Right) - Former RL/ML researcher at Berkeley AI Research Lab.
+The problem
+There’s a deluge of breakthroughs in Machine Learning every week.
+However, it’s extremely challenging for developers to leverage these open-source works to solve their own problems.
+This is primarily due to the fact that researchers and ML developers optimize for development velocity, and not for reproducibility or extendibility.
+As a result, the entire Machine Learning space seems to be held together with duct tape, as people throw together undocumented scripts to start training runs, which always seem to break one week later.
+The solution
+With Rubbrband,
+we want to bring a world-class experience to training ML models
+. By creating a simple Python library that abstracts away training environments (CUDA drivers, pip dependencies, and C libraries), and exposing a few commands of interest,
+developers will be able to rapidly experiment with the bleeding edge in Machine Learning
+. By doing so, developers will be able to solve hard problems that otherwise may have remained unsolved.
+Our ask
+Check out our open-source project, and give it a star! ⭐️
+See All Launches ›

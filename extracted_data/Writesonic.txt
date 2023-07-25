@@ -1,0 +1,45 @@
+Home
+›
+Launches
+›
+Writesonic
+41
+ChatSonic 💬 - Like ChatGPT but with real-time data, images & voice search
+ChatGPT is great but limited to 2021 info. Say hi to Chatsonic - a chatGPT-like chatbot that integrates with Google Search to create content with the latest information. Additionally, it can create digital images and respond to voice commands.
+Samanyou Garg
+Writesonic
+7 months ago
+Embed
+https://writesonic.com/
+#
+b2b
+#
+saas
+#
+generative_ai
+#
+artificial_intelligence
+TLDR: ChatSonic surpasses the limitations of ChatGPT to give you factually correct results. Additionally, it can create digital images and respond to voice commands like Siri.
+https://www.youtube.com/watch?v=KzK4C87GkqE
+ChatSonic is a powerful chatbot, powered by Google Search, allowing it to provide up-to-date and accurate content and hence superior to ChatGPT which can not generate content on topics after September 2021. Additionally, it can create digital images and respond to voice commands and many more additional features. So, ChatSonic has addressed all the limitations of ChatGPT.
+ChatSonic can do more than what ChatGPT does:
+🌐 Provides up-to-date factual information by using Google's knowledge graph
+We've integrated Google search into our chatbot to provide hyper-relevant content on any given topic, so you can always stay up to date.
+🎨 Generates digital art and paintings from chat
+Chatsonic can also generate stunning digital artwork and images using AI so that you can bring your ideas to life.
+🗣️ Understands voice commands and talks back responses like Siri
+Why write when you can speak? Ask ChatSonic what you need via voice commands and have it read back the responses to you, just like Siri or Google Assistant does—you’ll be surprised!
+🧠 Maintains the context of your conversations. Feels like you’re talking to a human
+ChatSonic maintains the context of your conversations just like you would with a person. It remembers past questions or comments in your conversation and can easily answer follow-up questions.
+🔗 Gives you the option to share, edit, or download your conversations
+Share a specific response or even your entire conversations with your friends, colleagues, family, and followers.
+🦸 Talk to a Personalized Avatar
+Talk with your own personal avatar! Select your personality - English tutor, fitness trainer, Math teacher, and more - and ChatSonic will behave like them, providing accurate answers.
+👨‍💻 Provides an API
+ChatSonic can be integrated with other applications and services through our simple-to-use API.
+Insane, right?!
+ChatSonic by Writesonic was one of the top products of the week on ProductHunt, with 3000+ upvotes.
+And not everyone knows this, but we release new features almost every single day.
+We're excited to bring you this amazing product, and we hope you'll try it.
+Looking forward to your feedback and suggestions 🙏
+See All Launches ›

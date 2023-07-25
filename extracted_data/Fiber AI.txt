@@ -1,0 +1,67 @@
+Home
+›
+Launches
+›
+Fiber AI
+502
+🤝 Fiber AI - Drive revenue growth faster with AI-powered marketing automations
+Connect with any prospect, like you actually know them
+Aditya Agashe
+Fiber AI
+4 days ago
+Embed
+https://fiber.ai/
+#
+ai
+#
+b2b
+#
+saas
+#
+sales
+#
+marketing
+🏆 TL;DR:
+Fiber AI
+is a reimagined, AI-powered Marketo for startups
+. Our marketing automations platform enables startups to drive revenue growth faster.
+As successful 7-figure e-commerce entrepreneurs, we manually hacked together marketing automations across several point solutions to scale our last business. In contrast, when we worked at Microsoft and Google, not a single employee touched Marketo directly—instead, each organization hired different vendors that each paid for Marketo and configured it.
+Every enterprise hits an inflection point when they’re forced to migrate to Marketo. Witnessing this firsthand, we’re uniquely positioned to build a platform that automates marketing for startups and scales with them as they become enterprises.
+💯 The Team
+Adi Agashe
+(CEO)
+and
+Neel Mehta
+(CTO)
+are the 3-time global bestselling authors of "
+Swipe to Unlock
+," "
+Bubble or Revolution?
+", and "
+PM's Sacred Seven
+" which have been translated into 11 languages. They have worked together for the last 6.5 years and built a profitable 7-figure e-commerce business.
+Adi spent 5 years as a growth Product Manager at Microsoft, scaling Azure hybrid revenue. He graduated from Cornell University, where he studied computer science and was a Rawlings scholar (top 1.5%).
+Neel was an APM (later PM) at Google, working on Google Search. He graduated in the top 5% of his class at Harvard University, where he studied computer science and was a John Harvard Scholar.
+❌ The Problem
+Most businesses’ deliverability rates are horrible.
+There are 40+ common pitfalls that land your emails in spam. Founders are not aware of these hazards, which are often technical in nature, and commit blunders that affect their domain and email health long-term.
+Finding relevant prospects is tedious and constantly changing.
+When building a lead list, you have to manually gather data from several data sources and figure out triggers to prune this list so that your offer is relevant. Generating quality leads is extremely time-consuming and eats up 40% of a SDR’s time. What’s even more frustrating is that by the time you reach out, your offer may not be relevant anymore since the window of opportunity is often short.
+Writing personalized emails is a massive bottleneck.
+Researching each lead and writing highly personalized emails that are going to get opened requires 10 to 20 minutes per email on average. This is not scalable, which is why many businesses blast generic templates, which have horrible open and response rates.
+🌟 Our Solution
+Fiber AI manages domain and email health to get 80% open rates.
+We automatically configure your DNS records, warm-up your emails, orchestrate emails to send optimally across all of your accounts, run multi-layer email bounce detection, and modify each outgoing email to ensure it doesn’t set off spam filters.
+We automate lead generation with dynamic audiences.
+We pull in data from 50+ data providers, including BuiltWith, Crunchbase, LinkedIn, Alexa, and more, so that you can segment your audience precisely by the companies you care about and exclude everyone else. Our audiences are dynamic, which means we will continuously look for prospects matching your targeting and add them to your audience to run our automated marketing sequences. Create an audience once, and put your outreach on autopilot.
+AI-powered hyper-personalized emails to boost response rates.
+The biggest debate in sales is choosing between relevancy and personalization—now you don’t have to. We search far and wide to find the “golden nugget” of information to connect with your prospect, and then use GPT-4 to write hyper-personalized email sequences to dramatically increase response rates.
+🙏 Ask
+If you know a B2B business in your network that’s looking to scale their outbound marketing, make a warm introduction!
+My email is
+adi@fiber.ai
+Fiber AI
+is usable
+right now
+. We’re confident that we’ll not only automate their marketing, but also be able to drive revenue growth faster than their existing process.
+See All Launches ›

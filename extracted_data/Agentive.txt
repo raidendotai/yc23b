@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+Agentive
+33
+Agentive: AI-powered copilot for auditors
+We help accountants analyze financial records, perform audit procedures, and draft documentation in seconds.
+Daniel Alberson
+Agentive
+18 days ago
+Embed
+https://www.goagentive.com
+#
+ai
+#
+fintech
+#
+artificial_intelligence
+Hi everyone, we’re Danny, Kyle, and Vidyasagar from Agentive.
+TL;DR
+Agentive helps auditors unlock growth by shortening the time to perform audits. Auditors use our AI-powered copilot to analyze financial records, perform audit procedures, and draft documentation with 10x efficiency. If you’re an auditor, get in touch at
+goagentive.com
+!
+Problem
+Audit staff spend 40% of their time searching, extracting, and manipulating data during audit procedures. And another 20% is spent preparing audit documentation. While it’s gotten easier to work with evidence provided by clients over the years thanks to OCR and other semi-automation solutions, it’s still painful. These audit procedures are rather standardized across clients and documentation is often identical year over year at the same client with only the current year data changing. The desire of audit staff to be involved in audit strategy is often in conflict with the amount of manual work that needs to be done at firms. This contributes to the high turnover in audit staff and the shortage of accountants entering the profession.
+Team
+While working as auditors at EY and Deloitte, Danny Alberson and Kyle Saunders felt underutilized due to the repetitive work involved in auditing. Vidyasagar brings his expertise in AI and enterprise software from Google. Together, they're building Agentive to help auditors automate procedures and spend more time on audit strategy.
+Solution
+Agentive addresses this challenge by training large language models that cater to accounting and audit use cases. Agentive provides an in-browser spreadsheet editor and document viewer where auditors use natural language to have Agentive’s copilot analyze evidence, perform procedures, and draft documentation with 10x efficiency. It’s like working with ChatGPT during your audit. To review AI generated data we make it really easy to trace results back to their source. This not only speeds up preparing documents by audit staff but increases the efficiency of management and partner reviews as well.
+What can you use Copilot for?
+Extracting Text/Tables
+: Extract text and data from documents like PDFs which can then be analyzed or moved to spreadsheets or workpapers for further processing.
+Compliance Checking
+: Analyze the content of documents to check compliance with various regulations, standards, or policies, and provide reports detailing any areas of non-compliance.
+Content Search and Retrieval
+: Enables auditors to conduct advanced content searches within documents, including searching for specific phrases, keywords, or patterns and retrieving relevant sections.
+Natural Language Querying
+: Simplify data retrieval by extracting information from spreadsheets using natural language queries without complex formulas.
+Reconciliations
+: Validate data within documents by cross-referencing it with other sources, such as spreadsheets, and highlight any discrepancies that require further investigation.
+Natural Language Summarization:
+Automatically generate concise written summaries of financial data in spreadsheets, helping auditors quickly comprehend key insights without digging through raw data.
+Ask
+We’d love to connect with auditors! Please sign up for a demo at
+goagentive.com
+See All Launches ›

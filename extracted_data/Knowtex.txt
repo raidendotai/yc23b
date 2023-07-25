@@ -1,0 +1,58 @@
+Home
+›
+Launches
+›
+Knowtex
+212
+Knowtex: Creating Visit Notes from Doctor-Patient Conversations
+Making doctors 2x more efficient with automating note-taking & charge capture
+Jocelyn Kang
+Knowtex
+a year ago
+Embed
+http://www.knowtex.ai/
+#
+b2b
+#
+health_tech
+#
+productivity
+#
+digital_health
+#
+machine_learning
+👋 We’re
+Jocelyn
+and
+Caroline
+, the co-founders of
+Knowtex
+!
+tldr;
+Knowtex automatically creates visit notes with billing codes from doctor-patient conversations. We built our ML solution in under two months and are working with healthcare organizations to save doctors time and prevent revenue leakage from improper documentation and coding. Our ask is for help connecting with private clinics (with 8+ doctors) in any specialty, digital healthcare companies with providers, and PE firms with medical roll-ups.
+The Problem:
+Doctors are spending more time on taking notes than seeing patients, and aren’t taught how to code their notes optimally for proper reimbursement. This leads to physician burnout and revenue leakage for healthcare organizations (up to $125 billion a year in the US).
+Our Solution:
+Knowtex creates visit notes with the proper codes for reimbursement automatically from doctor-patient conversation.
+(The automatically generated note output from a conversation Caroline had in real-time with a cardiologist!)
+Wait, doctors code?
+We’re not talking about software coding, but medical coding, which means assigning the right diagnostic (ICD-10) and procedural codes (CPT) to a note to allow a claim to be created and submitted to insurers for appropriate payment. Correct coding is also critical for demographic assessments and studies of disease prevalence, treatment outcomes and accountability-based reimbursement systems.
+With Knowtex, we can cut the time doctors currently spend on admin work in half, and allow them to focus on what they love: patient care.
+Our Team
+We met day one of Stanford freshmen year. Caroline received her master's degree in Computer Science concentrating in AI and an undergraduate degree in Economics (in just 4 years!). Jocelyn received an interdisciplinary degree in CS specializing in Linguistics and has worked at startups in a variety of positions including leading AI/ML teams.
+After graduating during the COVID-19 pandemic, we wanted to apply our technical skills to build solutions for our healthcare system. We heard about the problem of physician burnout from medical documentation, and
+became medical scribes ourselves to experience it firsthand. We’re the only medical scribes in the world with AI/ML backgrounds,
+making us uniquely positioned to build this solution for doctors.
+Our Ask
+We’re looking to partner with
+private clinics that have 8+ doctors in any specialty
+digital health companies that offer healthcare provider services (ex. hybrid and virtual care, telemedicine platforms)
+private equity companies with medical roll-ups
+Here’s a quick blurb you can send them about us:
+Knowtex reduces physician documentation burden and increases coding efficiency and accuracy by automatically creating visit notes with billing codes from doctor-patient conversations. Our software captures natural conversation, identifies relevant medical information, and generates a pre-filled, structured note with ICD-10 and CPT codes for physician sign-off.
+Founders Caroline and Jocelyn are Stanford CS grads who specialized in AI and previously worked as medical scribes. We're looking to speak to healthcare organizations to understand more about their doctors’ documentation workflows and coding requirements, and explore partnership opportunities with our product. You can reach us at
+founders@knowtex.ai
+.
+Thank you!
+- Jocelyn and Caroline
+See All Launches ›

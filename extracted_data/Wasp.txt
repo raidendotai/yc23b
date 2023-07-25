@@ -1,0 +1,85 @@
+Home
+›
+Launches
+›
+Wasp
+19
+🐝 Wasp Beta - Develop full-stack web apps in React & Node.js without boilerplate
+Get auth, CRUD, async workers and other common features via Wasp config language and write the rest of your logic in React, Node.js and Prisma
+Matija Šošić
+Wasp
+8 months ago
+Embed
+https://wasp-lang.dev/
+#
+open_source
+#
+developer_tools
+Hey developers! 👋 We’re Martin and Matija, founders of Wasp - we’re super excited to be here today!
+Our last big launch was one and a half years ago - since then a lot happened and
+we’re proud to present Wasp Beta!
+⚡️TL;DR
+Wasp is the fastest way to develop full-stack web apps in React & Node.js
+. Describe high-level features (auth, CRUD, async jobs, …) via a simple config language, and write the rest of your logic in React, Node.js and Prisma.
+With the Beta release, we also
+announced our first hackathon
+- make sure to join, have fun, and win cool prizes! (hint: wasp-themed mechanical keyboard 🐝 ⌨️)
+You can see the 4-min demo video
+here
+.
+🐝 🐝 The team
+This is us at our first retreat in Croatia (Vince, our devrel, who joined shortly after, expertly photoshopped in :D)!
+We’re a distributed team of engineers and web development & programming language aficionados. Having worked at some of the world’s largest companies and startups, we experienced the problem we’re solving at various stages.
+💡
+What is Wasp?
+You can think of Wasp as a full-stack web framework for React & Node.js
+. We solve the common problems you face when you start developing a web app - choosing all the parts of the stack, figuring out how to stitch them together in the best way, adding auth, running cron jobs, ...
+Wasp also makes it super easy to work with and sync data models across the entire stack (front-end, back-end, database). You don't even have to define and deal with any kind of CRUD API - Wasp will do that for you under the hood.
+🦉
+Who is it for?
+Speaking to developers we realized many of them just want to build, and they’ll use whichever tool helps them best achieve their goals. They don’t care that the library being used for making HTTP requests is 2kb bigger and builds 10ms slower than some new alternative. They just want to be sure they have all the best practices in place and that their choices won't come back to haunt them once their project grows.
+If you can relate to that, then Wasp is for you. We know there are plenty of great solutions for developers today (frameworks, BaaS-es, code scaffolders, ...) but Wasp is probably the fastest one to get started with, and with the least amount of code.
+🍜
+What's the secret sauce?
+The main reason for that is Wasp's unique twist on web frameworks - a config language (DSL) that works alongside your React & Node.js code. It allowed us to
+drastically reduce the amount of boilerplate and simplify the developer experience
+. For example, full-stack authentication with both user/pass and Google methods takes only 8 lines of code.
+In the future, the language approach could enable us to do some really exciting things such as supporting multiple frameworks and languages (even at the same time) and having full control over the generated code, introducing optimizations, etc.
+Wasp now has its own language server - that means auto-completion, live error reporting, …
+🏘
+What can I build with Wasp?
+Pretty much any web app with a database! Anything you'd build with React & Node.js by themselves you can build with Wasp. Think SaaS, side projects, internal tools, hackathons, ...
+To see what others are building with Wasp, take a look here:
+Wasp showcase gallery
+With the intro out of the way, let's see what's new in Beta:
+🔑
+Full-stack auth
+Log in with your username & password or via Google! Other providers are also coming soon.
+🟦
+TypeScript support
+Write your code in TypeScript, both on the client and server! We're also migrating our whole codebase and adding new types every day.
+💨
+Tailwind support
+Just add two config files and you are ready to use Tailwind in your project!
+⏳
+Running Async Jobs
+Send emails, crunch data every night and build reports or anything that shouldn't be a part of a typical request-response cycle. Powered by pg-boss, zero setup required.
+🥛
+Optimistic updates support
+Wasp will by default propagate your data model changes across the stack. Still,
+in some cases
+, you might want more control over that flow for the sake of smoother UX - that is now easy to achieve with Wasp!
+📟
+Wasp Language Server
+Wasp now has its own LSP for VS Code (other editors coming soon)! That means improved syntax highlighting, code snippets, autocompletion, and error reporting. Everything you'd expect from a language!
+🙌 Our ask
+Try Wasp out & let us know your feedback -
+join our Discord
+!
+J
+oin our Beta hackathon - Betathon
+! It’s open until Dec 14
+Share
+Beta
+with your developer friends
+See All Launches ›

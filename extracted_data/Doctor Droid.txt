@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Doctor Droid
+50
+Doctor Droid: Proactively detect issues before it impacts your customers
+Monitor critical paths spanning across APIs, webhooks, cron jobs and lambda functions
+Siddarth Jain
+Doctor Droid
+5 months ago
+Embed
+https://drdroid.io/
+#
+b2b
+#
+saas
+#
+developer_tools
+Hello everyone, Sid & Dipesh here from Doctor Droid!
+Tl;dr: We help engineers track complex backend workflows that cannot be seen with just a single trace. Our stateful alerting system proactively looks for “missing states”, which means you’ll be alerted even when a certain task or event does not take place.
+Our Story
+Dipesh & I are tinkerers who love to build products, and build them fast. Dipesh made a game one weekend that snowballed, and
+then got acquired
+. I made a
+volunteering website during COVID
+to enable people to help others in their neighbourhood. These are apart from our full-time jobs, building products at Shadowfax - India’s leading last-mile delivery startup.
+As engineers, we were used to being called on-call when something broke, even though most of the times it wasn’t our code that actually caused the issue.
+The Problem
+We had multiple critical products where monitoring the functioning of these products was not just about APIs because:
+A business use-case, when scattered across different APIs and batch processes, simply can't be connected together and viewed as a single flow to help find the leakage point
+You can only query and search over events/logs as individual data points, so I can't setup monitoring over deviations from my planned path for the user or an algorithm
+You cannot see a miniature / filtered version of your business behaviour and see irregularities in real-time
+The more properties you add in your events, the costlier storing and querying that data becomes
+With Doctor Droid, we are making it super easy to detect and troubleshoot these complex products.
+How Doctor Droid Helps:
+Doctor Droid gives you real-time visibility of how your products are performing, so you know where to intervene:
+Workflow visualisation
+of the critical product paths - easily detect steps of failure and monitor the data passing at each step
+Setup
+stateful alerts
+that span across multiple events
+Create
+custom metrics
+using the attributes directly or as an expression (without cardinality constraints)
+Investigate
+issues at a order, transaction or user level
+Setup automated actions (JIRA ticket, custom scripts) for known issues
+We have a simple SDK to ingest events (similar to your logging library), our documentation is available
+here.
+Try now -
+We are in private beta and are giving 100k events/month complimentary for first 100 beta sign ups (apart from personalised support to help detect issues faster for your business). Request access on our website to access our product or write to us at
+founders@drdroid.io
+See All Launches ›

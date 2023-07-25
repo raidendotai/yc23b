@@ -1,0 +1,51 @@
+Home
+›
+Launches
+›
+Squack
+26
+Squack - Natural language RPA tools for accountants
+We let you streamline your data workflow by building tools with everyday language.
+Eitan Borgnia
+Squack
+4 months ago
+Embed
+http://squack.io
+#
+b2b
+#
+saas
+#
+developer_tools
+#
+artificial_intelligence
+tl;dr: We squash the learning curve for RPA tools by enabling users to create and fine-tune automations with plain language. For example, a bookkeeper with no coding experience can use Squack to create a workflow that processes a bank ledger and automatically categorizes transactions in only a few sentences.
+—
+Hey YC, we’re Preston, Eitan, and Eli, and we’re building Squack.
+We’re three longtime college friends who lived in the same house at Caltech (all from Ruddock (now Venerable) house). Preston and Eitan were snatched out of Physics & ML PhD’s, respectively, and Eli is an ex-Google engineer that loves automation. We live in a three floor house in the Mission with two cats, Fushi and Thea, five shrimp, and three snails.
+The problem
+Accountants work with large amounts of financial data that need to be processed accurately and efficiently. No-code tools like Alteryx designed to automate this work cost companies $6k/year per license, but only have a 5% utilization rate in a typical org.
+These graphical programming interfaces meant to make data processing accessible to non-technical employees end up being harder to learn than traditional code. It's so bad that we've heard stories of new associates who deliberately delete these RPA programs off of their computers the instant the "training" is over.
+For example, this is what an Alteryx workflow looks like for computing the capital gains tax of a home:
+That's needlessly complicated! As a result, accountants find themselves over-utilizing brute force labor from off-shore teams to make deadlines during their busy seasons. Even the RPA experts would rather create an instruction document for these teams instead of rifling through stockpiles of old automations that need to be fine-tuned for the new task at hand.
+Using off-shore labor isn't an ideal alternative either. Even without the monetary costs, working with these teams means:
+Inconvenient work schedules due to time zone differences.
+Explaining document/video instructions over and over.
+Carefully reviewing and correcting errors.
+Our solution
+Squack makes it feel like you're having a conversation with an RPA wizard that's helping you build out your automations. Instead of sending a large instruction document to an offshore team, you can just put those instructions into Squack and get the tool you need.
+Our LLM-based tool can:
+Translate data processing instructions into a concise step-by-step procedure.
+Wield powerful python packages like pandas to implement the procedure.
+Dynamically generate new automations and modify old ones via natural language requests.
+Perform other LLM tasks like categorization, data restructuring, and OCR.
+The flexibility of the large language model approach makes it perfect for handling the slight variations in accounting workflows from different clients.
+Our ask
+We're looking for referrals to accountants who work with RPA tools or outsourced teams to manage their data workflow. Some examples:
+Audit, forensic, and tax strategy accounting
+Outsourced labor agencies
+Bookkeeping firms
+We're starting by building out tool workflows for small accounting firms, but we are generally interested speaking to anyone struggling with large-scale, repetitive tasks.
+Thank you for your help!
+Eitan, Eli, and Preston
+See All Launches ›

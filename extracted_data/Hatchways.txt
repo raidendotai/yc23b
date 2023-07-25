@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+Hatchways
+178
+Hatchways - Making engineering interviewing look more like real work
+Easily customize GitHub-based technical assessments, where candidates can complete tasks like reviewing code, submitting a pull request, or improving a system’s design.
+Jaclyn Ling
+Hatchways
+3 months ago
+Embed
+http://www.hatchways.io
+#
+b2b
+#
+hr_tech
+#
+recruiting
+#
+talent_acquisition
+#
+workflow_automation
+TL;DR:
+Easily customize GitHub-based technical assessments, where candidates can complete tasks like reviewing code, submitting a pull request, or improving a system’s design. Hatchways helps you build a state-of-the-art practical interview process that is customized to your role while saving you engineering interview load along the way.
+👋 The Origin Story
+I've shared my personal struggle with traditional interviews on
+HackerNews
+and how I’ve never been great at "performing" on the spot.
+This summarizes well what our mission has always been:
+“Mainstream hiring processes are biased towards those who went to great schools, had high GPAs, are native-English speaking, have worked at brand name companies, are extroverts and great networkers, etc. But there are so many talented people who don't fit that profile. We're excited to work on ways of hiring that give them a better chance.”
+Over time, we realized the challenge in solving this issue lies in the fact that companies lack incentives to improve their processes unless it saves them money or time.
+Thus, Hatchways is on a mission to make talent discovery efficient yet fair. By streamlining skill evaluations, we help companies save time while hiring top talent with the right skills for the job, rather than focusing on pedigree, connections, or interview prowess.
+🤔
+The Problem: Inefficient Interviewing
+Many companies struggle with inefficient interviewing— spending too much time while not getting quality signal.
+Although creating a unique process is time-consuming, mimicking FAANG approaches, which most companies do, leads to inaccurate signal, a lot of wasted engineering hours, and increased competition for the same talent pool.
+💡
+The Solution: Design a Purposeful Interview Experience
+Hatchways enables you to develop an effective interview process, ensuring accurate signal capture, time savings for engineers, and a positive candidate experience.
+🦄
+How it works:
+Adopt Best Practices from Leading Tech Companies, and Tailor to your Needs:
+We've distilled best practices from tech leaders at Dropbox, Plaid, and Airtable (e.g., crafting rubrics, enhancing candidate experience, setting pass-through rates) and can easily customize them for your company, role, and specific hiring needs.
+Custom Rubrics and Tailored Interview Questions:
+Most companies introduce interviewing rubrics too late. This leads to standardization and bias issues, resulting in inconsistent hiring outcomes. We assist in identifying crucial skills and transforming them into a grading rubric to shape the perfect interview question.
+Streamline Grading and Optimize Calibration Effortlessly:
+With Hatchways, use our automation features to build test cases or utilize our human-assisted reviewers to reduce your engineering review load. Drawing from the best practices of leading technical teams, we establish a starting benchmark and optimize your on-site pass-through rates over time.
+Use Cases
+What companies use Hatchways for:
+pre-screen technical assessment (i.e. resume replacement)
+technical phone-screen step (i.e. 60-90 minute live coding replacement)
+university/intern recruiting (i.e. high-volume vetting)
+Who is this for?
+Companies scaling engineering hiring who are aiming to reduce interviewer load
+Companies aiming to introduce greater standardization in their interview process
+Asks
+If you’re an engineer who wants to see companies adopt more effective and fair interviewing practices - share this with them
+For companies aiming to streamline their interview process while ensuring a fair and enjoyable candidate experience, sign up on our platform
+here
+or reach out directly to me to learn more:
+jaclyn@hatchways.io
+See All Launches ›

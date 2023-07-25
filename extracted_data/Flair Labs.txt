@@ -1,0 +1,60 @@
+Home
+›
+Launches
+›
+Flair Labs
+72
+Flair Labs 🔥 Unlock critical insights from conversation data with LLMs
+Flair is a managed solution for businesses to surface customer insights, without having to listen to calls.
+Samir Sen
+Flair Labs
+4 months ago
+Embed
+https://www.flairlabs.ai/
+#
+nlp
+#
+ai_assistant
+#
+generative_ai
+#
+artificial_intelligence
+Did you know … 98% of conversation data goes unused?
+🤔
+TL;DR
+Flair ingests unstructured voice data with LLMs, so companies with call centers can uncover customer insights and revenue opportunities at scale, without having to manually listen to calls. Companies like Berkshire Hathaway Energy and BFA Industries use Flair to create reports of customer patterns and call QA compliance with company policies.
+❌
+The Problem
+Businesses today are having trouble truly understanding what their customers are telling them because conversation data is stuck in unstructured formats and silos that make it tough to extract any meaningful insights from. These businesses are sitting on
+massive amounts
+of this data that continue to pile up from phone calls, chat history and email threads - but lack the AI talent, compute resources and tools to utilize these assets.
+What topics did customers call in about most frequently? What were the nature of those calls? What processes were in place to handle those calls and were those effective at mitigating customer frustration? How can services improve based on what customers are saying?
+Imagine an organization could answers all these questions and more,
+backed by real data
+. They could provide an
+unparalleled customer experience
+.
+✅
+The Solution: Flair
+Flair is the managed platform for ingesting conversation data and generating insights, powered by GPT4.
+We connect to call, chat and email data warehouses to kick off a pipeline to extract granular information from these data. This represents company unified knowledge.
+We generate weekly reports for directors and supervisors with insights into key drivers of KPIs, like CSAT and AHT, that businesses care about.
+Our dashboard view makes it easy to drill down, search and understand top customer issues and calling patterns
+👨
+Team
+We’re a group of engineers who’ve hacked on AI products and projects for the past 6 years from our early days in college to building at Apple, Microsoft and ML startups.
+Samir
+- Taught NLP courses at Stanford, built speech recognition at Siri, and worked on vision and text models at Bing.
+Trevor
+- Early research scientist at
+WhiteRabbit.ai
+, building the first semi-autonomous cancer detection system. He’s published several ML research paper, including articles in SPIE and Radiology AI.
+👍 How to get started?
+Book a demo here:
+https://calendly.com/thesamirsen/30min
+Find out more at:
+https://www.flairlabs.ai/
+We can help businesses drive better customer experiences through advanced call insights. Our customers also see cost savings between $0.40 - $0.80
+per call.
+No matter what stage you’re at, ping us and we’ll help you make the most out of your data.
+See All Launches ›

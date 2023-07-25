@@ -1,0 +1,51 @@
+Home
+›
+Launches
+›
+Fluid Markets
+34
+Fluid Markets - Exchange to invest in company earnings
+Fluid is a futures exchange enabling direct investments in the components that influence stock prices, without taking any market risk.
+Benjamin Litvin
+Fluid Markets
+4 months ago
+Embed
+http://www.fluidinvesting.com
+#
+b2b
+#
+fintech
+#
+investing
+#
+marketplace
+We’re excited to share what we’re working on here at Fluid!
+We're launching a futures exchange to enable
+direct investments in the components that influence stock prices, without taking any market risk
+. For example,
+invest in earnings
+of a public company,
+but not the equity
+itself.
+❌ Problem:
+Investors model out revenue, earnings, segments and other components that determine the value of the underlying company. When quarterly statements are released, an investor's prediction about a component can be
+correct
+, but they can still
+lose money
+on the trade. Investors cannot eliminate external risk through current hedging strategies.
+✅ Solution:
+We're building an exchange to offer
+futures on fundamentals of public companies.
+Our futures on
+revenue, earnings, and segments,
+among other fundamentals, guarantee that if an investor's thesis is
+correct
+, they will
+make money.
+📚 Our Story:
+Ken, Ari, and Ben are experienced entrepreneurs who have worked in derivatives and securitization investment banking at Goldman Sachs and Barclays.
+We encountered the problem of trying to trade fundamentals in our personal portfolios based on expectations of segment performance, and through speaking with equity investors, we've discovered it's a bigger problem than we could have imagined.
+❓Ask:
+If you are or know anyone who is a public equities investor, from hedge fund managers to asset managers, we would love to hear from you! You can reach out to us at
+founders@fluidinvesting.com
+See All Launches ›

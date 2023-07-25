@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Plutis
+118
+Plutis - Semantic search as a service
+We enable effortless discovery for companies' end users through semantic search.
+Kamil Ali
+Plutis
+5 months ago
+Embed
+https://plutis.io
+#
+ai
+#
+b2b
+#
+nlp
+#
+deep_learning
+#
+computer_vision
+Hi 👋 We are Asim and Kamil, co-founders of Plutis. We are bringing the power of semantic search to companies so their customers can find what they’re looking for using conversational language, without having to navigate dozens of filters or browse numerous pages.
+Problem
+When you visit a site like TripAdvisor or LoopNet you’re confronted with a search box that serves as the gateway for interacting with the content and data stored on the platform. This search is very outdated, requiring end users to navigate various filters and browse multiple pages before they get access to the content they are looking for. Because search capabilities are currently limited and do not offer natural language understanding, a few different problems arise for companies:
+Customers don’t always find what they are looking for, even if it exists on the site, leading to lower conversions.
+Consumers have increasingly lower attention spans and attrition to competitors can be quite high if search doesn’t work well.
+Ad placement in search results are less organic and present a tradeoff that can often lead to sub-par customer experiences.
+Introducing Plutis
+We are modernizing the search stack for companies by leveraging LLMs to develop conversational, semantic search which can be used to develop more immersive search experiences that help users find what they are looking for in a fraction of the time.
+On travel sites leveraging our software, for example, customers can search for 3-day itineraries, romantic restaurants with particular scenery and aesthetics, and even do an end to end experience booking without having to go through the hassle of trying different filters and performing 1-dimensional search queries.
+But why would companies not build this on their own or use out of the box models for semantic search?
+Current LLMs (out of the box) can be pretty
+costly per search
+and are
+not purpose-built
+for a specific company’s needs. They also suffer from hallucinations (can provide wrong answers that seem correct, leading to a bad consumer experience), provide often
+suboptimal results
+that don’t understand customer-specific intent, lead to a slowdown in the search experience causing customer attrition, and can provide responses that take the user to another site or competitor.
+We build lightweight, fine-tuned models to offer a more cost-effective and fast semantic search experience, built on top of a company’s data sources. We expose these fast, dedicated inference endpoints via an API and manage scaling the underlying infrastructure, providing a reliable and powerful search interface that adapts with a company’s needs.
+Our APIs not only abstracts out the complexities of standing up a tailored LLM but also provide wrappers that make LLMs work for semantic search (e.g. linking content from data sources that support responses given by the LLMs for a more immersive search and discovery experience, embedding organic advertisements into the conversational interface for more revenue generation opportunities, etc). Companies can freely design the search experience for their applications around these APIs and SDKs.
+Backstory
+We are a team of Stanford and Georgia Tech engineers with research backgrounds in NLP and Deep Learning.
+Kamil used to work at AWS on their knowledge system and AWS support stack, where he stood up Elasticsearch infrastructure and helped develop NLP systems to improve the self-serve customer support experience on the AWS console. Through that experience, he realized the challenges of semantic search and how LLMs could help improve user experiences in a much-needed way.
+Asim has also worked on standing up ML infrastructure and deploying RNNs for tasks like noise suppression in video conferencing while working on AccessBell (acq. by Tata).
+We are now looking to bring conversational, semantic search via LLMs to companies, focusing initially on hospitality services and companies.
+Our Ask
+If you know any OTAs or booking services (Expedia, Amex GBT,
+Booking.com
+, TripAdvisor, etc), we’d love an intro! We are currently working on bringing on a few initial pilot customers that we can work closely with to design their perfect search experience. Feel free to connect with us or make intros to
+founders@plutis.io
+.
+See All Launches ›

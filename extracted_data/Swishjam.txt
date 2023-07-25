@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+Swishjam
+35
+Swishjam - Open-source suite of page speed optimization tools
+We help companies measure, monitor, and optimize their page speed to deliver best in class experiences to their users.
+Collin Schneider
+Swishjam
+4 months ago
+Embed
+https://swishjam.com
+#
+b2b
+#
+saas
+#
+developer_tools
+Hey all - Collin here, co-founder of Swishjam.
+Swishjam
+is a suite of
+open-source
+tools that enables companies to deliver the best experience to their users by providing them with the tools they need to measure, monitor, and optimize their page speed.
+Page speed really, really matters
+Page speed is one of the most important yet overlooked metrics to delivering the best experience to
+all
+of your users. A faster page load is directly correlated with higher conversion, better SEO, and lower bounce rates. Amazon reported in 2006 that every additional 100ms in page load resulted in a 1% drop in revenue. Despite that, the page speed tooling is lagging behind, leaving users with more questions than answers.
+We first encountered this problem when working with users in a past role watching them attempt to diagnose performance issues on their site. While page speed was a top priority for them, they often had to use legacy software, and/or hire expensive consultants to triage and resolve them.
+A wholistic solution to measuring, monitoring, and optimizing page speed
+Swishjam helps you identify page speed bottlenecks by capturing key performance metrics your users are receiving on your site. Our dashboards help you make sense of your overall page speed, and provides you with actionable insights and tooling to improve.
+Want to learn more?
+If you or someone you know works in eCommerce, digital media, or a related industry where page speed is important KPI, we’d love any intros! You can get in touch with us at
+founders@swishjam.com
+.
+See All Launches ›

@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+EdgeBit
+23
+EdgeBit - Secure your software supply chain
+Supply chain analysis that eliminates noise in vulnerability response
+Rob Szumski
+EdgeBit
+6 months ago
+Embed
+https://edgebit.io
+#
+b2b
+#
+security
+#
+devsecops
+tl;dr:
+EdgeBit
+automatically inventories software dependencies, ensures they are trusted, and monitors vulnerabilities – securing your software supply chain. For security teams, we help you meet new compliance requirements about the libraries and packages in your products. For engineers, we make vulnerability investigation/patching streamlined, so you can get back to writing code.
+Hi everyone, we are Rob, Russell and Eugene, the team behind
+EdgeBit
+.
+We’re on a mission to make software secure by default. EdgeBit deeply understands how your app is built, what makes it up and how it’s running. That knowledge builds up trust to make developers lives easier, and your entire server fleet more secure.
+Left -
+Eugene
+- Chief Architect and low level hacker. He worked on pathfinding algorithms at Lyft, container networking at CoreOS and performance optimization in his high frequency trading days.
+Center -
+Rob
+- CEO and product leader. He was a Director of Product at Red Hat working on the OpenShift/Kubernetes platform after their acquisition of CoreOS (YC S13).
+Right -
+Russell
+- CTO and master of backend systems. He ran security engineering at Okta after their acquisition of ScaleFT, the zero trust access management startup he cofounded.
+The Problem: securing software still feels like throwing problems over a wall
+Security teams have important work to do – meeting a maze of compliance rules against a constantly moving target of dependencies, frameworks and deployment platforms. Automation is key, but security teams aren’t experts in each app, so “open a ticket for any vulnerability found” is a typical workflow. This is a firehose for app teams, and tickets don’t contain the context needed for a speedy investigation.
+Looking beyond compliance, real attacks are happening via software dependencies. For a single library, it’s tricky to securely download, integrate, sign and verify it…and very hard for 100s of dependencies across multiple apps. An enterprise can use
+40,000 open-source software packages
+each bringing another 77 dependencies.
+An end-to-end system across the build→scan→run→monitor is required to stop these attacks. Dependencies are fragmented across OS packages, standalone binaries and containers, but a single view across all is required to understand the full attack surface.
+EdgeBit: Map your supply chain from build to production in real time
+EdgeBit builds up context and trust by observing your software from build until deployment to your server fleet. How does it work? Install EdgeBit into your build pipeline and your server fleet/Kubernetes cluster via a tiny agent to immediately enable teams to bring vulnerabilities under control:
+Security: track workload signatures, provenance and prevent malicious modification
+Compliance: build a real time inventory tracked back to the software’s bill of materials (SBOM)
+Engineering: prioritize vulnerability investigation based on deep context
+Enterprises: track patching across teams. The next log4j will come, and it’s a huge endeavor without real time inventory across all tech stacks and packaging formats.
+Try out EdgeBit
+Security teams can
+install EdgeBit
+to track their supply chain and even help compliance managers do their job without getting engineering involved. Remove frustration from your vulnerability response program by connecting your teams together and take control back from noisy scanners.
+Securing supply chains is just a step in our journey. Using trust profiles between systems is key to a zero trust security posture. We’d love to chat with you about acute compliance needs or long term security goals of your organization.
+See All Launches ›

@@ -1,0 +1,53 @@
+Home
+›
+Launches
+›
+Seaflight Technologies
+38
+Seaflight ✈️ The most efficient, electric air cargo - using wingships
+We cut the cost of flying air cargo across the sea by up to 80% - an advantage so big, we’re building a new FedEx.
+Graham Doig
+Seaflight Technologies
+a year ago
+Embed
+http://www.seaflight.tech
+#
+climate
+#
+robotics
+#
+airplanes
+#
+logistics
+#
+transportation
+Hi everyone, Graham and Will here, founders at Seaflight Technologies. Rather than waiting for batteries to double in energy density so that electric aviation can start to become A Thing, we started building a more efficient way to fly heavy stuff over longer distances. Using technology that makes economic sense
+today
+.
+Coastal and inter-island freight is either very slow or wildly expensive.
+Amazon Prime doesn’t mean the same thing once you have to get stuff over water! Whether you’re in Antigua or Australia, Saipan or Sumatra, goods can take days or weeks to come by boat the cheap way. If you need pharmaceuticals, fresh produce, or electronics quickly, expect to pay 10x or 20x in shipping costs to have it flown and it can
+still
+take days door to door.
+Electric aircraft could make this all cheaper and cleaner and faster and… ah. Right. Low range, low payload, high upfront costs. Forgot about that. So for hundreds of millions of people around the world in coastal or island communities that would benefit the most from much cheaper service, the electric aviation revolution just isn’t coming. Unless…
+Have it wingshipped! Wait… what is a wingship??
+Seaflight’s wingships are like aircraft that fly at ultra-low altitude, just a few meters above the water in “ground effect” – like a pelican skimming over the waves. We get way more lift, and a bit less drag, and we don’t waste energy climbing up to altitude. This aerodynamic efficiency gain is super important; it’s as if we waved a magic wand and nearly doubled the energy in a battery pack for free.
+Wingships are classified as maritime vessels rather than actual aircraft, so we can operate with no FAA certification or integration into airspace needed, which dramatically reduces development costs.
+Starting with remote piloting, all of this combined can dramatically increase the profit on flown cargo delivery – a sea change (erm…) in an industry where 5% margins are normal. This gives us a SpaceX style advantage - they didn’t develop cheap re-usable rockets just to sell them and let others capture the value. So we’re here to create our own network - basically a new version of FedEx, or a mini-Maersk!
+“Please. No more hyperloops. How does this become real?”
+With you on that. We’re builders.
+We already have flying scale hardware that we built during the batch, flying with some simple sensor fusion to maintain low altitude over the water.
+We rapidly iterate hardware at the small scale, and will be able to generate revenue with our next, larger prototypes - this isn’t a 10 year, billion dollar vaporware effort, this is happening now with multiple partners in our first markets.
+Oh, and we have funding from the National Science Foundation backing our key aerodynamic tech - that’s hardcore, peer-reviewed, revolutionary IP.
+About the founders :
+Graham has a PhD in the aerodynamics of ultra-low altitude flight, which is handy! Graham and Will met at California Polytechnic State University, where Graham was a Lockheed Martin Professor of Aerospace Engineering and Will was leading a land speed record solar car project that Graham had initiated after gaining two successful world speed records himself. A few years later, after Graham had led the aerodynamics and range team for commercial/delivery vehicles at EV startup Canoo, and Will had worked technical program management on production of remote-piloted aircraft at General Atomics, the two reconvened. Decarbonization of aviation is one of the biggest craziest hardest challenges of any industry, so we started hacking away in the garage…
+Lastly, Asks 🙏
+Could you connect us to
+anyone in a branch of the military
+who’s actively involved in logistics?
+Do you have any
+friends or colleagues that are involved in ocean research
+that could hop on a call with us?
+Do you know
+any wizards in machine vision / autonomous mobility
+who are looking for a bonkers new professional challenge?
+See All Launches ›

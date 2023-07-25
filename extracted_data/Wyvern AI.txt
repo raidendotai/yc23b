@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Wyvern AI
+15
+🐉 Wyvern AI - Increase revenue in marketplaces with better product ranking
+With Wyvern, not only do marketplaces get better product ranking, they get the ability to fine-tune the ranking with unique insights about their business
+Suchintan Singh
+Wyvern AI
+19 days ago
+Embed
+https://www.wyvern.ai/
+#
+search
+#
+marketplace
+#
+infrastructure
+#
+machine_learning
+#
+recommendation_system
+TL;DR:
+Wyvern.ai
+is a machine learning platform for marketplaces to help them optimize their product ranking. We do this by providing an API that’s integrated with their product catalog, that optimizes product ranking based on factors such as popularity, relevance, and personalization. In addition, we also provide a framework where customers can fine-tune their product ranking models with custom insights and tailor them to their business. We built this exact platform before, and it unlocked over $100M of value.
+💸 Product Ranking:
+Unleashing Growth Potential
+Marketplaces, such as Amazon, eBay, or Etsy, often have millions of products listed by various sellers, making it crucial to determine how to present these products to users effectively. These companies have teams of data scientists dedicated to improving the quality of product ranking, factoring in things like personalization (ie individual user preferences), relevance, and general product popularity.
+Our experience building Faire and Gopuff’s machine learning platform highlighted the value that product ranking derives for the business. Through successive iterations of machine learning models, we witnessed impacts exceeding 10% (equivalent to over $100 million) for these businesses.
+A notable portion of these impactful iterations involved providing machine learning models with access to unique insights into user behaviour. For instance, at Faire, gaining a better understanding of what products their retailers stocked in their stores enabled tailoring the shopping experience to suit each store's distinct characteristics.
+Other larger marketplaces had their own insights. At eBay, incorporating buyer-seller shipping logistics information into their product ranking models produced notable improvements. Similarly, at Etsy, the users' initial interactions with the site indicate their shopping intention, allowing their product ranking models to transform the entire homepage to deliver a personalized experience.
+💣 Challenges to navigate along the way
+While larger marketplaces have the leverage to iterate on their product ranking, smaller marketplaces tend to buy off-the-shelf solutions, allowing them to bootstrap and search for product-market-fit.
+Once a marketplace establishes product-market-fit, transitioning from an off-the-shelf product ranking solution to a highly customizable one is deceptively challenging and requires substantial engineering investment:
+Latency:
+Effective product ranking models perform better when they can evaluate a large number of products. However, as the number of products increases, so does the user-facing latency. Maintaining fast browsing experiences while running machine learning models on hundreds of products in under 100 milliseconds is a demanding technical hurdle.
+Customizability:
+The value derived from machine learning models in product ranking heavily relies on incorporating unique user behavior within the marketplace. Therefore, the system needs to be highly flexible, enabling data science teams to explore and implement new insights they acquire about users.
+Observability:
+The importance of data quality and accuracy cannot be overstated in machine learning. Ensuring that that the data used for model training and evaluation is reliable, enabling effective decision-making and accurate product ranking.
+🐉 Solution:
+Wyvern AI
+Wyvern’s machine learning platform solves these problems. Not only do we give marketplaces a model that immediately improves their product ranking, we also provide:
+The ability to iterate on and fine-tune the model by expanding its inputs, such as relevance, personalization, popularity, and more.
+The ability to adjust the model's objective, allowing it to optimize conversion, GMV, revenue, profit, or a combination thereof, based on the current focus of the business.
+An observability layer is provided to marketplaces, offering essential capabilities for debugging and evaluate historic predictions. This layer also facilitates transforming the data into a feedback loop, enabling continuous improvement of the performance of real-time machine learning models.
+This allows our customers to dedicate data scientists to iterate on models within their marketplace, allowing them to continually improve the quality of product ranking across all of their surfaces.
+🙏 Our asks
+Are you a marketplace company? We would love to chat.
+Do you know anyone working at growing marketplaces? We’d love an introduction.
+If you have any questions, you can reach us at
+suchintan@wyvern.ai
+See All Launches ›

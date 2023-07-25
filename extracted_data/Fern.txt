@@ -1,0 +1,67 @@
+Home
+›
+Launches
+›
+Fern
+57
+Fern - SDKs and documentation for your API ⚡
+Auto-generate your client libraries, API docs, and server code
+Danny Sheridan
+Fern
+5 months ago
+Embed
+https://www.buildwithfern.com
+#
+b2b
+#
+api
+#
+saas
+#
+open_source
+#
+developer_tools
+TLDR
+: Fern generates useful artifacts for your API, like SDKs, docs, and server code.
+Star us on GitHub! ⭐
+Steve Yazicioglu, Head of Engineering at Candid Health (Series A)
+Problem
+When building APIs, we spent a lot of our time doing things like:
+Writing types & networking logic on the backend
+Communicating details of the API endpoints over Slack
+Re-writing the
+same
+types & networking logic on the frontend
+Re-writing the
+same
+types & networking logic in each SDK or client library
+Re-writing the
+same
+information in our docs & Postman Collection
+Inevitably, these multiple sources of truth get out of sync, causing runtime bugs, wasted hours of debugging, and frustration.
+Solution
+Fern
+productizes schema-first API design. You define the schema of your API (or give us an OpenAPI spec) and we generate:
+SDKs
+in popular programming languages. Our SDKs feel handwritten. They can be used externally for customers or internally for your frontend/microservices.
+API docs
+that sync to your provider of choice.
+Postman Collection
+complete with examples of successful and unsuccessful requests
+Server-side validation
+to make sure that you serve the API you promised.
+Fern also registers all versions of your API in a registry — no need to ping a coworker over Slack to understand how to consume an API.
+With love
+💌
+,
+Team Fern 🌿 (Zach, Deep, and Danny)
+Our asks
+Star us on
+GitHub!
+Read our
+blog
+about how Candid Health uses Fern
+Book a demo at
+www.buildwithfern.com
+What our users are saying
+See All Launches ›

@@ -1,0 +1,34 @@
+Home
+›
+Launches
+›
+Apprecio
+34
+Apprecio - Helping the 10M mom & pop shops in Latam accept card payments
+We are the financial super app for these merchants to accept from card payments to QR code payments.
+Aldo Del Valle
+Apprecio
+a year ago
+Embed
+https://apprecio.mx/
+#
+fintech
+#
+payments
+#
+latin_america
+print(“hello world!”)
+Problem:
+Mom & pop shops in Latam (tienditas) represent +60% of total sales for CPG companies like Coca-Cola, and still 9 out of 10 sales are still done in cash and managed with pen and paper.
+These businesses manage inventory, purchases, sales and credit in a notebook. Existing POS solutions require these businesses to buy a computer or tablet, a barcode scanner, a license and signup with a payment processor/gateway.
+Solution
+Apprecio is a mobile app that allows businesses to manage sales, purchases, inventory and payments. With our built-in product scanner enabled by the camera we are able to save hours of time for them as it is faster to use than pen and paper! They don’t even have to upload SKU codes manually as we have a +20,000 proprietary product data base with price information attached to their location.
+While building this, we realized very quickly that store owners lose 30% of their sales by not accepting card payments. That’s why we decided to build a payments solution for them that just went live with our first beta testers. Right now we are only focused in Mexico, but we are looking to expand to other countries in LATAM.
+Ask:
+If you think we can collaborate somehow feel free to reach out!
+If you live in Latam and you have a trusted tendero show them Apprecio
+Wanna talk? Lets book a
+meeting
+or send me a
+WA
+See All Launches ›

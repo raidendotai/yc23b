@@ -1,0 +1,76 @@
+Home
+›
+Launches
+›
+ProdTrace
+22
+ProdTrace - AI-driven bills of material and supplier management for hardware companies
+The AI-driven platform that integrates your bills of materials with your supply chain.
+Jana Mithrakumar
+ProdTrace
+5 days ago
+Embed
+https://www.prodtrace.com/
+#
+ai
+#
+b2b
+#
+hardware
+#
+supply_chain
+#
+artificial_intelligence
+Overview
+Hi everyone, we are Saelig and Jana and we are building
+ProdTrace
+!
+ProdTrace helps hardware companies manage their bills of materials (BOM) and automate their supplier communication. We leverage AI to automate messaging over channels such as email and text, parse communication with suppliers to generate supplier scorecards and manage your BOM and documents exchanged with suppliers in a central location.
+❌ The Problem
+Supply chain managers at hardware companies
+spend 10+ hours a week
+writing repetitive emails and procurement documents
+Frequent changes to the design increase the likelihood of sending outdated versions of BOMs or design documents to manufacturers, which
+costs hardware companies tens of thousands of dollars
+and
+delays production
+Tracking and scoring suppliers is a manual and tedious process so it is often overlooked, but the lack of diligence ends up
+delaying production
+when a supplier fails to deliver
+BOM and engineering change data is poorly (if at all) linked to supplier data leading to
+lack of synchronization between hardware, supply chain and operations teams
+⚙️ The Solution:
+ProdTrace’s AI-driven BOM and supplier management platform
+Our platform solves these problems by allowing hardware companies to:
+Leverage AI integrated with BOM and supplier data to
+automatically draft emails, messages and procurement documents like RFQs
+Keep track of BOM, CAD and other document changes and
+automatically synchronize
+with supplier communications
+Use our AI to analyze incoming communications and documents from your suppliers to
+collect data on supplier KPIs
+such as pricing, responsiveness, and quality
+Manage their BOM in smart tables that can
+integrate with existing PLM tools, ERPs
+and part vendor APIs (e.g. Digikey, SiliconExpert)
+🚀 The Team
+Jana (left)
+previously designed AI accelerators at SambaNova systems, edge inference electronics at Google and warehouse automation robots at Dexterity. He has firsthand experience of the issues with managing bills of materials and suppliers that hardware companies, engineers and supply chain managers are faced with.
+Saelig (right)
+previously worked on the growth team for YouTube Premium at Google, building their data and ML platform. He has extensive experience in AI from the Stanford AI Lab, publishing in conferences such as NeurIPS and Nature Communications.
+We met at Stanford University where we both studied Electrical Engineering and have been close friends for many years. Together, we are on a mission to make managing hardware as easy as software.
+🙏 Our Asks
+Connections:
+If you know hardware or supply chain teams that may be interested, we would love an intro
+Pilots:
+If you are interesting in using ProdTrace, you can book a demo with us
+here
+Feedback
+: If you have experience building hardware or managing hardware supply chains or know someone who does, we would love to chat.
+Follow
+ProdTrace on
+LinkedIn
+You can reach us at
+founders@prodtrace.com
+Thanks for reading!
+See All Launches ›

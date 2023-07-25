@@ -1,0 +1,58 @@
+Home
+›
+Launches
+›
+pyq
+140
+⚡ Pyq - Easy AI integration into applications
+With pyq, you're one API call away from leveraging open-source models in your application!
+Emily Dorsey
+pyq
+6 months ago
+Embed
+https://www.pyqai.com
+#
+b2b
+#
+aiops
+#
+developer_tools
+#
+machine_learning
+#
+artificial_intelligence
+TL;DR :
+Pyq makes it easy for developers to build features powered by AI. We do this by providing simple APIs to popular open-source models that any developer can instantly start using straight from our website.
+Hello everyone! We’re Emily Dorsey and Aman Raghuvanshi and we’re the team at Pyq.  We’re working to make AI easy, after facing difficulties getting AI integrated at our previous jobs.
+Aman (CEO) previously worked in ad tech, and watched his team hire additional engineers just to manage their AI stack.
+Emily (CTO) was previously at Microsoft, and spent more time than she’d like wrangling Azure.
+Did we…pique your interest? Sign up
+here
+!
+The problem 🤔
+ML models have grown in popularity and complexity, but getting started using them remains a challenge. The process involves several steps: identifying a model that might work for your scenario, sorting out where to access and how to use that model, getting it running in the cloud. These all require domain knowledge, and can take a lot of time.
+The Solution
+🦸
+Enter Pyq. We’ve deployed some of the most popular ML models on our managed infrastructure for anyone to use via our API. We maintain these models in production so you can focus on using them to improve your application. You can use us to go from 0 to 1, and beyond. You can even fine tune these open source models with us if you want to customize them.
+Our models are good for specific use-cases, and often address problems that cannot be solved by popular large language models (LLMs) such as OpenAI’s GPT.
+We can also deploy, host and manage proprietary models. We’ll manage versions and supply a dashboard to track essential metrics.
+How it works ⚙️
+Sign up and get started! Below you can see our model zoo, which allows you to test and see the various open source models we currently have available. We also have some sample applications, also available through the API. Including:
+Image captioning
+Transcription
+Image object recognition
+Website summarization
+AI-written text detection
+Stay tuned - we add new ones every week!
+The ask
+If you want to build a feature or a product that uses artificial intelligence, sign up
+here
+and get started in minutes.
+If you want a demo first, book one
+here
+.
+We’d also love an introduction to someone who might be interested - email us at
+founders@pyqai.com
+!
+And finally, share this post!
+See All Launches ›

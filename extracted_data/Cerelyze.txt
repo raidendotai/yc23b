@@ -1,0 +1,55 @@
+Home
+›
+Launches
+›
+Cerelyze
+35
+Cerelyze: Tool for engineers to implement research papers 100x faster
+Automatically convert methods discussed in scientific papers into python code
+Sarang Zambare
+Cerelyze
+11 days ago
+Embed
+https://cerelyze.com
+#
+ai
+#
+b2b
+#
+saas
+#
+developer_tools
+#
+artificial_intelligence
+The problem:
+Building innovative products requires implementation of the latest and greatest research. But the world of tech research is currently facing a problem of too much information. It takes an arduous amount of time to iterate over possible state of the art research papers, because well.. every paper claims to be state of the art these days. A vast majority of papers, although promising, do not provide any links to the code that was used to reproduce the results.
+You have to implement it in your own use case to see if it actually works for you. This is a slow process and takes most engineers weeks to implement a single paper completely. Also many engineers who do not come from research backgrounds are intimidated by the language and the math, which more often than not isn’t that complicated when converted to code
+How Cerelyze solves the problem:
+Under the hood Cerelyze is a combination of powerful pdf parsers optimized for scientific content and multiple LLMs that understand language and code.
+Cerelyze provides a browser based interface where you can upload the research paper you are working on and issue commands like:
+/implement:
+this will automatically generate the code for the given method in the code editor. The more clearly and exhaustively the method is described in the paper, the better the results
+/modify:
+you can ask it to modify the generated code to your liking. For instance: “
+/modify change the last layer such that it outputs 3D tensors and not 2D tensors“
+Run:
+You can also run the generated code directly in the browser!
+You can ask it to explain specific parts of the paper in a ChatGPT like fashion, and understand the paper much quicker.
+Some thoughts:
+To thoroughly understand and implement new research into software is a slow process.
+We plan to make it drastically faster by fundamentally changing the way engineers consume & reproduce technical articles to build software
+. This we believe will accelerate innovation by dissolving the bottleneck between organizations that are involved in research and organizations using the research commercially in the industry.
+Our early users are already exploring use cases in fields such as machine learning, systems programming, biotech and quantitative finance.
+About me
+I come from a physics heavy background. Before building Cerelyze, I was at Peloton and Caper (YC W16) as lead deep learning engineer. I have been on teams that started from scratch and shipped ML based products at scale with thousands of daily users (Peloton Guide, Caper Counter & Cart). While building these products I was constantly on the lookout for the latest research that would help the product have an unfair advantage over others. It was difficult to keep up with the ever evolving field of machine learning, and Cerelyze is the tool I wish I had back then.
+Asks:
+If you or someone you know implements research papers into software on a regular basis at your job, please reach out to me at
+sarang.zambare@cerelyze.com
+Checkout the demo, or
+Sign Up and give it a spin yourself
+at
+https://cerelyze.com
+Join our discord:
+https://discord.gg/B6hDDrmS
+Cheers!
+See All Launches ›

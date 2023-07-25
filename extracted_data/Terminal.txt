@@ -1,0 +1,47 @@
+Home
+›
+Launches
+›
+Terminal
+42
+Terminal: Plaid for Telematics 🚚
+Our Universal API makes it easy for developers to integrate fleet telematics data into their application.
+Raghav Midha
+Terminal
+a month ago
+Embed
+https://www.withterminal.com/
+#
+api
+#
+logistics
+#
+supply_chain
+#
+transportation
+#
+developer_tools
+📌 TL;DR
+Companies building products for transportation, logistics and fleet management spend 30%-40% of their engineering capacity on integrations - this is expensive, undifferentiated work that takes their time away from working on actual customer problems. Terminal (
+withterminal.com
+) is a Universal API for Telematics that makes it easy for these teams to integrate all of the top telematics platforms into their application without needing to worry about the complex underlying details.
+😰
+Problem
+Our customers include (but are not limited to): insurance companies, fuel cards, invoice factorers, fleet management systems, digital freight brokers, load boards and transportation management systems. These folks need access to telematics data to support their end-users who are trucking companies and commercial fleets. Integrating telematics is often a must-have for them and there’s typically a direct correlation between their number of supported integrations and their sales closure rate.
+The telematics market is fragmented, with hundreds of available platforms, each with their own type of integration (REST, SOAP, etc.), and documentation that is not always available. Companies that need to integrate into these vendors have large integration teams and are still unable to meet their customers' demand.
+🔮 Solution
+Terminal's Universal API for Telematics enables companies to support all of the leading telematics platforms through a single integration. Similar to Plaid and Stripe - our mission is to increase the innovation velocity of transportation, logistics and fleet management through making fleet data more accessible.
+We provide a white-labelled
+User Interface
+for fleet managers to grant access to telematics data like GPS, vehicle stats, driver hours and safety events.
+Once a fleet manager grants access, we extract, normalize, enrich, and sync the data for our customer. We also offer common data models, webhooks and access to raw telematics data to make it easy for customers to integrate. You can learn more about how it works in our
+API Documentation
+.
+Customers also receive a
+Support Portal
+for managing their integrations, customer connections and data syncs.
+😇 Ask
+If you know any companies that currently integrate or are looking to integrate with telematics, please let us know at
+founders@withterminal.com
+.
+See All Launches ›

@@ -1,0 +1,40 @@
+Home
+›
+Launches
+›
+MagnaPlay
+87
+MagnaPlay — AI-powered game translation
+We translate games at a faster, cheaper and more reliable rate.
+Pedro Esteves
+MagnaPlay
+5 months ago
+Embed
+https://magnaplay.com
+#
+saas
+#
+gaming
+#
+artificial_intelligence
+TL;DR
+We use AI-assisted translators to largely automate the process of translating your game. We turn months of work into days, profit-ruining expenses into a manageable cost, and we help connect the world through gaming.
+Hey everyone! We’re
+Pedro
+and
+Paulo
+from Brazil, two college dropouts from Harvard and the University of Chicago on the mission to democratize gaming!
+❌ The Problem
+Well, it’s pretty intuitive that games these days need to be translated, with English speakers compromising only 20% of the gaming population. What isn’t intuitive is how expensive and time consuming this process is.
+Traditional localization involves identifying a suitable partner, negotiating complex pricing models, vetting their quality, and paying them tens of thousands for what is often a straightforward task. A part-time developer might have to wait months and invest upwards of $30k to translate their game!
+✨ Our Solution
+We built technology that translates entire games in seconds, instead of months. We take into account cultural norms, game context and even screen display sizes. We then cross check texts across languages and pass everything through our QA team, ensuring meaning is preserved and quality is up to the highest standards.
+We integrate this infrastructure to game devs’ IDEs. Translation is now fully streamlined into the game production process. No back and forth, endless invoices, and contracts ⁠⁠— just one subscription, like any other SAAS tool.
+Gaming is the entertainment form of the future, and it only makes sense that it should be accessible to everyone around the world. We aspire to be a tool used to build that reality!
+✅
+Our Asks:
+If you’re a game dev, or know someone who is, email us at
+hello@magnaplay.com
+!
+Spread the word! Share this post, help us connect the world! 🌎
+See All Launches ›

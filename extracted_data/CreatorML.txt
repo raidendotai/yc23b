@@ -1,0 +1,65 @@
+Home
+›
+Launches
+›
+CreatorML
+108
+CreatorML - ML-Powered Predictive Analytics for YouTube Creators
+We help YouTubers choose better topics, titles, and thumbnails to make more money.
+Charles Weill
+CreatorML
+4 months ago
+Embed
+https://creatorml.com/
+#
+ai
+#
+b2b
+#
+analytics
+#
+creator_economy
+#
+machine_learning
+Howdy,
+Charles Weill
+here! 👋🏼
+I’m the founder of
+CreatorML
+, a ML-powered web-based tool
+and
+Chrome Extension that helps YouTube Creators predict which topics, titles, and thumbnails will get the most views before they upload.
+For context, prior to June 2022, YouTube paid out over $50B in advertising rev-share to its creators.
+The Problem
+Success on YouTube is determined by views, yet creators have no way of quantifying the number of views their videos will receive.
+To try and uncover the winning formula, many churn through as many videos as possible and quickly burn out.
+YouTubers are drowning in analytics data, but only the largest creators can afford to hire data science teams to get actionable insights.
+The biggest determinant of success on YouTube is the quality of topics, titles, and thumbnails.
+Our Solution:
+We developed a proprietary machine learning algorithm that analyzes millions of video datapoints to create a reliable, scalable predictive model.
+Our view predictors allows creators to understand how small changes like reducing the character count of a title, or changing the colors of a thumbnail image can make a meaningful difference in video views.
+By removing bias when creators select a title and thumbnail, CreatorML ensures long-form videos are objectively packaged to attract and engage the largest audience possible.
+While CreatorML is starting with topics, titles and thumbnails, our vision is to create a complete predictive ecosystem that guides creators through every step of the creative process.
+The Team
+Before founding CreatorML, I was technical lead in applied machine learning at Google Research for 7 years, using deep learning to improve critical algorithms in Cloud AutoML, Ads, Search, and YouTube.
+I’m also a part-time
+YouTube Creator
+.
+I realized that I found a pain point when I began
+tweeting about simple analyses of YouTube analytics data
+, and many of the biggest YouTubers in the industry began following me.
+How You Can Help:
+Try our demo to get view predictions for channels such as
+MrBeast
+,
+Aphmau
+, and
+MKBHD
+.
+If you’re a YouTube Creator with over 100,000 subscribers, let’s connect at
+founders@creatorml.com
+, and I’ll onboard you with a custom view predictor for your channel.
+If you’re not a YouTuber, you should download our
+Chrome Extension for YouTube
+. It’s totally free, and shows you when YouTubers change their titles and thumbnails, so you can learn what works and what doesn’t for when you begin making your own content:
+See All Launches ›

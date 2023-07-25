@@ -1,0 +1,44 @@
+Home
+›
+Launches
+›
+Glass Health
+24
+Glass Health — Frictionless software for learning and practicing medicine 🩺
+Glass is an AI-powered platform for medical knowledge management and clinical decision making that helps clinicians provide better patient care.
+Dereck Paul
+Glass Health
+6 months ago
+Embed
+http://glass.health
+#
+saas
+#
+healthcare
+#
+health_tech
+#
+digital_health
+🤔 PROBLEM
+We saw physicians struggling to manage an ever-expanding world of complex clinical information from heterogeneous sources. We also experienced this problem first-hand in the clinical environment. Our friends in medicine had phones and email accounts full of disorganized journal articles, tweets, clinical images, lecture slides. They could not easily reference these important digital assets when needed to enhance their care of patients.
+🩺 SOLUTION
+Glass is a medical knowledge management platform, aka “Notion for doctors.” Our platform is tailored to how clinicians capture, organize, store, and retrieve medical knowledge.
+We’ve created medicine-specific knowledge management features, including:
+Schemas, Scripts, and Cases: store content in special page templates tailored to common medical knowledge constructs.
+Pearls: capture snippets of clinical knowledge encountered during patient care and later organize them in your notebook.
+Linking and Visualizations: easily backlink pages and later view their relationships with medicine-specific visualizations.
+Community Library: view and save pages published by others in the Glass Health Community.
+Glass AI: draft differential diagnoses and clinical plans using generative AI. (
+Glass AI Demo
+)
+Team Collaboration (coming soon): track key information about patients in a HIPAA-compliant team collaboration environment.
+These features help clinicians bring all medical knowledge assets they encounter throughout their careers into one place. This helps them achieve clinical mastery faster and leverage their ever-growing digital external brains to better care for patients.
+📖 FOUNDER BACKGROUNDS
+Dereck Paul, MD
+was a resident physician in internal medicine at Brigham and Women’s Hospital, Harvard Medical School, and a medical student at the UCSF School of Medicine.
+Graham Ramsey
+interned at Watsi (YC W13) and designed and built the EHR at the telemedicine company PlushCare. He was an early product team member at Modern Fertility (YC S17) until its acquisition by Ro in 2021.
+Contact us at
+founders@glass.health
+.
+See All Launches ›

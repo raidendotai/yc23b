@@ -1,0 +1,51 @@
+Home
+›
+Launches
+›
+Booth AI
+35
+Booth.ai - Easy product photography with Generative AI
+Create unique, engaging product images - all without a photographer
+Nick Locascio
+Booth AI
+5 months ago
+Embed
+https://booth.ai
+#
+retail
+#
+marketing
+#
+e-commerce
+#
+generative_ai
+#
+artificial_intelligence
+Hi YC 👋
+High quality product photography is a must for E-Commerce stores, but it gets costly fast - with an average of $300/SKU for new photography. That’s why
+Ian
+and
+I
+started
+Booth.ai
+to make quality product photography scalable and accessible to sellers of all sizes.
+🔥 TL;DR
+Booth.ai
+is your personal product photographer, powered by Generative AI. Just describe your photoshoot in text, and we’ll place your product naturally in the generated scene.
+🧠 How does it work?
+Booth.ai
+’s core technology is built on top of Stable Diffusion’s foundation model, plus some fine tuning, and a custom computer vision pipeline. We make this incredible technology accessible and easy to use. Customers connect their Shopify stores to auto-import all of their products. Then they describe, in text, how they want their product to appear.
+Booth.ai
+handles the rest by generating a scene around the product and producing a 4k image. We even support bulk image generation for stores with thousands of SKUs.
+🛍️ Who is
+Booth.ai
+for?
+Our ideal customer profile is an e-commerce business that sells a physical product, and currently spends > $10k yearly on visual imagery. This includes e-commerce aggregators, independent stores on Shopify, WooCommerce, Magenta, FBA, and larger brands with SKU counts that eclipse their photography budgets.
+✋
+Our asks
+If you run an E-Commerce business - reach out, give us a try, and book a demo
+here
+! Use our YC-network discount code YC30 for 30% off our plans.
+If you know a founder/operator in this space who would be interested in using Booth AI, please connect us to them -
+founders@booth.ai
+See All Launches ›

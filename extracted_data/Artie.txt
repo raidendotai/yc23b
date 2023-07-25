@@ -1,0 +1,77 @@
+Home
+›
+Launches
+›
+Artie
+104
+Artie - real-time data streaming for databases ⚡
+We transfer data from databases to data warehouses in real-time with CDC streaming
+Jacqueline Cheong
+Artie
+a month ago
+Embed
+https://www.artie.so/
+#
+b2b
+#
+saas
+#
+open_source
+#
+developer_tools
+#
+data_engineering
+TL;DR
+Artie is an open-source, streaming version of Fivetran - we transfer data from databases to data warehouses in real-time. Setting up a connector takes minutes and Artie leverages change data capture (CDC) to help companies reduce their data warehouse costs by 50%! We enable organizations to unlock real-time insights for better decision making.
+Star us on GitHub
+!
+Hi everyone, we are Jacqueline and Robin and we’re the team behind
+Artie
+. We’re on a mission to eliminate data latency and make it easy for every company to enable real-time data streaming!
+Data is typically synced from production databases to the data warehouse once every X hour(s)/day(s) - this is a constraint that companies have lived with for decades. Robin personally felt the pain of not having access to production data in real-time and there were no easy to use out-of-the-box solutions, so we decided to build one!
+❌ The Problem
+Does your company sync data to the data warehouse every 6 hours, or worse, once a day? Are your analytics always lagged and filled with stale insights?
+Why settle for a data platform that’s barely good enough when you can have real time data AND reduce your data warehouse costs?!
+Not to mention you can have Artie set up in minutes!
+Traditional ETLs are based on
+batched processes
+that operate on a cron schedule (DAGs, Airflow) and
+cannot achieve real-time data syncs
+.
+Building and managing streaming data pipelines is hard. Most companies have a small team of data engineers and they often spend all day maintaining their data pipelines, which is not productive.
+Factors companies should consider if they want to self-manage pipelines:
+Can the solution scale to multiple different data sources?
+How easy is it to add new data sources?
+How easy is it to manage across all the data sources?
+Can the solution scale to handle 1m+ queries per second?
+Is the solution horizontally scalable?
+Do workers require coordination? Or are they stateless and distributed?
+How do you ensure there are no out of order or missing events (even when the system crashes)?
+Can the solution handle schema evolution without creating breaking changes downstream?
+🎉 Solution
+Artie leverages change data capture (CDC) and stream processing to achieve
+sub-minute data latency (~typically 10-20 seconds)
+. Since we
+only transfer changed data
+, Artie is more efficient than traditional ETLs and can help you
+cut down on your data warehouse cost by 50%!
+Setting up a connector requires no programming. Just follow the setup guide and deploy in minutes! After the initial snapshot, any changes in your database will be reflected in your data warehouse in real-time.
+🎯 Who Needs Artie?
+Engineers
+that are exhausted stitching together Airflow + AWS Glue + Apache Spark + AWS Kinesis/Kafka + Apache Flink 😵‍💫
+Companies that are using traditional ETLs or batched processes
+. Once you enable real-time, there is no going back (your data engineers/BI analysts won’t let you)! Think of all the previously unattainable use cases that you can now implement without data latency.
+Companies that have a cost cutting initiative.
+Adopt Artie’s CDC streaming capabilities to reduce your data warehouse costs!
+🙏 Ask
+Email
+hi@artie.so
+or sign up
+here
+to try Artie today!
+Want to use open source? Install Artie at
+https://github.com/artie-labs/transfer
+(give us a ⭐!) and ping us on
+Slack
+, we’re happy to help you get started.
+See All Launches ›

@@ -1,0 +1,69 @@
+Home
+›
+Launches
+›
+Axolo
+9
+Axolo: Merge code faster 🐙 now on GitLab (and GitHub)
+Review merge requests faster
+Arthur Coudouy
+Axolo
+9 months ago
+Embed
+https://axolo.co
+#
+saas
+#
+developer_tools
+On top of GitHub Axolo is now also available on GitLab. Now every team who is on Slack and GitLab or GitHub can collaborate seamlessly on code reviews.
+🤯 Problem:
+Why pay engineers 100 thousand dollars to have them sit and wait for their code to be reviewed? Code review workflow is, more often than not, unproductive.
+We’ve identified three major problems:
+Time to review: Takes too long to be reviewed and it’s painful.
+Context switching: Switching between code review tools and Slack to communicate is a time waster.
+Documentation: It’s hard to document everything that is being said. Merge requests are being talked about in DM and private calls. There is no documentation, and it’s hard to know why a decision was made.
+🎯Developers lose precious focus time
+We estimate that developers waste at least 2 hours per week coordinating with one another on pull requests.
+For a team of 20 that represents the work of 1 developer full-time. This is at least 140k$ per year.
+🏚 In-house solutions and bots are going OBSOLETE.
+Noizy - Alerts everyone and then gets ignored
+Hard to maintain
+Miss critical info: deployments, GitHub Actions, and checks.
+🐙 Introducing Axolo: we bring back focus to your developers:
+Companies using Axolo have seen a 40% decrease in average cycle time. 86% of developers who use Axolo on a daily basis say that it has improved their code review workflow.
+How does it work?
+It’s simple: Axolo creates an ephemeral Slack channel for each code review, invites only the right people, and adds all contextual information needed (CI/CD, ticket link, code conflicts, code review comments, etc..). When the code is merged the channel gets archived silently.
+Still Sceptical? Check our
+reviews on G2
+.
+We have already more than 1400 engineers on Axolo every day and are proud to be working with excellent YC companies such as
+@Weekday
+,
+@Formance (fka Numary)
+,
+@Lamin Labs
+,
+@Curebase
+,
+@Swayable
+,
+@Jovian
+,
+@Swayable
+,
+@Marble
+,
+@Centaur Labs
+,
+@Fuse
+,
+@ClipDrop
+, and more…
+Ask YC
+Communication and collaboration are one of the five pillars of highly effective tech teams (according to the
+SPACE framework
+).
+If you are looking to have productive code reviews, and have squads composed of 3-15 engineers, we are interested in getting your feedback on Axolo. Just reach out within the chat on
+https://axolo.co
+and we’ll be around!
+See All Launches ›

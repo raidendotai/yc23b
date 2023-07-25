@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Iliad
+52
+Iliad - Creative tool for generating game assets
+Rapidly create concept art, 2D assets, and 3D models.
+Matthew Turnshek
+Iliad
+4 months ago
+Embed
+https://iliad.ai
+#
+ai
+#
+design_tools
+#
+generative_ai
+Hello! I’m Matthew from
+Iliad
+.
+tl;dr: We’re making a generative AI tool for game designers and artists. You can
+sign up for early access now to create concept art, 2D assets, and 3D voxel art.
+Our ask: if you have a friend working on an indie game project, we’d love to have them on our early access at
+https://iliad.ai
+.
+—
+Multiply your creativity with guidance and control
+Image workspace
+Create concept art and 2D assets with
+mid-generation editing
+, which lets you edit images as they are being formed into existence.
+Iliad wants to
+make a tool artists want
+. Mid-generation editing gets more useful the more skilled you are as a visual artist.
+With Iliad,
+you are no longer forced to learn the archaic art of prompting diffusion models
+. Simply define or edit your art direction the way a human would communicate with a concept artist.
+You can make and edit seamless textures, a staple asset in many production art pipelines.
+And transform images between aesthetics.
+3D voxel art generator
+Iliad comes with a voxel art generator (think: Minecraft) that can turn your 2D assets into 3D voxel art. Check out some voxel assets generated with Iliad in the last few days!:
+Try Iliad now!
+If you’re a game designer or artist,
+try Iliad!
+We’re accepting applications every day and really value your feedback. And if you know someone that you think would like Iliad, consider sharing our launch with them. I’d love to hear from you as well - you can reach me at
+matthew@iliad.ai
+. Thank you!
+See All Launches ›

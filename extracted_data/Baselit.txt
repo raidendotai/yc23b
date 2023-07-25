@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Baselit
+34
+⚡️ Baselit: AI copilot for analytics
+Supercharge your analytics with GPT-3.
+Shubham Rana
+Baselit
+5 months ago
+Embed
+https://www.baselit.ai
+#
+ai
+#
+b2b
+#
+saas
+#
+analytics
+#
+generative_ai
+TL;DR
+Baselit is AI copilot for analytics. Product and business teams use Baselit to query and analyze data using plain English. For example, a PM can chat with his database to figure out the answer to “Why did our GMV drop last month?” without relying on data teams.
+Take a look at how
+Baselit
+copilots the role of a data analyst in this short
+video
+!
+The Problem
+Databases are black boxes for those who actually need data
+Databases can easily become complex and intractable in a growing company, with teams losing context about how and where the data is stored. The single largest hurdle for product and business teams, while making data-driven decisions, is getting the right data out from the database maze.
+Data teams = Long turnaround times + Back and forth
+Teams that depend on analysts to fetch data for them end up dealing with long turnaround times and a lot of back and forth. If you don’t have instant access to data, experimentation becomes difficult, which means insights get lost.
+Our Solution
+Baselit enables users to run the data query-transform-visualize workflow using simple English instructions. The underlying model is GPT-3 enriched by training on contextual information like database schema, metrics catalog etc. at the time of setup.
+How does it work?
+Connect
+Baselit to your data sources (Postgres, Snowflake, Redshift, BigQuery).
+Chat
+with your database and get answers using plain English. Baselit auto-generates the relevant SQL.
+Export
+results to your favorite visualization tool (integrates with Tableau, Metabase, Excel, Google Sheets, Power BI, Superset).
+Can I try it?
+We have a live
+playground
+that anyone can try - contact us to get access!
+If you are interested in simplifying databases for your product/business teams, we’d love to talk! Email us at
+contact@baselit.ai
+or join our waitlist
+here
+.
+See All Launches ›

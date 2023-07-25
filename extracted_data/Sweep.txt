@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Sweep
+47
+🧹 Sweep - AI developer that handles your tech debt
+Turn feature requests and bugs into pull requests with code
+William Zeng
+Sweep
+a month ago
+Embed
+https://sweep.dev/
+#
+ai
+#
+productivity
+#
+ai_assistant
+#
+generative_ai
+#
+developer_tools
+TLDR
+: Install Sweep at
+https://github.com/apps/sweep-ai
+and follow our open source repo at
+https://github.com/sweepai/sweep
+!
+Hi everyone! We’re William and Kevin and we’re building Sweep 🧹, a bot that turns bugs and feature requests into pull requests with code.
+❌ The Problem
+As software engineers, we found ourselves switching from exciting technical challenges into mundane tasks like writing tests, documentation, and refactors. This was frustrating because we knew large language models could handle this for us.
+🎉
+How Sweep Helps
+Sweep is an assistant that takes a Github issue, plans how to solve the issue, and writes/pushes code to Github via a pull request. Sweep then addresses any comments you make on this pull request.
+🚀 The Team
+William trained and deployed the first semantic search models for Roblox games search, and Kevin developed an open source NLP package for term extraction (with 50k downloads!). We’re extremely excited to use our skills to improve Sweep!
+🙌
+Our Ask
+Install Sweep at
+https://github.com/apps/sweep-ai
+Follow our repo at
+https://github.com/sweepai/sweep
+Connect with us on
+Discord
+and
+Slack
+See more examples at
+https://sweep.dev
+See All Launches ›

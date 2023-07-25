@@ -1,0 +1,49 @@
+Home
+›
+Launches
+›
+Chart
+28
+⚡ Chart - Lightning-fast inference servers in your cloud
+Serve high-performant ML models within your infrastructure
+Fatih Celikbas
+Chart
+5 months ago
+Embed
+https://getcharteditor.com
+#
+b2b
+#
+aiops
+#
+developer_tools
+#
+machine_learning
+#
+artificial_intelligence
+TL;DR:
+Chart transforms ML models into CUDA/HIP optimized C++ code for lightning-fast inference. Users simply integrate their cloud provider and we deploy fast, auto-scaling inference servers in their own cloud account, abstracting away all the complexities of MLOps.
+Hi YC community, I am Fatih, founder of
+Chart
+.
+🧐 The Problem
+It’s hard to deploy ML models into production. Building production-grade inference APIs from trained models remains a challenge. On top of that, many popular models take a long time to serve even a single request, making the user experience frustratingly slow.
+Most teams want to improve their products with AI features but expect the same low latency requirements they are accustomed to. In addition, some companies with sensitive data can only use solutions within their VPC, having to deal with the complexities of MLOps in-house.
+⚒️ Our Solution
+We solve this problem by making it super easy for companies to self-host high-performant ML models. The model and the data stay within the companies’ cloud provider (AWS or GCP), but we offer a SaaS platform to hide all the complexities of packaging models (Dockerfiles, Flask servers, CUDA versions, etc.), provisioning right-sized GPU servers and deploying them into well-documented APIs. All within the user’s own cloud account, in the same region as the rest of their servers, and optimized to squeeze the full performance of the GPU.
+For reference, on an NVIDIA A100 GPU 40B, we achieved 56.57 it/s for a single 512×512 text2image generation for Stable Diffusion 2.0. The benchmark for a Pytorch model is
+3.74
+seconds for 50 steps compared to sub-second with Chart:
+⚙️ How Chart works
+Users integrate their cloud accounts through IAM roles with the right permissions set. They choose from a catalog of open-source models or upload their proprietary models and simply click Deploy.
+After that, Chart first compiles the model into CUDA/HIP optimized C++ code, packages the model with an HTTP server into a Docker image, and provisions an auto-scaling Kubeflow cluster with an optimized configuration file to minimize the GPU compute costs.
+In the end, users have a dedicated high-performant inference API in their VPC, UI to interact with the API, and a Grafana dashboard for monitoring.
+🙏 Our asks
+Are you a company that wants to add AI features but is worried about performance, scalability, or data privacy? Send an email to
+fatih@getcharteditor.com
+or book a
+demo
+.
+Intros to companies who are struggling with ML deployment for any reason or don’t have the engineering resources to deploy and maintain their models.
+Share feedback! If there is any missing feature or use case we haven’t mentioned, we’d love to learn about it and build it for you.
+See All Launches ›

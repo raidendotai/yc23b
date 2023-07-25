@@ -1,0 +1,90 @@
+Home
+›
+Launches
+›
+Onu
+156
+Onu - Turn scripts into internal tools without doing any frontend work
+Onu takes away the pain of building complex frontends for internal tooling with script automation and auto-generated UIs.
+Chine Ikoro
+Onu
+5 months ago
+Embed
+https://joinonu.com
+#
+b2b
+#
+saas
+#
+operations
+#
+developer_tools
+tl;dr:
+Onu is a developer-first tool that allows engineers to turn the repetitive scripts and workflows they're asked to run for their ops or CX teammates into production-ready internal tools. Onu doesn’t require any frontend work at all, so developers can spend their time writing business critical code instead of building or dragging/dropping frontend components. Sign up for our
+waitlist
+for early access!
+Hi everyone! We’re Lindsey and Chine, and we’re excited to announce
+Onu
+!
+Chine and Lindsey are both software engineers who met 5 years ago when they started working at Lyft.
+Chine
+worked as an engineer at Bain before working at Lyft on the bikes & scooters team. After Lyft, Chine went to Stripe where she worked on banking-as-a-service, corporate cards, and payment links.
+Lindsey
+worked on developer infrastructure and observability at Lyft before leaving to work at Stripe where she worked on low-code/no-code payments on the checkout and payment links teams.
+😢
+Problem
+Tasks that involve both engineering and ops/CX are disjointed and time consuming.
+Engineers spend too much time writing and running one-off scripts (e.g. fixing an out-of-sync user account) and ops/CX are often blocked by engineering.
+Building internal tools (even with low-code/no-code saas) takes a lot of frontend work.
+As a result, building the tool stays in the backlog and engineers & ops keep schlepping through tasks.
+🥳 Our solution
+Onu is a developer-first tool that allows engineers to quickly turn their ops/CX-related scripts or workflows into production-ready internal tools without having to write any frontend code at all.
+Spin up internal tools quickly
+using the scripts you’ve already written, spending
+zero time on frontend development.
+See logs of each task’s previous executions
+to keep track of when it was run, who ran it, and the result
+Run scripts in your own environment but
+without having to SSH into production
+Use built-in integrations
+to easily add actions to your tasks like posting to Slack, sending an email, or generating a Linear issue
+🤯 You can use Onu to…
+Onboard
+new users
+to your product and then send them a welcome
+email
+Cancel a subscription
+, refund the customer, and then update your
+CRM
+Fix an out-of-sync user account
+and then notify a
+Slack
+channel of the fix
+🌱 Why we built Onu
+We experienced these problems firsthand while working on fast moving engineering teams at Lyft and Stripe. Our teams needed internal tooling, but we didn’t have time to build feature-rich admin dashboards. Stripe had a homegrown tool that allowed engineers to spin up internal tools without writing frontend code. When we started working on Onu with a different idea we immediately felt the pain of not having a similar tool.
+🙌🏾 Asks
+Sign up
+- Join our
+waitlist
+for early access! We’ll reach out with sign up instructions.
+Intros
+- Do you know an
+engineer, customer experience/ops lead, or startup founder
+struggling to manage the workload between ops and engineering? We’d love an introduction. Shoot us an email at
+founders@joinonu.com
+or DM Lindsey on Twitter
+@reddyourmind
+if you have someone in mind.
+*forwardable blurb:
+Lindsey
+, and
+Chine
+, a team of ex-Stripe software engineers, are building a developer tool called
+Onu (YC W23)
+to turn scripts and workflows executed for ops and CX teams into internal tools, zero frontend work required. If you’re interested in learning more, feel free to email them at
+founders@joinonu.com
+.
+⚒️ Offer
+If you have any manual or repetitive tasks or scripts, we will migrate them onto Onu for you. You'll have a production-ready internal tool with minimal work.
+We’ll prioritize the integrations (e.g. Linear, Discord, email) you need in order to make Onu a powerful addition to your toolkit.
+See All Launches ›

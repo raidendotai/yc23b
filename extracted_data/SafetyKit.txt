@@ -1,0 +1,55 @@
+Home
+›
+Launches
+›
+SafetyKit
+31
+SafetyKit — AI-powered Trust and Safety automation
+SafetyKit replaces human Trust and Safety reviewers with language models.
+David Graunke
+SafetyKit
+a month ago
+Embed
+https://www.getsafetykit.com/
+#
+saas
+#
+operations
+#
+trust_&_safety
+#
+customer_service
+#
+artificial_intelligence
+The problem
+Trust and Safety teams at large companies spend tens of millions of dollars on human reviewers.
+These reviewers make decisions about what is or isn’t allowed on the platform. This includes content moderation, but also things like checking Airbnb listings for discriminatory language, or reviewing Stripe accounts for Sanctions violations. These reviewers are outsourced agents following prescriptive workflows.
+Managing this workforce is painful and expensive
+. Workflow changes take months to deploy, quality monitoring is inaccurate and ad-hoc, and tooling improvements and automation require very scarce engineering resources.
+Companies use humans because they’re flexible, but those humans aren’t particularly good at it.
+Human decision-making sticks around because ML and automation is expensive and rigid, and requires eng resources T&S teams don’t have. This is despite the fact that humans are not particularly accurate reviewers (accuracy is frequently around 70%).
+Our solution
+We use GPT-4 and other language models to directly interpret and apply the workflows that would otherwise be performed by humans. GPT-4 performs well at these tasks, but letting T&S teams run it on thousands or millions of pieces of content safely and confidently requires work.
+We’ve built a policy manager/editor that makes T&S teams feel like they’re editing a policy or workflow in Google Docs. We never want our T&S users to feel like they’re prompt engineering!
+Users can add policy definitions, pick out of the content signals that matter to them, and build up automated rules based on those signals.
+We slice and dice the input document into a series of prompts that we run through a suite of LLMs and image models. Our user can then can run their policy across examples to see how it performs:
+Explainability and decision-making papertrails are super important to our users. Traditional ML and human review fall pretty short here. SafetyKit gives our users clear reasoning for each decision:
+We think that this transparency plus built-in quality monitoring and a much much faster feedback loop will make SafetyKit more reliable and precise than human reviewers.
+We provide a simple API for evaluating content against SafetyKit policies along with a prebuilt integrations for Salesforce and Zendesk.
+Right now we evaluate policies over text and image content and we’re working on audio and video support.
+Who are we?
+We’re
+Steven
+,
+David
+, and
+Alex
+.
+David and Alex worked at Stripe, where we worked on a platform to break big complicated policies into small steps that human reviewers are good at.
+Alex did the same thing at Airbnb before joining Stripe, focusing on marketplace risk and offline safety.
+Now we’re using AI to give every company the same scale and precision.
+How you can help!
+We want to talk to Trust and Safety teams! Please email us at
+founders@getsafetykit.com
+! Beyond T&S, if you have repetitive human decisions you want to automate in Customer Service, Legal Ops, or another back-of-house function, we’d love to talk!
+See All Launches ›

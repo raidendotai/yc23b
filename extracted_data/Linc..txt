@@ -1,0 +1,63 @@
+Home
+›
+Launches
+›
+Linc.
+21
+Linc 🔗 The intelligent email copilot for logistics
+Instantly sync inbound emails and documents with your ERP and TMS systems
+Shrey Sambhwani
+Linc.
+7 days ago
+Embed
+https://www.linc-ai.com/
+#
+crm
+#
+automation
+#
+data_engineering
+#
+enterprise_software
+#
+artificial_intelligence
+Hey everyone! This is Rahul (left), Shrey (center), and Harsha (right) from
+Linc
+. We’re trying to fix logistics data communications by bringing the benefits of EDI/API integrations to logistics vendors of all sizes, at a fraction of the cost and time.
+⌨️
+THE PROBLEM
+Shippers, carriers and brokers receive 1000+ emails a day that require manual data entry
+into their transport management (TMS) systems.
+The typical (simplified) workflow between a shipper, broker, and consignee looks something like:
+Broker receives an order from a shipper. They reach out to multiple carriers via email to negotiate fulfillment of the load.
+After finalizing terms, the broker sends rate confirmation to the carrier.
+Shipper signs bill of lading (BOL) when carrier picks up their load
+Once load reaches destination, carrier gets proof of delivery (POD) from consignee
+Carrier sends POD and invoice to broker
+Broker sends invoice to shipper
+At every step, for every load, there are multiple documents and messages exchanged via email.
+Furthermore, all this data needs to be recorded in a TMS, for auditing, tracking, reporting, and management. Not only that, but every single vendor has their own way of representing the same information, making manual data entry a full-time job!
+Existing document understanding solutions
+require extensive templating, and do not have context about the vendor’s TMS. More sophisticated solutions, like EDI/API integrations, cost tens of thousands of dollars, and can take up to 6 months for even highly experienced IT teams to set up. The most common solution is to resort to hiring virtual assistants to do all the data entry, but even these VA’s are unreliable, difficult to train, and experience high churn.
+Introducing Linc - the first intelligent email copilot for logistics companies.
+⚡ OUR SOLUTION
+👉
+Click here to see our demo
+Linc sits in your email inbox and instantly syncs order data between inbound emails and documents with your TMS records.
+Our algorithms enable
+template-free
+data extraction from documents like invoices, bills of lading, and rate confirmations, guaranteeing consistent 95% field-level accuracy across document types and raw text.
+Setting up with us is as easy as downloading our Chrome extension, and letting our models do all the data transformation heavy lifting.
+🤝
+THE TEAM
+We met at Duke doing robotics research, and worked together building an indoor localization startup. We pivoted to Linc after pitching our product to 250+ logistics companies, who all struggled with data management and integrations. With experience building AI tools at Google, Northrop Grumman and hedge funds, we’re excited to embark on this new journey to fix logistics data communications.
+🙏
+THE ASK
+Put us in contact with mid-size freight brokers, carriers, and distributors.
+Email
+founders@linc-ai.com
+for inquiries or contacts
+And give our
+LinkedIn page
+a follow :)
+See All Launches ›

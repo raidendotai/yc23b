@@ -1,0 +1,50 @@
+Home
+›
+Launches
+›
+Vaero
+31
+Vaero - Fivetran for log data
+We save enterprises money on their #1 security budget item - the cost of storing logs - with a developer-friendly log filtering pipeline
+Bryant Lee
+Vaero
+4 months ago
+Embed
+https://vaero.co
+#
+b2b
+#
+saas
+#
+security
+#
+enterprise
+#
+developer_tools
+Tl;dr: Vaero helps security teams collect, filter and transform, and write all their logs to any destination. This enables security teams to collect and store all the logs they need, while archiving logs that they don’t need right now.
+☄️ The Problem:
+The #1 complaint of every Chief Information Security Officer (CISO) at a mid-market or enterprise company is the millions of dollars that they have to spend to store logs from all of their systems. Overall storage costs are getting worse because data volumes in companies are growing 25% year over year.
+Companies log every access and event on thousands of systems, from servers, firewalls, and cloud infrastructure to SaaS and cybersecurity software. Most of the time the logs are unnecessary, but companies need to keep the logs around in case there is a security incident they need to investigate, or for compliance.
+As a result, security teams need to collect all their logs and route them to different types of storage based on the type of analysis or retention required. Legacy tools like Fluentd and Logstash are slow and rely on long, clunky YAML files. Many modern security teams have tried to build a homegrown solution with scripts, but this problem is too complex for most in-house teams to solve.
+💡 The Solution:
+We provide modern data pipelines for logs for security teams to collect logs from any source, filter and transform them, and write the logs to any destination.
+Vaero is the most
+developer-friendly
+solution by allowing writing log pipelines with Python code, rather than forcing users to learn a new YAML config format or domain specific language
+Intuitive dashboard for users who don’t code
+Native integrations to more log sources, so users can get all their logs without coding their own integrations
+Ultrafast performance and throughput with 100% Go implementation
+⭐️ Why us?
+We are
+Bryant
+and
+Earl
+, 2nd time founders whose prior startups have collectively raised $80M+.
+Bryant previously co-founded Cognition IP, which achieved 7 figures of annual revenue and was backed by Khosla Ventures, Mayfield Fund, and Y Combinator. He was a Ph.D. candidate in Computer Science at Carnegie Mellon and did research on parallel processing data pipelines. He also graduated from Harvard Law School where he was on law review.
+Earl previously co-founded a successful security and compliance startup called DataGrail (Series C, raised $84M), where he led the team that built hundreds of integrations to 3rd party software. Thus, he has domain experience building and scaling a security business and an integrations business.
+🎉 Interested?
+If you’re thinking about how to manage your company’s logs, book a
+call
+with us or reach out to
+founders@vaero.co
+See All Launches ›

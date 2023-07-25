@@ -1,0 +1,56 @@
+Home
+›
+Launches
+›
+Tiptap
+351
+⚫️ Tiptap – The developer toolkit for building collaborative apps
+Build apps like Notion or Google Docs with Tiptap's open-source content editing and real-time collaboration suite.
+Philip Isik
+Tiptap
+13 days ago
+Embed
+https://tiptap.dev/
+#
+open_source
+#
+developer_tools
+Tiptap
+is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including GitLab, Axios, and Substack.
+🤔
+The Problem
+Extensive content editing interfaces and real-time collaboration are a key feature of most apps to deliver value to their users, such as Notion, Miro, Figma, and Google Docs.
+While the users of these apps expect a best-in-class editing and collaboration experience, it's super painful and complex to develop. As developers, we can testify to this: Entire IT departments despair of these tasks.
+💡
+The Solution
+With Tiptap Editor, you can build apps like Notion in no time. The headless approach gives you complete freedom to build your editor experience the way you want. Tiptap Editor comes with a ton of powerful extensions to help you elevate your app beyond the ordinary. Better yet, Tiptap Editor is free and open-source.
+Thanks to Tiptap's cloud services, you can easily add more sophisticated features like collaborative editing, real-time sync, or soon AI editor capabilities to your app in less than a minute. Tiptap's cloud services are available for fast-growing startups and as an on-premises solution for enterprises.
+🚀
+Who is it for?
+Tiptap is for developers and product teams who need to integrate rich text editors into their apps, especially those who value customization, ease of use, and real-time collaboration. Tiptap toolkits and cloud services significantly reduce development time, enabling faster time-to-market and increased profitability for product teams.
+Tiptap is already used by
+thousands of businesses worldwide,
+including:
+With over 1.8 million npm downloads per month, Tiptap is one of the top 5 most popular editor frameworks in the world and is strongly supported by a huge developer community:
+26k+ community members
+20k+ GitHub stars
+1.8k forks
+5k+ commits
+200+ contributors
+🎉
+Meet the Tiptap team
+We're six co-founders with over a decade of digital consultancy experience, transforming our struggle with building custom editor interfaces into a solution. Since launching Tiptap in 2019, we've been dedicated to scaling up and fully committed since 2022. As passionate designers and developers, we're proud to craft Tiptap's core ourselves.
+❤️
+Our ask
+We invite you to explore Tiptap's capabilities in your app, contribute to its open source development, and join our welcoming community.
+Star our GitHub repository:
+https://github.com/ueberdosis/tiptap
+Follow us on Twitter:
+https://twitter.com/tiptap_editor
+and on LinkedIn:
+https://www.linkedin.com/company/tiptapdev/
+If you have any questions, or would like to use Tiptap in your app, write us at
+humans@tiptap.dev
+Yours
+Nick, Patrick, Philip, Sebastian, Sven and Timo
+See All Launches ›

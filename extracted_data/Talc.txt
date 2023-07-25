@@ -1,0 +1,52 @@
+Home
+›
+Launches
+›
+Talc
+21
+Talc: Debugger for your LLMs
+Replay sessions, tweak inputs, and take the guesswork out of AI debugging.
+Matt Lee
+Talc
+4 days ago
+Embed
+https://talc.ai
+#
+developer_tools
+#
+artificial_intelligence
+TL;DR:
+We make it easy to debug and test LLM systems. Understand your AI by replaying sessions line by line and setting rules for it to follow moving forward.
+Hey Everyone! We’re Matt & Max, the team behind
+Talc.AI
+Matt
+: I’ve spent the last 6 years engineering at Facebook and Airbnb. At FB I worked on Election Integrity, developing new ways to detect foreign interference campaigns. Hit me up if you want to hear some war stories!
+Max
+: I found my passion for tech early, teaching myself to code when I was 13. This journey most recently brought me to being the technical lead for a 30 person org at Facebook that reviewed every major product launch. I love the challenge of trying to understand complex systems and want to help people do the same with Talc.
+We’ve been friends for almost a decade and couldn’t be more excited to be doing this together.
+The Problem
+Developing real LLM systems is still hard. Prompt engineering is full of trial and error, and debugging your chain and regression testing is a painful manual process.
+The Solution
+Replay any session your AI has had and tweak it until it's perfect. No more copy and pasting into a playground – re-run your sessions exactly as they happened and deeply understand their possible outputs. Have a bug on message 20? Hop into that context immediately and start fixing it.
+Left: Walk through your AI message logs
+Right: Edit the inputs and prompts that went into each message, all auto-populated for you
+Test changes against your saved use cases for regression testing
+What we’re asking
+Is LLM debugging & testing holding you back?
+Reach out to us
+at
+talc.ai
+or
+book time directly on our calendars
+!
+Do you know anyone working on LLMs in production? We’d love to learn from them!
+Help us get connected
+.
+Share us with anyone who spends a lot of time debugging LLMs
+Blurb
+:
+Talc.ai
+launched an LLM debugger so you don’t have to copy context into openai playground or jupyter notebooks any more. Reach out via
+founders@talc.ai
+.
+See All Launches ›

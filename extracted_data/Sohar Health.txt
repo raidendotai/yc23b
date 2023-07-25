@@ -1,0 +1,46 @@
+Home
+›
+Launches
+›
+Sohar Health
+14
+🧠 Sohar Health: AI-powered medical coding for behavioral health
+Unleash your behavioral health company's potential with targeted eligibility verification, and AI-powered medical coding to drive revenue from health payers.
+Dr Ashish Mandavia MD
+Sohar Health
+19 days ago
+Embed
+https://www.soharhealth.com
+#
+api
+#
+saas
+#
+health_tech
+#
+digital_health
+#
+health_&_wellness
+⚡
+TL;DR
+Behavioral health companies are investing significant resources into expensive integrations and manual medical coding efforts to drive uptake and generate additional revenue from payers. Enter Sohar Health. Our API-based platform streamlines insurance eligibility verification and offers AI-powered medical coding, automating manual workflows, increasing patient intake, and generating more revenue. Experience the power of seamless integration and unleash the full potential of your behavioral health company with Sohar Health.
+🤯 The problem
+Improving behavioral health insurance claim coding accuracy is crucial as 85% of denied claims (worth $40 billion) are preventable. However, determining the eligible codes for patients is a challenge due to complex integrations within the healthcare IT ecosystem. These integrations are costly, time-consuming, and divert engineering resources, hindering product development. Delaying or skipping integrations leads to revenue loss and increased manual efforts for engineers and coding teams, creating a significant barrier for behavioral health companies in a rapidly growing industry, valued at $280 billion in 2020.
+🧠 The Solution
+Similar to Stripe (YC09) and Plaid, Sohar Health empowers developers by providing direct integrations to payers. Our API-based platform offers two key features: targeted insurance eligibility verification, and AI-powered medical coding. By leveraging our services, behavioral health companies can:
+Unlock up to 20% additional revenue through improved coding accuracy and reduced claim denials
+Increase their eligible patient population
+Reduce the time spent on manual operations by coding teams
+👋 Our Backstory
+At Pelago (formerly, Quit Genius W18), the leading digital clinic for substance addictions, Ash and Lucas joined forces. Ash is an MD, with a background in digital health, hospital administration, and Health IT strategy consulting. As CTO and employee one at Pelago, Lucas possesses unparalleled expertise in resolving behavioral health integration challenges. With a track record of successfully integrating with 100+ employers, including major players like Evernorth and a Fortune 10 customer, Lucas's firsthand experience and Y Combinator background have been instrumental in securing over $80M in investment funding from seed to Series-B.
+Our ask
+Introduce us to
+behavioral health providers
+(digital or hybrid) in your network.
+Click here
+Connect us to your health plan or payers (e.g. Humana, Cigna, Aetna) that you’re working with.
+Click here
+Interested in hearing more?
+Feel free to book a meeting
+here
+See All Launches ›

@@ -1,0 +1,43 @@
+Home
+›
+Launches
+›
+DealPage
+24
+🍽️ Baseplate - Optimize your LLM’s with Deeper Insights
+If you’re using LLMs, you’ll want to try Baseplate
+Ani Gottiparthy
+DealPage
+6 months ago
+Embed
+https://www.dealpage.ai/
+#
+ai
+#
+b2b
+#
+sales
+#
+documents
+#
+sales_enablement
+Baseplate is a no-code platform for fine tuning, monitoring, and managing Large Language Models. We analyze your prompts & training data, test your model, and provide deep insights to help you get the most out of LLMs without the hassle.
+The Problem
+Large Language Models like GPT-3 are all the rage right now, but they remain a black box that can be difficult to understand for developers and users. What prompts work best? What level of detail do I need to provide? What temperature setting should I use? How are users liking the results? How is my current model performing versus others?
+For most teams, answering these questions about their models is a tedious, expensive, and time consuming process that requires manual testing and prayers. That’s where Baseplate comes in.
+LLMs with Baseplate
+Our platform takes all of the hard parts of making your LLM production ready, and makes it extremely simple. Baseplate allows you to fine tune models, create test data sets, test your model, collect user feedback for model reinforcement, and deploy your model from a no-code interface. We currently support all of OpenAI’s language models with planned integrations for Cohere, Anthropic, and AI21 Labs.
+Baseplate - 8 January 2023 - Watch Video
+We analyze your model to provide you valuable insights like:
+What is your LLMs accuracy against your test data set?
+How do users rate the completions from your model?
+What prompts work best?
+What data should I add to my training dataset?
+How does performance compare between different models?
+What temperature settings create the most accurate results?
+And more!
+Can I use Baspelate?
+We’re starting our limited beta now! Request access
+here
+or reach out directly.
+See All Launches ›

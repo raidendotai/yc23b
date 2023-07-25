@@ -1,0 +1,36 @@
+Home
+›
+Launches
+›
+Casehopper
+57
+⚖️Casehopper: AI-drafting for M&A lawyers
+We draw on language and ideas from public documents and your own library to help you craft agreements with ease
+Anuhya Vajapey
+Casehopper
+19 days ago
+Embed
+http://www.casehopper.com
+#
+ai
+#
+b2b
+#
+legaltech
+Hi everyone, we are Anu and Juan and we’re the team behind Casehopper. We’re dedicated to simplifying the M&A legal drafting process through AI to help lawyers craft the perfect agreement faster and with greater ease.
+Tl;dr
+Casehopper is an AI drafting tool for M&A lawyers. We draw on language and ideas from public documents and your own library to quickly find solutions and craft the right language to include them in your M&A agreements.
+The Problem 🧩
+Drafting and revising legal documents takes a lot of time, resources, and research. Lawyers are in a race to get everything done within the time that they quoted their clients. In the world of Mergers and Acquisitions, the complexity escalates. The buyer and seller engage in a delicate dance, each pursuing their conflicting interests, constantly adjusting the language to favor their respective sides. Lawyers then have the burden of creating an agreement that manages to satisfy all the parties involved.
+Our Solution 💡
+With Casehopper, lawyers gain access to an AI drafting assistant that simplifies the process of creating intricate legal agreements. By incorporating creative concepts inspired by precedent, Casehopper customizes drafts to suit individual circumstances. Seamlessly upload your draft and engage in conversation to seek guidance and suggestions, transforming Casehopper into your go-to creative partner. Demo:
+Casehopper
+How does it work?
+Casehopper harnesses state-of-the-art large language models and publicly available M&A literature to create suggestions that seamlessly blend precedent and innovation. By leveraging your legal library and external sources, we generate precise language tailored to complex M&A scenarios, transforming hours of brainstorming, drafting, and revising into a streamlined, efficient process with prompt and impactful results.
+Our Asks 🙏
+Share this post! We’d love to get feedback from you and your network on our tool and idea:
+founders@casehopper.com
+Connect us with Corporate Lawyers (we’re starting with M&A but are planning to expand to other types of documents) and PE/VC fund managers (if they do M&A) in your network.
+Best,
+Anu & Juan
+See All Launches ›

@@ -1,0 +1,59 @@
+Home
+›
+Launches
+›
+Wild Moose
+57
+🔥 Wild Moose: Solve production incidents faster with Gen AI
+Helping on-call developers quickly identify the source of production incidents with conversational AI trained on their environment.
+Yasmin Dunsky
+Wild Moose
+5 months ago
+Embed
+https://wildmoose.ai
+#
+b2b
+#
+saas
+#
+generative_ai
+#
+developer_tools
+#
+artificial_intelligence
+TL;DR When you’re on-call and everything’s on fire, instead of frantically sifting through logs and going through other people’s code, our moose just gives you the answers.
+Chat with us
+to try it out.
+—-
+👋 We’re Tom, Yasmin, and Roei, founders of
+Wild Moose
+.
+Yasmin
+has an MBA from Stanford and is a third-time founder & CEO.
+Roei
+got a PhD at Cornell University focusing on Large Language Models (LLMs), and
+Tom
+has had the dubious pleasure of fixing hundreds of incidents in production over his 15 years of engineering.
+The problem
+With developers spending over 30% of their time on production issues, and  incidents leading to millions in lost revenue, there’s no need to say much about the headache that is production debugging. Instead, we asked Midjourney what a developer dealing with a prod incident looks like:
+Enters the moose
+Debugging in production with our moose allows you to solve issues in minutes instead of hours, reducing MTTR 100x. It helps you avoid costly downtime, save time, and keep your SLAs in check. You’re able to:
+🕵️ Navigate through heaps of logs, metrics, and other people’s code
+🧠 Build queries like a pro for any observability tool (Elastic, Datadog, SQL DBs, etc.)
+🔀 Get next-step recommendations so you stay on track when the pressure is on and you’re flooded with data
+How it works
+💪 We help you hit the ground running –
+unlike humans, our AI is happy to wake up at 2 AM and get cracking, instantly up to speed and ready with useful data on the state of the system
+💪 You don't need to debug alone –
+using Wild Moose is like having a fellow engineer take the grunt work off your hands. One who knows every part of the codebase, and who can process hours' worth of data in seconds
+💪 Learn more from the incident –
+some companies learn from their incidents, others are just gifted with many repeat opportunities… To help you belong to the former, we automate your postmortem generation
+Our technology
+Behind a conversational AI experience, lie our special-purpose large language models (LLMs). Having cracked the way LLMs can be fed code and logs in real-time, we design models that efficiently ingest the massive contextual data about a given incident. Crucially, we also validate the produced answers against the original sources of truth, giving you trustworthy information when you need it the most.
+We can help you fix production issues
+If your company has 25+ developers, you measure the cost of downtime, and your observability stack includes Datadog, Sentry, and/or Elastic, we would love to help you manage production issues! Just hop on a call with us
+here
+or reach out at
+yasmin@wildmoose.ai
+.
+See All Launches ›

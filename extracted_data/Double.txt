@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Double
+39
+Double — Internet-capable GPT bots to automate repetitive work
+Double is an assistant that can use Google to do research like: Which of these people are executives that work in finance, according to their linkedin profile?
+Gonzalo Espinoza Graham
+Double
+4 months ago
+Embed
+https://usedouble.com
+#
+saas
+#
+no-code
+#
+collaboration
+#
+artificial_intelligence
+#
+robotic_process_automation
+TL;DR
+If you have a task that involves
+search google
+→
+read links
+→
+answer question,
+Double can automate it for you.
+What can you do with Double
+Given a list of chiropractor websites, find how many chiropractors work there. Don’t count admin staff
+Given a list of business names, find their websites, addresses, and phone numbers
+Given a list of Etsy stores, find the main category of the products they sell
+Given a list of websites of recently funded startups, is this a business that does outbound B2B sales? (that would be interested in our b2b sales prospecting product?)
+Roadmap
+Our bots are essentially read-only on the web today, but we’re working on abilities to navigate the web and click buttons to do things like login and submit forms (helpful for things that don’t have an API!)
+Parsing PDFs as an input
+Calling REST APIs. On top of Google Search, Web Scraping, and GPT, we’ll be adding a plugin to make REST API calls, which will unlock every API and the ability to chain arbitrary code execution by calling your code on
+repl.it
+Team
+Before Double, we :
+Studied engineering at Waterloo
+Worked on autonomous vehicles at Waymo and Tesla, and
+Built Ninja, Canada’s first 10-minute delivery service. Ninja raised $2M and offered deliveries in 2 cities with a team of 80+ couriers before it was acquired in 2022
+Ask:
+Got a process you want to automate?
+Try Double for free today
+, or reach out to us if you need a hand setting up
+Share our
+Twitter launch thread
+and our website on your Twitter, LinkedIn, Tiktok, or other social media! It really helps!
+See All Launches ›

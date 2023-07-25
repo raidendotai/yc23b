@@ -1,0 +1,57 @@
+Home
+›
+Launches
+›
+Cedalio
+79
+💥 Cedalio — A blockchain empowered alternative to Firebase
+Build apps with data that is auditable and verifiable by default
+Luciana Reznik
+Cedalio
+18 days ago
+Embed
+https://cedalio.com/
+#
+graphql
+#
+databases
+#
+crypto/web3
+#
+developer_tools
+Cedalio
+is a platform that helps you build apps with information that is auditable by default. Data used in your application can be traced back to its origin for verification. Even more, with us you can give your users real ownership and portability of their data across different applications.
+📚
+TL;DR
+Cedalio provides companies with the tools to build trust and accountability by offering transparent, auditable data.
+With Cedalio, organizations prioritizing user privacy can empower users with true ownership of their data, promoting its portability across various applications.
+By storing access control information on-chain, Cedalio ensures a censorship-resistant database, safeguarding information integrity.
+Interested? →
+Get started now at
+www.cedalio.com
+Do you have a new use case in mind? →
+Let us know on our
+Discord
+Do you want how it works under the hood? →
+Read our
+DocSite
+👩‍💻
+How do we do it:
+Verifiable data:
+field-level certifications offers a means to validate the data's integrity, creating trust and assurance in the accuracy of the information.
+On chain access controls
+: the access control rules are stored in a smart contract, ensuring a censorship-resistant database.
+On chain log:
+by recording a detailed log of transactions on the blockchain, we enable auditability and the ability to reconstruct the database if needed.
+🤑
+Backed by the best
+Some of our early investors and believers include:
+Y Combinator
+Guillermo Rauch, CEO @Vercel
+Esteban Ordano, CEO @Decentraland
+Demian Brener, CEO @OpenZepellin
+Feel free to reach out to us with any questions or to learn more about Cedalio.
+Join our
+Discord
+or shoot us an email
+See All Launches ›

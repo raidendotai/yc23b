@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Pigeon
+31
+🐦 Pigeon - Document collection made easy, organized and secure
+DocuSign for document collection
+Adam Bulow
+Pigeon
+5 months ago
+Embed
+https://www.pigeondocuments.com/
+💥TL;DR
+We’re building DocuSign for document collection where clients can upload documents into a secure, interactive checklist without creating an account.
+👋 Hi everyone, we're
+Adam B
+and
+Adam S
+– and we’re really excited to launch
+Pigeon
+!
+Adam B
+- CEO | ex-Google Data Scientist
+Adam S
+-  COO | ex-Harvard Law School
+😩 The Problem:
+Businesses need to collect documents from clients, but the process is often disorganized, time-consuming and insecure.
+To collect documents securely businesses have to either 1) set up clunky client portals with accounts for each of their clients, or 2) create Dropbox/Box folders for each request and email their clients links to an empty folder with a list of what to upload. Both of these methods are a pain for clients, inefficient for the firm, and a nightmare to keep track of.
+Firms also have to send out burdensome follow up emails to remind clients to upload their documents, and sift through poorly named and unorganized files to make sense of what their clients sent them.
+🥳 Our Solution
+Pigeon
+is a web platform where you can send itemized request checklists to your clients’ emails so they know exactly which documents you need, clients can securely upload documents into the checklist without needing an account, and you can track and manage all of your requests in an organized dashboard. Pigeon will also send automatic reminder emails to your clients to make sure they submit their documents on time.
+🧐 Take a look
+Create a checklist (or load your template)
+Send it right to their inbox
+Clients upload documents into a clear, organized checklist
+Track all of your requests in an organized dashboard
+We also have a host of other useful features including a Microsoft Outlook plug-in, verify/reject, and custom company branding.
+Give Pigeon a try
+✅
+Investors
+, use Pigeon to track your due diligence document request process and send out request lists
+💯 Accountants, Fund Administrators, Insurance Brokers, and Claims Processors
+use us to keep track of all the documents you’re collecting from clients
+😊
+Everyone else
+give Pigeon a try or connect us to anyone you think might be interested!
+Feel free to book a demo
+here
+or sign up for our free trial at
+www.pigeondocuments.com
+!
+See All Launches ›

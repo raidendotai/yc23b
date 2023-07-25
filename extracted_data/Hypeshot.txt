@@ -1,0 +1,54 @@
+Home
+›
+Launches
+›
+Hypeshot
+116
+🎥 the402: Monetize superfans through livestreams and NFTs
+the402 helps creators monetize their superfans through livestreams and NFTs
+Ravi Bakhai
+Hypeshot
+a year ago
+Embed
+https://www.hypeshot.io/
+#
+consumer
+#
+crypto/web3
+#
+entertainment
+Hey everyone! We’re Ravi & Narahari from the402
+the402 helps creators monetize their superfans through livestreams and NFTs
+For example, an artist can perform new songs on a private livestream and superfans attend by buying an NFT
+Since launching a little over a month ago, each artist on our platform is
+averaging around $700 / livestream
+One creator made ~$1.3k from one livestream
+On Twitch he streams 16 times a month to make ~$250
+Problem:
+My co-founder Narahari is a top 3% Twitch streamer. He grew frustrated that he had fans who wanted to pay more but didn’t have an easy way to do so
+Current platforms are great for creators to get mass distribution, but they hardly make money off their content alone
+There are superfans/patrons that have an extremely high willingness to pay, but don’t have a great mechanism to do so (even on Patreon, only 2% of the users make more than minimum wage)
+How it works:
+Create an NFT access pass for a livestream and/or use existing NFTs to gate your livestream
+The NFT issued is liquid with dynamic pricing using our protocol, which allows there to be a market created around the stream
+Fans can purchase an NFT either with crypto or credit card
+Once the livestream starts, those who hold the NFT have access to the livestream & can interact with the creator / each other
+You can also stream for free and monetize through NFT sales, auctions, or emotes during the livestream
+Abstracting away crypto:
+Even though we’re using NFTs to serve as the access pass, we abstract this away with optional credit card payments
+The end consumer just needs to know that they’re buying a digital ticket that gives them access to a livestream
+So why NFTs/crypto? What’s the crypto use case here:
+NFTs allow for a global market to be spun up around a creator/event easily
+Decentralized access control - NFTs can be used for multiple use cases independent of the platform they were bought on (i.e. you can gain access to another livestream, redeem for an IRL concert, access to private discord, special merch etc.)
+The relationship between fan & creator becomes P2P + tied to your digital identity
+Proof of fandom / patronage can be flexed
+Existing tokens can be used permissionlessly to gate content
+Asks:
+We are actively onboarding creators onto our platform and would love any introductions! If you’d like to get in touch you can contact me at:
+ravi@the402.xyz
+If you’re a creator that would like to try this out here is a
+link to sign up
+Twitter
+&
+Mirror
+See All Launches ›

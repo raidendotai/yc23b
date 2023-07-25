@@ -1,0 +1,51 @@
+Home
+›
+Launches
+›
+Feather
+151
+Feather — Bloomberg Terminal for retail traders
+Feather is the first one-stop solution for retail traders to analyze any investment, anywhere in the world.
+Ash Rai
+Feather
+5 months ago
+Embed
+https://try-feather.com
+#
+saas
+#
+fintech
+#
+finance
+#
+investing
+#
+consumer_finance
+Tl;dr Feather provides real-time financial data on every major tradeable asset class, from equities, options, and bonds to commodities, currencies, and macroeconomies. Feather’s pricing starts at just $39 per month, empowering everyday investors to make informed, wealth-building decisions with data available only to Wall Street until now. Check us out
+here
+!
+Hi!
+We’re Ash and Patrick, the co-founders of Feather!
+❌ Financial Data is Too Expensive
+Successful investing requires rationally analyzing the facts — but where to find these facts quickly, easily, and inexpensively?
+Wall Street’s biggest institutions depend on tools like the Bloomberg Terminal to instantly discover compelling investments. But at over $25,000 per year, they exclude most investors from the same opportunities.
+📈 Feather Fixes This
+Feather provides real-time financial data on every major tradeable asset class, from equities, options, and bonds to commodities, currencies, and macroeconomies.
+Feather also provides data on 11,000 institutions (holdings, transactions, etc.) and 10,000 individuals (insider purchases/sales, transaction histories, etc.).
+Investors can discover insider trades, check analysts’ growth and earnings expectations, and compare companies’ valuation multiples — all in one place, within seconds.
+Feather’s pricing starts at just $39 per month, empowering investors to make informed, wealth-building decisions with data available only to Wall Street until now.
+Analyze Company Fundamentals, Ratios, Comparables, Earnings Beats/Misses, and Analyst Coverage
+Discover Ideas by Exploring Insider Trades, Institutional Holdings, and More
+Additional Features Include Live Options Flow (Watch in Real-Time as Market-Moving Trades Come In) and Screening
+👨‍💻 Why Are We Building This?
+We are building Feather to scratch our own itch. Before co-founding Feather, I founded a long-only, value-oriented hedge fund from my freshman dorm room at Vanderbilt and led it to approach $1 million capitalization. While running the fund, I exhausted my access to Vanderbilt’s on-campus Bloomberg Terminal and was forced to find an alternative that did not cost over $25,000 per year. After searching extensively, I discovered no existing platform affordably provided the data I needed, so I partnered with Patrick to build our own solution.
+🙏 How You Can Help
+Check out Feather at
+https://try-feather.com
+— we have a 7-day free trial, no credit card required. Send your feedback and feature requests to
+ash@try-feather.com
+— we launched our latest set of features based on customer requests, and would love to build our next set based on yours!
+We would also love introductions to asset/wealth/hedge fund managers within your network. You can connect us at
+ash@try-feather.com
+.
+See All Launches ›

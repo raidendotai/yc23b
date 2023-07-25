@@ -1,0 +1,42 @@
+Home
+›
+Launches
+›
+Quill AI
+115
+Quill AI: The financial research assistant
+Meet Quill, the tool that makes financial research a breeze.
+Kartik Donepudi
+Quill AI
+15 days ago
+Embed
+https://quillai.co
+#
+ai
+#
+fintech
+#
+automation
+#
+artificial_intelligence
+TLDR:
+We let investors a) extract information from SEC filings just by asking, and b) screen stocks much faster. If you have friends in finance who want to get more sleep this week, send them to
+quillai.co
+!
+Quill AI lets you search through SEC filings and screen stocks on command. And we don’t just summarize the information - we point you right to the source, making it easy to audit the results.
+The Problem(s)
+Investors spend hours reading SEC filings looking for key bits of information to use in their models/reports.
+Existing AI info extraction tools don’t cite sources very well - making them difficult to audit. They also aren’t tuned for financial filings.
+Current stock screeners require an annoying filtering process to produce meaningful lists of investment opportunities.
+The Solution
+Quill’s web app, which lets you search for key pieces of information across financial documents in Q&A format.
+Quill’s natural language screener, which lets you ask for stocks matching your desired criteria.
+Our Ask
+If you’re an investor or you work in finance, give Quill a shot at
+quillai.com
+– we’re giving users a 7-day free trial.
+Try the tool. If you think your whole team could benefit from it, send us a message at
+founders@quillai.com
+and we’ll get you up and running.
+Thank you!
+See All Launches ›

@@ -1,0 +1,60 @@
+Home
+›
+Launches
+›
+Waveline
+24
+🌊 Waveline - The fastest way to integrate AI into your business!
+Build AI workflows in minutes, no ML experience required
+Jan Schnyder
+Waveline
+5 months ago
+Embed
+https://waveline.ai/
+#
+saas
+#
+enterprise
+#
+automation
+#
+machine_learning
+#
+artificial_intelligence
+Hi Everyone👋 , we are super excited to launch Waveline! 🤙
+📖 TLDR
+Waveline
+helps companies integrate AI into their business without any prior machine learning experience. Our customers use us to categorize e-mails and documents, interact with databases, and build custom AI pipelines.
+❌ Problem
+Unstructured data (e.g. documents, images, even audio files) is a hassle. Fortunately, recent AI technologies allow for handling such data much more efficiently, but it is a big step from validating those use cases with
+ChatGPT
+to implementing those ideas in production.
+💡 Solution
+Waveline is a flow-based tool to prototype, design, and deploy AI, no matter how much ML experience you have. You can easily integrate us into your existing codebases by calling our API with in- and outputs you define, or use the shareable web interface that we automatically generate.
+And the best thing?
+We provide production-ready hosting for you and take care of the scaling.
+For example, if you’d like to
+handle incoming customer requests
+with logic specific to your business, here is what such a flow could look like.
+📹 Video
+In this demo, we create a flow that
+extracts the important information from email orders
+, saves them as a JSON, and sends it to your database.
+😴 Backstory
+Before Waveline we built
+Generai
+, where we pioneered our own text-to-image pipeline at the very front of generative AI. We noticed how cumbersome it is to get AI products from idea to production, so our mission is to bring these learnings to everyone.
+🤠 Demo
+Want a demo? Book us on our
+Calendly
+or shoot us an e-mail at
+team@waveline.ai
+! If you’re not sure whether we’re a good fit, don’t worry — we’re happy to advise you on the call.
+🙏
+Ask
+Check us out
+at
+https://waveline.ai/
+.If you personally could benefit from our product or know someone that you think would, please contact us:
+team@waveline.ai
+See All Launches ›

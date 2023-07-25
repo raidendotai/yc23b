@@ -1,0 +1,78 @@
+Home
+›
+Launches
+›
+Pure 🪙
+17
+Pure 🪙 - Bloomberg Terminal for certified rare coins (Numismatics)
+We provide real-time pricing data & analytics to numismatists about their certified rare coins.
+Trey Benedict
+Pure 🪙
+a month ago
+Embed
+https://www.collectpure.com/
+#
+marketplace
+#
+data_science
+Hey everyone 🙂
+@Trey Benedict
+&
+@David Gordillo
+here from
+@Pure 🪙
+to talk about our recent app launch for physical certified rare coins (sorry crypto fans these are real coins).
+TL;DR:
+We have built the first aggregate index to provide the
+$11B Numismatics industry
+with real-time pricing & population data for all certified rare coins.
+Certified Coins are typically of higher value ($1k-$20m), that are authenticated and graded on a scale of 1-70 by services such as PCGS, NGC, & CAC. These are physical coins made from precious metals such as gold, silver, platinum, and palladium.
+The current state of the industry is plagued with asymmetric information, fragmented databases, and steep learning curves, causing many market inefficiencies. Pure aims to tackle these problems, and provide transparency to the industry as a whole.
+⭐️ Team
+Trey Benedict
+(CEO)
+UC Berkeley Econ + DS 23’
+10+ years of Numismatic experience at the Smithsonian, Heritage Auctions, KLRC & Tangible Investments.
+Purchased, graded, and sold over $20m worth of Rare U.S. Certified Coins.
+David Gordillo
+(CTO)
+Dropped out to pursue Pure
+Full-Stack Engineer & Security Specialist
+Sneaker Automation Developer & Collector
+Shoutout to
+Harrison Resnick
+&
+Carter Watts
+as well for being a part of the founding engineering team & being fellow collectors of Comics & Cars!
+❌ Problem & Current State of Numismatics
+Similar to sports cards, highly valuable coins are certified by third-party graders such as PCGS, NGC, and CAC. These entities authenticate the coins and assign them a condition rating, which scales from 1 to 70.
+However, due to the nature of the industry, many problems arise for participants such as encountering:
+Asymmetric Information
+of Pricing, Population, and Provenance of Certified Rare Coins.
+Fragmented Databases
+with misaligned and outdated descriptions, difficulty of navigation, and data entry errors.
+Steep Learning Curves
+in Numismatics often lead new collectors to purchase overpriced or even counterfeit Certified Rare Coins.
+✨ Solution
+Pure has created the
+first aggregate index
+of all U.S.-certified coins, with over 7+ million historical auction records across 72,000 different types of rare coin varieties.
+Simply
+Scan, Tap, or Enter
+the certificate number associated with a certified coin to be able to view all associated pricing & population data.
+Pure has created an overview for
+real-time tracking and analysis
+of coin inventories, benefiting collectors, dealers, and auction houses.
+Pure goes beyond analyzing historical data, by identifying
+valuable collector traits
+such as toning, mint luster, and eye appeal through the use of computer vision.
+How & Why Numismatics?
+We are collectors at heart, whether it be sneakers, cards, comics, or coins we have always collected something since we were young. Numismatics is a small niche community that happens to be one of the largest by market size, but the least technically involved. Over the years we have witnessed the revolution of sneakers through StockX & Goat, to sports cards, pokemon & Funko through ALT & Whatnot. It was only a matter of time before rare coins... However, we needed to catch the infrastructure of Numismatics up to speed first before diving deeper, hence this launch!
+🔦
+Asks:
+If you are Numismatist or know a friend who is: test
+here
+🙂
+Interested in learning more about Numismatics or Bullion: send us an email to
+founders@collectpure.com
+See All Launches ›
